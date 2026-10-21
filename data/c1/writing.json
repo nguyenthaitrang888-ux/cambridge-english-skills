@@ -1,0 +1,2576 @@
+{
+ "schemaVersion": 1,
+ "level": "c1",
+ "skill": "writing",
+ "title": {
+  "en": "Writing",
+  "vi": "Viết"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "c1-writing-001",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Rarely have I encountered such a well-argued proposal.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Negative adverb inversion: Rarely + have + subject + past participle.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-002",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Rarely I have seen such dedication.",
+   "answers": [
+    "Rarely have I seen such dedication."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Negative adverb at the start → inversion: Rarely have I seen…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-003",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "technology",
+   "prompt": "Your class has discussed whether governments should regulate artificial intelligence. Write an essay discussing two of the following areas and explaining which is more urgent to regulate.",
+   "promptVi": "Lớp bạn thảo luận về việc chính phủ có nên quản lý trí tuệ nhân tạo. Hãy viết bài luận bàn về hai trong các lĩnh vực sau và giải thích lĩnh vực nào cần quản lý cấp bách hơn.",
+   "points": [
+    "employment",
+    "privacy",
+    "misinformation"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Few technologies have advanced as rapidly as artificial intelligence, and legislation has struggled to keep pace. While AI raises concerns across many areas, I would argue that its impact on privacy and on the spread of misinformation demands particularly urgent attention.\n\nAs far as privacy is concerned, AI systems depend on vast quantities of personal data, much of which is collected without users' meaningful consent. Facial recognition, for instance, allows individuals to be identified and tracked in public spaces, raising profound questions about surveillance. Once such systems become embedded in everyday life, reversing them is extraordinarily difficult, which strengthens the case for setting clear limits now.\n\nMisinformation, however, poses an even more immediate threat. AI can now generate convincing text, images and even video at negligible cost, making it possible to flood the internet with fabricated content. During elections or public health emergencies, the consequences could be severe: if citizens can no longer distinguish genuine information from fabrication, trust in institutions is likely to erode. Unlike privacy violations, which typically harm individuals, misinformation can undermine democratic processes themselves.\n\nAdmittedly, regulating either area presents challenges, not least because technology companies operate across borders and overly restrictive rules might stifle innovation. Nevertheless, measures such as requiring AI-generated content to be clearly labelled would be relatively straightforward to introduce.\n\nOn balance, while both areas require attention, misinformation should be the priority. Its potential to destabilise entire societies, combined with the speed at which it spreads, means that delay could prove extremely costly.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-004",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "So severe was the storm that the ferry was cancelled.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "So + adjective + be + subject + that… (emphatic inversion).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-005",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "cities",
+   "prompt": "Your class has been discussing ways to make cities more liveable. Write an essay discussing two of the following methods and explaining which would be more effective.",
+   "promptVi": "Lớp bạn thảo luận các cách làm thành phố đáng sống hơn. Hãy viết bài luận về hai trong các biện pháp sau và giải thích biện pháp nào hiệu quả hơn.",
+   "points": [
+    "investing in public transport",
+    "creating more green spaces",
+    "building affordable housing"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "As urban populations continue to swell, the question of how to make cities pleasant places to live has become increasingly pressing. Of the various approaches proposed, investment in public transport and the creation of green spaces are frequently cited, yet their effectiveness differs in important ways.\n\nGreen spaces undoubtedly enhance urban life. Parks provide room for exercise and relaxation, help to cool cities during heatwaves and have been linked to improved mental health. In densely populated districts where residents have no gardens, a well-maintained park can be a lifeline. However, the benefits of a single park are largely confined to those who live nearby, and in many cities suitable land is scarce and extremely expensive.\n\nPublic transport, by contrast, has the potential to transform an entire city. A reliable, affordable network reduces traffic congestion and air pollution, while widening access to jobs, education and services for those who cannot afford a car. Moreover, by reducing the space devoted to roads and parking, effective public transport can actually free up land that could later be converted into green areas.\n\nIt might be objected that transport infrastructure is costly and takes years to build. This is true, yet the long-term economic and social returns tend to far outweigh the initial outlay.\n\nIn conclusion, while green spaces make an invaluable contribution to wellbeing, investment in public transport would be the more effective measure. Not only does it address a wider range of problems, but it also creates the conditions in which other improvements become possible.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-006",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "So difficult the exam was that many students failed.",
+   "answers": [
+    "So difficult was the exam that many students failed.",
+    "The exam was so difficult that many students failed."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "So + adjective at the start → inversion: So difficult was the exam…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-007",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "education",
+   "prompt": "Your class has discussed how to reduce inequality in education. Write an essay discussing two of the following approaches and explaining which would have the greater impact.",
+   "promptVi": "Lớp bạn thảo luận cách giảm bất bình đẳng trong giáo dục. Hãy viết bài luận về hai trong các cách tiếp cận sau và giải thích cách nào có tác động lớn hơn.",
+   "points": [
+    "free early-years education",
+    "better pay for teachers in disadvantaged areas",
+    "free university tuition"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Educational inequality is one of the most persistent obstacles to social mobility. Among the many proposals for addressing it, free early-years education and free university tuition attract considerable attention, though I would contend that the former is likely to achieve far more.\n\nThe argument for free university tuition is superficially compelling. High fees may deter talented students from low-income families, and removing them would seem to open doors. However, by the time students reach eighteen, the gap between rich and poor is already deeply entrenched. Many disadvantaged young people never achieve the grades required for university, so free tuition would disproportionately benefit middle-class families whose children would have attended anyway.\n\nEarly-years education, on the other hand, intervenes at the point where it can make the greatest difference. Research consistently shows that differences in vocabulary and cognitive development between children from different backgrounds emerge well before they start school. High-quality nursery provision can narrow these gaps when children's brains are most adaptable, giving them a far stronger foundation for everything that follows. It also enables parents, particularly mothers, to return to work, thereby raising family incomes.\n\nThat is not to say that higher education should be neglected; targeted grants for low-income students remain essential. Yet resources are finite, and they should be directed where their impact is greatest.\n\nUltimately, inequality is easier to prevent than to reverse. For that reason, investing in the earliest years of a child's life would have a considerably greater and longer-lasting impact than making university free for all.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-008",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Such was her talent that she won the award at seventeen.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Such + be + noun phrase + that… (emphasises degree).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-009",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Only by practising regularly you will improve.",
+   "answers": [
+    "Only by practising regularly will you improve.",
+    "You will only improve by practising regularly."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Only by + -ing at the start → inversion in the main clause: will you improve.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-010",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "environment",
+   "prompt": "Your class has been discussing actions to reduce climate change. Write an essay discussing two of the following and explaining which should be prioritised.",
+   "promptVi": "Lớp bạn thảo luận các hành động giảm biến đổi khí hậu. Hãy viết bài luận về hai trong các hành động sau và giải thích hành động nào nên ưu tiên.",
+   "points": [
+    "taxing carbon emissions",
+    "changing individual behaviour",
+    "investing in renewable energy"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "There is now broad agreement that urgent action is needed to limit climate change; what remains contested is which measures should take precedence. Two frequently discussed options are taxing carbon emissions and encouraging individuals to change their behaviour.\n\nCampaigns urging people to fly less, eat less meat or recycle more have raised awareness considerably. Individual choices undoubtedly matter, and they can shift social norms over time. Nevertheless, relying primarily on voluntary behaviour change has clear limitations. Many people lack the time, money or information to make greener choices, and even highly motivated individuals cannot avoid the emissions built into the energy systems and products around them.\n\nA carbon tax, by contrast, addresses the problem at its source. By making polluting activities more expensive, it creates a powerful incentive for businesses to cut emissions and invest in cleaner alternatives, while leaving them free to decide how best to do so. Crucially, it also influences consumers indirectly, since the price of high-carbon goods rises relative to greener ones. Critics rightly point out that such taxes can hit low-income households hardest. However, this can be offset by returning the revenue to citizens as a dividend, which in some schemes leaves poorer families better off.\n\nIn light of these considerations, carbon taxation should be the priority. Individual action is valuable, but it is most effective when supported by a system that makes sustainable choices the easiest and cheapest ones. Without such a framework, we are placing an unreasonable burden on individuals to solve a structural problem.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-011",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Only by working together will we solve this problem.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Only by + -ing → inversion in the main clause (will we solve).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-012",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "It was until midnight that I finished the essay.",
+   "answers": [
+    "It was not until midnight that I finished the essay.",
+    "It wasn't until midnight that I finished the essay."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "The structure is 'It was not until… that…'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-013",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "work",
+   "prompt": "Your class has discussed the changing nature of work. Write an essay discussing two of the following developments and explaining which will have the greater effect on society.",
+   "promptVi": "Lớp bạn thảo luận về bản chất thay đổi của công việc. Hãy viết bài luận về hai trong các xu hướng sau và giải thích xu hướng nào ảnh hưởng lớn hơn đến xã hội.",
+   "points": [
+    "remote working",
+    "automation",
+    "the gig economy"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The world of work is undergoing profound transformation, driven by technological and social change. Two developments in particular, remote working and automation, are reshaping how and where people earn their living, though their long-term consequences are likely to differ in scale.\n\nRemote working, accelerated dramatically by the pandemic, has altered daily life for millions of office workers. Freed from commuting, many enjoy greater flexibility and a better balance between work and family. Its effects extend beyond individuals: city-centre businesses that depended on commuters have suffered, while smaller towns have experienced an influx of new residents. Yet remote working remains largely confined to professional, office-based roles, so its impact is uneven across the workforce.\n\nAutomation, by contrast, has the potential to affect almost every sector. Machines and software are increasingly capable of performing not only routine manual tasks but also cognitive work once considered uniquely human, from analysing legal documents to diagnosing illnesses. While new jobs will undoubtedly emerge, the transition could displace large numbers of workers whose skills are no longer in demand, potentially widening inequality between those who can adapt and those who cannot.\n\nIt could be argued that automation has been predicted to cause mass unemployment for decades without doing so. However, the breadth of tasks that can now be automated is unprecedented.\n\nOverall, while remote working has visibly changed many people's routines, automation is likely to have the greater effect on society. Its reach is broader, and the questions it raises about employment, income and education will shape policy for generations.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-014",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "At no time did the company admit any wrongdoing.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "At no time + auxiliary + subject + verb.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-015",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "health",
+   "prompt": "Your class has discussed ways of improving public health. Write an essay discussing two of the following approaches and explaining which would be more effective.",
+   "promptVi": "Lớp bạn thảo luận cách cải thiện sức khỏe cộng đồng. Hãy viết bài luận về hai trong các cách sau và giải thích cách nào hiệu quả hơn.",
+   "points": [
+    "health education in schools",
+    "taxes on unhealthy products",
+    "free access to sports facilities"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Rising rates of obesity, diabetes and heart disease place enormous strain on healthcare systems, prompting governments to search for effective preventive measures. Health education in schools and taxes on unhealthy products represent two quite different philosophies: one seeks to inform choices, the other to reshape them.\n\nHealth education has obvious appeal. Teaching children about nutrition, exercise and mental wellbeing equips them with knowledge they can carry throughout their lives, and it respects their autonomy. However, knowledge alone rarely changes behaviour. Most adults are well aware that sugary drinks and processed food are harmful, yet consumption remains high, largely because such products are cheap, convenient and heavily marketed.\n\nTaxes on unhealthy products, on the other hand, have produced measurable results. Where levies on sugary drinks have been introduced, consumption has generally fallen, and in several cases manufacturers have reformulated their products to reduce sugar content in order to avoid the tax. In this way, the policy improves the health of people who never consciously change their habits. Opponents argue that such taxes are paternalistic and penalise poorer households. These concerns are legitimate, but they can be mitigated if the revenue is invested in subsidising healthy food or funding community health programmes.\n\nIn conclusion, education is a valuable long-term investment, but on its own it is unlikely to counteract the powerful commercial forces shaping our diets. Taxes on unhealthy products would therefore be the more effective approach, particularly if combined with educational initiatives that help people make the most of healthier options.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-016",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Having finished the report, the computer crashed.",
+   "answers": [
+    "After I had finished the report, the computer crashed.",
+    "After I finished the report, the computer crashed.",
+    "When I had finished the report, the computer crashed.",
+    "Just after I had finished the report, the computer crashed."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Dangling participle: the computer didn't finish the report. Use a full clause with the correct subject.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-017",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "culture",
+   "prompt": "Your class has discussed how governments should support the arts. Write an essay discussing two of the following and explaining which is the better use of public money.",
+   "promptVi": "Lớp bạn thảo luận cách chính phủ hỗ trợ nghệ thuật. Hãy viết bài luận về hai trong các hình thức sau và giải thích hình thức nào sử dụng ngân sách công tốt hơn.",
+   "points": [
+    "funding national museums and theatres",
+    "supporting local community arts projects",
+    "arts education in schools"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Public funding for the arts is often among the first casualties when budgets are tight, which makes it all the more important that the money available is spent wisely. Two common approaches are funding prestigious national institutions and supporting local community arts projects.\n\nNational museums and theatres play a significant role in a country's cultural life. They preserve heritage, maintain high artistic standards and attract tourists, generating revenue that benefits the wider economy. Without public support, many could not survive, since ticket sales rarely cover the full cost of world-class productions or the conservation of priceless collections.\n\nNevertheless, such institutions are typically concentrated in capital cities, and their audiences tend to be disproportionately affluent and well educated. For many people, particularly those in deprived or rural areas, these venues feel remote, both geographically and socially. Community arts projects, by contrast, bring creative activity directly into people's lives. Local theatre groups, mural projects and music workshops encourage active participation rather than passive consumption, and they have been shown to reduce isolation, build confidence and strengthen community ties.\n\nThis is not to suggest that national institutions should be abandoned. However, they are often better placed than small projects to raise money from private sponsors and international visitors.\n\nOn balance, community arts projects represent the better use of public money. They reach people who would otherwise have little access to the arts, and they deliver social benefits that extend far beyond culture itself. Public funding should, above all, ensure that the arts belong to everyone.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-018",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It was not until the results came out that we celebrated.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "It was not until… that… (cleft emphasising time).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-019",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Were the company raise prices, customers would leave.",
+   "answers": [
+    "Were the company to raise prices, customers would leave.",
+    "If the company raised prices, customers would leave.",
+    "If the company were to raise prices, customers would leave."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Inverted conditional: Were + subject + to-infinitive.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-020",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "media",
+   "prompt": "Your class has discussed the influence of the media on young people. Write an essay discussing two of the following and explaining which has the greater influence.",
+   "promptVi": "Lớp bạn thảo luận về ảnh hưởng của truyền thông tới giới trẻ. Hãy viết bài luận về hai trong các yếu tố sau và giải thích yếu tố nào có ảnh hưởng lớn hơn.",
+   "points": [
+    "social media influencers",
+    "advertising",
+    "news coverage"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Young people today are exposed to a constant stream of media messages, and concerns about how these shape their values and behaviour are widespread. Among the most frequently discussed influences are social media influencers and traditional advertising.\n\nAdvertising has long been criticised for promoting unrealistic standards and encouraging consumerism. Its techniques are sophisticated, and young people, who are still forming their identities, may be particularly susceptible. However, advertising is now widely recognised for what it is. Most teenagers understand that a television commercial is designed to sell them something, and this awareness acts as a partial defence against its persuasive power.\n\nInfluencers, on the other hand, operate in a far more subtle manner. Because they present themselves as ordinary individuals sharing their lives, their followers often perceive them as friends rather than salespeople. Recommendations feel personal and authentic, even when they are paid for. Furthermore, influencers shape not only purchasing decisions but also attitudes towards appearance, success and lifestyle. The intimacy of the relationship, combined with the sheer amount of time young people spend on social media, makes this influence difficult to resist or even recognise.\n\nIt is worth acknowledging that some influencers use their platforms positively, raising awareness of mental health or environmental issues. Nonetheless, the blurring of boundaries between personal content and commercial promotion remains deeply problematic.\n\nIn conclusion, while advertising continues to play a role, influencers exert the greater influence on young people. Their perceived authenticity is precisely what makes their messages so powerful, and so potentially harmful.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-021",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "What surprised me most was how calm everyone remained.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "What-cleft with a noun clause as the focus (how calm everyone remained).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-022",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Much as I like him, but I disagree with his decision.",
+   "answers": [
+    "Much as I like him, I disagree with his decision.",
+    "Although I like him, I disagree with his decision.",
+    "I like him, but I disagree with his decision."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Much as' already expresses contrast, so don't add 'but'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-023",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "society",
+   "prompt": "Your class has discussed ways of supporting an ageing population. Write an essay discussing two of the following and explaining which is more important.",
+   "promptVi": "Lớp bạn thảo luận cách hỗ trợ dân số già hóa. Hãy viết bài luận về hai trong các biện pháp sau và giải thích biện pháp nào quan trọng hơn.",
+   "points": [
+    "raising the retirement age",
+    "investing in elderly care",
+    "encouraging immigration"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "As life expectancy rises and birth rates fall, many countries face the challenge of supporting a growing number of older citizens with a shrinking working-age population. Raising the retirement age and investing in elderly care are two responses that are frequently debated.\n\nRaising the retirement age is often presented as an unavoidable financial necessity. People are living considerably longer than when pension systems were designed, and asking them to work a few more years would reduce pressure on public finances. Many older people are healthy and willing to continue working, and doing so can provide purpose and social contact. However, this approach is far from fair to everyone. Those in physically demanding jobs, who are often on lower incomes and have shorter life expectancies, may simply be unable to continue, and would effectively be penalised.\n\nInvestment in elderly care addresses a different but equally pressing need. As the number of people over eighty increases, so does demand for medical treatment, home support and residential care. In many countries, care systems are already overstretched, and much of the burden falls on unpaid family members, most often women, who may have to reduce their own working hours as a result. Properly funded care would therefore not only improve older people's quality of life but also enable more carers to remain in employment.\n\nWhile both measures have a role, investing in elderly care is the more important priority. Financial sustainability matters, but a society should ultimately be judged by how well it looks after those who are most vulnerable.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-024",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Having been warned about the traffic, we left early.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Perfect passive participle clause (Having been + past participle) – same subject as the main clause.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-025",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "science",
+   "prompt": "Your class has discussed how science funding should be spent. Write an essay discussing two of the following areas and explaining which should receive more funding.",
+   "promptVi": "Lớp bạn thảo luận về cách chi ngân sách cho khoa học. Hãy viết bài luận về hai trong các lĩnh vực sau và giải thích lĩnh vực nào nên được cấp nhiều kinh phí hơn.",
+   "points": [
+    "space exploration",
+    "medical research",
+    "renewable energy research"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Public funding for scientific research is limited, and decisions about how to allocate it inevitably involve difficult trade-offs. Space exploration and renewable energy research are both ambitious fields with passionate advocates, yet their claims on public money are not equally strong at present.\n\nSpace exploration captures the imagination like few other endeavours. It expands our understanding of the universe and has produced numerous technological spin-offs, from satellite navigation to advances in materials science. Furthermore, Earth-observation satellites have become indispensable for monitoring weather, agriculture and climate change. Nevertheless, many of the most expensive projects, such as crewed missions to other planets, offer few immediate practical benefits, and an increasing share of space activity is now funded by private companies.\n\nRenewable energy research, by contrast, addresses one of the most urgent challenges facing humanity. While solar and wind power have become dramatically cheaper, significant obstacles remain, particularly in storing energy efficiently and decarbonising industries such as steel and cement. Breakthroughs in these areas could accelerate the transition away from fossil fuels, reducing the severe economic and human costs of climate change. Given the timescale involved, delays in research could have consequences that are both enormous and irreversible.\n\nThis is not to dismiss the value of space science, which enriches human knowledge in ways that are difficult to quantify. However, when resources are scarce, urgency must be a key consideration.\n\nIn conclusion, renewable energy research should receive greater funding. Its potential to protect the planet we already inhabit makes it a more pressing priority than exploring those beyond it.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-026",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Difficult as it may seems, the task is possible.",
+   "answers": [
+    "Difficult as it may seem, the task is possible."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After a modal verb (may), use the base form: may seem.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-027",
+   "type": "guided",
+   "kind": "report",
+   "topic": "workplace",
+   "prompt": "Your company recently trialled flexible working hours for six months. Your manager has asked you to write a report evaluating the trial and making recommendations.",
+   "promptVi": "Công ty bạn vừa thử nghiệm giờ làm linh hoạt trong sáu tháng. Quản lý yêu cầu bạn viết báo cáo đánh giá và đưa ra đề xuất.",
+   "points": [
+    "the effect on productivity",
+    "staff reactions",
+    "recommendations for the future"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Evaluation of the Flexible Working Trial\n\nIntroduction\nThis report assesses the six-month trial of flexible working hours, which allowed staff to start work at any time between 7 a.m. and 10.30 a.m. It draws on productivity data, an anonymous staff survey completed by 112 employees and interviews with department heads.\n\nProductivity\nOverall, productivity remained stable or improved slightly in most departments. Notably, the customer service team was able to extend its hours of availability without additional staff, as early and late starters covered a longer working day. The only exception was the design team, where managers reported that coordinating meetings had become considerably more difficult.\n\nStaff reactions\nResponses were overwhelmingly positive. Eighty-four per cent of respondents said the scheme had reduced stress, with many citing shorter commutes outside peak hours and greater ease in managing childcare. Several employees, however, expressed concern that colleagues were sometimes unavailable when urgent decisions were required.\n\nRecommendations\nIn light of these findings, it is recommended that flexible hours be adopted permanently, subject to the following adjustments. Firstly, a set of core hours, perhaps from 10.30 a.m. to 3 p.m., should be introduced, during which all staff are expected to be available. Secondly, teams should agree on a shared calendar to make availability transparent. Finally, the arrangement should be reviewed annually to ensure it continues to meet both business needs and employees' expectations.\n\nConclusion\nThe trial has clearly demonstrated that flexibility can benefit staff wellbeing without compromising performance, provided that collaboration is carefully safeguarded.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-028",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not knowing what to say, she simply smiled.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Negative participle clause giving a reason (Not knowing…).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-029",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "No matter how hard is the task, we will finish it.",
+   "answers": [
+    "No matter how hard the task is, we will finish it.",
+    "No matter how hard the task, we will finish it.",
+    "However hard the task is, we will finish it."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After 'No matter how + adjective', use normal word order: the task is.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-030",
+   "type": "guided",
+   "kind": "report",
+   "topic": "education",
+   "prompt": "The principal of your college wants to improve student wellbeing. Write a report on the main sources of stress for students and how the college could address them.",
+   "promptVi": "Hiệu trưởng muốn cải thiện sức khỏe tinh thần của sinh viên. Hãy viết báo cáo về nguồn gây căng thẳng chính và cách nhà trường có thể giải quyết.",
+   "points": [
+    "academic pressure",
+    "financial worries",
+    "support services"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Report on Student Wellbeing\n\nPurpose\nThe aim of this report is to identify the principal sources of stress among students and to propose practical measures the college could take to address them. The findings are based on a survey of 250 students and discussions with the student council.\n\nAcademic pressure\nBy far the most frequently cited source of stress was the concentration of deadlines at the end of each term. Many students reported having four or five major assignments due within the same fortnight, leaving little opportunity to produce work of a high standard. Some also felt that feedback arrived too late to be useful for subsequent tasks.\n\nFinancial worries\nA significant proportion of students, particularly those living away from home, described anxiety about rising rent and living costs. Nearly a third work more than fifteen hours a week in part-time jobs, which inevitably reduces the time available for study and rest.\n\nSupport services\nAlthough the college offers a counselling service, awareness of it is surprisingly low. Of those who had used it, many praised the quality of support but complained of waiting times of up to four weeks.\n\nRecommendations\nIt is recommended that departments coordinate their assessment schedules to spread deadlines more evenly. The college should also consider expanding its hardship fund and offering more paid work on campus, which would allow students to earn money without long commutes. Finally, the counselling service should be better publicised and, if funding permits, additional staff should be recruited to reduce waiting times. Implementing these measures would demonstrate a genuine commitment to students' wellbeing.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-031",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Were the government to raise taxes, there would be protests.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Formal inverted conditional: Were + subject + to-infinitive (= If the government were to…).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-032",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Research suggests that the drug may has serious side effects.",
+   "answers": [
+    "Research suggests that the drug may have serious side effects."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Modal verb + base form: may have.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-033",
+   "type": "guided",
+   "kind": "report",
+   "topic": "tourism",
+   "prompt": "You work for the tourist office in your town. Write a report for the local council on the impact of tourism on the town and how its negative effects could be reduced.",
+   "promptVi": "Bạn làm ở văn phòng du lịch thị trấn. Hãy viết báo cáo cho hội đồng địa phương về tác động của du lịch và cách giảm tác động tiêu cực.",
+   "points": [
+    "economic benefits",
+    "problems caused by tourism",
+    "recommendations"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The Impact of Tourism on Riverside\n\nIntroduction\nThis report examines the effects of the substantial growth in tourism experienced by Riverside over the past five years and recommends measures to ensure that its benefits are sustained while its drawbacks are minimised.\n\nEconomic benefits\nTourism has undoubtedly revitalised the local economy. Visitor numbers have doubled, and the sector now supports an estimated 1,200 jobs, from hotel and restaurant staff to tour guides and craftspeople. Several shops in the old town that were on the verge of closing have reopened, and income from tourist taxes has funded the restoration of the historic bridge.\n\nProblems\nHowever, this growth has not been without cost. During the summer months, the old town becomes severely congested, particularly when coach parties arrive simultaneously. Residents have also raised concerns about the conversion of homes into short-term holiday rentals, which has pushed up rents and forced some families to move away. Litter and noise in the evenings have been the subject of frequent complaints.\n\nRecommendations\nIn order to address these issues, the following steps are recommended. Coach arrivals should be staggered through a booking system, and a park-and-ride scheme introduced on the edge of town. The council should consider limiting the number of properties that can be used as holiday rentals in residential streets. Finally, a portion of tourist tax revenue should be allocated to additional cleaning services and to marketing the town outside the peak season.\n\nConclusion\nTourism remains vital to Riverside's prosperity. With careful management, it can continue to benefit the town without undermining residents' quality of life.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-034",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Much as I admire his work, I cannot support this decision.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Much as + clause = although (concession).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-035",
+   "type": "guided",
+   "kind": "report",
+   "topic": "community",
+   "prompt": "A local charity asked volunteers to evaluate a recent community festival. Write a report describing what went well, what problems arose and how future festivals could be improved.",
+   "promptVi": "Một tổ chức từ thiện nhờ tình nguyện viên đánh giá lễ hội cộng đồng vừa qua. Hãy viết báo cáo về những điểm tốt, vấn đề phát sinh và cách cải thiện.",
+   "points": [
+    "successful aspects",
+    "problems",
+    "suggestions"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Evaluation of the Summer Community Festival\n\nIntroduction\nThe purpose of this report is to evaluate the community festival held in Central Park on 14 July, which aimed to raise funds for the local food bank and bring residents together. It is based on feedback from volunteers, stallholders and an online questionnaire completed by 180 attendees.\n\nSuccessful aspects\nThe festival exceeded expectations in several respects. Attendance reached approximately 3,000, almost double the previous year, and over £8,000 was raised for the food bank. The programme of live music by local performers was especially popular, as were the children's activities, which many parents described as the highlight of the day. The decision to feature food stalls run by different cultural groups was widely praised for reflecting the diversity of the area.\n\nProblems\nThe festival's popularity, however, created difficulties. Queues for food stalls often exceeded forty minutes, and several ran out of supplies by mid-afternoon. There were insufficient toilets and rubbish bins, leading to complaints about cleanliness. In addition, the lack of seating made the event uncomfortable for older visitors and people with disabilities.\n\nSuggestions\nShould the festival continue to grow, it will be essential to plan for larger numbers. More stalls should be recruited and advised to prepare greater quantities of food. The number of toilets and bins should be at least doubled, and a shaded seating area provided. It would also be worth introducing a volunteer team responsible solely for keeping the site clean.\n\nConclusion\nOverall, the festival was a resounding success. Addressing these practical issues would ensure that future events are equally enjoyable for everyone.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-036",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She insisted that he leaves immediately.",
+   "answers": [
+    "She insisted that he leave immediately.",
+    "She insisted that he should leave immediately.",
+    "She insisted on him leaving immediately.",
+    "She insisted on his leaving immediately."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Formal subjunctive after 'insist that': base form (leave), or 'should leave'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-037",
+   "type": "guided",
+   "kind": "report",
+   "topic": "transport",
+   "prompt": "Your local council is considering ways to encourage cycling. Write a report describing current problems for cyclists and recommending improvements.",
+   "promptVi": "Hội đồng địa phương đang cân nhắc cách khuyến khích đạp xe. Hãy viết báo cáo về vấn đề hiện tại và đề xuất cải thiện.",
+   "points": [
+    "safety concerns",
+    "facilities",
+    "recommendations"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Encouraging Cycling in Northfield\n\nIntroduction\nThis report outlines the main obstacles currently discouraging residents from cycling and recommends measures to make it a safer and more attractive option. The findings draw on a public consultation in which 430 residents participated, as well as data on road accidents over the past three years.\n\nSafety concerns\nSafety emerged as the overriding concern. Over seventy per cent of respondents said they would cycle more if they felt safer on the roads. Existing cycle lanes are frequently painted directly onto busy roads with no physical separation from traffic, and many end abruptly at junctions, which are precisely where most accidents occur. Parents in particular expressed reluctance to let their children cycle to school.\n\nFacilities\nRespondents also highlighted a shortage of secure bicycle parking, particularly at the railway station and in the town centre, where bike theft is common. Several employers do not provide showers or changing facilities, which discourages people from cycling to work.\n\nRecommendations\nIt is recommended that the council prioritise the creation of a connected network of protected cycle lanes linking residential areas with schools, the station and the town centre. Junctions with the highest accident rates should be redesigned as a matter of urgency. Secure, covered bike parking should be installed at key locations, and the council could offer grants to local businesses to provide changing facilities. A cycle training programme for children and adults would further build confidence.\n\nConclusion\nThe evidence suggests that latent demand for cycling is considerable. Were these measures introduced, a significant increase in cycling, with accompanying benefits for health and congestion, could reasonably be expected.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-038",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Tempting as it may be, you should not reply in anger.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Adjective + as + subject + may be = although it may be…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-039",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The criteria for the award has changed.",
+   "answers": [
+    "The criteria for the award have changed.",
+    "The criterion for the award has changed."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Criteria' is plural (singular: criterion).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-040",
+   "type": "guided",
+   "kind": "report",
+   "topic": "technology",
+   "prompt": "The director of your language school has asked you to write a report on how technology is used in classes and how its use could be improved.",
+   "promptVi": "Giám đốc trường ngôn ngữ yêu cầu bạn viết báo cáo về việc sử dụng công nghệ trong lớp học và cách cải thiện.",
+   "points": [
+    "current use of technology",
+    "advantages and problems",
+    "recommendations"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The Use of Technology at Lingua Language School\n\nIntroduction\nThis report examines how technology is currently used in classes and assesses its effectiveness, with a view to recommending improvements. It is based on classroom observations, a survey of 95 students and interviews with eight teachers.\n\nCurrent use\nAll classrooms are equipped with interactive whiteboards, and most teachers use them to display materials and audio. Students also have access to an online learning platform for homework and vocabulary practice. However, the extent to which technology is used varies considerably between teachers.\n\nAdvantages and problems\nStudents appreciated the online platform, which allows them to practise at their own pace and receive instant feedback. Teachers noted that video materials make lessons more engaging and expose learners to a variety of accents. Nevertheless, several problems were identified. The Wi-Fi is unreliable in the upstairs classrooms, causing frequent interruptions. Some teachers admitted that they lacked the confidence to use the whiteboards beyond their basic functions, while a number of students felt that certain lessons relied too heavily on screens at the expense of genuine conversation.\n\nRecommendations\nFirst and foremost, the Wi-Fi network should be upgraded. It is also recommended that the school organise regular training sessions so that all teachers can make full use of the available tools. Finally, technology should be viewed as a means of supporting communication rather than replacing it; teachers might agree on guidelines ensuring that each lesson includes substantial speaking practice.\n\nConclusion\nTechnology has clear benefits for learners, but its value depends on reliable infrastructure, well-trained teachers and thoughtful integration into lessons.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-041",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "No matter how hard he tried, he could not open the door.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "No matter how + adjective/adverb + clause.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-042",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Not until he apologised she forgave him.",
+   "answers": [
+    "Not until he apologised did she forgive him.",
+    "She did not forgive him until he apologised.",
+    "She didn't forgive him until he apologised."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Not until + clause at the start → inversion: did she forgive.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-043",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "community",
+   "prompt": "Your town council has invited proposals for how to use an empty building in the town centre. Write a proposal suggesting a use for the building.",
+   "promptVi": "Hội đồng thị trấn mời đề xuất sử dụng một tòa nhà bỏ trống ở trung tâm. Hãy viết đề xuất.",
+   "points": [
+    "describe your idea",
+    "explain who would benefit",
+    "outline how it could be funded and managed"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal for a Community Hub in the Former Post Office\n\nIntroduction\nThe purpose of this proposal is to suggest how the former post office on Market Street, which has stood empty for two years, could be transformed into a community hub serving residents of all ages.\n\nThe idea\nThe building's spacious ground floor would be converted into a café and co-working area, offering affordable desk space for freelancers and remote workers. The first floor would contain flexible rooms available for hire by local groups, for activities such as language classes, support groups and art workshops. A small section could also house a 'repair café', where volunteers help residents fix household items.\n\nBenefits\nThe hub would address several needs at once. Remote workers, of whom there are now many in the town, often feel isolated working from home and would benefit from a sociable place to work. Older residents would gain a welcoming space to meet, while young people would have somewhere safe to spend time after school. Furthermore, by attracting visitors to the town centre, the hub would support nearby shops, many of which have struggled in recent years.\n\nFunding and management\nInitial renovation costs could be covered by a combination of council funding and grants from national regeneration schemes. Once operational, the hub could become largely self-financing through café revenue, desk rental and room hire. I would recommend that it be run as a non-profit social enterprise, managed by a board including residents, local business owners and a council representative.\n\nConclusion\nConverting the empty building into a community hub would breathe new life into the town centre and create a genuine asset for the whole community.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-044",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Seldom does a debut novel attract such critical acclaim.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Seldom + does + subject + base verb.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-045",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "education",
+   "prompt": "Your college wants to make the campus more environmentally friendly. The principal has invited students to submit proposals. Write a proposal.",
+   "promptVi": "Trường muốn khuôn viên thân thiện với môi trường hơn. Hiệu trưởng mời sinh viên gửi đề xuất. Hãy viết đề xuất.",
+   "points": [
+    "current environmental problems",
+    "your suggestions",
+    "expected benefits"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal: Towards a Greener Campus\n\nIntroduction\nThis proposal outlines the main environmental problems on our campus and suggests practical, affordable measures to address them. It reflects the views of the Student Environment Society, which consulted over 200 students.\n\nCurrent problems\nThe campus generates a considerable amount of avoidable waste. Disposable cups and food packaging from the canteen account for much of this, and recycling bins are often contaminated because their labelling is unclear. Energy use is also high: lights and computers in many classrooms are left on overnight, and heating is frequently running in empty buildings.\n\nSuggestions\nFirstly, the canteen should introduce a discount for students who bring reusable cups and containers, alongside a small charge for disposable ones. Clearly labelled recycling stations should replace the existing bins. Secondly, motion sensors could be installed to switch off lights automatically in unoccupied rooms, and IT staff could schedule computers to shut down at the end of each day. Finally, I propose creating a student 'green team' responsible for raising awareness through events and monitoring progress.\n\nExpected benefits\nThe financial benefits alone would be substantial. Reduced energy consumption would lower the college's electricity bills, and the cost of sensors would probably be recovered within two years. Equally importantly, these measures would demonstrate the college's commitment to sustainability, which is increasingly important to prospective students when choosing where to study.\n\nConclusion\nThese proposals are realistic and inexpensive. By implementing them, the college could significantly reduce its environmental impact while setting an example for students that extends well beyond their time on campus.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-046",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Despite of the rain, the match continued.",
+   "answers": [
+    "Despite the rain, the match continued.",
+    "In spite of the rain, the match continued."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Despite' has no 'of'; 'in spite of' does.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-047",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "workplace",
+   "prompt": "Your company wants to improve communication between departments. Write a proposal for the management team.",
+   "promptVi": "Công ty muốn cải thiện giao tiếp giữa các phòng ban. Hãy viết đề xuất gửi ban quản lý.",
+   "points": [
+    "describe the current problems",
+    "suggest specific improvements",
+    "explain how success could be measured"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal for Improving Interdepartmental Communication\n\nBackground\nRecent projects have highlighted persistent communication problems between departments. The product launch in March was delayed by three weeks, largely because the marketing and technical teams were working from different timelines, and a staff survey revealed that over half of employees feel poorly informed about what other departments are doing.\n\nCurrent problems\nDepartments currently rely heavily on email, which results in important information being lost in overflowing inboxes. Teams use different project management tools, making it difficult to track progress across the company. Moreover, there are few opportunities for staff from different departments to meet informally, so misunderstandings tend to go unresolved.\n\nProposed improvements\nI propose three main changes. Firstly, the company should adopt a single project management platform, giving everyone visibility of deadlines and responsibilities on shared projects. Secondly, a brief monthly meeting should be held at which each department summarises its priorities and upcoming challenges. Thirdly, I suggest introducing a job-shadowing scheme, allowing employees to spend a day in another department. This would foster understanding of colleagues' work and pressures, and help build informal relationships.\n\nMeasuring success\nThe effectiveness of these measures could be assessed by repeating the staff survey after six months and comparing the results. In addition, the number of projects completed on schedule could be monitored, along with feedback from team leaders.\n\nConclusion\nThese changes would require only a modest investment of time and money. However, the potential rewards, in terms of efficiency, morale and the quality of our work, are considerable. I would therefore recommend introducing them on a trial basis next quarter.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-048",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "In no way is this situation acceptable.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "In no way + be + subject (inversion with be).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-049",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Little I realised how serious the situation was.",
+   "answers": [
+    "Little did I realise how serious the situation was.",
+    "Little did I realize how serious the situation was."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Little (= not at all) at the start → inversion: did I realise.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-050",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "youth",
+   "prompt": "A local foundation is offering funding for projects that help young people develop new skills. Write a proposal for a project you would like to run.",
+   "promptVi": "Một quỹ địa phương tài trợ các dự án giúp người trẻ phát triển kỹ năng mới. Hãy viết đề xuất cho dự án bạn muốn thực hiện.",
+   "points": [
+    "describe the project",
+    "explain the skills participants would gain",
+    "explain how the money would be spent"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal: The Young Reporters Project\n\nIntroduction\nThis proposal requests funding for a twelve-week project in which young people aged fifteen to eighteen would research, write and produce a monthly online magazine and podcast about issues affecting their community.\n\nThe project\nParticipants would meet twice a week after school at the youth centre. Working in small teams, they would identify local stories, interview residents, business owners and councillors, and turn their findings into articles, short videos and podcast episodes. Experienced local journalists have already agreed to run workshops and mentor the teams on a voluntary basis.\n\nSkills developed\nThe project would enable participants to develop a wide range of valuable skills. Interviewing and presenting would build their confidence and communication abilities, while researching and writing stories would sharpen their critical thinking and help them distinguish reliable information from misinformation. They would also gain practical experience of digital tools, from audio editing to website management. Perhaps most importantly, they would learn to work collaboratively towards a shared goal and meet real deadlines, which would serve them well in further education and employment.\n\nBudget\nThe majority of the funding would be spent on equipment, including microphones, cameras and editing software, which would remain available for future projects. A smaller portion would cover website hosting, travel expenses for interviews and refreshments for sessions. A detailed breakdown of costs is attached.\n\nConclusion\nThe Young Reporters Project would give young people a voice in their community while equipping them with skills for the future. I am confident that it would represent an excellent investment for the foundation.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-051",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The extent to which social media affects mood is unclear.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Noun phrase with 'the extent to which' + clause as subject.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-052",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "If I didn't miss the bus this morning, I wouldn't be late now.",
+   "answers": [
+    "If I hadn't missed the bus this morning, I wouldn't be late now.",
+    "If I had not missed the bus this morning, I would not be late now.",
+    "Had I not missed the bus this morning, I wouldn't be late now."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Mixed conditional: past condition (had not missed) → present result (wouldn't be late now).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-053",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "tourism",
+   "prompt": "The tourist board in your area wants to attract more young international visitors. Write a proposal suggesting how this could be achieved.",
+   "promptVi": "Ban du lịch khu vực bạn muốn thu hút thêm du khách quốc tế trẻ. Hãy viết đề xuất.",
+   "points": [
+    "why young visitors are currently not attracted",
+    "your ideas for attracting them",
+    "the benefits for the area"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal: Attracting Young International Visitors to the Lakes Region\n\nIntroduction\nThe aim of this proposal is to explain why the region currently attracts relatively few young international travellers and to suggest practical steps to change this.\n\nThe current situation\nAt present, the region's marketing focuses almost exclusively on older visitors and families, emphasising luxury hotels and guided coach tours. Young travellers, who typically travel on tighter budgets and seek independent, active experiences, are unlikely to see the region as relevant to them. Furthermore, budget accommodation is scarce, and public transport between villages is infrequent, making it difficult to explore without a car.\n\nRecommendations\nFirstly, the tourist board should partner with local landowners to develop affordable accommodation such as hostels and campsites. Secondly, a regional travel pass offering unlimited bus and boat travel for a fixed price would make independent exploration far easier. Thirdly, the region's outstanding opportunities for kayaking, hiking and cycling should be promoted through social media campaigns featuring young travel content creators, whose recommendations carry considerable weight with this audience. Finally, an annual outdoor music and adventure festival could raise the region's profile internationally.\n\nBenefits\nAttracting young visitors would help diversify the local economy. Unlike older tourists, who tend to visit in summer, young travellers often travel outside peak season, helping to sustain businesses throughout the year. Moreover, those who enjoy the region when young often return later in life with families of their own.\n\nConclusion\nWith modest investment, the region could become an attractive destination for a new generation of visitors, securing its long-term prosperity.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-054",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Had it not been for the volunteers, the event would have failed.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Inverted third conditional with 'it': Had it not been for… = If it hadn't been for…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-055",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "health",
+   "prompt": "Your company's director wants to improve the health of employees. Write a proposal suggesting initiatives and explaining their benefits.",
+   "promptVi": "Giám đốc công ty muốn cải thiện sức khỏe nhân viên. Hãy viết đề xuất các sáng kiến và giải thích lợi ích.",
+   "points": [
+    "current health issues among staff",
+    "your suggested initiatives",
+    "benefits for the company"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Proposal for an Employee Health Programme\n\nIntroduction\nThis proposal recommends a set of initiatives designed to improve the physical and mental health of employees. It is informed by sickness absence records and a recent staff survey.\n\nCurrent issues\nAbsence due to back problems and stress-related illness has risen steadily over the past three years. Most employees spend the majority of the day seated at their desks, frequently eating lunch in front of their screens. In the survey, nearly half reported feeling exhausted at the end of the working week, and many said they found it difficult to fit exercise into their schedules.\n\nSuggested initiatives\nI propose, first of all, that the company offer ergonomic assessments of workstations and provide adjustable desks for those who would benefit. Secondly, staff could be encouraged to take proper lunch breaks away from their desks, perhaps by creating a more attractive break area. Thirdly, the company could arrange discounted membership at a nearby gym and organise lunchtime walking groups and yoga sessions on site. Finally, a confidential counselling service should be made available to employees experiencing stress or personal difficulties.\n\nBenefits for the company\nAlthough these initiatives involve some initial expense, they are likely to prove cost-effective. Healthier employees take fewer sick days, and research suggests that workplace wellbeing programmes improve concentration and productivity. In addition, demonstrating genuine concern for staff wellbeing would strengthen loyalty and help the company attract and retain talented people.\n\nConclusion\nI would recommend introducing these measures gradually over the coming year, evaluating their impact through absence data and a follow-up survey.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-056",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The phenomena is well documented.",
+   "answers": [
+    "The phenomenon is well documented.",
+    "The phenomena are well documented."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Phenomena' is plural; the singular is 'phenomenon'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-057",
+   "type": "guided",
+   "kind": "review",
+   "topic": "book",
+   "prompt": "A literary website has invited reviews of a non-fiction book that changed the way you think. Write a review.",
+   "promptVi": "Một website văn học mời viết bài đánh giá cuốn sách phi hư cấu đã thay đổi cách bạn suy nghĩ. Hãy viết bài đánh giá.",
+   "points": [
+    "what the book is about",
+    "how it changed your thinking",
+    "whether you would recommend it and to whom"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Rethinking Progress: A Review of 'The Long View'\n\nIt is rare for a book to genuinely alter the way one sees the world, but 'The Long View' did precisely that for me. Its central argument is deceptively simple: by almost every measurable standard, from life expectancy to literacy and child mortality, human wellbeing has improved dramatically over the past two centuries, yet most of us believe things are getting worse.\n\nThe author, a statistician, builds her case meticulously, drawing on a wealth of data presented in clear, often strikingly designed charts. What elevates the book above a mere catalogue of statistics, however, is her exploration of why our perceptions are so distorted. She examines how news media, by focusing on sudden disasters rather than gradual improvements, and our own psychological bias towards negative information combine to create a persistently gloomy outlook.\n\nReading it challenged my habit of assuming the worst. I had, for instance, grossly underestimated how many children worldwide now attend school. Yet the book is far from complacent. The author is careful to stress that progress is neither inevitable nor evenly shared, and that acknowledging past achievements should encourage, rather than discourage, efforts to tackle remaining problems.\n\nIf the book has a flaw, it is that the later chapters become somewhat repetitive, and readers already familiar with the data may find little that is new.\n\nNevertheless, I would wholeheartedly recommend it, particularly to anyone who feels overwhelmed by negative news. It offers not naive optimism, but something more valuable: a sense of perspective grounded in evidence.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-058",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not once did he apologise for his behaviour.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Not once + did + subject + verb.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-059",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Such was the noise that we couldn't hear nothing.",
+   "answers": [
+    "Such was the noise that we couldn't hear anything.",
+    "Such was the noise that we could hear nothing.",
+    "Such was the noise that we could not hear anything."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Avoid a double negative: couldn't hear anything / could hear nothing.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-060",
+   "type": "guided",
+   "kind": "review",
+   "topic": "restaurant",
+   "prompt": "An international food magazine has asked readers to review a restaurant that offers an unusual dining experience. Write a review.",
+   "promptVi": "Một tạp chí ẩm thực quốc tế mời độc giả đánh giá nhà hàng mang lại trải nghiệm ăn uống độc đáo. Hãy viết bài đánh giá.",
+   "points": [
+    "what makes the experience unusual",
+    "the quality of food and service",
+    "whether it is worth the price"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Dining in the Dark: An Evening at Blind Taste\n\nThe concept behind Blind Taste is as simple as it is unsettling: diners eat their entire meal in complete darkness, guided and served by waiters who are themselves visually impaired. Having been sceptical about what I assumed would be little more than a gimmick, I left with a genuine appreciation of how profoundly sight shapes our experience of food.\n\nOn arrival, guests choose from a set menu without being told exactly what it contains, before being led in a line, hand on shoulder, into the pitch-black dining room. The initial disorientation is considerable; simply locating one's glass becomes an achievement. Yet within minutes, the other senses seem to sharpen remarkably. Conversations become more animated, and flavours, textures and aromas take on an unexpected intensity.\n\nThe food itself was, for the most part, excellent. A starter of what turned out to be beetroot and goat's cheese was delicately balanced, and the slow-cooked lamb that followed was exceptionally tender. Dessert, a passion fruit mousse, proved somewhat overly sweet. Most impressive of all, though, was the service. Our waiter, Tom, navigated the room with effortless confidence and a wonderful sense of humour, putting nervous diners at ease.\n\nAt seventy pounds per person, Blind Taste is certainly not cheap, and those who simply want a satisfying meal could eat equally well elsewhere for less. However, as an experience that challenges perceptions, both of food and of disability, it is genuinely memorable. I would recommend it for a special occasion, ideally with companions who enjoy conversation.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-061",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Only after the inquiry had finished were the documents released.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Only after + clause → inversion in the main clause (were the documents released).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-062",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Her advices were invaluable.",
+   "answers": [
+    "Her advice was invaluable."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Advice' is uncountable: no -s, singular verb.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-063",
+   "type": "guided",
+   "kind": "review",
+   "topic": "exhibition",
+   "prompt": "An arts website has invited reviews of an exhibition that dealt with an important social issue. Write a review.",
+   "promptVi": "Một website nghệ thuật mời viết bài đánh giá một triển lãm đề cập vấn đề xã hội quan trọng. Hãy viết bài đánh giá.",
+   "points": [
+    "what the exhibition was about",
+    "how effectively it communicated its message",
+    "what could have been improved"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Rising Waters: Art at the Edge of Climate Change\n\nThe City Gallery's latest exhibition brings together twenty artists from coastal communities around the world, each responding to the threat of rising sea levels. It is an ambitious undertaking, and while not every work succeeds, the exhibition as a whole leaves a lasting impression.\n\nThe opening room sets the tone powerfully. A vast installation of thousands of suspended glass droplets, gradually descending towards the floor, evokes both the beauty and the menace of water. Nearby, a series of photographs documents a fishing village in the Pacific before and after it was abandoned, the empty homes slowly reclaimed by the sea. These works communicate the human cost of climate change far more effectively than any statistics.\n\nThe exhibition's greatest strength lies in its emphasis on personal stories. Short video interviews with residents, played alongside many of the artworks, prevent the subject from becoming abstract. Particularly moving was the testimony of an elderly woman describing the graveyard where her parents are buried, now submerged at high tide.\n\nThat said, the exhibition is not without weaknesses. The later rooms feel overcrowded, and several pieces rely heavily on lengthy explanatory texts, suggesting the artwork alone does not convey its meaning. I also found myself wishing the curators had included more about how communities are adapting, which would have balanced the prevailing sense of loss with some cause for hope.\n\nThese reservations aside, 'Rising Waters' is a thought-provoking and often deeply affecting exhibition. It deserves to be seen by anyone who believes art can deepen our understanding of urgent global issues.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-064",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not only was the hotel overpriced, but it was also dirty.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Not only + be + subject…, but… also…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-065",
+   "type": "guided",
+   "kind": "review",
+   "topic": "technology",
+   "prompt": "A technology website has asked users to review a device or service they have used for at least a year. Write a review, assessing its long-term value.",
+   "promptVi": "Một website công nghệ mời người dùng đánh giá thiết bị hoặc dịch vụ đã dùng ít nhất một năm. Hãy viết bài đánh giá giá trị lâu dài của nó.",
+   "points": [
+    "what the device or service does",
+    "its strengths and weaknesses over time",
+    "whether it is worth the investment"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "A Year with an E-Reader: Worth the Switch?\n\nWhen I bought an e-reader last year, I fully expected it to end up abandoned in a drawer, as so many gadgets do. Twelve months on, it has become one of the few devices I use every single day, although my enthusiasm is not entirely unqualified.\n\nThe device's most obvious advantage is convenience. Being able to carry hundreds of books in a lightweight device has transformed travelling, and the ability to download a new title instantly is dangerously appealing. The screen, which mimics the appearance of paper, causes far less eye strain than a tablet, and the battery lasts for several weeks on a single charge. Features I initially dismissed as unnecessary, such as the built-in dictionary and adjustable font size, have proved surprisingly useful, particularly when reading in English.\n\nHowever, certain drawbacks have become more apparent over time. I find it considerably harder to flick back through an e-book to find a particular passage, and the experience of reading illustrated books or maps is distinctly inferior. More significantly, e-books are often barely cheaper than paper copies, and they cannot be lent, resold or passed on in the same way. In effect, one is buying a licence rather than owning a book outright.\n\nSo, is it worth the investment? For frequent readers and travellers, undoubtedly. The device has encouraged me to read more than I have in years. Nevertheless, I have found myself returning to printed books for anything I truly treasure. The e-reader complements, rather than replaces, a traditional bookshelf.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-066",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "It's no use to complain about it now.",
+   "answers": [
+    "It's no use complaining about it now.",
+    "It is no use complaining about it now.",
+    "There's no point complaining about it now."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "It's no use + -ing.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-067",
+   "type": "guided",
+   "kind": "review",
+   "topic": "course",
+   "prompt": "An education website has invited reviews of a course you have taken, either online or in person. Write a review for prospective students.",
+   "promptVi": "Một website giáo dục mời viết bài đánh giá khóa học bạn đã tham gia. Hãy viết bài cho học viên tương lai.",
+   "points": [
+    "the content and organisation of the course",
+    "the quality of teaching and materials",
+    "who the course would suit"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Review: 'Data Analysis for Beginners' (Online, Twelve Weeks)\n\nHaving spent most of my career avoiding spreadsheets, I enrolled on this course with a degree of trepidation. Twelve weeks later, I can confidently say it has been one of the most worthwhile investments of time I have made, though it is not without its shortcomings.\n\nThe course is logically structured, beginning with basic statistical concepts before progressing to data visualisation and an introduction to programming. Each week combines short video lectures, practical exercises using real data sets and a live online seminar. This blend works well: the videos explain concepts clearly, while the exercises ensure that knowledge is consolidated through practice rather than passively absorbed.\n\nThe quality of teaching was, on the whole, impressive. The lead tutor has a gift for making complex ideas accessible, frequently using examples drawn from everyday life. Questions posted in the discussion forum were usually answered within a day. The materials, however, were less consistent. Several exercises contained errors, and the programming section felt rushed, leaving many participants struggling to keep up. It would benefit from being extended by at least two weeks.\n\nThe course would particularly suit professionals who need to interpret data in their work but have little mathematical background. It requires a substantial commitment of around eight hours a week, so those with demanding schedules should plan accordingly. Anyone with prior programming experience, by contrast, may find the early weeks rather slow.\n\nOverall, despite some flaws, I would strongly recommend the course. It has given me not only practical skills but also the confidence to approach data without fear.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-068",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "So much did the audience enjoy the play that its run was extended.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "So much + did + subject + verb + that… (emphatic inversion).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-069",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Scarcely the meeting had started when the alarm went off.",
+   "answers": [
+    "Scarcely had the meeting started when the alarm went off."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Scarcely + had + subject + past participle… when…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-070",
+   "type": "guided",
+   "kind": "review",
+   "topic": "film",
+   "prompt": "A film website is publishing reviews of films adapted from books. Write a review comparing a film with the book it is based on.",
+   "promptVi": "Một website phim đăng bài đánh giá phim chuyển thể từ sách. Hãy viết bài so sánh bộ phim với cuốn sách gốc.",
+   "points": [
+    "briefly describe the story",
+    "compare the film and the book",
+    "say which you prefer and why"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "From Page to Screen: 'The Lighthouse Keeper's Daughter'\n\nAdapting a much-loved novel for the screen is a notoriously risky undertaking, and expectations for this film were extraordinarily high. The result is a visually stunning adaptation that captures much of the book's atmosphere, even if it inevitably sacrifices some of its depth.\n\nThe story follows Ellen, a young woman who returns to the remote island where she grew up after her father's death, only to uncover letters revealing a secret he kept for forty years. Alternating between the present and her father's youth, the narrative gradually pieces together a story of loyalty, loss and an impossible choice.\n\nVisually, the film is superb. The windswept landscapes and the brooding lighthouse convey the isolation of island life more powerfully than words ever could, and the performances, particularly that of the actor playing the young father, are subtle and convincing. Where the film falls short, however, is in its treatment of Ellen's inner life. In the novel, her reflections, revealed through a first-person narrative, are the emotional heart of the story. On screen, they are reduced to occasional voice-overs, and her transformation consequently feels abrupt. Several secondary characters have also been removed entirely, which simplifies the plot but loses some of its richness.\n\nUltimately, I prefer the book. Its slow, introspective pace allows the reader to inhabit Ellen's thoughts in a way that the film, constrained by its two-hour running time, cannot replicate. Nonetheless, the adaptation stands as a beautiful work in its own right and may well encourage viewers to discover the novel for themselves.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-071",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Should the situation deteriorate, staff will be evacuated.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Should + subject + base verb = If the situation deteriorates (formal).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-072",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'd rather you will not mention it to anyone.",
+   "answers": [
+    "I'd rather you didn't mention it to anyone.",
+    "I would rather you didn't mention it to anyone.",
+    "I'd rather you did not mention it to anyone."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "would rather + another subject + past simple.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-073",
+   "type": "guided",
+   "kind": "article",
+   "topic": "lifestyle",
+   "prompt": "An international magazine has asked readers to contribute articles on the topic 'The art of slowing down'. Write an article.",
+   "promptVi": "Một tạp chí quốc tế mời độc giả viết bài về chủ đề 'Nghệ thuật sống chậm'. Hãy viết bài báo.",
+   "points": [
+    "why modern life feels so fast",
+    "the benefits of slowing down",
+    "practical suggestions"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The Art of Slowing Down\n\nWhen did you last do just one thing at a time? Not eat lunch while answering emails, or watch a film while scrolling through your phone, but give your undivided attention to a single activity? If you struggle to remember, you are far from alone.\n\nModern life seems to have accelerated to a dizzying pace. Technology, which promised to save us time, has instead filled every spare moment with notifications, messages and endless content. We are constantly reachable, perpetually busy and, paradoxically, often less productive than ever. Busyness has become a badge of honour; admitting that we have free time can almost feel like a confession of failure.\n\nYet there is growing evidence that slowing down brings genuine benefits. Concentrating on one task at a time tends to produce better work in less time, since switching between activities carries a hidden cost. Unhurried meals improve digestion, and time spent simply walking or daydreaming allows the mind to process experiences and generate creative ideas. Perhaps most importantly, slowing down enables us to notice and appreciate the small pleasures that make life meaningful.\n\nSo how can we reclaim a more measured pace? Start small. Leave your phone in another room during meals, or designate one evening a week as screen-free. Walk rather than drive for short journeys. Before agreeing to a new commitment, ask yourself whether it truly matters to you. And occasionally, allow yourself to do absolutely nothing at all.\n\nSlowing down is not about doing less for its own sake. It is about choosing, deliberately, what deserves our time, and giving it the attention it deserves.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-074",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Given that prices are rising, demand is likely to fall.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Given that' introduces a known fact used as a reason.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-075",
+   "type": "guided",
+   "kind": "article",
+   "topic": "work",
+   "prompt": "A careers magazine has invited articles with the title 'What I wish I'd known before starting my first job'. Write an article.",
+   "promptVi": "Một tạp chí hướng nghiệp mời viết bài với tiêu đề 'Điều tôi ước mình biết trước khi đi làm công việc đầu tiên'. Hãy viết bài báo.",
+   "points": [
+    "your expectations before starting work",
+    "what you learned",
+    "advice for young people"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "What I Wish I'd Known Before Starting My First Job\n\nOn my first day as a junior marketing assistant, I arrived convinced that success depended on one thing: proving how clever I was. I had excellent grades and a head full of theories, and I assumed my new colleagues would be suitably impressed. It took me the best part of a year to realise how mistaken I had been.\n\nThe first lesson was that asking questions is a strength, not a weakness. Terrified of appearing incompetent, I would spend hours struggling with tasks that a colleague could have explained in five minutes. When I eventually confessed my confusion to my manager, she was baffled that I hadn't simply asked. Experienced professionals, I discovered, generally respect curiosity far more than pretended knowledge.\n\nThe second lesson concerned relationships. At university, my results depended largely on my own efforts. At work, almost everything depends on cooperation. The receptionist, the IT technician and the colleague in accounts are not obstacles to be navigated but people whose goodwill can make your job immeasurably easier. Taking time to get to know them was one of the best investments I ever made.\n\nFinally, I learned that it is perfectly acceptable not to have your entire career mapped out. I had imagined my first job as the first step on a fixed ladder; in fact, it was the beginning of a winding path that has taken me in directions I could never have predicted.\n\nMy advice, then, to anyone starting out? Listen more than you speak, value every colleague, and don't be afraid to admit what you don't know. Competence will follow.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-076",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The committee has reached it's decision.",
+   "answers": [
+    "The committee has reached its decision.",
+    "The committee have reached their decision."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Possessive 'its' has no apostrophe (it's = it is).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-077",
+   "type": "guided",
+   "kind": "article",
+   "topic": "technology",
+   "prompt": "A technology magazine is running a series called 'Living with machines'. Write an article about how one piece of technology has changed daily life, for better or worse.",
+   "promptVi": "Một tạp chí công nghệ có loạt bài 'Sống cùng máy móc'. Hãy viết bài về việc một công nghệ đã thay đổi cuộc sống hằng ngày, tốt hay xấu.",
+   "points": [
+    "the technology and how it is used",
+    "its positive effects",
+    "its negative effects and your overall view"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The Map in Our Pocket\n\nThere was a time, not so long ago, when getting lost was an ordinary part of life. Travellers unfolded paper maps on car bonnets, asked strangers for directions and occasionally ended up somewhere entirely unexpected. Today, thanks to satellite navigation on our smartphones, such experiences have become almost unthinkable.\n\nThe benefits are undeniable. Navigation apps guide us through unfamiliar cities with astonishing accuracy, suggest faster routes to avoid traffic and estimate arrival times to the minute. For delivery drivers and emergency services, the technology has transformed efficiency; for nervous travellers, it has removed a major source of anxiety. It has even made exploration more accessible, encouraging people to venture into places they might once have avoided for fear of getting lost.\n\nYet this convenience may come at a subtle cost. Research suggests that people who rely heavily on navigation apps develop a weaker mental map of their surroundings, since they no longer need to pay attention to landmarks or remember routes. We follow the blue dot obediently, eyes fixed on the screen, often barely noticing the streets we pass through. Something is also lost in the decline of asking for directions, which once prompted countless small encounters with strangers.\n\nOn balance, few of us would willingly return to the days of paper maps, and I am certainly not among them. However, it may be worth occasionally switching off the app, looking around and trusting our own sense of direction. Getting a little lost, after all, can sometimes lead us exactly where we need to be.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-078",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "But for your advice, I would have made a terrible mistake.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "But for + noun = If it hadn't been for…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-079",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Neither the manager nor the employees was informed.",
+   "answers": [
+    "Neither the manager nor the employees were informed."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "With neither… nor…, the verb agrees with the nearer subject (employees → were).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-080",
+   "type": "guided",
+   "kind": "article",
+   "topic": "education",
+   "prompt": "A website for students has asked for articles on the topic 'Is failure the best teacher?' Write an article giving your views.",
+   "promptVi": "Một website dành cho sinh viên mời viết bài về chủ đề 'Thất bại có phải người thầy tốt nhất?'. Hãy viết bài nêu quan điểm.",
+   "points": [
+    "why failure is often feared",
+    "what failure can teach",
+    "when failure is not helpful"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "Is Failure the Best Teacher?\n\nWe are often told that failure is the key to success. Inventors celebrate their thousands of unsuccessful prototypes, and entrepreneurs proudly recount the businesses that collapsed before their breakthrough. Yet for most students, failure feels less like a valuable lesson and more like a disaster to be avoided at all costs.\n\nThis fear is hardly surprising. From an early age, we are judged by grades and test scores, and mistakes are marked in red. In a competitive education system, a single poor result can seem to close doors permanently. It is no wonder that many students choose safe options rather than risk falling short.\n\nAnd yet, failure can teach lessons that success rarely does. When something goes wrong, we are forced to analyse why, to question our assumptions and to try a different approach. I learned far more from the essay that received my lowest grade than from any of my best, because it made me confront weaknesses I had been ignoring. Failure also builds resilience: discovering that we can recover from setbacks makes us more willing to take on challenges in future.\n\nHowever, the idea that failure is always beneficial can be misleading. Failure teaches only when it is followed by reflection and support. Repeated failure without guidance, by contrast, tends to erode confidence and motivation rather than building them.\n\nSo is failure the best teacher? Perhaps not on its own. But combined with honest reflection and encouragement, it can be one of the most powerful teachers we have. The real challenge for schools is to create environments in which it is safe to fail.",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-081",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It is not the cost but the time that concerns me.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "It-cleft with contrast: It is not X but Y that…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-082",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He is reputed to be won several awards.",
+   "answers": [
+    "He is reputed to have won several awards."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Passive reporting about the past: is reputed + to have + past participle.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-083",
+   "type": "guided",
+   "kind": "article",
+   "topic": "environment",
+   "prompt": "An environmental magazine has invited articles describing a small change that could make a big difference. Write an article.",
+   "promptVi": "Một tạp chí môi trường mời viết bài mô tả một thay đổi nhỏ có thể tạo ra khác biệt lớn. Hãy viết bài báo.",
+   "points": [
+    "describe the change",
+    "explain its potential impact",
+    "explain why more people don't make it and how to encourage them"
+   ],
+   "minWords": 220,
+   "sampleAnswer": "The Power of Repair\n\nWhen the zip on my favourite jacket broke last winter, my first instinct was to throw it away and buy a new one. It was cheaper, quicker and, frankly, what everybody does. Instead, on a friend's recommendation, I took it to a local repair café. Twenty minutes and a few pounds later, it was as good as new. That small decision has changed the way I think about everything I own.\n\nRepairing rather than replacing might seem trivial, but its potential impact is considerable. The manufacture of clothes, electronics and household goods accounts for a substantial share of global carbon emissions, and millions of tonnes of usable items end up in landfill every year. Extending the life of products by even a year or two significantly reduces the demand for new ones, along with the resources and energy required to produce them.\n\nSo why don't more of us repair things? Partly, it is a matter of skills: many people have simply never learned how. Products are also increasingly designed in ways that make repair difficult, with glued components and a lack of spare parts. And, perhaps most importantly, a culture of cheap, disposable goods has made replacing things feel normal.\n\nFortunately, attitudes are beginning to shift. Repair cafés, where volunteers help people fix their belongings for free, are spreading rapidly, and several governments have introduced 'right to repair' laws requiring manufacturers to supply spare parts. Each of us can contribute by learning basic repair skills and choosing durable products.\n\nThe next time something breaks, before reaching for your wallet, ask yourself: could this be fixed?",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-084",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Hardly a day goes by without a new scandal.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Hardly a day goes by without… = almost every day…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-085",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "job application",
+   "prompt": "You have seen an advertisement for a position as a project coordinator at an international development organisation. Write a letter of application.",
+   "promptVi": "Bạn thấy quảng cáo tuyển điều phối viên dự án tại một tổ chức phát triển quốc tế. Hãy viết thư xin việc.",
+   "points": [
+    "explain why you are interested in the position",
+    "describe your relevant experience and skills",
+    "explain what you would bring to the organisation"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Ms Adeyemi,\n\nI am writing to apply for the position of Project Coordinator, as advertised on your organisation's website. Having followed your work on rural education programmes for several years, I would welcome the opportunity to contribute to an organisation whose values I share so strongly.\n\nI hold a master's degree in international development and have spent the past three years working as an assistant project manager for a non-profit organisation in the Mekong Delta. In this role, I coordinated a teacher-training initiative involving twenty-five schools, managing a budget of over two hundred thousand dollars and liaising with local authorities, donors and community leaders. Through this experience, I developed strong skills in planning, monitoring and reporting, as well as the ability to adapt quickly when circumstances changed unexpectedly.\n\nI believe I could bring particular value to your team through my understanding of the challenges involved in implementing projects in rural communities. I am fluent in English and Vietnamese and have a working knowledge of French, which would be useful in your West African programmes. Colleagues have frequently commented on my ability to build trust with stakeholders from diverse backgrounds.\n\nI would be delighted to discuss my application further at an interview and can be available at short notice. Please find my CV attached.\n\nYours sincerely,\nNguyen Thi Lan",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-086",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "On no account you should press this button.",
+   "answers": [
+    "On no account should you press this button."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "On no account at the start → inversion: should you press.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-087",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "complaint",
+   "prompt": "A recent renovation of your local train station has made it difficult for people with limited mobility to use. Write a letter to the railway company.",
+   "promptVi": "Việc cải tạo nhà ga địa phương gần đây gây khó khăn cho người đi lại hạn chế. Hãy viết thư gửi công ty đường sắt.",
+   "points": [
+    "describe the problems",
+    "explain who is affected and how",
+    "say what action you expect"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Sir or Madam,\n\nI am writing to express my serious concern regarding the recent renovation of Westbrook station, which, despite its modern appearance, has made the station considerably less accessible for passengers with limited mobility.\n\nPrior to the renovation, step-free access was available to both platforms via a ramp. This has now been replaced by a staircase, and the lift that was promised in your publicity materials has yet to be installed. Furthermore, the new ticket machines are positioned at a height that makes them extremely difficult for wheelchair users to operate, and there is no longer a staffed ticket office.\n\nThe consequences have been significant. My elderly mother, who uses a walking frame, can no longer travel from the station independently, and I am aware of several wheelchair users in the area who now face a forty-minute journey to the next accessible station. Parents with pushchairs and travellers with heavy luggage are also affected.\n\nI would therefore ask you to confirm, as a matter of urgency, when the lift will be operational. In the meantime, I would expect a temporary solution to be provided, such as staff assistance or an accessible taxi service at no extra cost. I would also urge you to consult disability organisations before undertaking future renovations.\n\nI look forward to receiving your response.\n\nYours faithfully,\nTran Minh Duc",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-088",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The more I think about it, the less convinced I am.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Comparative correlative: The more…, the less…",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-089",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Not only the plan was expensive, but it was also impractical.",
+   "answers": [
+    "Not only was the plan expensive, but it was also impractical.",
+    "Not only was the plan expensive, it was also impractical."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Not only at the start → inversion: was the plan.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-090",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "newspaper",
+   "prompt": "Your local newspaper published an article claiming that young people today are less hard-working than previous generations. Write a letter to the editor responding to the article.",
+   "promptVi": "Báo địa phương đăng bài cho rằng giới trẻ ngày nay kém chăm chỉ hơn các thế hệ trước. Hãy viết thư gửi tổng biên tập để phản hồi.",
+   "points": [
+    "say why you disagree",
+    "give evidence or examples",
+    "suggest a more balanced view"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Editor,\n\nI read with some frustration last week's article, 'The Lazy Generation', which claimed that today's young people lack the work ethic of their parents and grandparents. While I appreciate that the writer was expressing a personal opinion, I feel the article presented a deeply unfair picture.\n\nFirstly, the evidence simply does not support such a sweeping claim. Many young people today combine full-time study with part-time jobs in order to cope with rising tuition fees and living costs. Others work in insecure, short-term contracts, often for several employers at once, with none of the job security previous generations enjoyed. Far from being lazy, they frequently work harder for less reward.\n\nSecondly, young people are making significant contributions in areas the article overlooked entirely. In our own town, it was teenagers who organised the river clean-up last spring, and young volunteers run much of the weekend food bank.\n\nWhat may have changed is not young people's willingness to work, but their attitude towards it. Many are unwilling to sacrifice their mental health for the sake of their careers and value flexibility and meaningful work. Rather than regarding this as laziness, we might view it as a reasonable response to lessons learned from older generations.\n\nGeneralisations about any age group are rarely accurate. I hope future articles will offer a more balanced perspective.\n\nYours faithfully,\nPham Thu Ha",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-091",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not that I mind, but why did you change the plan?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Not that…' reduces the force of what follows (I don't mind, but…).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-092",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The reason is because the funding was cut.",
+   "answers": [
+    "The reason is that the funding was cut.",
+    "The reason is the funding was cut."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'The reason is because' is redundant; use 'The reason is that…'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-093",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "recommendation",
+   "prompt": "A former colleague has applied for a management position and asked you to write a letter of reference. Write the letter to the hiring company.",
+   "promptVi": "Một đồng nghiệp cũ ứng tuyển vị trí quản lý và nhờ bạn viết thư giới thiệu. Hãy viết thư gửi công ty tuyển dụng.",
+   "points": [
+    "explain how you know the candidate",
+    "describe their skills and qualities with examples",
+    "explain why they would be suitable for a management role"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Mr Hoffmann,\n\nI am writing to recommend Ms Vo Thi Mai for the position of Operations Manager at your company. I was Ms Vo's line manager at Delta Logistics for four years, during which time she progressed from logistics coordinator to senior team leader.\n\nThroughout this period, Ms Vo consistently demonstrated exceptional organisational and problem-solving abilities. When a major supplier unexpectedly went out of business in 2022, she devised and implemented an alternative supply plan within a week, ensuring that our clients experienced no delays. She also led a project to streamline our warehouse procedures, which reduced processing times by almost twenty per cent.\n\nWhat distinguishes Ms Vo, however, is not only her technical competence but also her ability to motivate others. As a team leader, she created an environment in which colleagues felt comfortable raising concerns and suggesting improvements, and staff turnover in her team was the lowest in the department. She handles conflict calmly and fairly, and she is always willing to support less experienced colleagues.\n\nGiven her combination of strategic thinking, reliability and interpersonal skills, I am confident that Ms Vo would excel in a management role. She would be a tremendous asset to your organisation.\n\nPlease do not hesitate to contact me should you require any further information.\n\nYours sincerely,\nDaniel Brooks\nRegional Director, Delta Logistics",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-094",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "On no account should the patient be left alone.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "On no account + should + subject + passive infinitive.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-095",
+   "type": "guided",
+   "kind": "email",
+   "topic": "professional",
+   "prompt": "You organised an international conference that experienced several problems. Write an email to the participants apologising and explaining what will be done differently next year.",
+   "promptVi": "Bạn tổ chức một hội nghị quốc tế gặp nhiều trục trặc. Hãy viết email xin lỗi người tham dự và giải thích những điều sẽ thay đổi năm tới.",
+   "points": [
+    "acknowledge the problems",
+    "explain the causes",
+    "describe planned improvements"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Participants,\n\nThank you once again for attending this year's International Education Forum. While we were delighted by the quality of the presentations and discussions, we are well aware that several aspects of the event fell short of the standards you were entitled to expect, and I would like to apologise sincerely on behalf of the organising committee.\n\nIn particular, many of you experienced lengthy queues at registration on the first morning, and a number of sessions started late as a result. We also received numerous complaints about the poor Wi-Fi connection and the fact that two of the workshop rooms were too small for the number of attendees.\n\nHaving reviewed the event, we have identified the main causes. Registration numbers were almost forty per cent higher than anticipated, and our booking system did not alert us early enough to adjust our arrangements. In addition, the venue's network was not designed to support such a large number of devices.\n\nFor next year's forum, we will introduce online pre-registration with digital badges, which should eliminate queues almost entirely. We have also secured a larger venue with a dedicated high-speed network, and workshops will require advance booking so that room sizes can be matched to demand.\n\nWe greatly value your feedback and hope to welcome you again next year.\n\nKind regards,\nLe Van Hoang\nConference Coordinator",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-096",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Whom do you think will win the election?",
+   "answers": [
+    "Who do you think will win the election?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Who' is the subject of 'will win', so use 'who', not 'whom'.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-097",
+   "type": "guided",
+   "kind": "email",
+   "topic": "advice",
+   "prompt": "A friend from another country is considering moving to your city to study and has asked for your honest advice. Write an email.",
+   "promptVi": "Một người bạn nước ngoài đang cân nhắc chuyển đến thành phố bạn để học và nhờ bạn khuyên thật lòng. Hãy viết email.",
+   "points": [
+    "the advantages of living in your city",
+    "the challenges they might face",
+    "practical advice for settling in"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Hi Sofia,\n\nIt was lovely to hear from you, and I'm thrilled you're thinking of coming to Hanoi! You asked for an honest picture, so here it is – the good, the bad and the chaotic.\n\nLet's start with the positives. The cost of living is considerably lower than in most European cities, so your scholarship would stretch much further than you might expect. The food is incredible and astonishingly cheap, and there's always something going on, from street festivals to live music. People are generally warm and welcoming towards foreigners, especially if you make an effort with a few words of Vietnamese.\n\nThat said, it isn't always easy. The traffic is genuinely overwhelming at first, and crossing the road requires a certain amount of courage. The summers are extremely hot and humid, and air pollution can be quite bad in winter. You might also find the language barrier frustrating outside the city centre, as English isn't widely spoken everywhere.\n\nMy advice would be to find accommodation within walking or cycling distance of the university, so you're not dependent on motorbikes from day one. Take a basic Vietnamese course before you arrive – even a little goes a long way. And join some university clubs early on; they're the quickest way to make friends.\n\nIf you do decide to come, you'll have a guaranteed tour guide in me! Let me know if you have any other questions.\n\nLots of love,\nLinh",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-098",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Strange though it may seem, I actually enjoy exams.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Adjective + though + subject + may seem (concession).",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-099",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Less people attended the conference this year.",
+   "answers": [
+    "Fewer people attended the conference this year."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use 'fewer' with countable plural nouns, 'less' with uncountable nouns.",
+   "skill": "writing",
+   "level": "c1"
+  },
+  {
+   "id": "c1-writing-100",
+   "type": "guided",
+   "kind": "email",
+   "topic": "request",
+   "prompt": "You are a member of a sports club whose facilities have deteriorated. Write an email to the club committee requesting improvements.",
+   "promptVi": "Bạn là thành viên một câu lạc bộ thể thao có cơ sở vật chất xuống cấp. Hãy viết email gửi ban điều hành đề nghị cải thiện.",
+   "points": [
+    "describe the problems with the facilities",
+    "explain the effect on members",
+    "suggest improvements and how they might be funded"
+   ],
+   "minWords": 200,
+   "sampleAnswer": "Dear Committee Members,\n\nI am writing on behalf of a group of members to raise our concerns about the condition of the club's facilities, which has deteriorated noticeably over the past year.\n\nThe most pressing issue concerns the changing rooms. Several showers no longer work properly, the heating is unreliable, and a number of lockers have broken locks, which has led to at least two thefts. In addition, the surface of the second tennis court has become uneven and slippery after rain, and the floodlights frequently fail during evening sessions.\n\nThese problems are having a significant impact on members. Several people have told me they are reluctant to renew their membership, and attendance at evening training has fallen considerably. More seriously, the condition of the court poses a genuine risk of injury, which could also expose the club to liability.\n\nWe would therefore like to propose that repairs to the changing rooms and the court be treated as a priority. To help fund these improvements, the club could organise a fundraising tournament open to non-members, apply for a grant from the city's community sports fund, or introduce a modest, temporary increase in membership fees. Many members have indicated that they would be willing to pay slightly more if they could see a clear improvement in facilities.\n\nWe would be grateful if this matter could be discussed at the next committee meeting, and we would be happy to help in any way.\n\nKind regards,\nBui Quang Huy",
+   "checklist": [
+    {
+     "en": "I addressed every part of the task and evaluated ideas rather than just listing them.",
+     "vi": "Mình trả lời đầy đủ mọi phần của đề và đánh giá ý tưởng thay vì chỉ liệt kê."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (C1 target: about 220–260).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu C1: khoảng 220–260 từ)."
+    },
+    {
+     "en": "My argument develops logically, with a clear position and a conclusion that follows from it.",
+     "vi": "Lập luận phát triển logic, có quan điểm rõ ràng và kết luận phù hợp."
+    },
+    {
+     "en": "I used a wide range of structures accurately (inversion, cleft sentences, participle clauses, concession: Much as…, Admittedly…).",
+     "vi": "Mình dùng chính xác nhiều cấu trúc đa dạng (đảo ngữ, câu chẻ, mệnh đề phân từ, nhượng bộ: Much as…, Admittedly…)."
+    },
+    {
+     "en": "I used precise, sophisticated vocabulary and collocations (e.g. address the root causes, far-reaching consequences) without repetition.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tinh tế (vd. address the root causes, far-reaching consequences), không lặp từ."
+    },
+    {
+     "en": "My tone and register are consistent and persuasive for the target reader.",
+     "vi": "Giọng văn và văn phong nhất quán, thuyết phục đối với người đọc mục tiêu."
+    },
+    {
+     "en": "My opening states my purpose clearly, the closing requests or confirms action, and the salutation and sign-off match the reader and level of formality.",
+     "vi": "Phần mở đầu nêu rõ mục đích, phần kết đề nghị hoặc xác nhận hành động, lời chào và ký tên phù hợp với người đọc và mức độ trang trọng."
+    }
+   ],
+   "skill": "writing",
+   "level": "c1"
+  }
+ ]
+}

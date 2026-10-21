@@ -1,0 +1,3154 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "listening",
+ "title": {
+  "en": "Listening",
+  "vi": "Nghe"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-listening-001",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-01",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "So, how did the interview go?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Better than I expected, actually. I was really nervous beforehand, but the manager was friendly, and she mostly asked about my previous experience."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Did they say when you'd hear from them?"
+    },
+    {
+     "speaker": "Man",
+     "text": "By the end of next week. The only thing that worries me is that the job would mean moving to Da Nang."
+    }
+   ],
+   "question": "How did the interview go, according to the man?",
+   "options": [
+    "He was too nervous to speak.",
+    "The manager was unfriendly.",
+    "Better than he had expected",
+    "It was much too long."
+   ],
+   "answer": 2,
+   "explanation": "'Better than I expected, actually.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-002",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-01",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "So, how did the interview go?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Better than I expected, actually. I was really nervous beforehand, but the manager was friendly, and she mostly asked about my previous experience."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Did they say when you'd hear from them?"
+    },
+    {
+     "speaker": "Man",
+     "text": "By the end of next week. The only thing that worries me is that the job would mean moving to Da Nang."
+    }
+   ],
+   "question": "What worries the man about the job?",
+   "options": [
+    "The salary is too low.",
+    "He might never hear from them.",
+    "He doesn't have enough experience.",
+    "He might have to move to another city."
+   ],
+   "answer": 3,
+   "explanation": "'…the job would mean moving to Da Nang.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-003",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-02",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Good afternoon, passengers. Flight VN two five four to Singapore, which was due to depart at fourteen thirty, is now delayed until sixteen fifteen because of a technical problem. Passengers can collect a meal voucher from the information desk near gate twelve. We apologise for any inconvenience."
+    }
+   ],
+   "question": "Why is the flight delayed?",
+   "options": [
+    "The weather is bad.",
+    "There is a technical problem.",
+    "The airport is too busy.",
+    "The crew is late."
+   ],
+   "answer": 1,
+   "explanation": "'…delayed until sixteen fifteen because of a technical problem.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-004",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-02",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Good afternoon, passengers. Flight VN two five four to Singapore, which was due to depart at fourteen thirty, is now delayed until sixteen fifteen because of a technical problem. Passengers can collect a meal voucher from the information desk near gate twelve. We apologise for any inconvenience."
+    }
+   ],
+   "question": "What can passengers get at the information desk?",
+   "options": [
+    "A new ticket",
+    "A full refund",
+    "A hotel room",
+    "A voucher for a meal"
+   ],
+   "answer": 3,
+   "explanation": "'Passengers can collect a meal voucher from the information desk.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-005",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "b1-ls-03",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "We need to choose a topic for our geography project. What about climate change?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "Everyone's doing that. What about something more local, like how our city's water supply works?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's interesting, but where would we find the information?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "My uncle works for the water company. I'm sure he'd let us interview him."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Perfect. Let's do that, then."
+    }
+   ],
+   "question": "Why doesn't the boy want to do climate change?",
+   "options": [
+    "Too many other students have chosen it.",
+    "It's too difficult.",
+    "The teacher doesn't like it.",
+    "There isn't enough information."
+   ],
+   "answer": 0,
+   "explanation": "'Everyone's doing that.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-006",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "b1-ls-03",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "We need to choose a topic for our geography project. What about climate change?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "Everyone's doing that. What about something more local, like how our city's water supply works?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's interesting, but where would we find the information?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "My uncle works for the water company. I'm sure he'd let us interview him."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Perfect. Let's do that, then."
+    }
+   ],
+   "question": "How will they get their information?",
+   "options": [
+    "By asking their teacher",
+    "By visiting the library",
+    "By searching online",
+    "By interviewing the boy's uncle"
+   ],
+   "answer": 3,
+   "explanation": "'My uncle works for the water company… he'd let us interview him.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-007",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-04",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "So you've been having headaches for about two weeks?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "That's right, mostly in the afternoons. I've been working long hours on the computer for a big project."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Are you drinking enough water?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "Probably not. I mostly drink coffee."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "I'd suggest taking regular breaks from the screen and cutting down on coffee. If the headaches continue for another week, come back and see me."
+    }
+   ],
+   "question": "When does the patient usually get headaches?",
+   "options": [
+    "After meals",
+    "In the afternoon",
+    "At night",
+    "In the morning"
+   ],
+   "answer": 1,
+   "explanation": "'…mostly in the afternoons.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-008",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-04",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "So you've been having headaches for about two weeks?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "That's right, mostly in the afternoons. I've been working long hours on the computer for a big project."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Are you drinking enough water?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "Probably not. I mostly drink coffee."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "I'd suggest taking regular breaks from the screen and cutting down on coffee. If the headaches continue for another week, come back and see me."
+    }
+   ],
+   "question": "What does the doctor advise?",
+   "options": [
+    "Stopping work for two weeks",
+    "Taking breaks and drinking less coffee",
+    "Going to hospital",
+    "Taking strong medicine"
+   ],
+   "answer": 1,
+   "explanation": "'…taking regular breaks from the screen and cutting down on coffee.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-009",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-05",
+   "script": [
+    {
+     "speaker": "Customer",
+     "text": "Hello, I bought this jacket online last week, but when it arrived, one of the zips was broken."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "I'm sorry about that. Would you like a replacement or a refund?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "I'd prefer a replacement, but in a larger size if possible. The medium was a bit tight."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "No problem. We have a large in stock. I'll swap it for you now."
+    }
+   ],
+   "question": "What was wrong with the jacket?",
+   "options": [
+    "It had a hole in it.",
+    "It arrived late.",
+    "It was the wrong colour.",
+    "A zip was broken."
+   ],
+   "answer": 3,
+   "explanation": "'…one of the zips was broken.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-010",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-05",
+   "script": [
+    {
+     "speaker": "Customer",
+     "text": "Hello, I bought this jacket online last week, but when it arrived, one of the zips was broken."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "I'm sorry about that. Would you like a replacement or a refund?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "I'd prefer a replacement, but in a larger size if possible. The medium was a bit tight."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "No problem. We have a large in stock. I'll swap it for you now."
+    }
+   ],
+   "question": "What does the customer decide to do?",
+   "options": [
+    "Have the zip repaired",
+    "Buy a different jacket",
+    "Get her money back",
+    "Exchange it for a bigger size"
+   ],
+   "answer": 3,
+   "explanation": "'I'd prefer a replacement, but in a larger size.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-011",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "b1-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Are you still going to the photography exhibition on Saturday?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I was planning to, but I've just found out my cousin's coming to stay, so I'll probably take her to the beach instead."
+    },
+    {
+     "speaker": "Man",
+     "text": "Why don't you bring her to the exhibition? It finishes on Sunday, so it's your last chance."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Good point. She loves art, actually. I'll ask her."
+    }
+   ],
+   "question": "Why might the woman not go to the exhibition?",
+   "options": [
+    "It's too expensive.",
+    "She doesn't like photography.",
+    "She has to work.",
+    "Her cousin is coming to visit."
+   ],
+   "answer": 3,
+   "explanation": "'…my cousin's coming to stay, so I'll probably take her to the beach instead.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-012",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "b1-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Are you still going to the photography exhibition on Saturday?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I was planning to, but I've just found out my cousin's coming to stay, so I'll probably take her to the beach instead."
+    },
+    {
+     "speaker": "Man",
+     "text": "Why don't you bring her to the exhibition? It finishes on Sunday, so it's your last chance."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Good point. She loves art, actually. I'll ask her."
+    }
+   ],
+   "question": "What does the man suggest?",
+   "options": [
+    "Visiting it next weekend",
+    "Going without her cousin",
+    "Going to the beach on Sunday",
+    "Taking her cousin to the exhibition"
+   ],
+   "answer": 3,
+   "explanation": "'Why don't you bring her to the exhibition?'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-013",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b1-ls-07",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "The council's new recycling scheme starts on Monday. Every household will receive a brown bin for food waste, which will be collected weekly. Glass, plastic and paper will now go into a single blue bin, collected every two weeks. The council hopes the scheme will cut the amount of rubbish sent to landfill by a third."
+    }
+   ],
+   "question": "What is the brown bin for?",
+   "options": [
+    "Paper",
+    "Food waste",
+    "Glass",
+    "Plastic"
+   ],
+   "answer": 1,
+   "explanation": "'…a brown bin for food waste, which will be collected weekly.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-014",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b1-ls-07",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "The council's new recycling scheme starts on Monday. Every household will receive a brown bin for food waste, which will be collected weekly. Glass, plastic and paper will now go into a single blue bin, collected every two weeks. The council hopes the scheme will cut the amount of rubbish sent to landfill by a third."
+    }
+   ],
+   "question": "What does the council hope the scheme will do?",
+   "options": [
+    "Reduce landfill rubbish by a third",
+    "Collect rubbish less often",
+    "Stop people using plastic",
+    "Save money on bins"
+   ],
+   "answer": 0,
+   "explanation": "'…cut the amount of rubbish sent to landfill by a third.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-015",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-08",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you seen the email about the new office hours?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes. Starting next month, we can start any time between seven and ten, as long as we work eight hours."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's great for me. I can avoid the traffic and pick up my son from school."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'm not sure it'll suit me. I like having everyone in the office at the same time for meetings."
+    }
+   ],
+   "question": "What is changing at work?",
+   "options": [
+    "All meetings will be online.",
+    "The office is moving.",
+    "Staff can choose when to start.",
+    "Staff will work fewer hours."
+   ],
+   "answer": 2,
+   "explanation": "'…we can start any time between seven and ten, as long as we work eight hours.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-016",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-08",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you seen the email about the new office hours?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes. Starting next month, we can start any time between seven and ten, as long as we work eight hours."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's great for me. I can avoid the traffic and pick up my son from school."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'm not sure it'll suit me. I like having everyone in the office at the same time for meetings."
+    }
+   ],
+   "question": "What is the man's opinion of the change?",
+   "options": [
+    "He wants to work from home.",
+    "He's worried about organising meetings.",
+    "He wants to start at seven.",
+    "He thinks it's a great idea."
+   ],
+   "answer": 1,
+   "explanation": "'I like having everyone in the office at the same time for meetings.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-017",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-09",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "My laptop keeps freezing when I'm doing my homework."
+    },
+    {
+     "speaker": "Girl",
+     "text": "How old is it?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "About five years. I was thinking of buying a new one."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Before you spend all that money, try deleting files you don't need. Mine was really slow until I cleared out loads of old videos."
+    }
+   ],
+   "question": "What is the boy's problem?",
+   "options": [
+    "His laptop keeps stopping.",
+    "He lost his homework.",
+    "His laptop was stolen.",
+    "His screen is broken."
+   ],
+   "answer": 0,
+   "explanation": "'My laptop keeps freezing…'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-018",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-09",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "My laptop keeps freezing when I'm doing my homework."
+    },
+    {
+     "speaker": "Girl",
+     "text": "How old is it?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "About five years. I was thinking of buying a new one."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Before you spend all that money, try deleting files you don't need. Mine was really slow until I cleared out loads of old videos."
+    }
+   ],
+   "question": "What does the girl recommend?",
+   "options": [
+    "Buying a new laptop",
+    "Deleting unnecessary files",
+    "Borrowing her laptop",
+    "Getting it repaired"
+   ],
+   "answer": 1,
+   "explanation": "'…try deleting files you don't need.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-019",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How was the new Italian restaurant?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The food was delicious – the best pasta I've had in ages. But the service was terribly slow. We waited forty minutes for our main course."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Would you go back?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Maybe for lunch, when it's less busy."
+    }
+   ],
+   "question": "What did the man think of the food?",
+   "options": [
+    "It was disappointing.",
+    "It was too expensive.",
+    "It was cold.",
+    "It was excellent."
+   ],
+   "answer": 3,
+   "explanation": "'…the best pasta I've had in ages.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-020",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How was the new Italian restaurant?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The food was delicious – the best pasta I've had in ages. But the service was terribly slow. We waited forty minutes for our main course."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Would you go back?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Maybe for lunch, when it's less busy."
+    }
+   ],
+   "question": "When might he go back?",
+   "options": [
+    "At lunchtime",
+    "On a Saturday night",
+    "For a special occasion",
+    "Never"
+   ],
+   "answer": 0,
+   "explanation": "'Maybe for lunch, when it's less busy.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-021",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-11",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "So, two adults to Chiang Mai, leaving on the twelfth of March. Would you like the morning or the evening flight?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "What are the prices?"
+    },
+    {
+     "speaker": "Agent",
+     "text": "The morning flight is three hundred and twenty dollars each, and the evening one is two hundred and seventy."
+    },
+    {
+     "speaker": "Customer",
+     "text": "We'll take the evening one. We'll arrive late, but it's worth saving the money."
+    }
+   ],
+   "question": "How much will each ticket cost?",
+   "options": [
+    "$320",
+    "$370",
+    "$270",
+    "$300"
+   ],
+   "answer": 2,
+   "explanation": "The evening flight is 'two hundred and seventy' dollars each.",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-022",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-11",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "So, two adults to Chiang Mai, leaving on the twelfth of March. Would you like the morning or the evening flight?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "What are the prices?"
+    },
+    {
+     "speaker": "Agent",
+     "text": "The morning flight is three hundred and twenty dollars each, and the evening one is two hundred and seventy."
+    },
+    {
+     "speaker": "Customer",
+     "text": "We'll take the evening one. We'll arrive late, but it's worth saving the money."
+    }
+   ],
+   "question": "Why does the customer choose that flight?",
+   "options": [
+    "The morning flight is full.",
+    "It's cheaper.",
+    "It arrives earlier.",
+    "It's more comfortable."
+   ],
+   "answer": 1,
+   "explanation": "'…it's worth saving the money.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-023",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-12",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Before we finish, a reminder that your essays are due next Friday, not this Friday as it says in the course book. Please submit them online rather than on paper, and remember that the maximum length is two thousand words."
+    }
+   ],
+   "question": "When are the essays due?",
+   "options": [
+    "Next Friday",
+    "This Friday",
+    "Next Monday",
+    "In two weeks"
+   ],
+   "answer": 0,
+   "explanation": "'…due next Friday, not this Friday as it says in the course book.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-024",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-12",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Before we finish, a reminder that your essays are due next Friday, not this Friday as it says in the course book. Please submit them online rather than on paper, and remember that the maximum length is two thousand words."
+    }
+   ],
+   "question": "How should students hand in their essays?",
+   "options": [
+    "Online",
+    "By email to the lecturer",
+    "On paper",
+    "In class"
+   ],
+   "answer": 0,
+   "explanation": "'Please submit them online rather than on paper.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-025",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-13",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I heard you're moving to Australia!"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, my company's opening an office in Melbourne and they've asked me to manage it for two years."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's amazing. Are you excited?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Excited and nervous. I've never lived abroad, and I'll miss my family. But it's a great opportunity."
+    }
+   ],
+   "question": "Why is the woman moving?",
+   "options": [
+    "To study",
+    "For a long holiday",
+    "For her job",
+    "To be near her family"
+   ],
+   "answer": 2,
+   "explanation": "'…my company's opening an office in Melbourne and they've asked me to manage it.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-026",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-13",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I heard you're moving to Australia!"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, my company's opening an office in Melbourne and they've asked me to manage it for two years."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's amazing. Are you excited?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Excited and nervous. I've never lived abroad, and I'll miss my family. But it's a great opportunity."
+    }
+   ],
+   "question": "How does she feel about it?",
+   "options": [
+    "Only excited",
+    "Both excited and nervous",
+    "Bored",
+    "Disappointed"
+   ],
+   "answer": 1,
+   "explanation": "'Excited and nervous.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-027",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b1-ls-14",
+   "script": [
+    {
+     "speaker": "Coach",
+     "text": "I know you're all disappointed about losing today, but you played much better in the second half. Next week's training will focus on defence, because that's where we let in most of the goals. Training will be on Wednesday instead of Tuesday, as the pitch is being repaired."
+    }
+   ],
+   "question": "What does the coach say about the team's performance?",
+   "options": [
+    "They deserved to win.",
+    "It was terrible for the whole game.",
+    "It was better than the other team's.",
+    "It improved in the second half."
+   ],
+   "answer": 3,
+   "explanation": "'…you played much better in the second half.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-028",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b1-ls-14",
+   "script": [
+    {
+     "speaker": "Coach",
+     "text": "I know you're all disappointed about losing today, but you played much better in the second half. Next week's training will focus on defence, because that's where we let in most of the goals. Training will be on Wednesday instead of Tuesday, as the pitch is being repaired."
+    }
+   ],
+   "question": "Why has training been moved?",
+   "options": [
+    "The coach is busy on Tuesday.",
+    "The pitch is being repaired.",
+    "The players asked for a change.",
+    "There's a match on Tuesday."
+   ],
+   "answer": 1,
+   "explanation": "'…as the pitch is being repaired.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-029",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b1-ls-15",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How's your new flat?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The location's perfect – it's only five minutes from the metro. The rent's quite high, though, and the walls are so thin I can hear my neighbour's TV."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Could you ask them to turn it down?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I did, and they've been much better since."
+    }
+   ],
+   "question": "What does the man like about his flat?",
+   "options": [
+    "It's cheap.",
+    "It's quiet.",
+    "It's large.",
+    "It's close to public transport."
+   ],
+   "answer": 3,
+   "explanation": "'…it's only five minutes from the metro.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-030",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b1-ls-15",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How's your new flat?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The location's perfect – it's only five minutes from the metro. The rent's quite high, though, and the walls are so thin I can hear my neighbour's TV."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Could you ask them to turn it down?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I did, and they've been much better since."
+    }
+   ],
+   "question": "What happened when he spoke to his neighbour?",
+   "options": [
+    "The neighbour got angry.",
+    "The neighbour moved out.",
+    "The noise got better.",
+    "Nothing changed."
+   ],
+   "answer": 2,
+   "explanation": "'I did, and they've been much better since.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-031",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-16",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Hi, this is Linh from Bright Dental Clinic. I'm calling to remind you about your appointment tomorrow at ten fifteen. Unfortunately, Doctor Nam is unwell, so you'll be seeing Doctor Hoa instead. If you'd prefer to rearrange, please call us back before five today."
+    }
+   ],
+   "question": "Why is the clinic calling?",
+   "options": [
+    "To cancel the appointment",
+    "To ask for payment",
+    "To offer a new service",
+    "To give a reminder and explain a change"
+   ],
+   "answer": 3,
+   "explanation": "She reminds the patient about the appointment and says a different dentist will see them.",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-032",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-16",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Hi, this is Linh from Bright Dental Clinic. I'm calling to remind you about your appointment tomorrow at ten fifteen. Unfortunately, Doctor Nam is unwell, so you'll be seeing Doctor Hoa instead. If you'd prefer to rearrange, please call us back before five today."
+    }
+   ],
+   "question": "Who will the patient see?",
+   "options": [
+    "Nobody – it's cancelled",
+    "Doctor Nam",
+    "Doctor Hoa",
+    "Linh"
+   ],
+   "answer": 2,
+   "explanation": "'…you'll be seeing Doctor Hoa instead.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-033",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b1-ls-17",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I'm thinking of joining the beach clean-up this weekend. Do you want to come?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "I'd love to, but I've got a football tournament on Saturday."
+    },
+    {
+     "speaker": "Girl",
+     "text": "It's on Sunday morning, actually."
+    },
+    {
+     "speaker": "Boy",
+     "text": "Oh, in that case, count me in. Should I bring anything?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Just gloves and a water bottle. They provide the bags."
+    }
+   ],
+   "question": "Why did the boy first say no?",
+   "options": [
+    "He had homework to do.",
+    "He doesn't like the beach.",
+    "He was ill.",
+    "He thought it was on the same day as football."
+   ],
+   "answer": 3,
+   "explanation": "He has football on Saturday, but the clean-up is on Sunday.",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-034",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b1-ls-17",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I'm thinking of joining the beach clean-up this weekend. Do you want to come?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "I'd love to, but I've got a football tournament on Saturday."
+    },
+    {
+     "speaker": "Girl",
+     "text": "It's on Sunday morning, actually."
+    },
+    {
+     "speaker": "Boy",
+     "text": "Oh, in that case, count me in. Should I bring anything?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Just gloves and a water bottle. They provide the bags."
+    }
+   ],
+   "question": "What does the boy need to bring?",
+   "options": [
+    "Gloves and a water bottle",
+    "His lunch",
+    "Rubbish bags",
+    "A towel"
+   ],
+   "answer": 0,
+   "explanation": "'Just gloves and a water bottle. They provide the bags.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-035",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-18",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'm thinking of switching to a new phone plan. Mine costs far too much."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you looked at Starnet? I pay two hundred thousand a month for unlimited calls and thirty gigabytes of data."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds good. Is the signal reliable?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In the city, yes. It's a bit weak in the countryside, though."
+    }
+   ],
+   "question": "Why does the man want to change his plan?",
+   "options": [
+    "The signal is bad.",
+    "He needs more data.",
+    "It's too expensive.",
+    "He's moving abroad."
+   ],
+   "answer": 2,
+   "explanation": "'Mine costs far too much.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-036",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-18",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'm thinking of switching to a new phone plan. Mine costs far too much."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you looked at Starnet? I pay two hundred thousand a month for unlimited calls and thirty gigabytes of data."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds good. Is the signal reliable?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In the city, yes. It's a bit weak in the countryside, though."
+    }
+   ],
+   "question": "What is the disadvantage of Starnet?",
+   "options": [
+    "It includes very little data.",
+    "Calls are limited.",
+    "It costs more.",
+    "The signal is weaker outside cities."
+   ],
+   "answer": 3,
+   "explanation": "'It's a bit weak in the countryside, though.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-037",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-19",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This temple was built in the eleventh century, but most of what you see today comes from a restoration in the eighteen hundreds, after a fire destroyed the original roof. Please don't use flash photography inside, as it can damage the paintings."
+    }
+   ],
+   "question": "Why was the temple restored?",
+   "options": [
+    "An earthquake destroyed it.",
+    "A fire damaged it.",
+    "It was too small.",
+    "Visitors damaged it."
+   ],
+   "answer": 1,
+   "explanation": "'…after a fire destroyed the original roof.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-038",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-19",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This temple was built in the eleventh century, but most of what you see today comes from a restoration in the eighteen hundreds, after a fire destroyed the original roof. Please don't use flash photography inside, as it can damage the paintings."
+    }
+   ],
+   "question": "Why is flash photography not allowed?",
+   "options": [
+    "It's a religious rule.",
+    "It disturbs other visitors.",
+    "It can damage the paintings.",
+    "Photos are sold in the shop."
+   ],
+   "answer": 2,
+   "explanation": "'…as it can damage the paintings.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-039",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-20",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "How did your presentation go?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not great. The projector stopped working halfway through, so I had to carry on without any slides."
+    },
+    {
+     "speaker": "Man",
+     "text": "Oh no! What did your boss say?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Actually, she said I handled it really well and stayed calm. So maybe it wasn't a disaster after all."
+    }
+   ],
+   "question": "What went wrong during the presentation?",
+   "options": [
+    "Nobody came.",
+    "The equipment stopped working.",
+    "She arrived late.",
+    "She forgot her notes."
+   ],
+   "answer": 1,
+   "explanation": "'The projector stopped working halfway through.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-040",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-20",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "How did your presentation go?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not great. The projector stopped working halfway through, so I had to carry on without any slides."
+    },
+    {
+     "speaker": "Man",
+     "text": "Oh no! What did your boss say?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Actually, she said I handled it really well and stayed calm. So maybe it wasn't a disaster after all."
+    }
+   ],
+   "question": "How did her boss react?",
+   "options": [
+    "She asked her to repeat it.",
+    "She said nothing.",
+    "She praised the woman.",
+    "She was angry."
+   ],
+   "answer": 2,
+   "explanation": "'…she said I handled it really well and stayed calm.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-041",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-21",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Did you enjoy Bangkok more than Singapore?"
+    },
+    {
+     "speaker": "Man",
+     "text": "In some ways. Bangkok was more exciting and the food was cheaper, but Singapore was cleaner and easier to get around."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Which one would you go back to?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Bangkok, definitely. I love the street markets."
+    }
+   ],
+   "question": "What did the man say about Singapore?",
+   "options": [
+    "It was more exciting.",
+    "It was easier to get around.",
+    "It was dirty.",
+    "The food was cheaper."
+   ],
+   "answer": 1,
+   "explanation": "'…Singapore was cleaner and easier to get around.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-042",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-21",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Did you enjoy Bangkok more than Singapore?"
+    },
+    {
+     "speaker": "Man",
+     "text": "In some ways. Bangkok was more exciting and the food was cheaper, but Singapore was cleaner and easier to get around."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Which one would you go back to?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Bangkok, definitely. I love the street markets."
+    }
+   ],
+   "question": "Why would he return to Bangkok?",
+   "options": [
+    "The hotels are better.",
+    "It's cleaner.",
+    "He loves the markets there.",
+    "His friends live there."
+   ],
+   "answer": 2,
+   "explanation": "'I love the street markets.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-043",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-22",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "For homework, I'd like you to watch a short news report in English and write a summary of about one hundred and fifty words. Don't just copy the sentences you hear – use your own words. We'll discuss your summaries on Thursday."
+    }
+   ],
+   "question": "What must students write?",
+   "options": [
+    "A summary of a news report",
+    "Their own news report",
+    "A list of new words",
+    "A letter to a newspaper"
+   ],
+   "answer": 0,
+   "explanation": "'…write a summary of about one hundred and fifty words.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-044",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-22",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "For homework, I'd like you to watch a short news report in English and write a summary of about one hundred and fifty words. Don't just copy the sentences you hear – use your own words. We'll discuss your summaries on Thursday."
+    }
+   ],
+   "question": "What does the teacher warn students not to do?",
+   "options": [
+    "Work in pairs",
+    "Copy the exact sentences",
+    "Watch long reports",
+    "Write too little"
+   ],
+   "answer": 1,
+   "explanation": "'Don't just copy the sentences you hear – use your own words.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-045",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b1-ls-23",
+   "script": [
+    {
+     "speaker": "Assistant",
+     "text": "The hop-on hop-off bus leaves every twenty minutes from outside the cathedral. A twenty-four-hour ticket costs fifteen euros, and it includes a free boat trip on the river if you show your ticket at the pier."
+    }
+   ],
+   "question": "How often does the bus leave?",
+   "options": [
+    "Every hour",
+    "Every twenty minutes",
+    "Every forty minutes",
+    "Every fifteen minutes"
+   ],
+   "answer": 1,
+   "explanation": "'…leaves every twenty minutes from outside the cathedral.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-046",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b1-ls-23",
+   "script": [
+    {
+     "speaker": "Assistant",
+     "text": "The hop-on hop-off bus leaves every twenty minutes from outside the cathedral. A twenty-four-hour ticket costs fifteen euros, and it includes a free boat trip on the river if you show your ticket at the pier."
+    }
+   ],
+   "question": "What is included in the ticket?",
+   "options": [
+    "Entry to the cathedral",
+    "A boat trip",
+    "Lunch",
+    "A guidebook"
+   ],
+   "answer": 1,
+   "explanation": "'…it includes a free boat trip on the river.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-047",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-24",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I joined a gym in January, but I've only been three times."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why's that?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's on the other side of town, so it takes ages to get there after work."
+    },
+    {
+     "speaker": "Woman",
+     "text": "You could try running in the park near your flat instead. It's free, too."
+    }
+   ],
+   "question": "Why doesn't the man go to the gym often?",
+   "options": [
+    "It's always crowded.",
+    "It's a long way from where he lives.",
+    "He doesn't like exercise.",
+    "It's too expensive."
+   ],
+   "answer": 1,
+   "explanation": "'It's on the other side of town, so it takes ages to get there.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-048",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b1-ls-24",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I joined a gym in January, but I've only been three times."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why's that?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's on the other side of town, so it takes ages to get there after work."
+    },
+    {
+     "speaker": "Woman",
+     "text": "You could try running in the park near your flat instead. It's free, too."
+    }
+   ],
+   "question": "What does the woman suggest?",
+   "options": [
+    "Hiring a personal trainer",
+    "Going before work",
+    "Changing gyms",
+    "Running in a local park"
+   ],
+   "answer": 3,
+   "explanation": "'You could try running in the park near your flat instead.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-049",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-25",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've just written your first novel. Where did the idea come from?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "From my grandmother, actually. She told me stories about growing up during the war, and I wanted to make sure those memories weren't lost. The characters are invented, but many of the events really happened."
+    }
+   ],
+   "question": "What inspired the writer's novel?",
+   "options": [
+    "Her grandmother's stories",
+    "A film about the war",
+    "A history book",
+    "Her own childhood"
+   ],
+   "answer": 0,
+   "explanation": "'From my grandmother, actually. She told me stories…'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-050",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-25",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've just written your first novel. Where did the idea come from?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "From my grandmother, actually. She told me stories about growing up during the war, and I wanted to make sure those memories weren't lost. The characters are invented, but many of the events really happened."
+    }
+   ],
+   "question": "Which statement about the novel is true?",
+   "options": [
+    "It is completely invented.",
+    "Some events are based on real life.",
+    "It is about the writer's parents.",
+    "All the characters are real people."
+   ],
+   "answer": 1,
+   "explanation": "'The characters are invented, but many of the events really happened.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-051",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-26",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I can't believe the exam's tomorrow. I've hardly revised."
+    },
+    {
+     "speaker": "Boy",
+     "text": "Me neither. But staying up all night won't help. Let's go through the main topics together for a couple of hours and then get some sleep."
+    },
+    {
+     "speaker": "Girl",
+     "text": "You're right. I always do worse when I'm tired."
+    }
+   ],
+   "question": "What does the boy suggest?",
+   "options": [
+    "Not studying at all",
+    "Asking the teacher for help",
+    "Revising together briefly, then sleeping",
+    "Studying all night"
+   ],
+   "answer": 2,
+   "explanation": "'Let's go through the main topics together for a couple of hours and then get some sleep.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-052",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-26",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I can't believe the exam's tomorrow. I've hardly revised."
+    },
+    {
+     "speaker": "Boy",
+     "text": "Me neither. But staying up all night won't help. Let's go through the main topics together for a couple of hours and then get some sleep."
+    },
+    {
+     "speaker": "Girl",
+     "text": "You're right. I always do worse when I'm tired."
+    }
+   ],
+   "question": "What does the girl say about herself?",
+   "options": [
+    "She isn't worried.",
+    "Being tired affects her results.",
+    "She prefers to study alone.",
+    "She has revised a lot."
+   ],
+   "answer": 1,
+   "explanation": "'I always do worse when I'm tired.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-053",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-27",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "Learn to cook authentic Thai dishes in our three-hour evening classes. Each class begins with a trip to a local market to buy ingredients, and you'll eat everything you cook. Classes are limited to eight people, so book early."
+    }
+   ],
+   "question": "What happens at the start of each class?",
+   "options": [
+    "Students visit a market.",
+    "Students watch a video.",
+    "Students eat dinner.",
+    "Students meet a famous chef."
+   ],
+   "answer": 0,
+   "explanation": "'Each class begins with a trip to a local market.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-054",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-27",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "Learn to cook authentic Thai dishes in our three-hour evening classes. Each class begins with a trip to a local market to buy ingredients, and you'll eat everything you cook. Classes are limited to eight people, so book early."
+    }
+   ],
+   "question": "Why should people book early?",
+   "options": [
+    "The market closes early.",
+    "Classes only run in summer.",
+    "Prices will rise soon.",
+    "The groups are small."
+   ],
+   "answer": 3,
+   "explanation": "'Classes are limited to eight people, so book early.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-055",
+   "type": "listening",
+   "topic": "community",
+   "scriptId": "b1-ls-28",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Excuse me, have you seen a grey cat around here? She's been missing since Tuesday."
+    },
+    {
+     "speaker": "Man",
+     "text": "Actually, I think I saw a grey cat in my garden yesterday evening. Does she have a white tail?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes! That's her!"
+    },
+    {
+     "speaker": "Man",
+     "text": "She went towards the park. I'll keep an eye out and call you if I see her again."
+    }
+   ],
+   "question": "How long has the cat been missing?",
+   "options": [
+    "Since Tuesday",
+    "Since this morning",
+    "Since yesterday",
+    "For a month"
+   ],
+   "answer": 0,
+   "explanation": "'She's been missing since Tuesday.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-056",
+   "type": "listening",
+   "topic": "community",
+   "scriptId": "b1-ls-28",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Excuse me, have you seen a grey cat around here? She's been missing since Tuesday."
+    },
+    {
+     "speaker": "Man",
+     "text": "Actually, I think I saw a grey cat in my garden yesterday evening. Does she have a white tail?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes! That's her!"
+    },
+    {
+     "speaker": "Man",
+     "text": "She went towards the park. I'll keep an eye out and call you if I see her again."
+    }
+   ],
+   "question": "What will the man do?",
+   "options": [
+    "Take the cat to a vet",
+    "Watch out for the cat and phone the woman",
+    "Search the park now",
+    "Put up posters"
+   ],
+   "answer": 1,
+   "explanation": "'I'll keep an eye out and call you if I see her again.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-057",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "b1-ls-29",
+   "script": [
+    {
+     "speaker": "Reporter",
+     "text": "Drivers heading into the city centre should avoid Tran Hung Dao Street this morning, where an accident has closed two lanes. Traffic is moving slowly, and delays of up to forty-five minutes are expected. The metro is running normally and may be the best option."
+    }
+   ],
+   "question": "What has caused the problem?",
+   "options": [
+    "Flooding",
+    "An accident",
+    "Road works",
+    "A festival"
+   ],
+   "answer": 1,
+   "explanation": "'…where an accident has closed two lanes.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-058",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "b1-ls-29",
+   "script": [
+    {
+     "speaker": "Reporter",
+     "text": "Drivers heading into the city centre should avoid Tran Hung Dao Street this morning, where an accident has closed two lanes. Traffic is moving slowly, and delays of up to forty-five minutes are expected. The metro is running normally and may be the best option."
+    }
+   ],
+   "question": "What does the reporter suggest?",
+   "options": [
+    "Working from home",
+    "Leaving later",
+    "Using Tran Hung Dao Street",
+    "Taking the metro"
+   ],
+   "answer": 3,
+   "explanation": "'The metro is running normally and may be the best option.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-059",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "b1-ls-30",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "It's Hoa's thirtieth birthday next week. Any ideas for a present?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "She's just started learning to paint. How about some good-quality brushes?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I was thinking of something more personal, like a photo album of our trips together."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why not do both? I'll get the brushes and you can make the album."
+    }
+   ],
+   "question": "What has Hoa recently started doing?",
+   "options": [
+    "Travelling",
+    "Painting",
+    "Photography",
+    "Cooking"
+   ],
+   "answer": 1,
+   "explanation": "'She's just started learning to paint.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-060",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "b1-ls-30",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "It's Hoa's thirtieth birthday next week. Any ideas for a present?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "She's just started learning to paint. How about some good-quality brushes?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I was thinking of something more personal, like a photo album of our trips together."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why not do both? I'll get the brushes and you can make the album."
+    }
+   ],
+   "question": "What do they agree to do?",
+   "options": [
+    "Buy a camera together",
+    "Give her two different presents",
+    "Only make an album",
+    "Paint a picture for her"
+   ],
+   "answer": 1,
+   "explanation": "'Why not do both? I'll get the brushes and you can make the album.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-061",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-31",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "Thank you for calling FastNet. How can I help?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "My internet has been cutting out every evening for the past three days."
+    },
+    {
+     "speaker": "Agent",
+     "text": "I'm sorry to hear that. There's work being done on the cables in your area, which should be finished by Friday. We'll give you a discount on this month's bill."
+    }
+   ],
+   "question": "What is the customer's problem?",
+   "options": [
+    "The internet stops working in the evenings.",
+    "The bill is wrong.",
+    "The internet is too expensive.",
+    "The router is broken."
+   ],
+   "answer": 0,
+   "explanation": "'My internet has been cutting out every evening.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-062",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-31",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "Thank you for calling FastNet. How can I help?"
+    },
+    {
+     "speaker": "Customer",
+     "text": "My internet has been cutting out every evening for the past three days."
+    },
+    {
+     "speaker": "Agent",
+     "text": "I'm sorry to hear that. There's work being done on the cables in your area, which should be finished by Friday. We'll give you a discount on this month's bill."
+    }
+   ],
+   "question": "What does the agent offer?",
+   "options": [
+    "A new router",
+    "Free calls",
+    "A discount on the bill",
+    "A visit from a technician"
+   ],
+   "answer": 2,
+   "explanation": "'We'll give you a discount on this month's bill.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-063",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "b1-ls-32",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "The debate club is looking for new members. We meet every Thursday after school, and this year we'll be competing against other schools in the national competition. You don't need any experience – just an interest in current affairs and a willingness to speak in public."
+    }
+   ],
+   "question": "What is special about this year?",
+   "options": [
+    "The club is brand new.",
+    "Only experienced students can join.",
+    "Meetings will be online.",
+    "The club will enter a national competition."
+   ],
+   "answer": 3,
+   "explanation": "'…this year we'll be competing against other schools in the national competition.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-064",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "b1-ls-32",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "The debate club is looking for new members. We meet every Thursday after school, and this year we'll be competing against other schools in the national competition. You don't need any experience – just an interest in current affairs and a willingness to speak in public."
+    }
+   ],
+   "question": "What do new members need?",
+   "options": [
+    "A teacher's recommendation",
+    "An interest in current affairs",
+    "Excellent exam results",
+    "Previous debating experience"
+   ],
+   "answer": 1,
+   "explanation": "'…just an interest in current affairs and a willingness to speak in public.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-065",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-33",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "I've been offered a job at the cinema, but it's mostly weekend evenings."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Will that affect your studies?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "Not really – I study better in the mornings anyway. The problem is I won't be able to play in the football team on Saturdays."
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's a shame. Maybe you could ask to work Sundays instead."
+    }
+   ],
+   "question": "What worries the boy about the job?",
+   "options": [
+    "Working late on weekdays",
+    "The low pay",
+    "Missing football matches",
+    "Falling behind with his studies"
+   ],
+   "answer": 2,
+   "explanation": "'…I won't be able to play in the football team on Saturdays.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-066",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-33",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "I've been offered a job at the cinema, but it's mostly weekend evenings."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Will that affect your studies?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "Not really – I study better in the mornings anyway. The problem is I won't be able to play in the football team on Saturdays."
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's a shame. Maybe you could ask to work Sundays instead."
+    }
+   ],
+   "question": "What does the girl suggest?",
+   "options": [
+    "Leaving the football team",
+    "Studying in the evenings",
+    "Turning down the job",
+    "Asking to work on different days"
+   ],
+   "answer": 3,
+   "explanation": "'Maybe you could ask to work Sundays instead.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-067",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "b1-ls-34",
+   "script": [
+    {
+     "speaker": "Forecaster",
+     "text": "After a week of heavy rain, the weekend will finally bring some sunshine, especially in the south. Temperatures will rise to around thirty degrees on Sunday. However, more storms are expected from Monday, so make the most of the dry weather while it lasts."
+    }
+   ],
+   "question": "What has the weather been like recently?",
+   "options": [
+    "Very hot",
+    "Snowy",
+    "Dry and sunny",
+    "Very wet"
+   ],
+   "answer": 3,
+   "explanation": "'After a week of heavy rain…'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-068",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "b1-ls-34",
+   "script": [
+    {
+     "speaker": "Forecaster",
+     "text": "After a week of heavy rain, the weekend will finally bring some sunshine, especially in the south. Temperatures will rise to around thirty degrees on Sunday. However, more storms are expected from Monday, so make the most of the dry weather while it lasts."
+    }
+   ],
+   "question": "What will happen from Monday?",
+   "options": [
+    "There will be more storms.",
+    "It will get much colder.",
+    "It will reach thirty degrees.",
+    "It will stay sunny."
+   ],
+   "answer": 0,
+   "explanation": "'…more storms are expected from Monday.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-069",
+   "type": "listening",
+   "topic": "family",
+   "scriptId": "b1-ls-35",
+   "script": [
+    {
+     "speaker": "Daughter",
+     "text": "Mum, can I go to the concert in Hanoi with my friends next month?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "How are you getting there?"
+    },
+    {
+     "speaker": "Daughter",
+     "text": "By coach. Lan's older brother is coming with us, and we'd stay at his flat."
+    },
+    {
+     "speaker": "Mum",
+     "text": "Well, if he's going, I'm happy for you to go. But you'll have to pay for the ticket out of your own savings."
+    }
+   ],
+   "question": "Why does the mother agree?",
+   "options": [
+    "The tickets are free.",
+    "Her daughter has finished her exams.",
+    "An older person will be with them.",
+    "The concert is nearby."
+   ],
+   "answer": 2,
+   "explanation": "'Well, if he's going, I'm happy for you to go.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-070",
+   "type": "listening",
+   "topic": "family",
+   "scriptId": "b1-ls-35",
+   "script": [
+    {
+     "speaker": "Daughter",
+     "text": "Mum, can I go to the concert in Hanoi with my friends next month?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "How are you getting there?"
+    },
+    {
+     "speaker": "Daughter",
+     "text": "By coach. Lan's older brother is coming with us, and we'd stay at his flat."
+    },
+    {
+     "speaker": "Mum",
+     "text": "Well, if he's going, I'm happy for you to go. But you'll have to pay for the ticket out of your own savings."
+    }
+   ],
+   "question": "What condition does the mother set?",
+   "options": [
+    "Her daughter must pay for the ticket herself.",
+    "She must take her sister.",
+    "She must come home the same night.",
+    "She must call every hour."
+   ],
+   "answer": 0,
+   "explanation": "'…you'll have to pay for the ticket out of your own savings.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-071",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-36",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've signed up for an online coding course."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? How does it work?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "There are video lessons I can watch whenever I like, and every Saturday there's a live session where we can ask the tutor questions."
+    },
+    {
+     "speaker": "Man",
+     "text": "Isn't it hard to stay motivated on your own?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "A bit, but there's a group chat where students help each other."
+    }
+   ],
+   "question": "When can she ask the tutor questions?",
+   "options": [
+    "After each video",
+    "Every evening",
+    "During the Saturday live session",
+    "Any time by email"
+   ],
+   "answer": 2,
+   "explanation": "'…every Saturday there's a live session where we can ask the tutor questions.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-072",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b1-ls-36",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've signed up for an online coding course."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? How does it work?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "There are video lessons I can watch whenever I like, and every Saturday there's a live session where we can ask the tutor questions."
+    },
+    {
+     "speaker": "Man",
+     "text": "Isn't it hard to stay motivated on your own?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "A bit, but there's a group chat where students help each other."
+    }
+   ],
+   "question": "What helps her stay motivated?",
+   "options": [
+    "Getting a certificate",
+    "Meeting the tutor in person",
+    "A group chat with other students",
+    "Weekly tests"
+   ],
+   "answer": 2,
+   "explanation": "'…there's a group chat where students help each other.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-073",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-37",
+   "script": [
+    {
+     "speaker": "Tourist",
+     "text": "How much is this silk scarf?"
+    },
+    {
+     "speaker": "Seller",
+     "text": "Four hundred thousand dong."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "That's a bit more than I wanted to spend. Would you take three hundred?"
+    },
+    {
+     "speaker": "Seller",
+     "text": "Three hundred and fifty, and I'll give you a small bag as well."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Deal."
+    }
+   ],
+   "question": "How much does the tourist pay?",
+   "options": [
+    "400,000 dong",
+    "300,000 dong",
+    "450,000 dong",
+    "350,000 dong"
+   ],
+   "answer": 3,
+   "explanation": "The seller offers 'three hundred and fifty', and the tourist says 'Deal'.",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-074",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-37",
+   "script": [
+    {
+     "speaker": "Tourist",
+     "text": "How much is this silk scarf?"
+    },
+    {
+     "speaker": "Seller",
+     "text": "Four hundred thousand dong."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "That's a bit more than I wanted to spend. Would you take three hundred?"
+    },
+    {
+     "speaker": "Seller",
+     "text": "Three hundred and fifty, and I'll give you a small bag as well."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Deal."
+    }
+   ],
+   "question": "What extra thing does the seller offer?",
+   "options": [
+    "A small bag",
+    "A discount next time",
+    "Free delivery",
+    "A second scarf"
+   ],
+   "answer": 0,
+   "explanation": "'…I'll give you a small bag as well.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-075",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-38",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hi Sarah, can we move tomorrow's meeting? A client has asked to see me at nine."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm busy all afternoon. How about first thing on Thursday?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Thursday at eight thirty would work."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great, I'll book the small meeting room."
+    }
+   ],
+   "question": "Why does the man want to move the meeting?",
+   "options": [
+    "He is ill.",
+    "He has to meet a client.",
+    "Sarah is busy tomorrow morning.",
+    "The room is already booked."
+   ],
+   "answer": 1,
+   "explanation": "'A client has asked to see me at nine.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-076",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b1-ls-38",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hi Sarah, can we move tomorrow's meeting? A client has asked to see me at nine."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm busy all afternoon. How about first thing on Thursday?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Thursday at eight thirty would work."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great, I'll book the small meeting room."
+    }
+   ],
+   "question": "When will the meeting be?",
+   "options": [
+    "Tomorrow afternoon",
+    "Tomorrow at nine",
+    "Thursday afternoon",
+    "Thursday at 8:30"
+   ],
+   "answer": 3,
+   "explanation": "'Thursday at eight thirty would work.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-077",
+   "type": "listening",
+   "topic": "community",
+   "scriptId": "b1-ls-39",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm doing a ten-kilometre charity run in May to raise money for the children's hospital."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ten kilometres! Have you done that before?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Never. The furthest I've run is five, so I'm training three times a week."
+    },
+    {
+     "speaker": "Man",
+     "text": "Well, I'll sponsor you. Put me down for fifty dollars."
+    }
+   ],
+   "question": "What is the run raising money for?",
+   "options": [
+    "A school",
+    "A children's hospital",
+    "An animal charity",
+    "A sports club"
+   ],
+   "answer": 1,
+   "explanation": "'…to raise money for the children's hospital.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-078",
+   "type": "listening",
+   "topic": "community",
+   "scriptId": "b1-ls-39",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm doing a ten-kilometre charity run in May to raise money for the children's hospital."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ten kilometres! Have you done that before?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Never. The furthest I've run is five, so I'm training three times a week."
+    },
+    {
+     "speaker": "Man",
+     "text": "Well, I'll sponsor you. Put me down for fifty dollars."
+    }
+   ],
+   "question": "What does the man offer to do?",
+   "options": [
+    "Help her train",
+    "Run with her",
+    "Organise the event",
+    "Give her money"
+   ],
+   "answer": 3,
+   "explanation": "'I'll sponsor you. Put me down for fifty dollars.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-079",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b1-ls-40",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Residents living near the new airport say aircraft noise is keeping them awake at night. The airport has promised to reduce night flights from next year, but many residents say that isn't soon enough, and they're planning a protest outside the town hall on Saturday."
+    }
+   ],
+   "question": "What are residents complaining about?",
+   "options": [
+    "Traffic to the airport",
+    "Air pollution",
+    "Noise from planes at night",
+    "A lack of jobs"
+   ],
+   "answer": 2,
+   "explanation": "'…aircraft noise is keeping them awake at night.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-080",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b1-ls-40",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Residents living near the new airport say aircraft noise is keeping them awake at night. The airport has promised to reduce night flights from next year, but many residents say that isn't soon enough, and they're planning a protest outside the town hall on Saturday."
+    }
+   ],
+   "question": "What are residents planning to do?",
+   "options": [
+    "Hold a protest",
+    "Take the airport to court",
+    "Move away",
+    "Meet the airport manager"
+   ],
+   "answer": 0,
+   "explanation": "'…they're planning a protest outside the town hall on Saturday.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-081",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-41",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Are you still planning to study in the UK?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Yes, but I'm also looking at Australia. The courses are similar, but the weather's much better!"
+    },
+    {
+     "speaker": "Boy",
+     "text": "What about the costs?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Australia's a bit more expensive, but I could get a scholarship there, so it might work out cheaper."
+    }
+   ],
+   "question": "What does the girl say about the courses?",
+   "options": [
+    "The UK's are shorter.",
+    "Australia's are better.",
+    "They're similar in both countries.",
+    "She hasn't looked at them."
+   ],
+   "answer": 2,
+   "explanation": "'The courses are similar…'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-082",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-41",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Are you still planning to study in the UK?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Yes, but I'm also looking at Australia. The courses are similar, but the weather's much better!"
+    },
+    {
+     "speaker": "Boy",
+     "text": "What about the costs?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Australia's a bit more expensive, but I could get a scholarship there, so it might work out cheaper."
+    }
+   ],
+   "question": "Why might Australia be cheaper for her?",
+   "options": [
+    "Her family lives there.",
+    "She might get a scholarship.",
+    "Flights are cheaper.",
+    "Rent is lower there."
+   ],
+   "answer": 1,
+   "explanation": "'…I could get a scholarship there, so it might work out cheaper.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-083",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-42",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'd like to book a table for four on Friday at seven thirty."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Certainly. Does anyone have any dietary requirements?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, one of us is allergic to nuts, and another is vegetarian."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's fine. Our chef can adapt most dishes. I'll make a note on the booking."
+    }
+   ],
+   "question": "What does the woman ask about?",
+   "options": [
+    "The occasion",
+    "Special food needs",
+    "Where they want to sit",
+    "How they will pay"
+   ],
+   "answer": 1,
+   "explanation": "'Does anyone have any dietary requirements?'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-084",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b1-ls-42",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'd like to book a table for four on Friday at seven thirty."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Certainly. Does anyone have any dietary requirements?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, one of us is allergic to nuts, and another is vegetarian."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's fine. Our chef can adapt most dishes. I'll make a note on the booking."
+    }
+   ],
+   "question": "What does she say about the chef?",
+   "options": [
+    "He doesn't cook vegetarian food.",
+    "He will call the man.",
+    "He has a special Friday menu.",
+    "He can change most dishes."
+   ],
+   "answer": 3,
+   "explanation": "'Our chef can adapt most dishes.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-085",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b1-ls-43",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I heard you hurt your knee playing basketball. How is it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Much better, thanks. The physiotherapist says I can start training again next week, but only lightly."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Will you be ready for the final?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Hopefully. It's in a month, so there's enough time if I'm careful."
+    }
+   ],
+   "question": "What did the physiotherapist say?",
+   "options": [
+    "He needs an operation.",
+    "He can play in the final tomorrow.",
+    "He can do gentle training next week.",
+    "He must stop playing completely."
+   ],
+   "answer": 2,
+   "explanation": "'…I can start training again next week, but only lightly.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-086",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b1-ls-43",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I heard you hurt your knee playing basketball. How is it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Much better, thanks. The physiotherapist says I can start training again next week, but only lightly."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Will you be ready for the final?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Hopefully. It's in a month, so there's enough time if I'm careful."
+    }
+   ],
+   "question": "When is the final?",
+   "options": [
+    "Tomorrow",
+    "In a month",
+    "In two months",
+    "Next week"
+   ],
+   "answer": 1,
+   "explanation": "'It's in a month.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-087",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-44",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This bridge was built in nineteen oh two by French engineers. At the time, it was one of the longest bridges in Asia. It was badly damaged during the war, but local people repaired it, and today it's still used by trains, motorbikes and pedestrians."
+    }
+   ],
+   "question": "Who built the bridge?",
+   "options": [
+    "The army",
+    "French engineers",
+    "Local people",
+    "British engineers"
+   ],
+   "answer": 1,
+   "explanation": "'…built in nineteen oh two by French engineers.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-088",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b1-ls-44",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This bridge was built in nineteen oh two by French engineers. At the time, it was one of the longest bridges in Asia. It was badly damaged during the war, but local people repaired it, and today it's still used by trains, motorbikes and pedestrians."
+    }
+   ],
+   "question": "Who uses the bridge today?",
+   "options": [
+    "Cars and buses",
+    "Only pedestrians",
+    "Trains, motorbikes and pedestrians",
+    "Only trains"
+   ],
+   "answer": 2,
+   "explanation": "'…still used by trains, motorbikes and pedestrians.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-089",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-45",
+   "script": [
+    {
+     "speaker": "Recording",
+     "text": "Thank you for calling Style Online. If you want to return an item, you can do so within thirty days of delivery, as long as it is unworn and still has its original labels. Returns are free for members; non-members pay a fee of three dollars."
+    }
+   ],
+   "question": "How long do customers have to return an item?",
+   "options": [
+    "Thirty days",
+    "Two weeks",
+    "Three months",
+    "Thirteen days"
+   ],
+   "answer": 0,
+   "explanation": "'…within thirty days of delivery.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-090",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "b1-ls-45",
+   "script": [
+    {
+     "speaker": "Recording",
+     "text": "Thank you for calling Style Online. If you want to return an item, you can do so within thirty days of delivery, as long as it is unworn and still has its original labels. Returns are free for members; non-members pay a fee of three dollars."
+    }
+   ],
+   "question": "Who has to pay for returns?",
+   "options": [
+    "Non-members",
+    "Everyone",
+    "Members",
+    "Nobody"
+   ],
+   "answer": 0,
+   "explanation": "'Returns are free for members; non-members pay a fee of three dollars.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-091",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "b1-ls-46",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Shall we watch the new science fiction film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've read some reviews. Apparently the special effects are amazing, but the story's quite weak."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I don't mind that. I mainly want to see it on a big screen."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair enough. Let's get tickets for the eight o'clock show."
+    }
+   ],
+   "question": "What do the reviews say?",
+   "options": [
+    "The acting is poor.",
+    "The effects are great but the story isn't.",
+    "It's far too long.",
+    "It's the best film of the year."
+   ],
+   "answer": 1,
+   "explanation": "'…the special effects are amazing, but the story's quite weak.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-092",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "b1-ls-46",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Shall we watch the new science fiction film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've read some reviews. Apparently the special effects are amazing, but the story's quite weak."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I don't mind that. I mainly want to see it on a big screen."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair enough. Let's get tickets for the eight o'clock show."
+    }
+   ],
+   "question": "Why does the woman still want to see it?",
+   "options": [
+    "Her friends recommended it.",
+    "To watch it on a big screen",
+    "Her favourite actor is in it.",
+    "The tickets are cheap."
+   ],
+   "answer": 1,
+   "explanation": "'I mainly want to see it on a big screen.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-093",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "b1-ls-47",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'm thinking of leaving my job to become a tour guide."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What's made you think of that?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've been doing the same thing at the bank for eight years, and I want to work with people and use my languages."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you thought about trying it part-time first, at weekends?"
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a good idea. It'd be less risky."
+    }
+   ],
+   "question": "Why does the man want to change jobs?",
+   "options": [
+    "He has been offered a job.",
+    "He wants to work with people and use his languages.",
+    "He wants more money.",
+    "The bank is closing."
+   ],
+   "answer": 1,
+   "explanation": "'…I want to work with people and use my languages.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-094",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "b1-ls-47",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I'm thinking of leaving my job to become a tour guide."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What's made you think of that?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've been doing the same thing at the bank for eight years, and I want to work with people and use my languages."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you thought about trying it part-time first, at weekends?"
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a good idea. It'd be less risky."
+    }
+   ],
+   "question": "What does the woman suggest?",
+   "options": [
+    "Studying more languages",
+    "Moving abroad",
+    "Trying the new job part-time first",
+    "Asking for a promotion"
+   ],
+   "answer": 2,
+   "explanation": "'Have you thought about trying it part-time first, at weekends?'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-095",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b1-ls-48",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "This is the living room. As you can see, it gets a lot of natural light in the morning."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's lovely. Is there air conditioning?"
+    },
+    {
+     "speaker": "Agent",
+     "text": "In the bedroom, yes, but not in here. There's a ceiling fan, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And are pets allowed? I have a small dog."
+    },
+    {
+     "speaker": "Agent",
+     "text": "I'm afraid the owner doesn't allow pets."
+    }
+   ],
+   "question": "What does the agent say about the living room?",
+   "options": [
+    "It's very large.",
+    "It has a balcony.",
+    "It's bright in the morning.",
+    "It has air conditioning."
+   ],
+   "answer": 2,
+   "explanation": "'…it gets a lot of natural light in the morning.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-096",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b1-ls-48",
+   "script": [
+    {
+     "speaker": "Agent",
+     "text": "This is the living room. As you can see, it gets a lot of natural light in the morning."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's lovely. Is there air conditioning?"
+    },
+    {
+     "speaker": "Agent",
+     "text": "In the bedroom, yes, but not in here. There's a ceiling fan, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And are pets allowed? I have a small dog."
+    },
+    {
+     "speaker": "Agent",
+     "text": "I'm afraid the owner doesn't allow pets."
+    }
+   ],
+   "question": "What is a problem for the woman?",
+   "options": [
+    "She can't keep her dog there.",
+    "It's too far from work.",
+    "It's too expensive.",
+    "There's no fan."
+   ],
+   "answer": 0,
+   "explanation": "'I'm afraid the owner doesn't allow pets.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-097",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-49",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "One tip for remembering new vocabulary is to use it within twenty-four hours. Try to write a sentence with each new word, or use it in a conversation. Research shows that we forget most new information within a day unless we actively review it."
+    }
+   ],
+   "question": "What does the speaker recommend?",
+   "options": [
+    "Using new words soon after learning them",
+    "Reading a dictionary",
+    "Listening to podcasts at night",
+    "Learning fifty words a day"
+   ],
+   "answer": 0,
+   "explanation": "'…use it within twenty-four hours.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-098",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b1-ls-49",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "One tip for remembering new vocabulary is to use it within twenty-four hours. Try to write a sentence with each new word, or use it in a conversation. Research shows that we forget most new information within a day unless we actively review it."
+    }
+   ],
+   "question": "What does research show?",
+   "options": [
+    "Vocabulary is easy to remember.",
+    "We quickly forget what we don't review.",
+    "Adults learn faster than children.",
+    "Writing is better than speaking."
+   ],
+   "answer": 1,
+   "explanation": "'…we forget most new information within a day unless we actively review it.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-099",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-50",
+   "script": [
+    {
+     "speaker": "Guest",
+     "text": "Excuse me, the air conditioning in my room isn't working, and it's really hot."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "I'm very sorry. Our technician is busy at the moment, but I can move you to another room on the fifth floor."
+    },
+    {
+     "speaker": "Guest",
+     "text": "That would be great. Does it have a sea view like my current one?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "It's a city view, I'm afraid, but we'll give you free breakfast tomorrow to apologise."
+    }
+   ],
+   "question": "What does the receptionist offer first?",
+   "options": [
+    "A refund",
+    "A different room",
+    "An immediate repair",
+    "A fan"
+   ],
+   "answer": 1,
+   "explanation": "'…I can move you to another room on the fifth floor.'",
+   "skill": "listening",
+   "level": "b1"
+  },
+  {
+   "id": "b1-listening-100",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b1-ls-50",
+   "script": [
+    {
+     "speaker": "Guest",
+     "text": "Excuse me, the air conditioning in my room isn't working, and it's really hot."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "I'm very sorry. Our technician is busy at the moment, but I can move you to another room on the fifth floor."
+    },
+    {
+     "speaker": "Guest",
+     "text": "That would be great. Does it have a sea view like my current one?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "It's a city view, I'm afraid, but we'll give you free breakfast tomorrow to apologise."
+    }
+   ],
+   "question": "Why does the hotel offer free breakfast?",
+   "options": [
+    "The new room is more expensive.",
+    "The guest asked for it.",
+    "To apologise for the problem",
+    "Breakfast is always free."
+   ],
+   "answer": 2,
+   "explanation": "'…we'll give you free breakfast tomorrow to apologise.'",
+   "skill": "listening",
+   "level": "b1"
+  }
+ ]
+}

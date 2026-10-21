@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "c1",
+ "skill": "idiom",
+ "title": {
+  "en": "Idioms",
+  "vi": "Thành ngữ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "c1-idiom-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "add insult to injury",
+   "context": "The flight was cancelled, and to add insult to injury, the airline lost our luggage.",
+   "question": "What does “add insult to injury” mean in this sentence?",
+   "options": [
+    "to make a bad situation even worse for someone",
+    "to make a situation more confusing or less clear",
+    "to try every possible way to find something or achieve something",
+    "to deliberately ignore something wrong that you know is happening"
+   ],
+   "answer": 0,
+   "meaningVi": "đã đau còn bị xát muối, làm tình hình tệ hơn",
+   "explanation": "“add insult to injury” means to make a bad situation even worse for someone. Example: They cut our pay and then, as if to add insult to injury, asked us to work on Saturdays for free.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "bark up the wrong tree",
+   "context": "If you think I leaked the report, you're barking up the wrong tree.",
+   "question": "What does “bark up the wrong tree” mean in this sentence?",
+   "options": [
+    "a situation in which you cannot succeed because each choice depends on the other",
+    "honest, legal and done openly",
+    "a very difficult struggle against problems or opposition",
+    "to have a wrong idea about how to achieve something or who is responsible"
+   ],
+   "answer": 3,
+   "meaningVi": "nhắm sai đối tượng, đi sai hướng",
+   "explanation": "“bark up the wrong tree” means to have a wrong idea about how to achieve something or who is responsible. Example: Don't bark up the wrong tree by blaming the intern – he doesn't even have access to the server.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "burn your bridges",
+   "context": "However angry you are with your boss, don't burn your bridges – you may need a reference one day.",
+   "question": "What does “burn your bridges” mean in this sentence?",
+   "options": [
+    "to do something that makes it impossible to return to a previous situation",
+    "said unofficially and not to be published",
+    "to deliberately ignore something wrong that you know is happening",
+    "in a situation that is too difficult for you to deal with"
+   ],
+   "answer": 0,
+   "meaningVi": "tự cắt đường lui",
+   "explanation": "“burn your bridges” means to do something that makes it impossible to return to a previous situation. Example: Leave the company politely. In such a small industry, it's unwise to burn your bridges.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cut your losses",
+   "context": "After two years without a profit, the investors decided to cut their losses and close the shop.",
+   "question": "What does “cut your losses” mean in this sentence?",
+   "options": [
+    "honest, legal and done openly",
+    "in all the important ways; virtually",
+    "to stop doing something that is failing in order to prevent further loss",
+    "to have a wrong idea about how to achieve something or who is responsible"
+   ],
+   "answer": 2,
+   "meaningVi": "cắt lỗ, dừng lại để tránh thiệt hại thêm",
+   "explanation": "“cut your losses” means to stop doing something that is failing in order to prevent further loss. Example: The project is six months late and wildly over budget. Rather than pour in more money, it may be time to cut your losses and abandon it.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "err on the side of caution",
+   "context": "The forecast was uncertain, so the organisers erred on the side of caution and moved the concert indoors.",
+   "question": "What does “err on the side of caution” mean in this sentence?",
+   "options": [
+    "to choose the safer option when you are not sure",
+    "to try to hide a problem or mistake instead of dealing with it",
+    "affecting everyone or everything in a group",
+    "to do things in the wrong order"
+   ],
+   "answer": 0,
+   "meaningVi": "thà cẩn thận còn hơn, chọn phương án an toàn",
+   "explanation": "“err on the side of caution” means to choose the safer option when you are not sure. Example: If you're not sure whether a fish bone is still in the dish, err on the side of caution and don't serve it to children.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "fly off the handle",
+   "context": "He tends to fly off the handle whenever anyone questions his decisions.",
+   "question": "What does “fly off the handle” mean in this sentence?",
+   "options": [
+    "to suddenly become very angry",
+    "a decisive test of whether something is good or true",
+    "in a situation that is too difficult for you to deal with",
+    "quick to understand and react to things"
+   ],
+   "answer": 0,
+   "meaningVi": "nổi nóng bất chợt, mất bình tĩnh",
+   "explanation": "“fly off the handle” means to suddenly become very angry. Example: Try to stay calm in the negotiation. If you fly off the handle, you'll lose the room's respect.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get to grips with",
+   "context": "It took me months to get to grips with the new accounting software.",
+   "question": "What does “get to grips with” mean in this sentence?",
+   "options": [
+    "to choose the safer option when you are not sure",
+    "to argue about very small, unimportant differences",
+    "to be satisfied with past success and stop trying to achieve more",
+    "to make an effort to understand and deal with something difficult"
+   ],
+   "answer": 3,
+   "meaningVi": "nắm bắt, làm chủ (vấn đề khó)",
+   "explanation": "“get to grips with” means to make an effort to understand and deal with something difficult. Example: New managers are given three months to get to grips with the company's complex reporting system.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "go out on a limb",
+   "context": "She went out on a limb to defend the junior employee when everyone else blamed him.",
+   "question": "What does “go out on a limb” mean in this sentence?",
+   "options": [
+    "at the last possible moment",
+    "a situation that causes many new problems when you start to deal with it",
+    "to say or do something that others do not support, putting yourself at risk",
+    "a situation in which you cannot succeed because each choice depends on the other"
+   ],
+   "answer": 2,
+   "meaningVi": "mạo hiểm đưa ra ý kiến khác số đông",
+   "explanation": "“go out on a limb” means to say or do something that others do not support, putting yourself at risk. Example: I'll go out on a limb and predict that electric planes will be common within twenty years.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hit a brick wall",
+   "context": "Talks between the union and management have hit a brick wall.",
+   "question": "What does “hit a brick wall” mean in this sentence?",
+   "options": [
+    "to reach a point where you cannot make any further progress",
+    "rare; not happening or found very often",
+    "to do what you are expected or ordered to do, even if you disagree",
+    "to choose the safer option when you are not sure"
+   ],
+   "answer": 0,
+   "meaningVi": "rơi vào bế tắc",
+   "explanation": "“hit a brick wall” means to reach a point where you cannot make any further progress. Example: Every time we try to get funding for the research, we seem to hit a brick wall.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "jump the gun",
+   "context": "The newspaper jumped the gun and announced the winner before all the votes had been counted.",
+   "question": "What does “jump the gun” mean in this sentence?",
+   "options": [
+    "to have a wrong idea about how to achieve something or who is responsible",
+    "to do something too soon, before the right time",
+    "at the last possible moment",
+    "a situation that causes many new problems when you start to deal with it"
+   ],
+   "answer": 1,
+   "meaningVi": "hành động vội vàng, hấp tấp",
+   "explanation": "“jump the gun” means to do something too soon, before the right time. Example: Let's not jump the gun and order the furniture before the contract for the flat is signed.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "leave no stone unturned",
+   "context": "The investigators promised to leave no stone unturned in their search for the truth.",
+   "question": "What does “leave no stone unturned” mean in this sentence?",
+   "options": [
+    "at the last possible moment",
+    "to try every possible way to find something or achieve something",
+    "a situation that causes many new problems when you start to deal with it",
+    "a situation in which you cannot succeed because each choice depends on the other"
+   ],
+   "answer": 1,
+   "meaningVi": "tìm mọi cách, không bỏ sót điều gì",
+   "explanation": "“leave no stone unturned” means to try every possible way to find something or achieve something. Example: We will leave no stone unturned until we find out what caused the system failure.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "muddy the waters",
+   "context": "Introducing a second set of figures at this stage will only muddy the waters.",
+   "question": "What does “muddy the waters” mean in this sentence?",
+   "options": [
+    "to make a situation more confusing or less clear",
+    "to stop a problem at an early stage before it becomes serious",
+    "to choose the safer option when you are not sure",
+    "quick to understand and react to things"
+   ],
+   "answer": 0,
+   "meaningVi": "làm rối thêm vấn đề",
+   "explanation": "“muddy the waters” means to make a situation more confusing or less clear. Example: The lawyer's strategy was to muddy the waters by raising doubts about every witness.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "nip something in the bud",
+   "context": "If students start arriving late, teachers should nip it in the bud straight away.",
+   "question": "What does “nip something in the bud” mean in this sentence?",
+   "options": [
+    "to make someone else responsible for a problem that you should deal with",
+    "to do something that makes it impossible to return to a previous situation",
+    "to stop a problem at an early stage before it becomes serious",
+    "to be satisfied with past success and stop trying to achieve more"
+   ],
+   "answer": 2,
+   "meaningVi": "bóp chết từ trong trứng nước",
+   "explanation": "“nip something in the bud” means to stop a problem at an early stage before it becomes serious. Example: Rumours spread quickly in a small office, so the director decided to nip it in the bud with an open meeting.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "pass the buck",
+   "context": "When the project failed, every department tried to pass the buck.",
+   "question": "What does “pass the buck” mean in this sentence?",
+   "options": [
+    "to stop a problem at an early stage before it becomes serious",
+    "to argue about very small, unimportant differences",
+    "a decisive test of whether something is good or true",
+    "to make someone else responsible for a problem that you should deal with"
+   ],
+   "answer": 3,
+   "meaningVi": "đùn đẩy trách nhiệm",
+   "explanation": "“pass the buck” means to make someone else responsible for a problem that you should deal with. Example: Good leaders accept responsibility for mistakes instead of trying to pass the buck to their teams.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "put the cart before the horse",
+   "context": "Designing the logo before deciding what the company sells is putting the cart before the horse.",
+   "question": "What does “put the cart before the horse” mean in this sentence?",
+   "options": [
+    "in all the important ways; virtually",
+    "a result that is certain before it happens",
+    "to do things in the wrong order",
+    "just before it was too late"
+   ],
+   "answer": 2,
+   "meaningVi": "làm ngược quy trình, cầm đèn chạy trước ô tô",
+   "explanation": "“put the cart before the horse” means to do things in the wrong order. Example: Hiring sales staff before the product even exists would be to put the cart before the horse.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "rest on your laurels",
+   "context": "The team won the league last year, but they can't afford to rest on their laurels.",
+   "question": "What does “rest on your laurels” mean in this sentence?",
+   "options": [
+    "to be satisfied with past success and stop trying to achieve more",
+    "to argue about very small, unimportant differences",
+    "a sudden success that does not last",
+    "to take attention or praise away from someone by doing what they planned to do first"
+   ],
+   "answer": 0,
+   "meaningVi": "ngủ quên trên chiến thắng",
+   "explanation": "“rest on your laurels” means to be satisfied with past success and stop trying to achieve more. Example: Our competitors are catching up fast, so this is no time to rest on your laurels.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "split hairs",
+   "context": "Whether the meeting starts at 9.00 or 9.05 doesn't matter – let's not split hairs.",
+   "question": "What does “split hairs” mean in this sentence?",
+   "options": [
+    "to argue about very small, unimportant differences",
+    "to make a bad situation even worse for someone",
+    "a situation in which you cannot succeed because each choice depends on the other",
+    "strongly disagreeing"
+   ],
+   "answer": 0,
+   "meaningVi": "bới lông tìm vết, chẻ sợi tóc làm tư",
+   "explanation": "“split hairs” means to argue about very small, unimportant differences. Example: The meaning of the clause is perfectly clear, so let's not split hairs over the exact wording.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "steal someone's thunder",
+   "context": "My colleague stole my thunder by presenting my idea before I had the chance.",
+   "question": "What does “steal someone's thunder” mean in this sentence?",
+   "options": [
+    "a situation in which you cannot succeed because each choice depends on the other",
+    "to take attention or praise away from someone by doing what they planned to do first",
+    "to suddenly become very angry",
+    "to have a wrong idea about how to achieve something or who is responsible"
+   ],
+   "answer": 1,
+   "meaningVi": "cướp công, giành sự chú ý của người khác",
+   "explanation": "“steal someone's thunder” means to take attention or praise away from someone by doing what they planned to do first. Example: I didn't want to steal your thunder by announcing my engagement at your graduation party.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "take the bull by the horns",
+   "context": "Instead of waiting for a promotion, she took the bull by the horns and asked for one.",
+   "question": "What does “take the bull by the horns” mean in this sentence?",
+   "options": [
+    "to deal with a difficult situation directly and confidently",
+    "to make a bad situation even worse for someone",
+    "the largest part of something",
+    "to stop a problem at an early stage before it becomes serious"
+   ],
+   "answer": 0,
+   "meaningVi": "dũng cảm đối mặt, xử lý thẳng vấn đề",
+   "explanation": "“take the bull by the horns” means to deal with a difficult situation directly and confidently. Example: The complaints won't go away on their own. You need to take the bull by the horns and talk to the client directly.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "toe the line",
+   "context": "Ministers who refuse to toe the line on this policy may lose their jobs.",
+   "question": "What does “toe the line” mean in this sentence?",
+   "options": [
+    "strongly disagreeing",
+    "to do what you are expected or ordered to do, even if you disagree",
+    "to choose the safer option when you are not sure",
+    "ordinary and not special in any way"
+   ],
+   "answer": 1,
+   "meaningVi": "tuân thủ, làm theo quy định",
+   "explanation": "“toe the line” means to do what you are expected or ordered to do, even if you disagree. Example: Employees who won't toe the line on safety procedures will receive a formal warning.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "turn a blind eye to",
+   "context": "For years, the authorities turned a blind eye to the illegal dumping of waste.",
+   "question": "What does “turn a blind eye to” mean in this sentence?",
+   "options": [
+    "to deliberately ignore something wrong that you know is happening",
+    "strongly disagreeing",
+    "affecting everyone or everything in a group",
+    "at the last possible moment"
+   ],
+   "answer": 0,
+   "meaningVi": "làm ngơ, nhắm mắt làm ngơ",
+   "explanation": "“turn a blind eye to” means to deliberately ignore something wrong that you know is happening. Example: Some managers turn a blind eye to staff using their phones, as long as the work gets done.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "sweep something under the carpet",
+   "context": "The company tried to sweep the safety report under the carpet.",
+   "question": "What does “sweep something under the carpet” mean in this sentence?",
+   "options": [
+    "to do something that makes it impossible to return to a previous situation",
+    "to try to hide a problem or mistake instead of dealing with it",
+    "to make a bad situation even worse for someone",
+    "just before it was too late"
+   ],
+   "answer": 1,
+   "meaningVi": "che giấu, ỉm đi",
+   "explanation": "“sweep something under the carpet” means to try to hide a problem or mistake instead of dealing with it. Example: Bullying must be dealt with openly; a school should never try to sweep it under the carpet.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "reinvent the wheel",
+   "context": "There's no need to reinvent the wheel – other schools already have an excellent anti-bullying policy we can adapt.",
+   "question": "What does “reinvent the wheel” mean in this sentence?",
+   "options": [
+    "a result that is certain before it happens",
+    "to waste time creating something that already exists",
+    "to make someone else responsible for a problem that you should deal with",
+    "to do something too soon, before the right time"
+   ],
+   "answer": 1,
+   "meaningVi": "làm lại từ đầu thứ đã có sẵn",
+   "explanation": "“reinvent the wheel” means to waste time creating something that already exists. Example: Use the existing templates for the report; there's no point trying to reinvent the wheel.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "come to a head",
+   "context": "Tensions between the two departments came to a head at Monday's meeting.",
+   "question": "What does “come to a head” mean in this sentence?",
+   "options": [
+    "to reach a point where action must be taken",
+    "ordinary and not special in any way",
+    "a very difficult struggle against problems or opposition",
+    "a situation that causes many new problems when you start to deal with it"
+   ],
+   "answer": 0,
+   "meaningVi": "lên đến đỉnh điểm, đến lúc phải giải quyết",
+   "explanation": "“come to a head” means to reach a point where action must be taken. Example: If management keeps ignoring the complaints, things are bound to come to a head sooner or later.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a catch-22",
+   "context": "It's a catch-22: you can't get a job without experience, but you can't get experience without a job.",
+   "question": "What does “a catch-22” mean in this sentence?",
+   "options": [
+    "rare; not happening or found very often",
+    "a situation in which you cannot succeed because each choice depends on the other",
+    "to say or do something that others do not support, putting yourself at risk",
+    "just before it was too late"
+   ],
+   "answer": 1,
+   "meaningVi": "tình thế tiến thoái lưỡng nan",
+   "explanation": "“a catch-22” means a situation in which you cannot succeed because each choice depends on the other. Example: Banks won't lend to new businesses without a credit history, which is a catch-22 for young entrepreneurs.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a moot point",
+   "context": "Whether the plan would have worked is a moot point now that the funding has been withdrawn.",
+   "question": "What does “a moot point” mean in this sentence?",
+   "options": [
+    "rare; not happening or found very often",
+    "to reach a point where you cannot make any further progress",
+    "something that is uncertain, or no longer important because the situation has changed",
+    "to stop doing something that is failing in order to prevent further loss"
+   ],
+   "answer": 2,
+   "meaningVi": "vấn đề còn tranh cãi / không còn ý nghĩa",
+   "explanation": "“a moot point” means something that is uncertain, or no longer important because the situation has changed. Example: Since the event has been cancelled, who should give the opening speech is a moot point.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the lion's share",
+   "context": "The lion's share of the budget goes on staff salaries.",
+   "question": "What does “the lion's share” mean in this sentence?",
+   "options": [
+    "to make a bad situation even worse for someone",
+    "to say or do something that others do not support, putting yourself at risk",
+    "the largest part of something",
+    "a very difficult struggle against problems or opposition"
+   ],
+   "answer": 2,
+   "meaningVi": "phần lớn nhất, phần hơn",
+   "explanation": "“the lion's share” means the largest part of something. Example: Although five people worked on the project, the manager took the lion's share of the credit.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a bone of contention",
+   "context": "Working hours have long been a bone of contention between staff and management.",
+   "question": "What does “a bone of contention” mean in this sentence?",
+   "options": [
+    "affecting everyone or everything in a group",
+    "to choose the safer option when you are not sure",
+    "a subject that people argue about for a long time",
+    "in a state of no activity, progress or improvement"
+   ],
+   "answer": 2,
+   "meaningVi": "nguyên nhân tranh chấp",
+   "explanation": "“a bone of contention” means a subject that people argue about for a long time. Example: Who should pay for repairs to the shared fence has become a bone of contention between the neighbours.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a sticking point",
+   "context": "Salary is likely to be a major sticking point in the negotiations.",
+   "question": "What does “a sticking point” mean in this sentence?",
+   "options": [
+    "in a state of no activity, progress or improvement",
+    "an issue that prevents people from reaching an agreement",
+    "to reach a point where you cannot make any further progress",
+    "just before it was too late"
+   ],
+   "answer": 1,
+   "meaningVi": "điểm vướng mắc",
+   "explanation": "“a sticking point” means an issue that prevents people from reaching an agreement. Example: Both sides agree on most terms, but the length of the contract is proving to be a sticking point that could prevent a deal.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a flash in the pan",
+   "context": "Critics dismissed the band as a flash in the pan, but they're still selling out stadiums ten years later.",
+   "question": "What does “a flash in the pan” mean in this sentence?",
+   "options": [
+    "to stop doing something that is failing in order to prevent further loss",
+    "to do what you are expected or ordered to do, even if you disagree",
+    "a sudden success that does not last",
+    "ordinary and not special in any way"
+   ],
+   "answer": 2,
+   "meaningVi": "thành công chớp nhoáng",
+   "explanation": "“a flash in the pan” means a sudden success that does not last. Example: Her second novel proved that her early success was not merely a flash in the pan.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "an uphill battle",
+   "context": "Convincing older staff to use the new system has been an uphill battle.",
+   "question": "What does “an uphill battle” mean in this sentence?",
+   "options": [
+    "to make a situation more confusing or less clear",
+    "already decided and unlikely to change; clear and simple",
+    "to try to hide a problem or mistake instead of dealing with it",
+    "a very difficult struggle against problems or opposition"
+   ],
+   "answer": 3,
+   "meaningVi": "cuộc chiến gian nan",
+   "explanation": "“an uphill battle” means a very difficult struggle against problems or opposition. Example: Small farmers face an uphill battle competing with huge agricultural companies.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the acid test",
+   "context": "The acid test of any education reform is whether students actually learn more.",
+   "question": "What does “the acid test” mean in this sentence?",
+   "options": [
+    "just before it was too late",
+    "in a situation that is too difficult for you to deal with",
+    "a decisive test of whether something is good or true",
+    "rare; not happening or found very often"
+   ],
+   "answer": 2,
+   "meaningVi": "phép thử quyết định",
+   "explanation": "“the acid test” means a decisive test of whether something is good or true. Example: Strong sales in the first week will be the acid test of whether customers like the new design.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a can of worms",
+   "context": "Changing the pay structure could open a can of worms that the company isn't ready for.",
+   "question": "What does “a can of worms” mean in this sentence?",
+   "options": [
+    "a situation that causes many new problems when you start to deal with it",
+    "to waste time creating something that already exists",
+    "to make an effort to understand and deal with something difficult",
+    "to suddenly become very angry"
+   ],
+   "answer": 0,
+   "meaningVi": "mớ bòng bong, rắc rối kéo theo",
+   "explanation": "“a can of worms” means a situation that causes many new problems when you start to deal with it. Example: Investigating one minister's expenses opened a can of worms that eventually involved the whole government.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a foregone conclusion",
+   "context": "With the opposition so divided, the election result was a foregone conclusion.",
+   "question": "What does “a foregone conclusion” mean in this sentence?",
+   "options": [
+    "a result that is certain before it happens",
+    "to do something too soon, before the right time",
+    "to stop doing something that is failing in order to prevent further loss",
+    "a very difficult struggle against problems or opposition"
+   ],
+   "answer": 0,
+   "meaningVi": "kết quả biết trước",
+   "explanation": "“a foregone conclusion” means a result that is certain before it happens. Example: Given her experience and qualifications, her appointment as director seemed a foregone conclusion.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a white elephant",
+   "context": "The new stadium has become a white elephant, used only a few times a year.",
+   "question": "What does “a white elephant” mean in this sentence?",
+   "options": [
+    "something expensive that is not useful and costs a lot to maintain",
+    "rare; not happening or found very often",
+    "to do what you are expected or ordered to do, even if you disagree",
+    "to be satisfied with past success and stop trying to achieve more"
+   ],
+   "answer": 0,
+   "meaningVi": "của nợ tốn kém, công trình vô dụng",
+   "explanation": "“a white elephant” means something expensive that is not useful and costs a lot to maintain. Example: Critics warned that the half-empty airport would turn into a white elephant that taxpayers would pay for for decades.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "run-of-the-mill",
+   "context": "It's a run-of-the-mill hotel – clean and comfortable, but nothing memorable.",
+   "question": "What does “run-of-the-mill” mean in this sentence?",
+   "options": [
+    "to reach a point where you cannot make any further progress",
+    "quick to understand and react to things",
+    "to have a wrong idea about how to achieve something or who is responsible",
+    "ordinary and not special in any way"
+   ],
+   "answer": 3,
+   "meaningVi": "bình thường, tầm thường",
+   "explanation": "“run-of-the-mill” means ordinary and not special in any way. Example: The film wasn't bad, but the plot was fairly run-of-the-mill – I'd guessed the ending after twenty minutes.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cut and dried",
+   "context": "The case isn't as cut and dried as the newspapers suggest.",
+   "question": "What does “cut and dried” mean in this sentence?",
+   "options": [
+    "in a state of no activity, progress or improvement",
+    "to make a situation more confusing or less clear",
+    "already decided and unlikely to change; clear and simple",
+    "to make an effort to understand and deal with something difficult"
+   ],
+   "answer": 2,
+   "meaningVi": "rõ ràng, đã định đoạt",
+   "explanation": "“cut and dried” means already decided and unlikely to change; clear and simple. Example: Ethical questions in medicine are rarely cut and dried; doctors often have to weigh competing values.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "above board",
+   "context": "All the payments were completely above board and fully documented.",
+   "question": "What does “above board” mean in this sentence?",
+   "options": [
+    "to suddenly become very angry",
+    "at the last possible moment",
+    "honest, legal and done openly",
+    "rare; not happening or found very often"
+   ],
+   "answer": 2,
+   "meaningVi": "minh bạch, đàng hoàng",
+   "explanation": "“above board” means honest, legal and done openly. Example: Before investing, make sure the company's accounts are above board.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on the ball",
+   "context": "Our new assistant is really on the ball – she spotted the error in the contract immediately.",
+   "question": "What does “on the ball” mean in this sentence?",
+   "options": [
+    "quick to understand and react to things",
+    "to stop doing something that is failing in order to prevent further loss",
+    "an issue that prevents people from reaching an agreement",
+    "to suddenly become very angry"
+   ],
+   "answer": 0,
+   "meaningVi": "nhanh nhạy, tinh ý",
+   "explanation": "“on the ball” means quick to understand and react to things. Example: You need to be on the ball in this job, because prices change by the minute.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "out of your depth",
+   "context": "I felt completely out of my depth in the advanced physics seminar.",
+   "question": "What does “out of your depth” mean in this sentence?",
+   "options": [
+    "an issue that prevents people from reaching an agreement",
+    "to reach a point where you cannot make any further progress",
+    "in a situation that is too difficult for you to deal with",
+    "to reach a point where action must be taken"
+   ],
+   "answer": 2,
+   "meaningVi": "quá sức, vượt quá khả năng",
+   "explanation": "“out of your depth” means in a situation that is too difficult for you to deal with. Example: If you've never managed a team before, you might feel out of your depth at first.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "at loggerheads",
+   "context": "The council and local residents have been at loggerheads over the new road for months.",
+   "question": "What does “at loggerheads” mean in this sentence?",
+   "options": [
+    "ordinary and not special in any way",
+    "to argue about very small, unimportant differences",
+    "to make an effort to understand and deal with something difficult",
+    "strongly disagreeing"
+   ],
+   "answer": 3,
+   "meaningVi": "bất đồng gay gắt",
+   "explanation": "“at loggerheads” means strongly disagreeing. Example: The two founders are at loggerheads over the future direction of the company.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the doldrums",
+   "context": "The housing market has been in the doldrums since interest rates rose.",
+   "question": "What does “in the doldrums” mean in this sentence?",
+   "options": [
+    "in a state of no activity, progress or improvement",
+    "said unofficially and not to be published",
+    "to deal with a difficult situation directly and confidently",
+    "better than all others"
+   ],
+   "answer": 0,
+   "meaningVi": "trì trệ, ảm đạm",
+   "explanation": "“in the doldrums” means in a state of no activity, progress or improvement. Example: After the factory closed, the town's economy remained in the doldrums for almost a decade.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "few and far between",
+   "context": "Well-paid jobs for graduates in this field are few and far between.",
+   "question": "What does “few and far between” mean in this sentence?",
+   "options": [
+    "already decided and unlikely to change; clear and simple",
+    "to have a wrong idea about how to achieve something or who is responsible",
+    "rare; not happening or found very often",
+    "a result that is certain before it happens"
+   ],
+   "answer": 2,
+   "meaningVi": "hiếm hoi, hiếm khi có",
+   "explanation": "“few and far between” means rare; not happening or found very often. Example: In the desert, petrol stations are few and far between, so fill up whenever you can.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "second to none",
+   "context": "The hotel's service is second to none.",
+   "question": "What does “second to none” mean in this sentence?",
+   "options": [
+    "to deal with a difficult situation directly and confidently",
+    "a result that is certain before it happens",
+    "to make someone else responsible for a problem that you should deal with",
+    "better than all others"
+   ],
+   "answer": 3,
+   "meaningVi": "không ai sánh bằng, số một",
+   "explanation": "“second to none” means better than all others. Example: Her knowledge of medieval history is second to none; even her professors ask for her advice.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "by and large",
+   "context": "By and large, the new system has been well received by staff.",
+   "question": "What does “by and large” mean in this sentence?",
+   "options": [
+    "generally; when everything is considered",
+    "to do what you are expected or ordered to do, even if you disagree",
+    "just before it was too late",
+    "strongly disagreeing"
+   ],
+   "answer": 0,
+   "meaningVi": "nhìn chung, nói chung",
+   "explanation": "“by and large” means generally; when everything is considered. Example: There were a few complaints, but by and large the conference was a success.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "to all intents and purposes",
+   "context": "The deal hasn't been signed yet, but to all intents and purposes it's finished.",
+   "question": "What does “to all intents and purposes” mean in this sentence?",
+   "options": [
+    "to reach a point where you cannot make any further progress",
+    "to do something too soon, before the right time",
+    "at the last possible moment",
+    "in all the important ways; virtually"
+   ],
+   "answer": 3,
+   "meaningVi": "về thực chất, gần như hoàn toàn",
+   "explanation": "“to all intents and purposes” means in all the important ways; virtually. Example: Although she still has the title of director, she has to all intents and purposes retired.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the nick of time",
+   "context": "The firefighters arrived in the nick of time.",
+   "question": "What does “in the nick of time” mean in this sentence?",
+   "options": [
+    "said unofficially and not to be published",
+    "just before it was too late",
+    "to deliberately ignore something wrong that you know is happening",
+    "to argue about very small, unimportant differences"
+   ],
+   "answer": 1,
+   "meaningVi": "vừa kịp lúc",
+   "explanation": "“in the nick of time” means just before it was too late. Example: We reached the gate in the nick of time – it closed thirty seconds after we boarded.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "at the eleventh hour",
+   "context": "The strike was called off at the eleventh hour after a new offer was made.",
+   "question": "What does “at the eleventh hour” mean in this sentence?",
+   "options": [
+    "to be satisfied with past success and stop trying to achieve more",
+    "a result that is certain before it happens",
+    "in a situation that is too difficult for you to deal with",
+    "at the last possible moment"
+   ],
+   "answer": 3,
+   "meaningVi": "vào phút chót",
+   "explanation": "“at the eleventh hour” means at the last possible moment. Example: The main speaker pulled out at the eleventh hour, leaving organisers scrambling to find a replacement.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "off the record",
+   "context": "Off the record, the minister admitted that the plan had little chance of success.",
+   "question": "What does “off the record” mean in this sentence?",
+   "options": [
+    "in a state of no activity, progress or improvement",
+    "in a situation that is too difficult for you to deal with",
+    "said unofficially and not to be published",
+    "better than all others"
+   ],
+   "answer": 2,
+   "meaningVi": "không chính thức, không được công bố",
+   "explanation": "“off the record” means said unofficially and not to be published. Example: The official agreed to speak to the journalist only off the record.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "across the board",
+   "context": "The company announced a 5% pay rise across the board.",
+   "question": "What does “across the board” mean in this sentence?",
+   "options": [
+    "to do things in the wrong order",
+    "in a state of no activity, progress or improvement",
+    "to do something too soon, before the right time",
+    "affecting everyone or everything in a group"
+   ],
+   "answer": 3,
+   "meaningVi": "đồng loạt, áp dụng cho tất cả",
+   "explanation": "“across the board” means affecting everyone or everything in a group. Example: Prices have risen across the board, from food and fuel to rent and electricity.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a sticking point",
+   "question": "Choose the idiom that best completes the sentence:\nBoth sides agree on most terms, but the length of the contract is proving to be ___ that could prevent a deal.",
+   "options": [
+    "a moot point",
+    "the acid test",
+    "a flash in the pan",
+    "a sticking point"
+   ],
+   "answer": 3,
+   "meaningVi": "điểm vướng mắc",
+   "explanation": "“a sticking point” = an issue that prevents people from reaching an agreement. Full sentence: Both sides agree on most terms, but the length of the contract is proving to be a sticking point that could prevent a deal.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a white elephant",
+   "question": "Choose the idiom that best completes the sentence:\nCritics warned that the half-empty airport would turn into ___ that taxpayers would pay for for decades.",
+   "options": [
+    "a foregone conclusion",
+    "a white elephant",
+    "a can of worms",
+    "an uphill battle"
+   ],
+   "answer": 1,
+   "meaningVi": "của nợ tốn kém, công trình vô dụng",
+   "explanation": "“a white elephant” = something expensive that is not useful and costs a lot to maintain. Full sentence: Critics warned that the half-empty airport would turn into a white elephant that taxpayers would pay for for decades.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "run-of-the-mill",
+   "question": "Choose the idiom that best completes the sentence:\nThe film wasn't bad, but the plot was fairly ___ – I'd guessed the ending after twenty minutes.",
+   "options": [
+    "second to none",
+    "run-of-the-mill",
+    "cut and dried",
+    "in the doldrums"
+   ],
+   "answer": 1,
+   "meaningVi": "bình thường, tầm thường",
+   "explanation": "“run-of-the-mill” = ordinary and not special in any way. Full sentence: The film wasn't bad, but the plot was fairly run-of-the-mill – I'd guessed the ending after twenty minutes.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "rest on your laurels",
+   "question": "Choose the idiom that best completes the sentence:\nOur competitors are catching up fast, so this is no time to ___.",
+   "options": [
+    "come to a head",
+    "muddy the waters",
+    "rest on your laurels",
+    "sweep it under the carpet"
+   ],
+   "answer": 2,
+   "meaningVi": "ngủ quên trên chiến thắng",
+   "explanation": "“rest on your laurels” = to be satisfied with past success and stop trying to achieve more. Full sentence: Our competitors are catching up fast, so this is no time to rest on your laurels.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the nick of time",
+   "question": "Choose the idiom that best completes the sentence:\nWe reached the gate ___ – it closed thirty seconds after we boarded.",
+   "options": [
+    "in the nick of time",
+    "off the record",
+    "across the board",
+    "by and large"
+   ],
+   "answer": 0,
+   "meaningVi": "vừa kịp lúc",
+   "explanation": "“in the nick of time” = just before it was too late. Full sentence: We reached the gate in the nick of time – it closed thirty seconds after we boarded.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "above board",
+   "question": "Choose the idiom that best completes the sentence:\nBefore investing, make sure the company's accounts are ___.",
+   "options": [
+    "above board",
+    "second to none",
+    "run-of-the-mill",
+    "cut and dried"
+   ],
+   "answer": 0,
+   "meaningVi": "minh bạch, đàng hoàng",
+   "explanation": "“above board” = honest, legal and done openly. Full sentence: Before investing, make sure the company's accounts are above board.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "reinvent the wheel",
+   "question": "Choose the idiom that best completes the sentence:\nUse the existing templates for the report; there's no point trying to ___.",
+   "options": [
+    "steal your thunder",
+    "put the cart before the horse",
+    "reinvent the wheel",
+    "add insult to injury"
+   ],
+   "answer": 2,
+   "meaningVi": "làm lại từ đầu thứ đã có sẵn",
+   "explanation": "“reinvent the wheel” = to waste time creating something that already exists. Full sentence: Use the existing templates for the report; there's no point trying to reinvent the wheel.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a bone of contention",
+   "question": "Choose the idiom that best completes the sentence:\nWho should pay for repairs to the shared fence has become ___ between the neighbours.",
+   "options": [
+    "a foregone conclusion",
+    "a flash in the pan",
+    "the acid test",
+    "a bone of contention"
+   ],
+   "answer": 3,
+   "meaningVi": "nguyên nhân tranh chấp",
+   "explanation": "“a bone of contention” = a subject that people argue about for a long time. Full sentence: Who should pay for repairs to the shared fence has become a bone of contention between the neighbours.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the lion's share",
+   "question": "Choose the idiom that best completes the sentence:\nAlthough five people worked on the project, the manager took ___ of the credit.",
+   "options": [
+    "a foregone conclusion",
+    "the lion's share",
+    "a can of worms",
+    "the acid test"
+   ],
+   "answer": 1,
+   "meaningVi": "phần lớn nhất, phần hơn",
+   "explanation": "“the lion's share” = the largest part of something. Full sentence: Although five people worked on the project, the manager took the lion's share of the credit.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the acid test",
+   "question": "Choose the idiom that best completes the sentence:\nStrong sales in the first week will be ___ of whether customers like the new design.",
+   "options": [
+    "a white elephant",
+    "an uphill battle",
+    "the acid test",
+    "a flash in the pan"
+   ],
+   "answer": 2,
+   "meaningVi": "phép thử quyết định",
+   "explanation": "“the acid test” = a decisive test of whether something is good or true. Full sentence: Strong sales in the first week will be the acid test of whether customers like the new design.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "put the cart before the horse",
+   "question": "Choose the idiom that best completes the sentence:\nHiring sales staff before the product even exists would be to ___.",
+   "options": [
+    "sweep it under the carpet",
+    "put the cart before the horse",
+    "toe the line",
+    "bark up the wrong tree"
+   ],
+   "answer": 1,
+   "meaningVi": "làm ngược quy trình, cầm đèn chạy trước ô tô",
+   "explanation": "“put the cart before the horse” = to do things in the wrong order. Full sentence: Hiring sales staff before the product even exists would be to put the cart before the horse.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "come to a head",
+   "question": "Choose the idiom that best completes the sentence:\nIf management keeps ignoring the complaints, things are bound to ___ sooner or later.",
+   "options": [
+    "split hairs",
+    "add insult to injury",
+    "come to a head",
+    "take the bull by the horns"
+   ],
+   "answer": 2,
+   "meaningVi": "lên đến đỉnh điểm, đến lúc phải giải quyết",
+   "explanation": "“come to a head” = to reach a point where action must be taken. Full sentence: If management keeps ignoring the complaints, things are bound to come to a head sooner or later.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a foregone conclusion",
+   "question": "Choose the idiom that best completes the sentence:\nGiven her experience and qualifications, her appointment as director seemed ___.",
+   "options": [
+    "a flash in the pan",
+    "a moot point",
+    "a foregone conclusion",
+    "an uphill battle"
+   ],
+   "answer": 2,
+   "meaningVi": "kết quả biết trước",
+   "explanation": "“a foregone conclusion” = a result that is certain before it happens. Full sentence: Given her experience and qualifications, her appointment as director seemed a foregone conclusion.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "take the bull by the horns",
+   "question": "Choose the idiom that best completes the sentence:\nThe complaints won't go away on their own. You need to ___ and talk to the client directly.",
+   "options": [
+    "take the bull by the horns",
+    "turn a blind eye to",
+    "steal your thunder",
+    "err on the side of caution"
+   ],
+   "answer": 0,
+   "meaningVi": "dũng cảm đối mặt, xử lý thẳng vấn đề",
+   "explanation": "“take the bull by the horns” = to deal with a difficult situation directly and confidently. Full sentence: The complaints won't go away on their own. You need to take the bull by the horns and talk to the client directly.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cut your losses",
+   "question": "Choose the idiom that best completes the sentence:\nThe project is six months late and wildly over budget. Rather than pour in more money, it may be time to ___ and abandon it.",
+   "options": [
+    "burn your bridges",
+    "take the bull by the horns",
+    "cut your losses",
+    "reinvent the wheel"
+   ],
+   "answer": 2,
+   "meaningVi": "cắt lỗ, dừng lại để tránh thiệt hại thêm",
+   "explanation": "“cut your losses” = to stop doing something that is failing in order to prevent further loss. Full sentence: The project is six months late and wildly over budget. Rather than pour in more money, it may be time to cut your losses and abandon it.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "leave no stone unturned",
+   "question": "Choose the idiom that best completes the sentence:\nWe will ___ until we find out what caused the system failure.",
+   "options": [
+    "rest on your laurels",
+    "turn a blind eye to",
+    "leave no stone unturned",
+    "go out on a limb"
+   ],
+   "answer": 2,
+   "meaningVi": "tìm mọi cách, không bỏ sót điều gì",
+   "explanation": "“leave no stone unturned” = to try every possible way to find something or achieve something. Full sentence: We will leave no stone unturned until we find out what caused the system failure.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "go out on a limb",
+   "question": "Choose the idiom that best completes the sentence:\nI'll ___ and predict that electric planes will be common within twenty years.",
+   "options": [
+    "go out on a limb",
+    "burn your bridges",
+    "muddy the waters",
+    "err on the side of caution"
+   ],
+   "answer": 0,
+   "meaningVi": "mạo hiểm đưa ra ý kiến khác số đông",
+   "explanation": "“go out on a limb” = to say or do something that others do not support, putting yourself at risk. Full sentence: I'll go out on a limb and predict that electric planes will be common within twenty years.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a can of worms",
+   "question": "Choose the idiom that best completes the sentence:\nInvestigating one minister's expenses opened ___ that eventually involved the whole government.",
+   "options": [
+    "a catch-22",
+    "a white elephant",
+    "a can of worms",
+    "a sticking point"
+   ],
+   "answer": 2,
+   "meaningVi": "mớ bòng bong, rắc rối kéo theo",
+   "explanation": "“a can of worms” = a situation that causes many new problems when you start to deal with it. Full sentence: Investigating one minister's expenses opened a can of worms that eventually involved the whole government.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "fly off the handle",
+   "question": "Choose the idiom that best completes the sentence:\nTry to stay calm in the negotiation. If you ___, you'll lose the room's respect.",
+   "options": [
+    "burn your bridges",
+    "err on the side of caution",
+    "add insult to injury",
+    "fly off the handle"
+   ],
+   "answer": 3,
+   "meaningVi": "nổi nóng bất chợt, mất bình tĩnh",
+   "explanation": "“fly off the handle” = to suddenly become very angry. Full sentence: Try to stay calm in the negotiation. If you fly off the handle, you'll lose the room's respect.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "jump the gun",
+   "question": "Choose the idiom that best completes the sentence:\nLet's not ___ and order the furniture before the contract for the flat is signed.",
+   "options": [
+    "jump the gun",
+    "reinvent the wheel",
+    "bark up the wrong tree",
+    "take the bull by the horns"
+   ],
+   "answer": 0,
+   "meaningVi": "hành động vội vàng, hấp tấp",
+   "explanation": "“jump the gun” = to do something too soon, before the right time. Full sentence: Let's not jump the gun and order the furniture before the contract for the flat is signed.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a moot point",
+   "question": "Choose the idiom that best completes the sentence:\nSince the event has been cancelled, who should give the opening speech is ___.",
+   "options": [
+    "a moot point",
+    "a flash in the pan",
+    "a sticking point",
+    "the lion's share"
+   ],
+   "answer": 0,
+   "meaningVi": "vấn đề còn tranh cãi / không còn ý nghĩa",
+   "explanation": "“a moot point” = something that is uncertain, or no longer important because the situation has changed. Full sentence: Since the event has been cancelled, who should give the opening speech is a moot point.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "add insult to injury",
+   "question": "Choose the idiom that best completes the sentence:\nThey cut our pay and then, as if to ___, asked us to work on Saturdays for free.",
+   "options": [
+    "nip it in the bud",
+    "split hairs",
+    "add insult to injury",
+    "jump the gun"
+   ],
+   "answer": 2,
+   "meaningVi": "đã đau còn bị xát muối, làm tình hình tệ hơn",
+   "explanation": "“add insult to injury” = to make a bad situation even worse for someone. Full sentence: They cut our pay and then, as if to add insult to injury, asked us to work on Saturdays for free.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "muddy the waters",
+   "question": "Choose the idiom that best completes the sentence:\nThe lawyer's strategy was to ___ by raising doubts about every witness.",
+   "options": [
+    "bark up the wrong tree",
+    "toe the line",
+    "reinvent the wheel",
+    "muddy the waters"
+   ],
+   "answer": 3,
+   "meaningVi": "làm rối thêm vấn đề",
+   "explanation": "“muddy the waters” = to make a situation more confusing or less clear. Full sentence: The lawyer's strategy was to muddy the waters by raising doubts about every witness.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "off the record",
+   "question": "Choose the idiom that best completes the sentence:\nThe official agreed to speak to the journalist only ___.",
+   "options": [
+    "off the record",
+    "to all intents and purposes",
+    "by and large",
+    "at the eleventh hour"
+   ],
+   "answer": 0,
+   "meaningVi": "không chính thức, không được công bố",
+   "explanation": "“off the record” = said unofficially and not to be published. Full sentence: The official agreed to speak to the journalist only off the record.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the doldrums",
+   "question": "Choose the idiom that best completes the sentence:\nAfter the factory closed, the town's economy remained ___ for almost a decade.",
+   "options": [
+    "in the doldrums",
+    "run-of-the-mill",
+    "second to none",
+    "few and far between"
+   ],
+   "answer": 0,
+   "meaningVi": "trì trệ, ảm đạm",
+   "explanation": "“in the doldrums” = in a state of no activity, progress or improvement. Full sentence: After the factory closed, the town's economy remained in the doldrums for almost a decade.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "by and large",
+   "question": "Choose the idiom that best completes the sentence:\nThere were a few complaints, but ___ the conference was a success.",
+   "options": [
+    "at the eleventh hour",
+    "by and large",
+    "across the board",
+    "in the nick of time"
+   ],
+   "answer": 1,
+   "meaningVi": "nhìn chung, nói chung",
+   "explanation": "“by and large” = generally; when everything is considered. Full sentence: There were a few complaints, but by and large the conference was a success.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "err on the side of caution",
+   "question": "Choose the idiom that best completes the sentence:\nIf you're not sure whether a fish bone is still in the dish, ___ and don't serve it to children.",
+   "options": [
+    "add insult to injury",
+    "jump the gun",
+    "rest on your laurels",
+    "err on the side of caution"
+   ],
+   "answer": 3,
+   "meaningVi": "thà cẩn thận còn hơn, chọn phương án an toàn",
+   "explanation": "“err on the side of caution” = to choose the safer option when you are not sure. Full sentence: If you're not sure whether a fish bone is still in the dish, err on the side of caution and don't serve it to children.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "split hairs",
+   "question": "Choose the idiom that best completes the sentence:\nThe meaning of the clause is perfectly clear, so let's not ___ over the exact wording.",
+   "options": [
+    "nip it in the bud",
+    "split hairs",
+    "turn a blind eye to",
+    "get to grips with"
+   ],
+   "answer": 1,
+   "meaningVi": "bới lông tìm vết, chẻ sợi tóc làm tư",
+   "explanation": "“split hairs” = to argue about very small, unimportant differences. Full sentence: The meaning of the clause is perfectly clear, so let's not split hairs over the exact wording.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "to all intents and purposes",
+   "question": "Choose the idiom that best completes the sentence:\nAlthough she still has the title of director, she has ___ retired.",
+   "options": [
+    "across the board",
+    "at the eleventh hour",
+    "off the record",
+    "to all intents and purposes"
+   ],
+   "answer": 3,
+   "meaningVi": "về thực chất, gần như hoàn toàn",
+   "explanation": "“to all intents and purposes” = in all the important ways; virtually. Full sentence: Although she still has the title of director, she has to all intents and purposes retired.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "out of your depth",
+   "question": "Choose the idiom that best completes the sentence:\nIf you've never managed a team before, you might feel ___ at first.",
+   "options": [
+    "on the ball",
+    "out of your depth",
+    "at loggerheads",
+    "second to none"
+   ],
+   "answer": 1,
+   "meaningVi": "quá sức, vượt quá khả năng",
+   "explanation": "“out of your depth” = in a situation that is too difficult for you to deal with. Full sentence: If you've never managed a team before, you might feel out of your depth at first.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on the ball",
+   "question": "Choose the idiom that best completes the sentence:\nYou need to be ___ in this job, because prices change by the minute.",
+   "options": [
+    "in the doldrums",
+    "on the ball",
+    "few and far between",
+    "second to none"
+   ],
+   "answer": 1,
+   "meaningVi": "nhanh nhạy, tinh ý",
+   "explanation": "“on the ball” = quick to understand and react to things. Full sentence: You need to be on the ball in this job, because prices change by the minute.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cut and dried",
+   "question": "Choose the idiom that best completes the sentence:\nEthical questions in medicine are rarely ___; doctors often have to weigh competing values.",
+   "options": [
+    "at loggerheads",
+    "few and far between",
+    "cut and dried",
+    "on the ball"
+   ],
+   "answer": 2,
+   "meaningVi": "rõ ràng, đã định đoạt",
+   "explanation": "“cut and dried” = already decided and unlikely to change; clear and simple. Full sentence: Ethical questions in medicine are rarely cut and dried; doctors often have to weigh competing values.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "second to none",
+   "question": "Choose the idiom that best completes the sentence:\nHer knowledge of medieval history is ___; even her professors ask for her advice.",
+   "options": [
+    "second to none",
+    "at loggerheads",
+    "few and far between",
+    "on the ball"
+   ],
+   "answer": 0,
+   "meaningVi": "không ai sánh bằng, số một",
+   "explanation": "“second to none” = better than all others. Full sentence: Her knowledge of medieval history is second to none; even her professors ask for her advice.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "across the board",
+   "question": "Choose the idiom that best completes the sentence:\nPrices have risen ___, from food and fuel to rent and electricity.",
+   "options": [
+    "to all intents and purposes",
+    "across the board",
+    "by and large",
+    "in the nick of time"
+   ],
+   "answer": 1,
+   "meaningVi": "đồng loạt, áp dụng cho tất cả",
+   "explanation": "“across the board” = affecting everyone or everything in a group. Full sentence: Prices have risen across the board, from food and fuel to rent and electricity.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "at the eleventh hour",
+   "question": "Choose the idiom that best completes the sentence:\nThe main speaker pulled out ___, leaving organisers scrambling to find a replacement.",
+   "options": [
+    "to all intents and purposes",
+    "off the record",
+    "at the eleventh hour",
+    "by and large"
+   ],
+   "answer": 2,
+   "meaningVi": "vào phút chót",
+   "explanation": "“at the eleventh hour” = at the last possible moment. Full sentence: The main speaker pulled out at the eleventh hour, leaving organisers scrambling to find a replacement.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "burn your bridges",
+   "question": "Choose the idiom that best completes the sentence:\nLeave the company politely. In such a small industry, it's unwise to ___.",
+   "options": [
+    "come to a head",
+    "fly off the handle",
+    "burn your bridges",
+    "split hairs"
+   ],
+   "answer": 2,
+   "meaningVi": "tự cắt đường lui",
+   "explanation": "“burn your bridges” = to do something that makes it impossible to return to a previous situation. Full sentence: Leave the company politely. In such a small industry, it's unwise to burn your bridges.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "bark up the wrong tree",
+   "question": "Choose the idiom that best completes the sentence:\nDon't ___ by blaming the intern – he doesn't even have access to the server.",
+   "options": [
+    "turn a blind eye to",
+    "steal your thunder",
+    "take the bull by the horns",
+    "bark up the wrong tree"
+   ],
+   "answer": 3,
+   "meaningVi": "nhắm sai đối tượng, đi sai hướng",
+   "explanation": "“bark up the wrong tree” = to have a wrong idea about how to achieve something or who is responsible. Full sentence: Don't bark up the wrong tree by blaming the intern – he doesn't even have access to the server.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get to grips with",
+   "question": "Choose the idiom that best completes the sentence:\nNew managers are given three months to ___ the company's complex reporting system.",
+   "options": [
+    "add insult to injury",
+    "err on the side of caution",
+    "muddy the waters",
+    "get to grips with"
+   ],
+   "answer": 3,
+   "meaningVi": "nắm bắt, làm chủ (vấn đề khó)",
+   "explanation": "“get to grips with” = to make an effort to understand and deal with something difficult. Full sentence: New managers are given three months to get to grips with the company's complex reporting system.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "nip something in the bud",
+   "question": "Choose the idiom that best completes the sentence:\nRumours spread quickly in a small office, so the director decided to ___ with an open meeting.",
+   "options": [
+    "put the cart before the horse",
+    "nip it in the bud",
+    "muddy the waters",
+    "sweep it under the carpet"
+   ],
+   "answer": 1,
+   "meaningVi": "bóp chết từ trong trứng nước",
+   "explanation": "“nip something in the bud” = to stop a problem at an early stage before it becomes serious. Full sentence: Rumours spread quickly in a small office, so the director decided to nip it in the bud with an open meeting.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a catch-22",
+   "question": "Choose the idiom that best completes the sentence:\nBanks won't lend to new businesses without a credit history, which is ___ for young entrepreneurs.",
+   "options": [
+    "a flash in the pan",
+    "a white elephant",
+    "a sticking point",
+    "a catch-22"
+   ],
+   "answer": 3,
+   "meaningVi": "tình thế tiến thoái lưỡng nan",
+   "explanation": "“a catch-22” = a situation in which you cannot succeed because each choice depends on the other. Full sentence: Banks won't lend to new businesses without a credit history, which is a catch-22 for young entrepreneurs.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "few and far between",
+   "question": "Choose the idiom that best completes the sentence:\nIn the desert, petrol stations are ___, so fill up whenever you can.",
+   "options": [
+    "above board",
+    "few and far between",
+    "in the doldrums",
+    "run-of-the-mill"
+   ],
+   "answer": 1,
+   "meaningVi": "hiếm hoi, hiếm khi có",
+   "explanation": "“few and far between” = rare; not happening or found very often. Full sentence: In the desert, petrol stations are few and far between, so fill up whenever you can.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "sweep something under the carpet",
+   "question": "Choose the idiom that best completes the sentence:\nBullying must be dealt with openly; a school should never try to ___.",
+   "options": [
+    "come to a head",
+    "cut your losses",
+    "get to grips with",
+    "sweep it under the carpet"
+   ],
+   "answer": 3,
+   "meaningVi": "che giấu, ỉm đi",
+   "explanation": "“sweep something under the carpet” = to try to hide a problem or mistake instead of dealing with it. Full sentence: Bullying must be dealt with openly; a school should never try to sweep it under the carpet.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a flash in the pan",
+   "question": "Choose the idiom that best completes the sentence:\nHer second novel proved that her early success was not merely ___.",
+   "options": [
+    "a white elephant",
+    "a can of worms",
+    "a flash in the pan",
+    "a catch-22"
+   ],
+   "answer": 2,
+   "meaningVi": "thành công chớp nhoáng",
+   "explanation": "“a flash in the pan” = a sudden success that does not last. Full sentence: Her second novel proved that her early success was not merely a flash in the pan.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hit a brick wall",
+   "question": "Choose the idiom that best completes the sentence:\nEvery time we try to get funding for the research, we seem to ___.",
+   "options": [
+    "turn a blind eye to",
+    "take the bull by the horns",
+    "hit a brick wall",
+    "burn your bridges"
+   ],
+   "answer": 2,
+   "meaningVi": "rơi vào bế tắc",
+   "explanation": "“hit a brick wall” = to reach a point where you cannot make any further progress. Full sentence: Every time we try to get funding for the research, we seem to hit a brick wall.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "steal someone's thunder",
+   "question": "Choose the idiom that best completes the sentence:\nI didn't want to ___ by announcing my engagement at your graduation party.",
+   "options": [
+    "steal your thunder",
+    "split hairs",
+    "get to grips with",
+    "cut your losses"
+   ],
+   "answer": 0,
+   "meaningVi": "cướp công, giành sự chú ý của người khác",
+   "explanation": "“steal someone's thunder” = to take attention or praise away from someone by doing what they planned to do first. Full sentence: I didn't want to steal your thunder by announcing my engagement at your graduation party.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "an uphill battle",
+   "question": "Choose the idiom that best completes the sentence:\nSmall farmers face ___ competing with huge agricultural companies.",
+   "options": [
+    "the acid test",
+    "an uphill battle",
+    "a catch-22",
+    "a white elephant"
+   ],
+   "answer": 1,
+   "meaningVi": "cuộc chiến gian nan",
+   "explanation": "“an uphill battle” = a very difficult struggle against problems or opposition. Full sentence: Small farmers face an uphill battle competing with huge agricultural companies.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "pass the buck",
+   "question": "Choose the idiom that best completes the sentence:\nGood leaders accept responsibility for mistakes instead of trying to ___ to their teams.",
+   "options": [
+    "pass the buck",
+    "put the cart before the horse",
+    "come to a head",
+    "leave no stone unturned"
+   ],
+   "answer": 0,
+   "meaningVi": "đùn đẩy trách nhiệm",
+   "explanation": "“pass the buck” = to make someone else responsible for a problem that you should deal with. Full sentence: Good leaders accept responsibility for mistakes instead of trying to pass the buck to their teams.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "toe the line",
+   "question": "Choose the idiom that best completes the sentence:\nEmployees who won't ___ on safety procedures will receive a formal warning.",
+   "options": [
+    "hit a brick wall",
+    "take the bull by the horns",
+    "put the cart before the horse",
+    "toe the line"
+   ],
+   "answer": 3,
+   "meaningVi": "tuân thủ, làm theo quy định",
+   "explanation": "“toe the line” = to do what you are expected or ordered to do, even if you disagree. Full sentence: Employees who won't toe the line on safety procedures will receive a formal warning.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "turn a blind eye to",
+   "question": "Choose the idiom that best completes the sentence:\nSome managers ___ staff using their phones, as long as the work gets done.",
+   "options": [
+    "burn your bridges",
+    "turn a blind eye to",
+    "put the cart before the horse",
+    "nip it in the bud"
+   ],
+   "answer": 1,
+   "meaningVi": "làm ngơ, nhắm mắt làm ngơ",
+   "explanation": "“turn a blind eye to” = to deliberately ignore something wrong that you know is happening. Full sentence: Some managers turn a blind eye to staff using their phones, as long as the work gets done.",
+   "skill": "idiom",
+   "level": "c1"
+  },
+  {
+   "id": "c1-idiom-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "at loggerheads",
+   "question": "Choose the idiom that best completes the sentence:\nThe two founders are ___ over the future direction of the company.",
+   "options": [
+    "cut and dried",
+    "at loggerheads",
+    "above board",
+    "second to none"
+   ],
+   "answer": 1,
+   "meaningVi": "bất đồng gay gắt",
+   "explanation": "“at loggerheads” = strongly disagreeing. Full sentence: The two founders are at loggerheads over the future direction of the company.",
+   "skill": "idiom",
+   "level": "c1"
+  }
+ ]
+}

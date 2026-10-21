@@ -1,0 +1,2046 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "reading",
+ "title": {
+  "en": "Reading",
+  "vi": "Đọc"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-reading-001",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-01",
+    "title": "Working from Home: One Year On",
+    "text": "When Thu's company told staff they could work from home permanently, she was delighted. No more ninety-minute commutes through Hanoi's traffic, and no more expensive lunches near the office. For the first few months, she felt more productive than ever. By the end of the year, however, things had changed. 'I realised I was working longer hours because there was no clear end to the day,' she explains. 'My laptop was always on the kitchen table, so I kept checking emails at ten o'clock at night.' She also missed chatting with colleagues, which she had always found useful for solving problems quickly. Now Thu has found a balance. She goes into the office twice a week and has turned a corner of her bedroom into a small workspace. 'When I close the door, work is finished,' she says. 'It sounds simple, but it has made a huge difference.'"
+   },
+   "question": "How did Thu feel when she first heard the news?",
+   "options": [
+    "Very pleased",
+    "Disappointed",
+    "Worried about her job",
+    "Unsure what to do"
+   ],
+   "answer": 0,
+   "explanation": "'…she was delighted.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-002",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-01",
+    "title": "Working from Home: One Year On",
+    "text": "When Thu's company told staff they could work from home permanently, she was delighted. No more ninety-minute commutes through Hanoi's traffic, and no more expensive lunches near the office. For the first few months, she felt more productive than ever. By the end of the year, however, things had changed. 'I realised I was working longer hours because there was no clear end to the day,' she explains. 'My laptop was always on the kitchen table, so I kept checking emails at ten o'clock at night.' She also missed chatting with colleagues, which she had always found useful for solving problems quickly. Now Thu has found a balance. She goes into the office twice a week and has turned a corner of her bedroom into a small workspace. 'When I close the door, work is finished,' she says. 'It sounds simple, but it has made a huge difference.'"
+   },
+   "question": "What problem did Thu have after some months?",
+   "options": [
+    "Her internet was too slow.",
+    "She found it hard to stop working.",
+    "Her boss checked on her too often.",
+    "She spent too much on lunches."
+   ],
+   "answer": 1,
+   "explanation": "'…I was working longer hours because there was no clear end to the day.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-003",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-01",
+    "title": "Working from Home: One Year On",
+    "text": "When Thu's company told staff they could work from home permanently, she was delighted. No more ninety-minute commutes through Hanoi's traffic, and no more expensive lunches near the office. For the first few months, she felt more productive than ever. By the end of the year, however, things had changed. 'I realised I was working longer hours because there was no clear end to the day,' she explains. 'My laptop was always on the kitchen table, so I kept checking emails at ten o'clock at night.' She also missed chatting with colleagues, which she had always found useful for solving problems quickly. Now Thu has found a balance. She goes into the office twice a week and has turned a corner of her bedroom into a small workspace. 'When I close the door, work is finished,' she says. 'It sounds simple, but it has made a huge difference.'"
+   },
+   "question": "Why did Thu miss her colleagues?",
+   "options": [
+    "They helped her use her laptop.",
+    "They used to give her lifts to work.",
+    "Talking to them helped her solve problems.",
+    "She had nobody to have lunch with."
+   ],
+   "answer": 2,
+   "explanation": "'…chatting with colleagues, which she had always found useful for solving problems quickly.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-004",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-01",
+    "title": "Working from Home: One Year On",
+    "text": "When Thu's company told staff they could work from home permanently, she was delighted. No more ninety-minute commutes through Hanoi's traffic, and no more expensive lunches near the office. For the first few months, she felt more productive than ever. By the end of the year, however, things had changed. 'I realised I was working longer hours because there was no clear end to the day,' she explains. 'My laptop was always on the kitchen table, so I kept checking emails at ten o'clock at night.' She also missed chatting with colleagues, which she had always found useful for solving problems quickly. Now Thu has found a balance. She goes into the office twice a week and has turned a corner of her bedroom into a small workspace. 'When I close the door, work is finished,' she says. 'It sounds simple, but it has made a huge difference.'"
+   },
+   "question": "What is the main idea of the text?",
+   "options": [
+    "Long commutes are the biggest problem for city workers.",
+    "Working from home has advantages but needs to be organised.",
+    "Working from home is always more productive.",
+    "Everyone should return to working in offices."
+   ],
+   "answer": 1,
+   "explanation": "Thu enjoyed the benefits but only felt better after creating a routine and a separate workspace.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-005",
+   "type": "fill",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-01",
+    "title": "Working from Home: One Year On",
+    "text": "When Thu's company told staff they could work from home permanently, she was delighted. No more ninety-minute commutes through Hanoi's traffic, and no more expensive lunches near the office. For the first few months, she felt more productive than ever. By the end of the year, however, things had changed. 'I realised I was working longer hours because there was no clear end to the day,' she explains. 'My laptop was always on the kitchen table, so I kept checking emails at ten o'clock at night.' She also missed chatting with colleagues, which she had always found useful for solving problems quickly. Now Thu has found a balance. She goes into the office twice a week and has turned a corner of her bedroom into a small workspace. 'When I close the door, work is finished,' she says. 'It sounds simple, but it has made a huge difference.'"
+   },
+   "question": "Thu now goes into the office ___ a week.",
+   "answers": [
+    "twice",
+    "two times",
+    "2 times"
+   ],
+   "explanation": "'She goes into the office twice a week.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-006",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-02",
+    "title": "The Plastic-Free Café",
+    "text": "Three years ago, Marco Rossi opened a small café in Bristol with an unusual rule: nothing made of plastic is allowed. Customers who want a takeaway coffee must bring their own cup or borrow one of the café's metal cups, which they return on their next visit. Milk is delivered in glass bottles from a local farm, and food is wrapped in paper or beeswax cloth. At first, some people complained that the system was inconvenient, and Marco admits that his costs are about fifteen per cent higher than those of a normal café. Nevertheless, the business has been a success. 'People like knowing that their morning coffee isn't adding to the rubbish problem,' he says. Several other cafés in the city have now asked Marco for advice, and he has started running free workshops on Sunday afternoons to explain how small businesses can reduce their waste."
+   },
+   "question": "What happens if a customer forgets their cup?",
+   "options": [
+    "They pay extra for a plastic cup.",
+    "They can borrow a metal cup.",
+    "They can buy a paper cup.",
+    "They must drink inside the café."
+   ],
+   "answer": 1,
+   "explanation": "'…or borrow one of the café's metal cups, which they return on their next visit.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-007",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-02",
+    "title": "The Plastic-Free Café",
+    "text": "Three years ago, Marco Rossi opened a small café in Bristol with an unusual rule: nothing made of plastic is allowed. Customers who want a takeaway coffee must bring their own cup or borrow one of the café's metal cups, which they return on their next visit. Milk is delivered in glass bottles from a local farm, and food is wrapped in paper or beeswax cloth. At first, some people complained that the system was inconvenient, and Marco admits that his costs are about fifteen per cent higher than those of a normal café. Nevertheless, the business has been a success. 'People like knowing that their morning coffee isn't adding to the rubbish problem,' he says. Several other cafés in the city have now asked Marco for advice, and he has started running free workshops on Sunday afternoons to explain how small businesses can reduce their waste."
+   },
+   "question": "What does Marco say about running the café?",
+   "options": [
+    "It is only popular with young people.",
+    "It is cheaper because there is less packaging.",
+    "It took fifteen years to make a profit.",
+    "It costs more than running a normal café."
+   ],
+   "answer": 3,
+   "explanation": "'…his costs are about fifteen per cent higher than those of a normal café.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-008",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-02",
+    "title": "The Plastic-Free Café",
+    "text": "Three years ago, Marco Rossi opened a small café in Bristol with an unusual rule: nothing made of plastic is allowed. Customers who want a takeaway coffee must bring their own cup or borrow one of the café's metal cups, which they return on their next visit. Milk is delivered in glass bottles from a local farm, and food is wrapped in paper or beeswax cloth. At first, some people complained that the system was inconvenient, and Marco admits that his costs are about fifteen per cent higher than those of a normal café. Nevertheless, the business has been a success. 'People like knowing that their morning coffee isn't adding to the rubbish problem,' he says. Several other cafés in the city have now asked Marco for advice, and he has started running free workshops on Sunday afternoons to explain how small businesses can reduce their waste."
+   },
+   "question": "Why does the writer use the word 'Nevertheless'?",
+   "options": [
+    "To give an example of a complaint",
+    "To show the café succeeded despite the problems",
+    "To explain why costs are high",
+    "To introduce a completely new topic"
+   ],
+   "answer": 1,
+   "explanation": "'Nevertheless' introduces a contrast: there were complaints and higher costs, but the business succeeded.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-009",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-02",
+    "title": "The Plastic-Free Café",
+    "text": "Three years ago, Marco Rossi opened a small café in Bristol with an unusual rule: nothing made of plastic is allowed. Customers who want a takeaway coffee must bring their own cup or borrow one of the café's metal cups, which they return on their next visit. Milk is delivered in glass bottles from a local farm, and food is wrapped in paper or beeswax cloth. At first, some people complained that the system was inconvenient, and Marco admits that his costs are about fifteen per cent higher than those of a normal café. Nevertheless, the business has been a success. 'People like knowing that their morning coffee isn't adding to the rubbish problem,' he says. Several other cafés in the city have now asked Marco for advice, and he has started running free workshops on Sunday afternoons to explain how small businesses can reduce their waste."
+   },
+   "question": "What does Marco do on Sunday afternoons?",
+   "options": [
+    "He sells beeswax cloths to customers.",
+    "He visits the farm that supplies his milk.",
+    "He closes the café to clean the cups.",
+    "He teaches business owners how to reduce waste."
+   ],
+   "answer": 3,
+   "explanation": "'…free workshops on Sunday afternoons to explain how small businesses can reduce their waste.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-010",
+   "type": "fill",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-02",
+    "title": "The Plastic-Free Café",
+    "text": "Three years ago, Marco Rossi opened a small café in Bristol with an unusual rule: nothing made of plastic is allowed. Customers who want a takeaway coffee must bring their own cup or borrow one of the café's metal cups, which they return on their next visit. Milk is delivered in glass bottles from a local farm, and food is wrapped in paper or beeswax cloth. At first, some people complained that the system was inconvenient, and Marco admits that his costs are about fifteen per cent higher than those of a normal café. Nevertheless, the business has been a success. 'People like knowing that their morning coffee isn't adding to the rubbish problem,' he says. Several other cafés in the city have now asked Marco for advice, and he has started running free workshops on Sunday afternoons to explain how small businesses can reduce their waste."
+   },
+   "question": "Milk arrives at the café in glass ___.",
+   "answers": [
+    "bottles"
+   ],
+   "explanation": "'Milk is delivered in glass bottles from a local farm.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-011",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-03",
+    "title": "Can Apps Teach You a Language?",
+    "text": "Millions of people now try to learn a new language using apps on their phones. The apps are cheap or free, and they make learning feel like a game, with points, levels and daily reminders. Research suggests that they can be very good for building vocabulary and keeping learners motivated. However, many teachers believe apps alone are not enough. 'You can learn hundreds of words, but if you never have a real conversation, you won't feel confident when you travel,' says Dr Helen Park, who teaches at a language school in Seoul. She recommends that learners combine apps with speaking practice, for example by joining a conversation club or finding an online language partner. Another problem is that many users give up after a few weeks. Experts say the secret is to set a realistic goal, such as ten minutes a day, rather than trying to study for an hour and quickly losing interest."
+   },
+   "question": "According to the text, what are apps good for?",
+   "options": [
+    "Preparing for written exams",
+    "Correcting pronunciation",
+    "Learning words and staying motivated",
+    "Building confidence in conversation"
+   ],
+   "answer": 2,
+   "explanation": "'…very good for building vocabulary and keeping learners motivated.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-012",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-03",
+    "title": "Can Apps Teach You a Language?",
+    "text": "Millions of people now try to learn a new language using apps on their phones. The apps are cheap or free, and they make learning feel like a game, with points, levels and daily reminders. Research suggests that they can be very good for building vocabulary and keeping learners motivated. However, many teachers believe apps alone are not enough. 'You can learn hundreds of words, but if you never have a real conversation, you won't feel confident when you travel,' says Dr Helen Park, who teaches at a language school in Seoul. She recommends that learners combine apps with speaking practice, for example by joining a conversation club or finding an online language partner. Another problem is that many users give up after a few weeks. Experts say the secret is to set a realistic goal, such as ten minutes a day, rather than trying to study for an hour and quickly losing interest."
+   },
+   "question": "What is Dr Park's opinion?",
+   "options": [
+    "Apps are a complete waste of time.",
+    "Online language partners are not useful.",
+    "Learners need real speaking practice as well as apps.",
+    "People should only study at language schools."
+   ],
+   "answer": 2,
+   "explanation": "She recommends combining apps with speaking practice.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-013",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-03",
+    "title": "Can Apps Teach You a Language?",
+    "text": "Millions of people now try to learn a new language using apps on their phones. The apps are cheap or free, and they make learning feel like a game, with points, levels and daily reminders. Research suggests that they can be very good for building vocabulary and keeping learners motivated. However, many teachers believe apps alone are not enough. 'You can learn hundreds of words, but if you never have a real conversation, you won't feel confident when you travel,' says Dr Helen Park, who teaches at a language school in Seoul. She recommends that learners combine apps with speaking practice, for example by joining a conversation club or finding an online language partner. Another problem is that many users give up after a few weeks. Experts say the secret is to set a realistic goal, such as ten minutes a day, rather than trying to study for an hour and quickly losing interest."
+   },
+   "question": "What problem with apps does the text mention?",
+   "options": [
+    "They don't contain enough vocabulary.",
+    "They are too expensive for most people.",
+    "They send too many reminders.",
+    "Many people stop using them quickly."
+   ],
+   "answer": 3,
+   "explanation": "'…many users give up after a few weeks.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-014",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-03",
+    "title": "Can Apps Teach You a Language?",
+    "text": "Millions of people now try to learn a new language using apps on their phones. The apps are cheap or free, and they make learning feel like a game, with points, levels and daily reminders. Research suggests that they can be very good for building vocabulary and keeping learners motivated. However, many teachers believe apps alone are not enough. 'You can learn hundreds of words, but if you never have a real conversation, you won't feel confident when you travel,' says Dr Helen Park, who teaches at a language school in Seoul. She recommends that learners combine apps with speaking practice, for example by joining a conversation club or finding an online language partner. Another problem is that many users give up after a few weeks. Experts say the secret is to set a realistic goal, such as ten minutes a day, rather than trying to study for an hour and quickly losing interest."
+   },
+   "question": "What do experts advise?",
+   "options": [
+    "Study only at weekends",
+    "Study for at least an hour a day",
+    "Study for a short time regularly",
+    "Use several apps at once"
+   ],
+   "answer": 2,
+   "explanation": "'…set a realistic goal, such as ten minutes a day.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-015",
+   "type": "fill",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-03",
+    "title": "Can Apps Teach You a Language?",
+    "text": "Millions of people now try to learn a new language using apps on their phones. The apps are cheap or free, and they make learning feel like a game, with points, levels and daily reminders. Research suggests that they can be very good for building vocabulary and keeping learners motivated. However, many teachers believe apps alone are not enough. 'You can learn hundreds of words, but if you never have a real conversation, you won't feel confident when you travel,' says Dr Helen Park, who teaches at a language school in Seoul. She recommends that learners combine apps with speaking practice, for example by joining a conversation club or finding an online language partner. Another problem is that many users give up after a few weeks. Experts say the secret is to set a realistic goal, such as ten minutes a day, rather than trying to study for an hour and quickly losing interest."
+   },
+   "question": "Dr Park suggests joining a conversation ___.",
+   "answers": [
+    "club"
+   ],
+   "explanation": "'…by joining a conversation club.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-016",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-04",
+    "title": "A Gap Year in Peru",
+    "text": "After finishing secondary school, Lucy Grant decided not to go straight to university. Instead, she spent a year travelling in South America, mainly in Peru. For the first four months, she worked as a volunteer at a primary school in a small mountain village, where she taught English and helped the children with art projects. 'The village didn't have reliable electricity, so I had to plan lessons that didn't need computers,' she remembers. 'It made me much more creative.' Afterwards, she travelled around the country by bus, visiting ancient ruins and staying with local families. Lucy admits that there were difficult moments. She was often homesick during the first few weeks, and she once lost her passport, which took ten days to replace. However, she has no regrets. 'I came back more independent and with a much clearer idea of what I wanted to study,' she says. She is now in her second year of a teaching degree."
+   },
+   "question": "What did Lucy do before travelling around Peru?",
+   "options": [
+    "She taught computer skills.",
+    "She volunteered at a school.",
+    "She studied at a university.",
+    "She worked on a farm."
+   ],
+   "answer": 1,
+   "explanation": "'For the first four months, she worked as a volunteer at a primary school…'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-017",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-04",
+    "title": "A Gap Year in Peru",
+    "text": "After finishing secondary school, Lucy Grant decided not to go straight to university. Instead, she spent a year travelling in South America, mainly in Peru. For the first four months, she worked as a volunteer at a primary school in a small mountain village, where she taught English and helped the children with art projects. 'The village didn't have reliable electricity, so I had to plan lessons that didn't need computers,' she remembers. 'It made me much more creative.' Afterwards, she travelled around the country by bus, visiting ancient ruins and staying with local families. Lucy admits that there were difficult moments. She was often homesick during the first few weeks, and she once lost her passport, which took ten days to replace. However, she has no regrets. 'I came back more independent and with a much clearer idea of what I wanted to study,' she says. She is now in her second year of a teaching degree."
+   },
+   "question": "Why did Lucy become more creative?",
+   "options": [
+    "She took art classes in the village.",
+    "She had to build a classroom.",
+    "The children taught her new skills.",
+    "She had to teach without technology."
+   ],
+   "answer": 3,
+   "explanation": "'…I had to plan lessons that didn't need computers. It made me much more creative.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-018",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-04",
+    "title": "A Gap Year in Peru",
+    "text": "After finishing secondary school, Lucy Grant decided not to go straight to university. Instead, she spent a year travelling in South America, mainly in Peru. For the first four months, she worked as a volunteer at a primary school in a small mountain village, where she taught English and helped the children with art projects. 'The village didn't have reliable electricity, so I had to plan lessons that didn't need computers,' she remembers. 'It made me much more creative.' Afterwards, she travelled around the country by bus, visiting ancient ruins and staying with local families. Lucy admits that there were difficult moments. She was often homesick during the first few weeks, and she once lost her passport, which took ten days to replace. However, she has no regrets. 'I came back more independent and with a much clearer idea of what I wanted to study,' she says. She is now in her second year of a teaching degree."
+   },
+   "question": "Which difficulty does Lucy mention?",
+   "options": [
+    "Missing home at the beginning",
+    "Getting ill in the mountains",
+    "Running out of money",
+    "Not being able to speak Spanish"
+   ],
+   "answer": 0,
+   "explanation": "'She was often homesick during the first few weeks.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-019",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-04",
+    "title": "A Gap Year in Peru",
+    "text": "After finishing secondary school, Lucy Grant decided not to go straight to university. Instead, she spent a year travelling in South America, mainly in Peru. For the first four months, she worked as a volunteer at a primary school in a small mountain village, where she taught English and helped the children with art projects. 'The village didn't have reliable electricity, so I had to plan lessons that didn't need computers,' she remembers. 'It made me much more creative.' Afterwards, she travelled around the country by bus, visiting ancient ruins and staying with local families. Lucy admits that there were difficult moments. She was often homesick during the first few weeks, and she once lost her passport, which took ten days to replace. However, she has no regrets. 'I came back more independent and with a much clearer idea of what I wanted to study,' she says. She is now in her second year of a teaching degree."
+   },
+   "question": "How does Lucy feel about her gap year now?",
+   "options": [
+    "She wishes she had gone to university first.",
+    "She thinks it was very valuable.",
+    "She regrets losing a year.",
+    "She wants to live in Peru permanently."
+   ],
+   "answer": 1,
+   "explanation": "'…she has no regrets… I came back more independent.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-020",
+   "type": "fill",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-04",
+    "title": "A Gap Year in Peru",
+    "text": "After finishing secondary school, Lucy Grant decided not to go straight to university. Instead, she spent a year travelling in South America, mainly in Peru. For the first four months, she worked as a volunteer at a primary school in a small mountain village, where she taught English and helped the children with art projects. 'The village didn't have reliable electricity, so I had to plan lessons that didn't need computers,' she remembers. 'It made me much more creative.' Afterwards, she travelled around the country by bus, visiting ancient ruins and staying with local families. Lucy admits that there were difficult moments. She was often homesick during the first few weeks, and she once lost her passport, which took ten days to replace. However, she has no regrets. 'I came back more independent and with a much clearer idea of what I wanted to study,' she says. She is now in her second year of a teaching degree."
+   },
+   "question": "It took ten ___ to replace Lucy's passport.",
+   "answers": [
+    "days"
+   ],
+   "explanation": "'…she once lost her passport, which took ten days to replace.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-021",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "b1-rp-05",
+    "title": "Why Sleep Matters",
+    "text": "Scientists have known for a long time that sleep is important, but recent studies show just how much it affects our health. Adults who regularly sleep less than six hours a night are more likely to catch colds, put on weight and have problems with concentration. Lack of sleep also affects our mood, making us more easily annoyed and less patient with others. One reason many people don't get enough rest is the light from screens. Phones and tablets give off blue light, which tells the brain that it is still daytime and makes it harder to fall asleep. Experts recommend switching off devices at least an hour before bed and keeping the bedroom cool, dark and quiet. Surprisingly, they also suggest getting up at the same time every day, even at weekends, because a regular routine helps the body clock work properly."
+   },
+   "question": "What can happen to adults who sleep less than six hours?",
+   "options": [
+    "They may get ill more often.",
+    "They lose weight quickly.",
+    "They become more patient.",
+    "They concentrate better."
+   ],
+   "answer": 0,
+   "explanation": "'…more likely to catch colds, put on weight and have problems with concentration.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-022",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "b1-rp-05",
+    "title": "Why Sleep Matters",
+    "text": "Scientists have known for a long time that sleep is important, but recent studies show just how much it affects our health. Adults who regularly sleep less than six hours a night are more likely to catch colds, put on weight and have problems with concentration. Lack of sleep also affects our mood, making us more easily annoyed and less patient with others. One reason many people don't get enough rest is the light from screens. Phones and tablets give off blue light, which tells the brain that it is still daytime and makes it harder to fall asleep. Experts recommend switching off devices at least an hour before bed and keeping the bedroom cool, dark and quiet. Surprisingly, they also suggest getting up at the same time every day, even at weekends, because a regular routine helps the body clock work properly."
+   },
+   "question": "Why does blue light make it difficult to sleep?",
+   "options": [
+    "It makes the brain think it is daytime.",
+    "It keeps people busy with games.",
+    "It makes the room too warm.",
+    "It hurts people's eyes."
+   ],
+   "answer": 0,
+   "explanation": "'…blue light, which tells the brain that it is still daytime.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-023",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "b1-rp-05",
+    "title": "Why Sleep Matters",
+    "text": "Scientists have known for a long time that sleep is important, but recent studies show just how much it affects our health. Adults who regularly sleep less than six hours a night are more likely to catch colds, put on weight and have problems with concentration. Lack of sleep also affects our mood, making us more easily annoyed and less patient with others. One reason many people don't get enough rest is the light from screens. Phones and tablets give off blue light, which tells the brain that it is still daytime and makes it harder to fall asleep. Experts recommend switching off devices at least an hour before bed and keeping the bedroom cool, dark and quiet. Surprisingly, they also suggest getting up at the same time every day, even at weekends, because a regular routine helps the body clock work properly."
+   },
+   "question": "What does 'give off' mean in the text?",
+   "options": [
+    "produce",
+    "reflect",
+    "switch off",
+    "reduce"
+   ],
+   "answer": 0,
+   "explanation": "Phones 'give off' (= produce, send out) blue light.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-024",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "b1-rp-05",
+    "title": "Why Sleep Matters",
+    "text": "Scientists have known for a long time that sleep is important, but recent studies show just how much it affects our health. Adults who regularly sleep less than six hours a night are more likely to catch colds, put on weight and have problems with concentration. Lack of sleep also affects our mood, making us more easily annoyed and less patient with others. One reason many people don't get enough rest is the light from screens. Phones and tablets give off blue light, which tells the brain that it is still daytime and makes it harder to fall asleep. Experts recommend switching off devices at least an hour before bed and keeping the bedroom cool, dark and quiet. Surprisingly, they also suggest getting up at the same time every day, even at weekends, because a regular routine helps the body clock work properly."
+   },
+   "question": "Which piece of advice might surprise readers?",
+   "options": [
+    "Avoiding coffee",
+    "Getting up at the same time at weekends",
+    "Keeping the bedroom dark",
+    "Turning off phones before bed"
+   ],
+   "answer": 1,
+   "explanation": "'Surprisingly, they also suggest getting up at the same time every day, even at weekends.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-025",
+   "type": "fill",
+   "topic": "health",
+   "passage": {
+    "id": "b1-rp-05",
+    "title": "Why Sleep Matters",
+    "text": "Scientists have known for a long time that sleep is important, but recent studies show just how much it affects our health. Adults who regularly sleep less than six hours a night are more likely to catch colds, put on weight and have problems with concentration. Lack of sleep also affects our mood, making us more easily annoyed and less patient with others. One reason many people don't get enough rest is the light from screens. Phones and tablets give off blue light, which tells the brain that it is still daytime and makes it harder to fall asleep. Experts recommend switching off devices at least an hour before bed and keeping the bedroom cool, dark and quiet. Surprisingly, they also suggest getting up at the same time every day, even at weekends, because a regular routine helps the body clock work properly."
+   },
+   "question": "Experts say the bedroom should be cool, dark and ___.",
+   "answers": [
+    "quiet"
+   ],
+   "explanation": "'…keeping the bedroom cool, dark and quiet.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-026",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "b1-rp-06",
+    "title": "Review: Street Food Tour by Motorbike",
+    "text": "If you only have one evening in Ho Chi Minh City, I strongly recommend booking a street food tour by motorbike. Our guide, Phuong, picked us up from our hotel at six o'clock and immediately gave us helmets and a short safety talk. Over the next four hours, we visited six different places, from a busy market stall serving broken rice with grilled pork to a tiny family restaurant famous for its crab soup. Phuong explained the history of each dish and taught us useful phrases for ordering food. The portions were small, which was sensible, as we would never have managed six full meals! My only criticism is that the tour felt a little rushed at the end, and we didn't have time to try the dessert place on the list. At around $45 per person, including all food and drinks, it was excellent value. Vegetarian options are available if you ask when booking."
+   },
+   "question": "What is the writer's main purpose?",
+   "options": [
+    "To recommend a tour",
+    "To explain how to cook Vietnamese food",
+    "To complain about a tour",
+    "To compare different guides"
+   ],
+   "answer": 0,
+   "explanation": "'I strongly recommend booking a street food tour…'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-027",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "b1-rp-06",
+    "title": "Review: Street Food Tour by Motorbike",
+    "text": "If you only have one evening in Ho Chi Minh City, I strongly recommend booking a street food tour by motorbike. Our guide, Phuong, picked us up from our hotel at six o'clock and immediately gave us helmets and a short safety talk. Over the next four hours, we visited six different places, from a busy market stall serving broken rice with grilled pork to a tiny family restaurant famous for its crab soup. Phuong explained the history of each dish and taught us useful phrases for ordering food. The portions were small, which was sensible, as we would never have managed six full meals! My only criticism is that the tour felt a little rushed at the end, and we didn't have time to try the dessert place on the list. At around $45 per person, including all food and drinks, it was excellent value. Vegetarian options are available if you ask when booking."
+   },
+   "question": "What did Phuong do at the start of the tour?",
+   "options": [
+    "Took them to a market",
+    "Talked to them about safety",
+    "Showed them a menu",
+    "Taught them to ride a motorbike"
+   ],
+   "answer": 1,
+   "explanation": "'…gave us helmets and a short safety talk.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-028",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "b1-rp-06",
+    "title": "Review: Street Food Tour by Motorbike",
+    "text": "If you only have one evening in Ho Chi Minh City, I strongly recommend booking a street food tour by motorbike. Our guide, Phuong, picked us up from our hotel at six o'clock and immediately gave us helmets and a short safety talk. Over the next four hours, we visited six different places, from a busy market stall serving broken rice with grilled pork to a tiny family restaurant famous for its crab soup. Phuong explained the history of each dish and taught us useful phrases for ordering food. The portions were small, which was sensible, as we would never have managed six full meals! My only criticism is that the tour felt a little rushed at the end, and we didn't have time to try the dessert place on the list. At around $45 per person, including all food and drinks, it was excellent value. Vegetarian options are available if you ask when booking."
+   },
+   "question": "Why does the writer think the small portions were sensible?",
+   "options": [
+    "The food was very spicy.",
+    "They couldn't have eaten six big meals.",
+    "They wanted to save money.",
+    "They had already had dinner."
+   ],
+   "answer": 1,
+   "explanation": "'…we would never have managed six full meals!'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-029",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "b1-rp-06",
+    "title": "Review: Street Food Tour by Motorbike",
+    "text": "If you only have one evening in Ho Chi Minh City, I strongly recommend booking a street food tour by motorbike. Our guide, Phuong, picked us up from our hotel at six o'clock and immediately gave us helmets and a short safety talk. Over the next four hours, we visited six different places, from a busy market stall serving broken rice with grilled pork to a tiny family restaurant famous for its crab soup. Phuong explained the history of each dish and taught us useful phrases for ordering food. The portions were small, which was sensible, as we would never have managed six full meals! My only criticism is that the tour felt a little rushed at the end, and we didn't have time to try the dessert place on the list. At around $45 per person, including all food and drinks, it was excellent value. Vegetarian options are available if you ask when booking."
+   },
+   "question": "What was the writer's criticism?",
+   "options": [
+    "There were no vegetarian options.",
+    "The guide's English was poor.",
+    "It was too expensive.",
+    "There wasn't enough time at the end."
+   ],
+   "answer": 3,
+   "explanation": "'…the tour felt a little rushed at the end.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-030",
+   "type": "fill",
+   "topic": "food",
+   "passage": {
+    "id": "b1-rp-06",
+    "title": "Review: Street Food Tour by Motorbike",
+    "text": "If you only have one evening in Ho Chi Minh City, I strongly recommend booking a street food tour by motorbike. Our guide, Phuong, picked us up from our hotel at six o'clock and immediately gave us helmets and a short safety talk. Over the next four hours, we visited six different places, from a busy market stall serving broken rice with grilled pork to a tiny family restaurant famous for its crab soup. Phuong explained the history of each dish and taught us useful phrases for ordering food. The portions were small, which was sensible, as we would never have managed six full meals! My only criticism is that the tour felt a little rushed at the end, and we didn't have time to try the dessert place on the list. At around $45 per person, including all food and drinks, it was excellent value. Vegetarian options are available if you ask when booking."
+   },
+   "question": "The tour lasted about four ___.",
+   "answers": [
+    "hours"
+   ],
+   "explanation": "'Over the next four hours, we visited six different places.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-031",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-07",
+    "title": "Should Teenagers Have Part-time Jobs?",
+    "text": "Should teenagers have part-time jobs while they are still at school? Supporters say that working a few hours a week teaches young people responsibility and the value of money. A Saturday job in a shop or café can also help them develop skills such as communication and time management, which will be useful in their future careers. On the other hand, some teachers worry that jobs take time away from studying. A survey of 2,000 secondary school students found that those who worked more than fifteen hours a week got lower exam results than those who didn't work at all. Interestingly, students who worked fewer than eight hours a week did just as well as non-workers, and some even did better. The researchers concluded that the number of hours is what really matters. A small job can be positive, but too much work can harm a student's education."
+   },
+   "question": "Which advantage of part-time jobs is mentioned?",
+   "options": [
+    "They help young people manage their time.",
+    "They are very well paid.",
+    "They let students leave school earlier.",
+    "They improve exam results for everyone."
+   ],
+   "answer": 0,
+   "explanation": "'…skills such as communication and time management.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-032",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-07",
+    "title": "Should Teenagers Have Part-time Jobs?",
+    "text": "Should teenagers have part-time jobs while they are still at school? Supporters say that working a few hours a week teaches young people responsibility and the value of money. A Saturday job in a shop or café can also help them develop skills such as communication and time management, which will be useful in their future careers. On the other hand, some teachers worry that jobs take time away from studying. A survey of 2,000 secondary school students found that those who worked more than fifteen hours a week got lower exam results than those who didn't work at all. Interestingly, students who worked fewer than eight hours a week did just as well as non-workers, and some even did better. The researchers concluded that the number of hours is what really matters. A small job can be positive, but too much work can harm a student's education."
+   },
+   "question": "Which students got lower exam results?",
+   "options": [
+    "Those working over fifteen hours a week",
+    "Those who didn't work at all",
+    "Those working under eight hours",
+    "Those working on Saturdays"
+   ],
+   "answer": 0,
+   "explanation": "'…those who worked more than fifteen hours a week got lower exam results.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-033",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-07",
+    "title": "Should Teenagers Have Part-time Jobs?",
+    "text": "Should teenagers have part-time jobs while they are still at school? Supporters say that working a few hours a week teaches young people responsibility and the value of money. A Saturday job in a shop or café can also help them develop skills such as communication and time management, which will be useful in their future careers. On the other hand, some teachers worry that jobs take time away from studying. A survey of 2,000 secondary school students found that those who worked more than fifteen hours a week got lower exam results than those who didn't work at all. Interestingly, students who worked fewer than eight hours a week did just as well as non-workers, and some even did better. The researchers concluded that the number of hours is what really matters. A small job can be positive, but too much work can harm a student's education."
+   },
+   "question": "What did the researchers conclude?",
+   "options": [
+    "All part-time jobs improve results.",
+    "The number of hours is the key factor.",
+    "Shop jobs are better than café jobs.",
+    "Teenagers should never have jobs."
+   ],
+   "answer": 1,
+   "explanation": "'The researchers concluded that the number of hours is what really matters.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-034",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-07",
+    "title": "Should Teenagers Have Part-time Jobs?",
+    "text": "Should teenagers have part-time jobs while they are still at school? Supporters say that working a few hours a week teaches young people responsibility and the value of money. A Saturday job in a shop or café can also help them develop skills such as communication and time management, which will be useful in their future careers. On the other hand, some teachers worry that jobs take time away from studying. A survey of 2,000 secondary school students found that those who worked more than fifteen hours a week got lower exam results than those who didn't work at all. Interestingly, students who worked fewer than eight hours a week did just as well as non-workers, and some even did better. The researchers concluded that the number of hours is what really matters. A small job can be positive, but too much work can harm a student's education."
+   },
+   "question": "How would you describe the text?",
+   "options": [
+    "It advertises jobs for students.",
+    "It presents both sides of an argument.",
+    "It tells a personal story.",
+    "It tries to persuade teenagers to get jobs."
+   ],
+   "answer": 1,
+   "explanation": "It gives supporters' views, then 'On the other hand…' the teachers' worries and research.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-035",
+   "type": "fill",
+   "topic": "work",
+   "passage": {
+    "id": "b1-rp-07",
+    "title": "Should Teenagers Have Part-time Jobs?",
+    "text": "Should teenagers have part-time jobs while they are still at school? Supporters say that working a few hours a week teaches young people responsibility and the value of money. A Saturday job in a shop or café can also help them develop skills such as communication and time management, which will be useful in their future careers. On the other hand, some teachers worry that jobs take time away from studying. A survey of 2,000 secondary school students found that those who worked more than fifteen hours a week got lower exam results than those who didn't work at all. Interestingly, students who worked fewer than eight hours a week did just as well as non-workers, and some even did better. The researchers concluded that the number of hours is what really matters. A small job can be positive, but too much work can harm a student's education."
+   },
+   "question": "The survey included 2,000 secondary school ___.",
+   "answers": [
+    "students"
+   ],
+   "explanation": "'A survey of 2,000 secondary school students…'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-036",
+   "type": "mcq",
+   "topic": "city life",
+   "passage": {
+    "id": "b1-rp-08",
+    "title": "The Return of the Bicycle",
+    "text": "Twenty years ago, the bicycle seemed to be disappearing from many Asian cities as more people could afford motorbikes and cars. Now, however, it is making a comeback. Cities such as Taipei and Seoul have built hundreds of kilometres of cycle lanes, and bike-sharing schemes allow people to rent a bicycle using an app for less than the price of a bus ticket. There are several reasons for this change. Traffic jams have made short car journeys frustratingly slow, and many people are worried about air pollution. Cycling is also seen as a cheap way to stay fit. Not everyone is convinced, though. Critics point out that hot weather and heavy rain make cycling uncomfortable for much of the year, and that cycle lanes are not always safe. Despite these problems, city planners believe that bicycles will play an important role in the future of urban transport."
+   },
+   "question": "Why did bicycles become less popular in the past?",
+   "options": [
+    "Bicycles became too expensive.",
+    "The weather got worse.",
+    "People could afford other vehicles.",
+    "Cities removed cycle lanes."
+   ],
+   "answer": 2,
+   "explanation": "'…as more people could afford motorbikes and cars.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-037",
+   "type": "mcq",
+   "topic": "city life",
+   "passage": {
+    "id": "b1-rp-08",
+    "title": "The Return of the Bicycle",
+    "text": "Twenty years ago, the bicycle seemed to be disappearing from many Asian cities as more people could afford motorbikes and cars. Now, however, it is making a comeback. Cities such as Taipei and Seoul have built hundreds of kilometres of cycle lanes, and bike-sharing schemes allow people to rent a bicycle using an app for less than the price of a bus ticket. There are several reasons for this change. Traffic jams have made short car journeys frustratingly slow, and many people are worried about air pollution. Cycling is also seen as a cheap way to stay fit. Not everyone is convinced, though. Critics point out that hot weather and heavy rain make cycling uncomfortable for much of the year, and that cycle lanes are not always safe. Despite these problems, city planners believe that bicycles will play an important role in the future of urban transport."
+   },
+   "question": "What does 'making a comeback' mean?",
+   "options": [
+    "getting more expensive",
+    "disappearing completely",
+    "becoming popular again",
+    "moving to the countryside"
+   ],
+   "answer": 2,
+   "explanation": "After disappearing, the bicycle is now 'making a comeback' – becoming popular again.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-038",
+   "type": "mcq",
+   "topic": "city life",
+   "passage": {
+    "id": "b1-rp-08",
+    "title": "The Return of the Bicycle",
+    "text": "Twenty years ago, the bicycle seemed to be disappearing from many Asian cities as more people could afford motorbikes and cars. Now, however, it is making a comeback. Cities such as Taipei and Seoul have built hundreds of kilometres of cycle lanes, and bike-sharing schemes allow people to rent a bicycle using an app for less than the price of a bus ticket. There are several reasons for this change. Traffic jams have made short car journeys frustratingly slow, and many people are worried about air pollution. Cycling is also seen as a cheap way to stay fit. Not everyone is convinced, though. Critics point out that hot weather and heavy rain make cycling uncomfortable for much of the year, and that cycle lanes are not always safe. Despite these problems, city planners believe that bicycles will play an important role in the future of urban transport."
+   },
+   "question": "Which reason for the change is NOT mentioned?",
+   "options": [
+    "Traffic jams slow down car journeys.",
+    "Bicycles are faster than trains.",
+    "Cycling helps people keep fit.",
+    "People are worried about pollution."
+   ],
+   "answer": 1,
+   "explanation": "The text mentions traffic, pollution and fitness, but never compares bicycles with trains.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-039",
+   "type": "mcq",
+   "topic": "city life",
+   "passage": {
+    "id": "b1-rp-08",
+    "title": "The Return of the Bicycle",
+    "text": "Twenty years ago, the bicycle seemed to be disappearing from many Asian cities as more people could afford motorbikes and cars. Now, however, it is making a comeback. Cities such as Taipei and Seoul have built hundreds of kilometres of cycle lanes, and bike-sharing schemes allow people to rent a bicycle using an app for less than the price of a bus ticket. There are several reasons for this change. Traffic jams have made short car journeys frustratingly slow, and many people are worried about air pollution. Cycling is also seen as a cheap way to stay fit. Not everyone is convinced, though. Critics point out that hot weather and heavy rain make cycling uncomfortable for much of the year, and that cycle lanes are not always safe. Despite these problems, city planners believe that bicycles will play an important role in the future of urban transport."
+   },
+   "question": "What do critics say?",
+   "options": [
+    "Bike-sharing apps are too complicated.",
+    "The weather can make cycling unpleasant.",
+    "Cycling is bad for your health.",
+    "There are too many cycle lanes."
+   ],
+   "answer": 1,
+   "explanation": "'…hot weather and heavy rain make cycling uncomfortable for much of the year.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-040",
+   "type": "fill",
+   "topic": "city life",
+   "passage": {
+    "id": "b1-rp-08",
+    "title": "The Return of the Bicycle",
+    "text": "Twenty years ago, the bicycle seemed to be disappearing from many Asian cities as more people could afford motorbikes and cars. Now, however, it is making a comeback. Cities such as Taipei and Seoul have built hundreds of kilometres of cycle lanes, and bike-sharing schemes allow people to rent a bicycle using an app for less than the price of a bus ticket. There are several reasons for this change. Traffic jams have made short car journeys frustratingly slow, and many people are worried about air pollution. Cycling is also seen as a cheap way to stay fit. Not everyone is convinced, though. Critics point out that hot weather and heavy rain make cycling uncomfortable for much of the year, and that cycle lanes are not always safe. Despite these problems, city planners believe that bicycles will play an important role in the future of urban transport."
+   },
+   "question": "With bike-sharing, you can rent a bicycle using an ___.",
+   "answers": [
+    "app"
+   ],
+   "explanation": "'…rent a bicycle using an app.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-041",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "b1-rp-09",
+    "title": "An Email to New Neighbours",
+    "text": "Hi Daniel and Sophie, Welcome to Elm Street! I'm Grace from number 14, the house with the blue door opposite yours. I hope the move went smoothly. I thought you might find a few things useful to know. The rubbish is collected on Tuesday mornings, and recycling every other Friday – the green bin is for paper and the blue one for bottles and cans. Parking can be difficult in the evening, so most of us leave our cars on Park Lane, which is just around the corner. There's an excellent bakery at the end of the road, but it closes at two on Saturdays, so go early! Also, we have a street party every summer, usually in July. It's a great chance to get to know everyone. If you need anything at all, just knock on my door – I work from home, so I'm usually in. Best wishes, Grace"
+   },
+   "question": "Why did Grace write the email?",
+   "options": [
+    "To ask them for help",
+    "To welcome new neighbours and give information",
+    "To complain about parking",
+    "To invite them to a party at her house"
+   ],
+   "answer": 1,
+   "explanation": "She welcomes them and lists useful information about the street.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-042",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "b1-rp-09",
+    "title": "An Email to New Neighbours",
+    "text": "Hi Daniel and Sophie, Welcome to Elm Street! I'm Grace from number 14, the house with the blue door opposite yours. I hope the move went smoothly. I thought you might find a few things useful to know. The rubbish is collected on Tuesday mornings, and recycling every other Friday – the green bin is for paper and the blue one for bottles and cans. Parking can be difficult in the evening, so most of us leave our cars on Park Lane, which is just around the corner. There's an excellent bakery at the end of the road, but it closes at two on Saturdays, so go early! Also, we have a street party every summer, usually in July. It's a great chance to get to know everyone. If you need anything at all, just knock on my door – I work from home, so I'm usually in. Best wishes, Grace"
+   },
+   "question": "How often is recycling collected?",
+   "options": [
+    "Once a month",
+    "Every two weeks",
+    "Every Friday",
+    "Every Tuesday"
+   ],
+   "answer": 1,
+   "explanation": "'…recycling every other Friday' = every two weeks.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-043",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "b1-rp-09",
+    "title": "An Email to New Neighbours",
+    "text": "Hi Daniel and Sophie, Welcome to Elm Street! I'm Grace from number 14, the house with the blue door opposite yours. I hope the move went smoothly. I thought you might find a few things useful to know. The rubbish is collected on Tuesday mornings, and recycling every other Friday – the green bin is for paper and the blue one for bottles and cans. Parking can be difficult in the evening, so most of us leave our cars on Park Lane, which is just around the corner. There's an excellent bakery at the end of the road, but it closes at two on Saturdays, so go early! Also, we have a street party every summer, usually in July. It's a great chance to get to know everyone. If you need anything at all, just knock on my door – I work from home, so I'm usually in. Best wishes, Grace"
+   },
+   "question": "What does Grace say about parking?",
+   "options": [
+    "Cars aren't allowed on Elm Street.",
+    "Parking is easy in the evening.",
+    "Many people park on another street.",
+    "There is a car park behind the bakery."
+   ],
+   "answer": 2,
+   "explanation": "'…most of us leave our cars on Park Lane, which is just around the corner.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-044",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "b1-rp-09",
+    "title": "An Email to New Neighbours",
+    "text": "Hi Daniel and Sophie, Welcome to Elm Street! I'm Grace from number 14, the house with the blue door opposite yours. I hope the move went smoothly. I thought you might find a few things useful to know. The rubbish is collected on Tuesday mornings, and recycling every other Friday – the green bin is for paper and the blue one for bottles and cans. Parking can be difficult in the evening, so most of us leave our cars on Park Lane, which is just around the corner. There's an excellent bakery at the end of the road, but it closes at two on Saturdays, so go early! Also, we have a street party every summer, usually in July. It's a great chance to get to know everyone. If you need anything at all, just knock on my door – I work from home, so I'm usually in. Best wishes, Grace"
+   },
+   "question": "Why is Grace usually at home?",
+   "options": [
+    "She works from home.",
+    "She is retired.",
+    "She looks after children.",
+    "She has been ill."
+   ],
+   "answer": 0,
+   "explanation": "'I work from home, so I'm usually in.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-045",
+   "type": "fill",
+   "topic": "community",
+   "passage": {
+    "id": "b1-rp-09",
+    "title": "An Email to New Neighbours",
+    "text": "Hi Daniel and Sophie, Welcome to Elm Street! I'm Grace from number 14, the house with the blue door opposite yours. I hope the move went smoothly. I thought you might find a few things useful to know. The rubbish is collected on Tuesday mornings, and recycling every other Friday – the green bin is for paper and the blue one for bottles and cans. Parking can be difficult in the evening, so most of us leave our cars on Park Lane, which is just around the corner. There's an excellent bakery at the end of the road, but it closes at two on Saturdays, so go early! Also, we have a street party every summer, usually in July. It's a great chance to get to know everyone. If you need anything at all, just knock on my door – I work from home, so I'm usually in. Best wishes, Grace"
+   },
+   "question": "The bakery closes at ___ on Saturdays.",
+   "answers": [
+    "two",
+    "2",
+    "2 o'clock",
+    "two o'clock",
+    "2 p.m.",
+    "2pm"
+   ],
+   "explanation": "'…it closes at two on Saturdays.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-046",
+   "type": "mcq",
+   "topic": "careers",
+   "passage": {
+    "id": "b1-rp-10",
+    "title": "From Hobby to Business",
+    "text": "When Minh Anh started making handmade soap in her kitchen, she only wanted to give presents to friends. They loved the natural ingredients, like coconut oil and lemongrass, and soon friends of friends were asking to buy some. In 2021, she opened an online shop. At first, she did everything herself: making the soap, taking photos, answering messages and posting orders. 'I was working until midnight most days,' she says. 'I realised that if I wanted the business to grow, I couldn't do it all alone.' She now employs three part-time staff and sells to customers all over Vietnam. Her advice to anyone thinking of turning a hobby into a business is to start small. 'Don't quit your job immediately. Test your idea, listen to customers' feedback, and only invest more money when you're sure people want your product.'"
+   },
+   "question": "Why did Minh Anh first make soap?",
+   "options": [
+    "To give as gifts",
+    "To sell at a market",
+    "To use in her own shop",
+    "For a school project"
+   ],
+   "answer": 0,
+   "explanation": "'…she only wanted to give presents to friends.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-047",
+   "type": "mcq",
+   "topic": "careers",
+   "passage": {
+    "id": "b1-rp-10",
+    "title": "From Hobby to Business",
+    "text": "When Minh Anh started making handmade soap in her kitchen, she only wanted to give presents to friends. They loved the natural ingredients, like coconut oil and lemongrass, and soon friends of friends were asking to buy some. In 2021, she opened an online shop. At first, she did everything herself: making the soap, taking photos, answering messages and posting orders. 'I was working until midnight most days,' she says. 'I realised that if I wanted the business to grow, I couldn't do it all alone.' She now employs three part-time staff and sells to customers all over Vietnam. Her advice to anyone thinking of turning a hobby into a business is to start small. 'Don't quit your job immediately. Test your idea, listen to customers' feedback, and only invest more money when you're sure people want your product.'"
+   },
+   "question": "What problem did she have after opening the shop?",
+   "options": [
+    "She couldn't find good ingredients.",
+    "She had too much work to do alone.",
+    "Customers didn't like the photos.",
+    "Nobody bought her products."
+   ],
+   "answer": 1,
+   "explanation": "'I was working until midnight most days… I couldn't do it all alone.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-048",
+   "type": "mcq",
+   "topic": "careers",
+   "passage": {
+    "id": "b1-rp-10",
+    "title": "From Hobby to Business",
+    "text": "When Minh Anh started making handmade soap in her kitchen, she only wanted to give presents to friends. They loved the natural ingredients, like coconut oil and lemongrass, and soon friends of friends were asking to buy some. In 2021, she opened an online shop. At first, she did everything herself: making the soap, taking photos, answering messages and posting orders. 'I was working until midnight most days,' she says. 'I realised that if I wanted the business to grow, I couldn't do it all alone.' She now employs three part-time staff and sells to customers all over Vietnam. Her advice to anyone thinking of turning a hobby into a business is to start small. 'Don't quit your job immediately. Test your idea, listen to customers' feedback, and only invest more money when you're sure people want your product.'"
+   },
+   "question": "What did she decide to do?",
+   "options": [
+    "Stop answering messages",
+    "Move to a bigger kitchen",
+    "Employ people to help her",
+    "Close the online shop"
+   ],
+   "answer": 2,
+   "explanation": "'She now employs three part-time staff.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-049",
+   "type": "mcq",
+   "topic": "careers",
+   "passage": {
+    "id": "b1-rp-10",
+    "title": "From Hobby to Business",
+    "text": "When Minh Anh started making handmade soap in her kitchen, she only wanted to give presents to friends. They loved the natural ingredients, like coconut oil and lemongrass, and soon friends of friends were asking to buy some. In 2021, she opened an online shop. At first, she did everything herself: making the soap, taking photos, answering messages and posting orders. 'I was working until midnight most days,' she says. 'I realised that if I wanted the business to grow, I couldn't do it all alone.' She now employs three part-time staff and sells to customers all over Vietnam. Her advice to anyone thinking of turning a hobby into a business is to start small. 'Don't quit your job immediately. Test your idea, listen to customers' feedback, and only invest more money when you're sure people want your product.'"
+   },
+   "question": "What is her advice?",
+   "options": [
+    "Ignore negative comments.",
+    "Leave your job to have more time.",
+    "Check people want your product before investing a lot.",
+    "Borrow money to start quickly."
+   ],
+   "answer": 2,
+   "explanation": "'…only invest more money when you're sure people want your product.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-050",
+   "type": "fill",
+   "topic": "careers",
+   "passage": {
+    "id": "b1-rp-10",
+    "title": "From Hobby to Business",
+    "text": "When Minh Anh started making handmade soap in her kitchen, she only wanted to give presents to friends. They loved the natural ingredients, like coconut oil and lemongrass, and soon friends of friends were asking to buy some. In 2021, she opened an online shop. At first, she did everything herself: making the soap, taking photos, answering messages and posting orders. 'I was working until midnight most days,' she says. 'I realised that if I wanted the business to grow, I couldn't do it all alone.' She now employs three part-time staff and sells to customers all over Vietnam. Her advice to anyone thinking of turning a hobby into a business is to start small. 'Don't quit your job immediately. Test your idea, listen to customers' feedback, and only invest more money when you're sure people want your product.'"
+   },
+   "question": "Minh Anh now employs three ___ staff.",
+   "answers": [
+    "part-time",
+    "part time"
+   ],
+   "explanation": "'She now employs three part-time staff.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-051",
+   "type": "mcq",
+   "topic": "psychology",
+   "passage": {
+    "id": "b1-rp-11",
+    "title": "The Science of Happiness",
+    "text": "What makes people happy? Many of us believe that more money or a bigger house would improve our lives. However, research suggests that once our basic needs are met, extra money makes surprisingly little difference. One famous study followed a group of people for more than seventy years. It found that the strongest predictor of happiness and health in old age was not wealth or fame, but the quality of people's relationships. Those who had close friends and supportive families were happier and even lived longer. Other studies show that spending money on experiences, such as a trip or a concert, brings more lasting happiness than buying objects. This may be because we share experiences with others and enjoy remembering them. Psychologists also recommend simple habits, like writing down three good things that happened each day, which can help us notice positive moments we might otherwise forget."
+   },
+   "question": "What happens once our basic needs are met?",
+   "options": [
+    "People stop wanting money.",
+    "People buy bigger houses.",
+    "Extra money doesn't increase happiness much.",
+    "People become much happier with more money."
+   ],
+   "answer": 2,
+   "explanation": "'…once our basic needs are met, extra money makes surprisingly little difference.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-052",
+   "type": "mcq",
+   "topic": "psychology",
+   "passage": {
+    "id": "b1-rp-11",
+    "title": "The Science of Happiness",
+    "text": "What makes people happy? Many of us believe that more money or a bigger house would improve our lives. However, research suggests that once our basic needs are met, extra money makes surprisingly little difference. One famous study followed a group of people for more than seventy years. It found that the strongest predictor of happiness and health in old age was not wealth or fame, but the quality of people's relationships. Those who had close friends and supportive families were happier and even lived longer. Other studies show that spending money on experiences, such as a trip or a concert, brings more lasting happiness than buying objects. This may be because we share experiences with others and enjoy remembering them. Psychologists also recommend simple habits, like writing down three good things that happened each day, which can help us notice positive moments we might otherwise forget."
+   },
+   "question": "What did the seventy-year study find?",
+   "options": [
+    "Rich people live longer.",
+    "Famous people are happier.",
+    "Good relationships matter most.",
+    "Health depends mainly on diet."
+   ],
+   "answer": 2,
+   "explanation": "'…the strongest predictor… was… the quality of people's relationships.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-053",
+   "type": "mcq",
+   "topic": "psychology",
+   "passage": {
+    "id": "b1-rp-11",
+    "title": "The Science of Happiness",
+    "text": "What makes people happy? Many of us believe that more money or a bigger house would improve our lives. However, research suggests that once our basic needs are met, extra money makes surprisingly little difference. One famous study followed a group of people for more than seventy years. It found that the strongest predictor of happiness and health in old age was not wealth or fame, but the quality of people's relationships. Those who had close friends and supportive families were happier and even lived longer. Other studies show that spending money on experiences, such as a trip or a concert, brings more lasting happiness than buying objects. This may be because we share experiences with others and enjoy remembering them. Psychologists also recommend simple habits, like writing down three good things that happened each day, which can help us notice positive moments we might otherwise forget."
+   },
+   "question": "Why might experiences make us happier than objects?",
+   "options": [
+    "They last longer than objects.",
+    "They are usually cheaper.",
+    "We share them and enjoy remembering them.",
+    "They help us earn money."
+   ],
+   "answer": 2,
+   "explanation": "'…we share experiences with others and enjoy remembering them.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-054",
+   "type": "mcq",
+   "topic": "psychology",
+   "passage": {
+    "id": "b1-rp-11",
+    "title": "The Science of Happiness",
+    "text": "What makes people happy? Many of us believe that more money or a bigger house would improve our lives. However, research suggests that once our basic needs are met, extra money makes surprisingly little difference. One famous study followed a group of people for more than seventy years. It found that the strongest predictor of happiness and health in old age was not wealth or fame, but the quality of people's relationships. Those who had close friends and supportive families were happier and even lived longer. Other studies show that spending money on experiences, such as a trip or a concert, brings more lasting happiness than buying objects. This may be because we share experiences with others and enjoy remembering them. Psychologists also recommend simple habits, like writing down three good things that happened each day, which can help us notice positive moments we might otherwise forget."
+   },
+   "question": "What does the writer suggest at the end?",
+   "options": [
+    "Spending less time with friends",
+    "Writing a diary about problems",
+    "A daily habit of noting good things",
+    "Buying concert tickets every month"
+   ],
+   "answer": 2,
+   "explanation": "'…writing down three good things that happened each day.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-055",
+   "type": "fill",
+   "topic": "psychology",
+   "passage": {
+    "id": "b1-rp-11",
+    "title": "The Science of Happiness",
+    "text": "What makes people happy? Many of us believe that more money or a bigger house would improve our lives. However, research suggests that once our basic needs are met, extra money makes surprisingly little difference. One famous study followed a group of people for more than seventy years. It found that the strongest predictor of happiness and health in old age was not wealth or fame, but the quality of people's relationships. Those who had close friends and supportive families were happier and even lived longer. Other studies show that spending money on experiences, such as a trip or a concert, brings more lasting happiness than buying objects. This may be because we share experiences with others and enjoy remembering them. Psychologists also recommend simple habits, like writing down three good things that happened each day, which can help us notice positive moments we might otherwise forget."
+   },
+   "question": "The famous study lasted more than ___ years.",
+   "answers": [
+    "seventy",
+    "70"
+   ],
+   "explanation": "'One famous study followed a group of people for more than seventy years.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-056",
+   "type": "mcq",
+   "topic": "events",
+   "passage": {
+    "id": "b1-rp-12",
+    "title": "Festival Volunteers Wanted",
+    "text": "The Green Valley Music Festival is looking for 200 volunteers to help at this year's event, which takes place from 15th to 17th August. Volunteers will work three six-hour shifts during the weekend, in areas such as information points, ticket checking, recycling and first aid support. In return, you will receive a free weekend ticket, meals during your shifts and a place at the volunteers' campsite, which has hot showers. You must be at least eighteen years old, and previous experience is useful but not essential, as full training will be given in July. First aid volunteers, however, must already hold a recognised first aid certificate. To apply, complete the online form by 30th June. Please note that because we receive a large number of applications, we can only reply to successful applicants."
+   },
+   "question": "How many hours will each volunteer work in total?",
+   "options": [
+    "Eighteen",
+    "Six",
+    "Twenty-four",
+    "Twelve"
+   ],
+   "answer": 0,
+   "explanation": "Three six-hour shifts = 18 hours.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-057",
+   "type": "mcq",
+   "topic": "events",
+   "passage": {
+    "id": "b1-rp-12",
+    "title": "Festival Volunteers Wanted",
+    "text": "The Green Valley Music Festival is looking for 200 volunteers to help at this year's event, which takes place from 15th to 17th August. Volunteers will work three six-hour shifts during the weekend, in areas such as information points, ticket checking, recycling and first aid support. In return, you will receive a free weekend ticket, meals during your shifts and a place at the volunteers' campsite, which has hot showers. You must be at least eighteen years old, and previous experience is useful but not essential, as full training will be given in July. First aid volunteers, however, must already hold a recognised first aid certificate. To apply, complete the online form by 30th June. Please note that because we receive a large number of applications, we can only reply to successful applicants."
+   },
+   "question": "What will volunteers NOT receive?",
+   "options": [
+    "A festival ticket",
+    "Payment",
+    "A place to camp",
+    "Food during shifts"
+   ],
+   "answer": 1,
+   "explanation": "They get a ticket, meals and a campsite place – but no money is mentioned.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-058",
+   "type": "mcq",
+   "topic": "events",
+   "passage": {
+    "id": "b1-rp-12",
+    "title": "Festival Volunteers Wanted",
+    "text": "The Green Valley Music Festival is looking for 200 volunteers to help at this year's event, which takes place from 15th to 17th August. Volunteers will work three six-hour shifts during the weekend, in areas such as information points, ticket checking, recycling and first aid support. In return, you will receive a free weekend ticket, meals during your shifts and a place at the volunteers' campsite, which has hot showers. You must be at least eighteen years old, and previous experience is useful but not essential, as full training will be given in July. First aid volunteers, however, must already hold a recognised first aid certificate. To apply, complete the online form by 30th June. Please note that because we receive a large number of applications, we can only reply to successful applicants."
+   },
+   "question": "Who needs a certificate?",
+   "options": [
+    "People checking tickets",
+    "People under eighteen",
+    "People helping with first aid",
+    "All volunteers"
+   ],
+   "answer": 2,
+   "explanation": "'First aid volunteers, however, must already hold a recognised first aid certificate.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-059",
+   "type": "mcq",
+   "topic": "events",
+   "passage": {
+    "id": "b1-rp-12",
+    "title": "Festival Volunteers Wanted",
+    "text": "The Green Valley Music Festival is looking for 200 volunteers to help at this year's event, which takes place from 15th to 17th August. Volunteers will work three six-hour shifts during the weekend, in areas such as information points, ticket checking, recycling and first aid support. In return, you will receive a free weekend ticket, meals during your shifts and a place at the volunteers' campsite, which has hot showers. You must be at least eighteen years old, and previous experience is useful but not essential, as full training will be given in July. First aid volunteers, however, must already hold a recognised first aid certificate. To apply, complete the online form by 30th June. Please note that because we receive a large number of applications, we can only reply to successful applicants."
+   },
+   "question": "What does the advert say about replies?",
+   "options": [
+    "Replies will be sent in August.",
+    "Only successful applicants will be contacted.",
+    "Everyone will get an email by 30th June.",
+    "Applicants must phone to check."
+   ],
+   "answer": 1,
+   "explanation": "'…we can only reply to successful applicants.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-060",
+   "type": "fill",
+   "topic": "events",
+   "passage": {
+    "id": "b1-rp-12",
+    "title": "Festival Volunteers Wanted",
+    "text": "The Green Valley Music Festival is looking for 200 volunteers to help at this year's event, which takes place from 15th to 17th August. Volunteers will work three six-hour shifts during the weekend, in areas such as information points, ticket checking, recycling and first aid support. In return, you will receive a free weekend ticket, meals during your shifts and a place at the volunteers' campsite, which has hot showers. You must be at least eighteen years old, and previous experience is useful but not essential, as full training will be given in July. First aid volunteers, however, must already hold a recognised first aid certificate. To apply, complete the online form by 30th June. Please note that because we receive a large number of applications, we can only reply to successful applicants."
+   },
+   "question": "Training for volunteers will take place in ___.",
+   "answers": [
+    "July"
+   ],
+   "explanation": "'…full training will be given in July.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-061",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "b1-rp-13",
+    "title": "My Grandmother's Kitchen",
+    "text": "Some of my happiest childhood memories are of my grandmother's kitchen in Hue. Every summer holiday, my parents sent me to stay with her for a month. She would wake me up at five o'clock to go to the market, where she seemed to know every seller by name. She never used a shopping list; instead, she decided what to cook by looking at what was fresh that day. Back home, she let me help, although at first my jobs were limited to washing vegetables and peeling garlic. Gradually, she trusted me with more, and by the age of twelve I could make her famous spicy beef noodle soup on my own. She never wrote her recipes down, so when she passed away last year, I worried they would be lost. That's why I've started a blog where I record every dish I remember, along with the stories she told me while we cooked."
+   },
+   "question": "How often did the writer stay with her grandmother?",
+   "options": [
+    "For a month every summer",
+    "Once every few years",
+    "Every weekend",
+    "For the whole summer"
+   ],
+   "answer": 0,
+   "explanation": "'Every summer holiday, my parents sent me to stay with her for a month.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-062",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "b1-rp-13",
+    "title": "My Grandmother's Kitchen",
+    "text": "Some of my happiest childhood memories are of my grandmother's kitchen in Hue. Every summer holiday, my parents sent me to stay with her for a month. She would wake me up at five o'clock to go to the market, where she seemed to know every seller by name. She never used a shopping list; instead, she decided what to cook by looking at what was fresh that day. Back home, she let me help, although at first my jobs were limited to washing vegetables and peeling garlic. Gradually, she trusted me with more, and by the age of twelve I could make her famous spicy beef noodle soup on my own. She never wrote her recipes down, so when she passed away last year, I worried they would be lost. That's why I've started a blog where I record every dish I remember, along with the stories she told me while we cooked."
+   },
+   "question": "How did the grandmother decide what to cook?",
+   "options": [
+    "By following a shopping list",
+    "By cooking the same dishes every day",
+    "By seeing what was fresh at the market",
+    "By asking the writer"
+   ],
+   "answer": 2,
+   "explanation": "'…she decided what to cook by looking at what was fresh that day.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-063",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "b1-rp-13",
+    "title": "My Grandmother's Kitchen",
+    "text": "Some of my happiest childhood memories are of my grandmother's kitchen in Hue. Every summer holiday, my parents sent me to stay with her for a month. She would wake me up at five o'clock to go to the market, where she seemed to know every seller by name. She never used a shopping list; instead, she decided what to cook by looking at what was fresh that day. Back home, she let me help, although at first my jobs were limited to washing vegetables and peeling garlic. Gradually, she trusted me with more, and by the age of twelve I could make her famous spicy beef noodle soup on my own. She never wrote her recipes down, so when she passed away last year, I worried they would be lost. That's why I've started a blog where I record every dish I remember, along with the stories she told me while we cooked."
+   },
+   "question": "What was true when the writer first helped?",
+   "options": [
+    "She made the soup alone.",
+    "She was only given simple tasks.",
+    "She did the shopping by herself.",
+    "She wrote down the recipes."
+   ],
+   "answer": 1,
+   "explanation": "'…at first my jobs were limited to washing vegetables and peeling garlic.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-064",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "b1-rp-13",
+    "title": "My Grandmother's Kitchen",
+    "text": "Some of my happiest childhood memories are of my grandmother's kitchen in Hue. Every summer holiday, my parents sent me to stay with her for a month. She would wake me up at five o'clock to go to the market, where she seemed to know every seller by name. She never used a shopping list; instead, she decided what to cook by looking at what was fresh that day. Back home, she let me help, although at first my jobs were limited to washing vegetables and peeling garlic. Gradually, she trusted me with more, and by the age of twelve I could make her famous spicy beef noodle soup on my own. She never wrote her recipes down, so when she passed away last year, I worried they would be lost. That's why I've started a blog where I record every dish I remember, along with the stories she told me while we cooked."
+   },
+   "question": "Why did the writer start a blog?",
+   "options": [
+    "To earn money from cooking",
+    "To keep her grandmother's recipes and stories",
+    "To review restaurants in Hue",
+    "To teach children to cook"
+   ],
+   "answer": 1,
+   "explanation": "'…I record every dish I remember, along with the stories she told me.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-065",
+   "type": "fill",
+   "topic": "family",
+   "passage": {
+    "id": "b1-rp-13",
+    "title": "My Grandmother's Kitchen",
+    "text": "Some of my happiest childhood memories are of my grandmother's kitchen in Hue. Every summer holiday, my parents sent me to stay with her for a month. She would wake me up at five o'clock to go to the market, where she seemed to know every seller by name. She never used a shopping list; instead, she decided what to cook by looking at what was fresh that day. Back home, she let me help, although at first my jobs were limited to washing vegetables and peeling garlic. Gradually, she trusted me with more, and by the age of twelve I could make her famous spicy beef noodle soup on my own. She never wrote her recipes down, so when she passed away last year, I worried they would be lost. That's why I've started a blog where I record every dish I remember, along with the stories she told me while we cooked."
+   },
+   "question": "By the age of ___, the writer could make the noodle soup on her own.",
+   "answers": [
+    "twelve",
+    "12"
+   ],
+   "explanation": "'…by the age of twelve I could make her famous spicy beef noodle soup on my own.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-066",
+   "type": "mcq",
+   "topic": "media",
+   "passage": {
+    "id": "b1-rp-14",
+    "title": "Is Social Media Making Us Lonely?",
+    "text": "Social media was designed to connect people, so it may seem strange to suggest that it could make us feel lonely. Yet several studies have found a link between heavy use of social media and feelings of loneliness, especially among young adults. One explanation is comparison: when we scroll through photos of friends at parties or on holiday, we may feel that everyone else's life is more exciting than ours. Another is that time spent online can replace face-to-face contact, which is generally more satisfying. However, researchers stress that it depends on how we use these platforms. Actively messaging friends and arranging to meet seems to have a positive effect, while passively scrolling for hours does not. In one experiment, students who limited their use to thirty minutes a day for three weeks reported feeling less lonely and less anxious than a group who continued as normal."
+   },
+   "question": "What does the writer say may seem strange?",
+   "options": [
+    "That young people use social media",
+    "That social media could cause loneliness",
+    "That photos are popular online",
+    "That people go on holiday"
+   ],
+   "answer": 1,
+   "explanation": "'…it may seem strange to suggest that it could make us feel lonely.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-067",
+   "type": "mcq",
+   "topic": "media",
+   "passage": {
+    "id": "b1-rp-14",
+    "title": "Is Social Media Making Us Lonely?",
+    "text": "Social media was designed to connect people, so it may seem strange to suggest that it could make us feel lonely. Yet several studies have found a link between heavy use of social media and feelings of loneliness, especially among young adults. One explanation is comparison: when we scroll through photos of friends at parties or on holiday, we may feel that everyone else's life is more exciting than ours. Another is that time spent online can replace face-to-face contact, which is generally more satisfying. However, researchers stress that it depends on how we use these platforms. Actively messaging friends and arranging to meet seems to have a positive effect, while passively scrolling for hours does not. In one experiment, students who limited their use to thirty minutes a day for three weeks reported feeling less lonely and less anxious than a group who continued as normal."
+   },
+   "question": "What is 'comparison' an example of?",
+   "options": [
+    "A reason social media might make people unhappy",
+    "A result of the experiment",
+    "A type of platform",
+    "A way to make new friends"
+   ],
+   "answer": 0,
+   "explanation": "'One explanation is comparison…' – it explains the link with loneliness.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-068",
+   "type": "mcq",
+   "topic": "media",
+   "passage": {
+    "id": "b1-rp-14",
+    "title": "Is Social Media Making Us Lonely?",
+    "text": "Social media was designed to connect people, so it may seem strange to suggest that it could make us feel lonely. Yet several studies have found a link between heavy use of social media and feelings of loneliness, especially among young adults. One explanation is comparison: when we scroll through photos of friends at parties or on holiday, we may feel that everyone else's life is more exciting than ours. Another is that time spent online can replace face-to-face contact, which is generally more satisfying. However, researchers stress that it depends on how we use these platforms. Actively messaging friends and arranging to meet seems to have a positive effect, while passively scrolling for hours does not. In one experiment, students who limited their use to thirty minutes a day for three weeks reported feeling less lonely and less anxious than a group who continued as normal."
+   },
+   "question": "Which use of social media seems positive?",
+   "options": [
+    "Scrolling for a long time",
+    "Looking at holiday photos",
+    "Messaging friends to arrange meetings",
+    "Posting party photos"
+   ],
+   "answer": 2,
+   "explanation": "'Actively messaging friends and arranging to meet seems to have a positive effect.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-069",
+   "type": "mcq",
+   "topic": "media",
+   "passage": {
+    "id": "b1-rp-14",
+    "title": "Is Social Media Making Us Lonely?",
+    "text": "Social media was designed to connect people, so it may seem strange to suggest that it could make us feel lonely. Yet several studies have found a link between heavy use of social media and feelings of loneliness, especially among young adults. One explanation is comparison: when we scroll through photos of friends at parties or on holiday, we may feel that everyone else's life is more exciting than ours. Another is that time spent online can replace face-to-face contact, which is generally more satisfying. However, researchers stress that it depends on how we use these platforms. Actively messaging friends and arranging to meet seems to have a positive effect, while passively scrolling for hours does not. In one experiment, students who limited their use to thirty minutes a day for three weeks reported feeling less lonely and less anxious than a group who continued as normal."
+   },
+   "question": "What happened in the experiment?",
+   "options": [
+    "There was no difference between the groups.",
+    "Students who stopped completely felt lonelier.",
+    "Students who used less social media felt better.",
+    "All students felt more anxious."
+   ],
+   "answer": 2,
+   "explanation": "Those who limited use 'reported feeling less lonely and less anxious'.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-070",
+   "type": "fill",
+   "topic": "media",
+   "passage": {
+    "id": "b1-rp-14",
+    "title": "Is Social Media Making Us Lonely?",
+    "text": "Social media was designed to connect people, so it may seem strange to suggest that it could make us feel lonely. Yet several studies have found a link between heavy use of social media and feelings of loneliness, especially among young adults. One explanation is comparison: when we scroll through photos of friends at parties or on holiday, we may feel that everyone else's life is more exciting than ours. Another is that time spent online can replace face-to-face contact, which is generally more satisfying. However, researchers stress that it depends on how we use these platforms. Actively messaging friends and arranging to meet seems to have a positive effect, while passively scrolling for hours does not. In one experiment, students who limited their use to thirty minutes a day for three weeks reported feeling less lonely and less anxious than a group who continued as normal."
+   },
+   "question": "Students limited their use to thirty ___ a day.",
+   "answers": [
+    "minutes"
+   ],
+   "explanation": "'…limited their use to thirty minutes a day.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-071",
+   "type": "mcq",
+   "topic": "culture",
+   "passage": {
+    "id": "b1-rp-15",
+    "title": "A Museum With No Walls",
+    "text": "The National Art Gallery has launched a virtual museum that allows anyone with an internet connection to explore its collection from home. Using a computer or phone, visitors can 'walk' through twelve rooms, zoom in on paintings in extraordinary detail and listen to short audio guides in five languages. The project took two years to complete and involved photographing more than 3,000 works of art. Since it opened in March, the website has had over half a million visitors, many of them from countries where people may never have the chance to travel to the gallery. The director, Ana Lopes, says the virtual museum is not meant to replace real visits. 'Nothing compares with standing in front of an original painting,' she explains. 'But we hope the website will inspire people, especially young people, to come and see the real thing.' In fact, visits to the actual gallery have risen by eight per cent since the website was launched."
+   },
+   "question": "What can online visitors do?",
+   "options": [
+    "Paint their own pictures",
+    "Talk to the director",
+    "Look closely at details of paintings",
+    "Buy copies of the paintings"
+   ],
+   "answer": 2,
+   "explanation": "'…zoom in on paintings in extraordinary detail.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-072",
+   "type": "mcq",
+   "topic": "culture",
+   "passage": {
+    "id": "b1-rp-15",
+    "title": "A Museum With No Walls",
+    "text": "The National Art Gallery has launched a virtual museum that allows anyone with an internet connection to explore its collection from home. Using a computer or phone, visitors can 'walk' through twelve rooms, zoom in on paintings in extraordinary detail and listen to short audio guides in five languages. The project took two years to complete and involved photographing more than 3,000 works of art. Since it opened in March, the website has had over half a million visitors, many of them from countries where people may never have the chance to travel to the gallery. The director, Ana Lopes, says the virtual museum is not meant to replace real visits. 'Nothing compares with standing in front of an original painting,' she explains. 'But we hope the website will inspire people, especially young people, to come and see the real thing.' In fact, visits to the actual gallery have risen by eight per cent since the website was launched."
+   },
+   "question": "How long did the project take?",
+   "options": [
+    "Five years",
+    "Since March",
+    "Two years",
+    "Twelve months"
+   ],
+   "answer": 2,
+   "explanation": "'The project took two years to complete.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-073",
+   "type": "mcq",
+   "topic": "culture",
+   "passage": {
+    "id": "b1-rp-15",
+    "title": "A Museum With No Walls",
+    "text": "The National Art Gallery has launched a virtual museum that allows anyone with an internet connection to explore its collection from home. Using a computer or phone, visitors can 'walk' through twelve rooms, zoom in on paintings in extraordinary detail and listen to short audio guides in five languages. The project took two years to complete and involved photographing more than 3,000 works of art. Since it opened in March, the website has had over half a million visitors, many of them from countries where people may never have the chance to travel to the gallery. The director, Ana Lopes, says the virtual museum is not meant to replace real visits. 'Nothing compares with standing in front of an original painting,' she explains. 'But we hope the website will inspire people, especially young people, to come and see the real thing.' In fact, visits to the actual gallery have risen by eight per cent since the website was launched."
+   },
+   "question": "What is Ana Lopes's view?",
+   "options": [
+    "The gallery should close some rooms.",
+    "Real visits are no longer necessary.",
+    "The website is mainly for experts.",
+    "Real visits are better, but the website can encourage them."
+   ],
+   "answer": 3,
+   "explanation": "'Nothing compares with standing in front of an original painting… we hope the website will inspire people… to come.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-074",
+   "type": "mcq",
+   "topic": "culture",
+   "passage": {
+    "id": "b1-rp-15",
+    "title": "A Museum With No Walls",
+    "text": "The National Art Gallery has launched a virtual museum that allows anyone with an internet connection to explore its collection from home. Using a computer or phone, visitors can 'walk' through twelve rooms, zoom in on paintings in extraordinary detail and listen to short audio guides in five languages. The project took two years to complete and involved photographing more than 3,000 works of art. Since it opened in March, the website has had over half a million visitors, many of them from countries where people may never have the chance to travel to the gallery. The director, Ana Lopes, says the virtual museum is not meant to replace real visits. 'Nothing compares with standing in front of an original painting,' she explains. 'But we hope the website will inspire people, especially young people, to come and see the real thing.' In fact, visits to the actual gallery have risen by eight per cent since the website was launched."
+   },
+   "question": "What has happened since the website launched?",
+   "options": [
+    "The gallery has opened abroad.",
+    "More people have visited the real gallery.",
+    "The audio guides were removed.",
+    "Fewer people have visited the gallery."
+   ],
+   "answer": 1,
+   "explanation": "'…visits to the actual gallery have risen by eight per cent.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-075",
+   "type": "fill",
+   "topic": "culture",
+   "passage": {
+    "id": "b1-rp-15",
+    "title": "A Museum With No Walls",
+    "text": "The National Art Gallery has launched a virtual museum that allows anyone with an internet connection to explore its collection from home. Using a computer or phone, visitors can 'walk' through twelve rooms, zoom in on paintings in extraordinary detail and listen to short audio guides in five languages. The project took two years to complete and involved photographing more than 3,000 works of art. Since it opened in March, the website has had over half a million visitors, many of them from countries where people may never have the chance to travel to the gallery. The director, Ana Lopes, says the virtual museum is not meant to replace real visits. 'Nothing compares with standing in front of an original painting,' she explains. 'But we hope the website will inspire people, especially young people, to come and see the real thing.' In fact, visits to the actual gallery have risen by eight per cent since the website was launched."
+   },
+   "question": "The audio guides are available in ___ languages.",
+   "answers": [
+    "five",
+    "5"
+   ],
+   "explanation": "'…short audio guides in five languages.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-076",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-16",
+    "title": "The Day I Got Lost in Tokyo",
+    "text": "On my first trip to Tokyo, I decided to explore the city without a guidebook. My phone's battery was full, and I was confident that its map would get me anywhere. By mid-afternoon, however, the battery had died, and I found myself in a quiet neighbourhood with no idea where I was. None of the street signs I could see were in English, and I couldn't remember the name of my hotel's station. I started to panic. Then I noticed an elderly man watering plants outside a small shop. Using gestures and the few Japanese words I knew, I tried to explain my problem. He listened patiently, disappeared inside and came back with a paper map. Not only did he show me the way, but he also walked with me for fifteen minutes to the nearest station. I've never forgotten his kindness, and now I always carry a power bank and write my hotel's address on a piece of paper."
+   },
+   "question": "Why didn't the writer take a guidebook?",
+   "options": [
+    "He thought his phone would be enough.",
+    "He had lost it.",
+    "He had been to Tokyo before.",
+    "It was too heavy."
+   ],
+   "answer": 0,
+   "explanation": "'…I was confident that its map would get me anywhere.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-077",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-16",
+    "title": "The Day I Got Lost in Tokyo",
+    "text": "On my first trip to Tokyo, I decided to explore the city without a guidebook. My phone's battery was full, and I was confident that its map would get me anywhere. By mid-afternoon, however, the battery had died, and I found myself in a quiet neighbourhood with no idea where I was. None of the street signs I could see were in English, and I couldn't remember the name of my hotel's station. I started to panic. Then I noticed an elderly man watering plants outside a small shop. Using gestures and the few Japanese words I knew, I tried to explain my problem. He listened patiently, disappeared inside and came back with a paper map. Not only did he show me the way, but he also walked with me for fifteen minutes to the nearest station. I've never forgotten his kindness, and now I always carry a power bank and write my hotel's address on a piece of paper."
+   },
+   "question": "What made the situation more difficult?",
+   "options": [
+    "It started to rain.",
+    "He couldn't read the signs.",
+    "All the shops were closed.",
+    "He had no money."
+   ],
+   "answer": 1,
+   "explanation": "'None of the street signs I could see were in English.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-078",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-16",
+    "title": "The Day I Got Lost in Tokyo",
+    "text": "On my first trip to Tokyo, I decided to explore the city without a guidebook. My phone's battery was full, and I was confident that its map would get me anywhere. By mid-afternoon, however, the battery had died, and I found myself in a quiet neighbourhood with no idea where I was. None of the street signs I could see were in English, and I couldn't remember the name of my hotel's station. I started to panic. Then I noticed an elderly man watering plants outside a small shop. Using gestures and the few Japanese words I knew, I tried to explain my problem. He listened patiently, disappeared inside and came back with a paper map. Not only did he show me the way, but he also walked with me for fifteen minutes to the nearest station. I've never forgotten his kindness, and now I always carry a power bank and write my hotel's address on a piece of paper."
+   },
+   "question": "How did the elderly man help?",
+   "options": [
+    "He walked with the writer to a station.",
+    "He drove him to the hotel.",
+    "He charged the writer's phone.",
+    "He called a taxi."
+   ],
+   "answer": 0,
+   "explanation": "'…he also walked with me for fifteen minutes to the nearest station.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-079",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-16",
+    "title": "The Day I Got Lost in Tokyo",
+    "text": "On my first trip to Tokyo, I decided to explore the city without a guidebook. My phone's battery was full, and I was confident that its map would get me anywhere. By mid-afternoon, however, the battery had died, and I found myself in a quiet neighbourhood with no idea where I was. None of the street signs I could see were in English, and I couldn't remember the name of my hotel's station. I started to panic. Then I noticed an elderly man watering plants outside a small shop. Using gestures and the few Japanese words I knew, I tried to explain my problem. He listened patiently, disappeared inside and came back with a paper map. Not only did he show me the way, but he also walked with me for fifteen minutes to the nearest station. I've never forgotten his kindness, and now I always carry a power bank and write my hotel's address on a piece of paper."
+   },
+   "question": "What has the writer learned?",
+   "options": [
+    "Never to travel alone",
+    "Always to use a guidebook",
+    "To learn Japanese first",
+    "To be better prepared when travelling"
+   ],
+   "answer": 3,
+   "explanation": "'…now I always carry a power bank and write my hotel's address on a piece of paper.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-080",
+   "type": "fill",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-16",
+    "title": "The Day I Got Lost in Tokyo",
+    "text": "On my first trip to Tokyo, I decided to explore the city without a guidebook. My phone's battery was full, and I was confident that its map would get me anywhere. By mid-afternoon, however, the battery had died, and I found myself in a quiet neighbourhood with no idea where I was. None of the street signs I could see were in English, and I couldn't remember the name of my hotel's station. I started to panic. Then I noticed an elderly man watering plants outside a small shop. Using gestures and the few Japanese words I knew, I tried to explain my problem. He listened patiently, disappeared inside and came back with a paper map. Not only did he show me the way, but he also walked with me for fifteen minutes to the nearest station. I've never forgotten his kindness, and now I always carry a power bank and write my hotel's address on a piece of paper."
+   },
+   "question": "The man came back with a paper ___.",
+   "answers": [
+    "map"
+   ],
+   "explanation": "'…came back with a paper map.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-081",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-17",
+    "title": "Food Waste Starts at Home",
+    "text": "It is estimated that around a third of all food produced in the world is wasted, and a large part of this waste happens in our homes. Families often buy more than they need, cook too much, or forget about food at the back of the fridge until it goes off. Fortunately, there are simple ways to reduce waste. Planning meals for the week and writing a shopping list stops us buying things on impulse. Understanding date labels also helps: 'use by' dates are about safety, but 'best before' dates are about quality, so food is often perfectly safe to eat after its 'best before' date. Leftovers can be frozen or turned into new dishes, such as fried rice or soup. Some apps even allow neighbours to share food they won't use. Reducing food waste not only helps the environment, but can also save an average family hundreds of dollars a year."
+   },
+   "question": "Where does a large part of food waste happen?",
+   "options": [
+    "In supermarkets",
+    "In people's homes",
+    "In restaurants",
+    "On farms"
+   ],
+   "answer": 1,
+   "explanation": "'…a large part of this waste happens in our homes.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-082",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-17",
+    "title": "Food Waste Starts at Home",
+    "text": "It is estimated that around a third of all food produced in the world is wasted, and a large part of this waste happens in our homes. Families often buy more than they need, cook too much, or forget about food at the back of the fridge until it goes off. Fortunately, there are simple ways to reduce waste. Planning meals for the week and writing a shopping list stops us buying things on impulse. Understanding date labels also helps: 'use by' dates are about safety, but 'best before' dates are about quality, so food is often perfectly safe to eat after its 'best before' date. Leftovers can be frozen or turned into new dishes, such as fried rice or soup. Some apps even allow neighbours to share food they won't use. Reducing food waste not only helps the environment, but can also save an average family hundreds of dollars a year."
+   },
+   "question": "What does 'goes off' mean here?",
+   "options": [
+    "becomes bad to eat",
+    "gets cold",
+    "is sold",
+    "is stolen"
+   ],
+   "answer": 0,
+   "explanation": "Food at the back of the fridge 'goes off' = becomes bad.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-083",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-17",
+    "title": "Food Waste Starts at Home",
+    "text": "It is estimated that around a third of all food produced in the world is wasted, and a large part of this waste happens in our homes. Families often buy more than they need, cook too much, or forget about food at the back of the fridge until it goes off. Fortunately, there are simple ways to reduce waste. Planning meals for the week and writing a shopping list stops us buying things on impulse. Understanding date labels also helps: 'use by' dates are about safety, but 'best before' dates are about quality, so food is often perfectly safe to eat after its 'best before' date. Leftovers can be frozen or turned into new dishes, such as fried rice or soup. Some apps even allow neighbours to share food they won't use. Reducing food waste not only helps the environment, but can also save an average family hundreds of dollars a year."
+   },
+   "question": "What is true about 'best before' dates?",
+   "options": [
+    "They show when food becomes dangerous.",
+    "Food is often still safe after them.",
+    "They are the same as 'use by' dates.",
+    "They only appear on frozen food."
+   ],
+   "answer": 1,
+   "explanation": "'…food is often perfectly safe to eat after its best before date.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-084",
+   "type": "mcq",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-17",
+    "title": "Food Waste Starts at Home",
+    "text": "It is estimated that around a third of all food produced in the world is wasted, and a large part of this waste happens in our homes. Families often buy more than they need, cook too much, or forget about food at the back of the fridge until it goes off. Fortunately, there are simple ways to reduce waste. Planning meals for the week and writing a shopping list stops us buying things on impulse. Understanding date labels also helps: 'use by' dates are about safety, but 'best before' dates are about quality, so food is often perfectly safe to eat after its 'best before' date. Leftovers can be frozen or turned into new dishes, such as fried rice or soup. Some apps even allow neighbours to share food they won't use. Reducing food waste not only helps the environment, but can also save an average family hundreds of dollars a year."
+   },
+   "question": "Which benefit of reducing waste is mentioned?",
+   "options": [
+    "Shopping takes less time.",
+    "Food tastes better.",
+    "Families can save money.",
+    "Fridges last longer."
+   ],
+   "answer": 2,
+   "explanation": "'…can also save an average family hundreds of dollars a year.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-085",
+   "type": "fill",
+   "topic": "environment",
+   "passage": {
+    "id": "b1-rp-17",
+    "title": "Food Waste Starts at Home",
+    "text": "It is estimated that around a third of all food produced in the world is wasted, and a large part of this waste happens in our homes. Families often buy more than they need, cook too much, or forget about food at the back of the fridge until it goes off. Fortunately, there are simple ways to reduce waste. Planning meals for the week and writing a shopping list stops us buying things on impulse. Understanding date labels also helps: 'use by' dates are about safety, but 'best before' dates are about quality, so food is often perfectly safe to eat after its 'best before' date. Leftovers can be frozen or turned into new dishes, such as fried rice or soup. Some apps even allow neighbours to share food they won't use. Reducing food waste not only helps the environment, but can also save an average family hundreds of dollars a year."
+   },
+   "question": "Writing a shopping list stops us buying things on ___.",
+   "answers": [
+    "impulse"
+   ],
+   "explanation": "'…stops us buying things on impulse.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-086",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-18",
+    "title": "Advice Column: Choosing a Course",
+    "text": "Dear Alex, I'm finishing school next year and I can't decide what to study at university. My parents want me to do medicine because it's a secure career, but I'm much more interested in graphic design. I'm worried that if I choose design, I won't find a good job. What should I do? – Kim\n\nDear Kim, This is a very common dilemma. First, remember that you will spend at least three or four years studying this subject, so it's important to enjoy it. Students who are passionate about their course usually work harder and achieve better results. That said, your parents' concerns are understandable. Why not research the job market for designers? You may discover there are more opportunities than you think, especially in digital media. It would also be a good idea to talk to people working in both fields. Finally, have an honest conversation with your parents and show them that you've thought about your future carefully. – Alex"
+   },
+   "question": "What is Kim's problem?",
+   "options": [
+    "Kim doesn't want to go to university.",
+    "Kim's interests differ from the parents' wishes.",
+    "Kim's grades are too low for medicine.",
+    "Kim can't afford university."
+   ],
+   "answer": 1,
+   "explanation": "The parents want medicine, but Kim prefers graphic design.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-087",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-18",
+    "title": "Advice Column: Choosing a Course",
+    "text": "Dear Alex, I'm finishing school next year and I can't decide what to study at university. My parents want me to do medicine because it's a secure career, but I'm much more interested in graphic design. I'm worried that if I choose design, I won't find a good job. What should I do? – Kim\n\nDear Kim, This is a very common dilemma. First, remember that you will spend at least three or four years studying this subject, so it's important to enjoy it. Students who are passionate about their course usually work harder and achieve better results. That said, your parents' concerns are understandable. Why not research the job market for designers? You may discover there are more opportunities than you think, especially in digital media. It would also be a good idea to talk to people working in both fields. Finally, have an honest conversation with your parents and show them that you've thought about your future carefully. – Alex"
+   },
+   "question": "Why does Alex think enjoying the course is important?",
+   "options": [
+    "Parents prefer happy children.",
+    "Students who enjoy their course tend to do better.",
+    "Design courses are shorter.",
+    "Medicine is very difficult."
+   ],
+   "answer": 1,
+   "explanation": "'Students who are passionate about their course usually work harder and achieve better results.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-088",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-18",
+    "title": "Advice Column: Choosing a Course",
+    "text": "Dear Alex, I'm finishing school next year and I can't decide what to study at university. My parents want me to do medicine because it's a secure career, but I'm much more interested in graphic design. I'm worried that if I choose design, I won't find a good job. What should I do? – Kim\n\nDear Kim, This is a very common dilemma. First, remember that you will spend at least three or four years studying this subject, so it's important to enjoy it. Students who are passionate about their course usually work harder and achieve better results. That said, your parents' concerns are understandable. Why not research the job market for designers? You may discover there are more opportunities than you think, especially in digital media. It would also be a good idea to talk to people working in both fields. Finally, have an honest conversation with your parents and show them that you've thought about your future carefully. – Alex"
+   },
+   "question": "What does Alex suggest Kim should research?",
+   "options": [
+    "The history of graphic design",
+    "Job opportunities for designers",
+    "Medical schools abroad",
+    "Part-time jobs for students"
+   ],
+   "answer": 1,
+   "explanation": "'Why not research the job market for designers?'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-089",
+   "type": "mcq",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-18",
+    "title": "Advice Column: Choosing a Course",
+    "text": "Dear Alex, I'm finishing school next year and I can't decide what to study at university. My parents want me to do medicine because it's a secure career, but I'm much more interested in graphic design. I'm worried that if I choose design, I won't find a good job. What should I do? – Kim\n\nDear Kim, This is a very common dilemma. First, remember that you will spend at least three or four years studying this subject, so it's important to enjoy it. Students who are passionate about their course usually work harder and achieve better results. That said, your parents' concerns are understandable. Why not research the job market for designers? You may discover there are more opportunities than you think, especially in digital media. It would also be a good idea to talk to people working in both fields. Finally, have an honest conversation with your parents and show them that you've thought about your future carefully. – Alex"
+   },
+   "question": "What is Alex's attitude to Kim's parents?",
+   "options": [
+    "Alex understands their worries.",
+    "Alex tells Kim to ignore them.",
+    "Alex agrees Kim must study medicine.",
+    "Alex thinks they are completely wrong."
+   ],
+   "answer": 0,
+   "explanation": "'That said, your parents' concerns are understandable.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-090",
+   "type": "fill",
+   "topic": "education",
+   "passage": {
+    "id": "b1-rp-18",
+    "title": "Advice Column: Choosing a Course",
+    "text": "Dear Alex, I'm finishing school next year and I can't decide what to study at university. My parents want me to do medicine because it's a secure career, but I'm much more interested in graphic design. I'm worried that if I choose design, I won't find a good job. What should I do? – Kim\n\nDear Kim, This is a very common dilemma. First, remember that you will spend at least three or four years studying this subject, so it's important to enjoy it. Students who are passionate about their course usually work harder and achieve better results. That said, your parents' concerns are understandable. Why not research the job market for designers? You may discover there are more opportunities than you think, especially in digital media. It would also be a good idea to talk to people working in both fields. Finally, have an honest conversation with your parents and show them that you've thought about your future carefully. – Alex"
+   },
+   "question": "Alex says there may be opportunities in digital ___.",
+   "answers": [
+    "media"
+   ],
+   "explanation": "'…especially in digital media.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-091",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-19",
+    "title": "The Island That Banned Cars",
+    "text": "On the small island of Saria, there are no cars at all. Visitors arrive by ferry and leave their vehicles on the mainland. Around the island, people get around on foot, by bicycle or in electric carts, which are used mainly to deliver goods and carry elderly residents. The ban was introduced in the 1990s after residents voted to protect the island's peaceful atmosphere and clean air. At first, some business owners were against the idea, fearing that tourists would stay away. In fact, the opposite happened. Saria became famous as a car-free destination, and tourism increased by forty per cent within five years. Today, the island has strict rules to protect its character: buildings cannot be more than three floors high, and new hotels must use solar energy. Locals admit that life without cars can be inconvenient, especially when it rains, but very few would want to change it."
+   },
+   "question": "What are the electric carts mainly used for?",
+   "options": [
+    "Taking tourists to the ferry",
+    "Racing around the island",
+    "Moving cars to the mainland",
+    "Delivering goods and carrying older people"
+   ],
+   "answer": 3,
+   "explanation": "'…used mainly to deliver goods and carry elderly residents.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-092",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-19",
+    "title": "The Island That Banned Cars",
+    "text": "On the small island of Saria, there are no cars at all. Visitors arrive by ferry and leave their vehicles on the mainland. Around the island, people get around on foot, by bicycle or in electric carts, which are used mainly to deliver goods and carry elderly residents. The ban was introduced in the 1990s after residents voted to protect the island's peaceful atmosphere and clean air. At first, some business owners were against the idea, fearing that tourists would stay away. In fact, the opposite happened. Saria became famous as a car-free destination, and tourism increased by forty per cent within five years. Today, the island has strict rules to protect its character: buildings cannot be more than three floors high, and new hotels must use solar energy. Locals admit that life without cars can be inconvenient, especially when it rains, but very few would want to change it."
+   },
+   "question": "Why was the ban introduced?",
+   "options": [
+    "Residents wanted to keep the island peaceful and clean.",
+    "The government needed to save money.",
+    "The roads were too narrow.",
+    "There were too many accidents."
+   ],
+   "answer": 0,
+   "explanation": "'…residents voted to protect the island's peaceful atmosphere and clean air.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-093",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-19",
+    "title": "The Island That Banned Cars",
+    "text": "On the small island of Saria, there are no cars at all. Visitors arrive by ferry and leave their vehicles on the mainland. Around the island, people get around on foot, by bicycle or in electric carts, which are used mainly to deliver goods and carry elderly residents. The ban was introduced in the 1990s after residents voted to protect the island's peaceful atmosphere and clean air. At first, some business owners were against the idea, fearing that tourists would stay away. In fact, the opposite happened. Saria became famous as a car-free destination, and tourism increased by forty per cent within five years. Today, the island has strict rules to protect its character: buildings cannot be more than three floors high, and new hotels must use solar energy. Locals admit that life without cars can be inconvenient, especially when it rains, but very few would want to change it."
+   },
+   "question": "What were some business owners afraid of?",
+   "options": [
+    "Paying higher taxes",
+    "Losing tourists",
+    "Buying electric carts",
+    "Building new hotels"
+   ],
+   "answer": 1,
+   "explanation": "'…fearing that tourists would stay away.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-094",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-19",
+    "title": "The Island That Banned Cars",
+    "text": "On the small island of Saria, there are no cars at all. Visitors arrive by ferry and leave their vehicles on the mainland. Around the island, people get around on foot, by bicycle or in electric carts, which are used mainly to deliver goods and carry elderly residents. The ban was introduced in the 1990s after residents voted to protect the island's peaceful atmosphere and clean air. At first, some business owners were against the idea, fearing that tourists would stay away. In fact, the opposite happened. Saria became famous as a car-free destination, and tourism increased by forty per cent within five years. Today, the island has strict rules to protect its character: buildings cannot be more than three floors high, and new hotels must use solar energy. Locals admit that life without cars can be inconvenient, especially when it rains, but very few would want to change it."
+   },
+   "question": "What does 'the opposite happened' refer to?",
+   "options": [
+    "Tourism increased instead of falling.",
+    "Residents voted against the ban.",
+    "Cars returned to the island.",
+    "Business owners left the island."
+   ],
+   "answer": 0,
+   "explanation": "Instead of tourists staying away, 'tourism increased by forty per cent'.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-095",
+   "type": "fill",
+   "topic": "travel",
+   "passage": {
+    "id": "b1-rp-19",
+    "title": "The Island That Banned Cars",
+    "text": "On the small island of Saria, there are no cars at all. Visitors arrive by ferry and leave their vehicles on the mainland. Around the island, people get around on foot, by bicycle or in electric carts, which are used mainly to deliver goods and carry elderly residents. The ban was introduced in the 1990s after residents voted to protect the island's peaceful atmosphere and clean air. At first, some business owners were against the idea, fearing that tourists would stay away. In fact, the opposite happened. Saria became famous as a car-free destination, and tourism increased by forty per cent within five years. Today, the island has strict rules to protect its character: buildings cannot be more than three floors high, and new hotels must use solar energy. Locals admit that life without cars can be inconvenient, especially when it rains, but very few would want to change it."
+   },
+   "question": "Buildings on Saria cannot be more than ___ floors high.",
+   "answers": [
+    "three",
+    "3"
+   ],
+   "explanation": "'…buildings cannot be more than three floors high.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-096",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "b1-rp-20",
+    "title": "Robots in the Classroom?",
+    "text": "Could robots one day replace teachers? Some technology companies certainly think artificial intelligence will transform education. AI programs can already mark simple tests instantly, adapt exercises to each student's level and answer questions at any time of day. Supporters argue that this could give teachers more time to focus on creative activities and on students who need extra help. However, most educators doubt that machines could do the whole job. Teaching, they point out, is not only about passing on information. Good teachers notice when a student is upset, encourage shy learners and help young people develop social skills. A recent survey of parents found that while seventy per cent were happy for AI to be used as a learning tool, only five per cent would want their children to be taught mainly by a computer. It seems likely that the classroom of the future will combine human teachers and technology, rather than choosing one over the other."
+   },
+   "question": "What can AI programs already do?",
+   "options": [
+    "Replace teachers completely",
+    "Notice when students are upset",
+    "Teach social skills",
+    "Adapt exercises to a student's level"
+   ],
+   "answer": 3,
+   "explanation": "'AI programs can already… adapt exercises to each student's level.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-097",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "b1-rp-20",
+    "title": "Robots in the Classroom?",
+    "text": "Could robots one day replace teachers? Some technology companies certainly think artificial intelligence will transform education. AI programs can already mark simple tests instantly, adapt exercises to each student's level and answer questions at any time of day. Supporters argue that this could give teachers more time to focus on creative activities and on students who need extra help. However, most educators doubt that machines could do the whole job. Teaching, they point out, is not only about passing on information. Good teachers notice when a student is upset, encourage shy learners and help young people develop social skills. A recent survey of parents found that while seventy per cent were happy for AI to be used as a learning tool, only five per cent would want their children to be taught mainly by a computer. It seems likely that the classroom of the future will combine human teachers and technology, rather than choosing one over the other."
+   },
+   "question": "What do supporters believe?",
+   "options": [
+    "Teachers will no longer be needed.",
+    "Students will stop asking questions.",
+    "AI could give teachers more time for creative work.",
+    "Tests will become harder."
+   ],
+   "answer": 2,
+   "explanation": "'…could give teachers more time to focus on creative activities.'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-098",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "b1-rp-20",
+    "title": "Robots in the Classroom?",
+    "text": "Could robots one day replace teachers? Some technology companies certainly think artificial intelligence will transform education. AI programs can already mark simple tests instantly, adapt exercises to each student's level and answer questions at any time of day. Supporters argue that this could give teachers more time to focus on creative activities and on students who need extra help. However, most educators doubt that machines could do the whole job. Teaching, they point out, is not only about passing on information. Good teachers notice when a student is upset, encourage shy learners and help young people develop social skills. A recent survey of parents found that while seventy per cent were happy for AI to be used as a learning tool, only five per cent would want their children to be taught mainly by a computer. It seems likely that the classroom of the future will combine human teachers and technology, rather than choosing one over the other."
+   },
+   "question": "According to educators, what can good teachers do that machines can't?",
+   "options": [
+    "Work at any time of day",
+    "Mark tests quickly",
+    "Store lots of information",
+    "Encourage shy learners"
+   ],
+   "answer": 3,
+   "explanation": "'Good teachers notice when a student is upset, encourage shy learners…'",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-099",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "b1-rp-20",
+    "title": "Robots in the Classroom?",
+    "text": "Could robots one day replace teachers? Some technology companies certainly think artificial intelligence will transform education. AI programs can already mark simple tests instantly, adapt exercises to each student's level and answer questions at any time of day. Supporters argue that this could give teachers more time to focus on creative activities and on students who need extra help. However, most educators doubt that machines could do the whole job. Teaching, they point out, is not only about passing on information. Good teachers notice when a student is upset, encourage shy learners and help young people develop social skills. A recent survey of parents found that while seventy per cent were happy for AI to be used as a learning tool, only five per cent would want their children to be taught mainly by a computer. It seems likely that the classroom of the future will combine human teachers and technology, rather than choosing one over the other."
+   },
+   "question": "What does the survey show?",
+   "options": [
+    "Only five per cent of parents use AI.",
+    "Most parents accept AI as a tool but not as the main teacher.",
+    "Most parents want AI to replace teachers.",
+    "Parents reject any technology in schools."
+   ],
+   "answer": 1,
+   "explanation": "70% are happy with AI as a tool; only 5% want children taught mainly by a computer.",
+   "skill": "reading",
+   "level": "b1"
+  },
+  {
+   "id": "b1-reading-100",
+   "type": "fill",
+   "topic": "technology",
+   "passage": {
+    "id": "b1-rp-20",
+    "title": "Robots in the Classroom?",
+    "text": "Could robots one day replace teachers? Some technology companies certainly think artificial intelligence will transform education. AI programs can already mark simple tests instantly, adapt exercises to each student's level and answer questions at any time of day. Supporters argue that this could give teachers more time to focus on creative activities and on students who need extra help. However, most educators doubt that machines could do the whole job. Teaching, they point out, is not only about passing on information. Good teachers notice when a student is upset, encourage shy learners and help young people develop social skills. A recent survey of parents found that while seventy per cent were happy for AI to be used as a learning tool, only five per cent would want their children to be taught mainly by a computer. It seems likely that the classroom of the future will combine human teachers and technology, rather than choosing one over the other."
+   },
+   "question": "Seventy per cent of parents were happy for AI to be used as a learning ___.",
+   "answers": [
+    "tool"
+   ],
+   "explanation": "'…happy for AI to be used as a learning tool.'",
+   "skill": "reading",
+   "level": "b1"
+  }
+ ]
+}

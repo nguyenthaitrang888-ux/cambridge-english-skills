@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "phrasalVerb",
+ "title": {
+  "en": "Phrasal Verbs",
+  "vi": "Cụm động từ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-phrasalVerb-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get up",
+   "context": "I get up at 6:30 every morning.",
+   "question": "What does “get up” mean in this sentence?",
+   "options": [
+    "to return, especially home",
+    "to write information in a form",
+    "to get out of bed",
+    "to start wearing clothes"
+   ],
+   "answer": 2,
+   "meaningVi": "thức dậy, ra khỏi giường",
+   "explanation": "“get up” = to get out of bed.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "wake up",
+   "context": "What time do you usually wake up?",
+   "question": "What does “wake up” mean in this sentence?",
+   "options": [
+    "to start a journey",
+    "to stop sleeping",
+    "to phone someone again",
+    "to spend time relaxing with friends"
+   ],
+   "answer": 1,
+   "meaningVi": "tỉnh giấc",
+   "explanation": "“wake up” = to stop sleeping.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn on",
+   "context": "It's dark in here – can you turn on the light?",
+   "question": "What does “turn on” mean in this sentence?",
+   "options": [
+    "to have no more of something",
+    "to take care of",
+    "to find information in a dictionary or online",
+    "to start a machine or a light"
+   ],
+   "answer": 3,
+   "meaningVi": "bật (máy, đèn)",
+   "explanation": "“turn on” = to start a machine or a light.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn off",
+   "context": "Please turn off your phones during the exam.",
+   "question": "What does “turn off” mean in this sentence?",
+   "options": [
+    "to have no more of something",
+    "to stop a machine or a light",
+    "to not go to bed",
+    "to write information in a form"
+   ],
+   "answer": 1,
+   "meaningVi": "tắt (máy, đèn)",
+   "explanation": "“turn off” = to stop a machine or a light.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put on",
+   "context": "It's cold outside, so put on your coat.",
+   "question": "What does “put on” mean in this sentence?",
+   "options": [
+    "to enter a room or building",
+    "to start wearing clothes",
+    "to fall to the ground",
+    "to make louder or higher"
+   ],
+   "answer": 1,
+   "meaningVi": "mặc, đội, mang vào",
+   "explanation": "“put on” = to start wearing clothes.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "take off",
+   "context": "Please take off your shoes before you come into the house.",
+   "question": "What does “take off” mean in this sentence?",
+   "options": [
+    "to start a journey",
+    "to move into a sitting position",
+    "to remove clothes or shoes",
+    "to arrive and register at a hotel or airport"
+   ],
+   "answer": 2,
+   "meaningVi": "cởi ra",
+   "explanation": "“take off” = to remove clothes or shoes.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look for",
+   "context": "I'm looking for my keys. Have you seen them?",
+   "question": "What does “look for” mean in this sentence?",
+   "options": [
+    "to try to find",
+    "to write information in a form",
+    "to spend time relaxing with friends",
+    "to stop a machine or a light"
+   ],
+   "answer": 0,
+   "meaningVi": "tìm kiếm",
+   "explanation": "“look for” = to try to find.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look after",
+   "context": "My grandmother looks after my little brother when my parents are at work.",
+   "question": "What does “look after” mean in this sentence?",
+   "options": [
+    "to stop trying or stop doing something",
+    "to take care of",
+    "to find information in a dictionary or online",
+    "to enter a bus, train or plane"
+   ],
+   "answer": 1,
+   "meaningVi": "chăm sóc, trông nom",
+   "explanation": "“look after” = to take care of.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "find out",
+   "context": "I want to find out more about the course, so I'll check the website.",
+   "question": "What does “find out” mean in this sentence?",
+   "options": [
+    "to become calm after being angry or worried",
+    "to discover information",
+    "to enter a website or computer with your password",
+    "to write information in a form"
+   ],
+   "answer": 1,
+   "meaningVi": "tìm ra, phát hiện ra",
+   "explanation": "“find out” = to discover information.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "give up",
+   "context": "My dad gave up smoking last year.",
+   "question": "What does “give up” mean in this sentence?",
+   "options": [
+    "to try to find",
+    "to phone someone again",
+    "to get out of bed",
+    "to stop trying or stop doing something"
+   ],
+   "answer": 3,
+   "meaningVi": "từ bỏ",
+   "explanation": "“give up” = to stop trying or stop doing something.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come back",
+   "context": "We came back from our holiday last night.",
+   "question": "What does “come back” mean in this sentence?",
+   "options": [
+    "to return",
+    "to remove clothes or shoes",
+    "to stop a machine or a light",
+    "to make louder or higher"
+   ],
+   "answer": 0,
+   "meaningVi": "quay lại",
+   "explanation": "“come back” = to return.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "go out",
+   "context": "We often go out for dinner on Friday nights.",
+   "question": "What does “go out” mean in this sentence?",
+   "options": [
+    "to leave home to do something fun",
+    "to go more slowly",
+    "to move into a sitting position",
+    "to collect someone; to lift something"
+   ],
+   "answer": 0,
+   "meaningVi": "ra ngoài chơi",
+   "explanation": "“go out” = to leave home to do something fun.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "sit down",
+   "context": "Please sit down and open your books.",
+   "question": "What does “sit down” mean in this sentence?",
+   "options": [
+    "to write something on paper",
+    "to return something to its owner",
+    "to stop trying or stop doing something",
+    "to move into a sitting position"
+   ],
+   "answer": 3,
+   "meaningVi": "ngồi xuống",
+   "explanation": "“sit down” = to move into a sitting position.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "pick up",
+   "context": "My mum picks me up from school at 4:30.",
+   "question": "What does “pick up” mean in this sentence?",
+   "options": [
+    "to leave a bus, train or plane",
+    "to put your body flat on a bed or sofa",
+    "to collect someone; to lift something",
+    "to not go to bed"
+   ],
+   "answer": 2,
+   "meaningVi": "đón (ai đó); nhặt lên",
+   "explanation": "“pick up” = to collect someone; to lift something.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "throw away",
+   "context": "Don't throw away plastic bottles – recycle them!",
+   "question": "What does “throw away” mean in this sentence?",
+   "options": [
+    "to start wearing clothes",
+    "to put something in the bin",
+    "to do something more quickly",
+    "to put something back in its place"
+   ],
+   "answer": 1,
+   "meaningVi": "vứt đi",
+   "explanation": "“throw away” = to put something in the bin.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "try on",
+   "context": "Can I try on these jeans, please?",
+   "question": "What does “try on” mean in this sentence?",
+   "options": [
+    "to put on clothes to see if they fit",
+    "to make quieter or lower",
+    "to eat at a restaurant",
+    "to write information in a form"
+   ],
+   "answer": 0,
+   "meaningVi": "mặc thử",
+   "explanation": "“try on” = to put on clothes to see if they fit.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fill in",
+   "context": "Please fill in this form with your name and address.",
+   "question": "What does “fill in” mean in this sentence?",
+   "options": [
+    "to start wearing clothes",
+    "to have no more of something",
+    "to stop working (for machines and cars)",
+    "to write information in a form"
+   ],
+   "answer": 3,
+   "meaningVi": "điền vào (mẫu đơn)",
+   "explanation": "“fill in” = to write information in a form.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "grow up",
+   "context": "I grew up in a small village near Hue.",
+   "question": "What does “grow up” mean in this sentence?",
+   "options": [
+    "to become an adult",
+    "to have no more of something",
+    "to put your body flat on a bed or sofa",
+    "to return, especially home"
+   ],
+   "answer": 0,
+   "meaningVi": "lớn lên",
+   "explanation": "“grow up” = to become an adult.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look up",
+   "context": "If you don't know a word, look it up in the dictionary.",
+   "question": "What does “look up” mean in this sentence?",
+   "options": [
+    "to move into a sitting position",
+    "to start a journey",
+    "to find information in a dictionary or online",
+    "to enter a room or building"
+   ],
+   "answer": 2,
+   "meaningVi": "tra cứu",
+   "explanation": "“look up” = to find information in a dictionary or online.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn down",
+   "context": "Please turn down the music – I'm trying to study.",
+   "question": "What does “turn down” mean in this sentence?",
+   "options": [
+    "to stop working (for machines and cars)",
+    "to do something more quickly",
+    "to make quieter or lower",
+    "to start a journey"
+   ],
+   "answer": 2,
+   "meaningVi": "vặn nhỏ",
+   "explanation": "“turn down” = to make quieter or lower.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn up",
+   "context": "I love this song! Turn it up!",
+   "question": "What does “turn up” mean in this sentence?",
+   "options": [
+    "to remove clothes or shoes",
+    "to make louder or higher",
+    "to arrive and register at a hotel or airport",
+    "to stop trying or stop doing something"
+   ],
+   "answer": 1,
+   "meaningVi": "vặn to",
+   "explanation": "“turn up” = to make louder or higher.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "set off",
+   "context": "We set off for the airport at 5 a.m.",
+   "question": "What does “set off” mean in this sentence?",
+   "options": [
+    "to start a journey",
+    "to move into a sitting position",
+    "to return something to its owner",
+    "to return, especially home"
+   ],
+   "answer": 0,
+   "meaningVi": "khởi hành, lên đường",
+   "explanation": "“set off” = to start a journey.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get on",
+   "context": "Get on the number 5 bus and get off at the market.",
+   "question": "What does “get on” mean in this sentence?",
+   "options": [
+    "to enter a bus, train or plane",
+    "to enter a website or computer with your password",
+    "to leave home to do something fun",
+    "to wash plates, cups and pans after a meal"
+   ],
+   "answer": 0,
+   "meaningVi": "lên (xe, tàu)",
+   "explanation": "“get on” = to enter a bus, train or plane.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get off",
+   "context": "You should get off the bus at the third stop.",
+   "question": "What does “get off” mean in this sentence?",
+   "options": [
+    "to make louder or higher",
+    "to start wearing clothes",
+    "to stop working (for machines and cars)",
+    "to leave a bus, train or plane"
+   ],
+   "answer": 3,
+   "meaningVi": "xuống (xe, tàu)",
+   "explanation": "“get off” = to leave a bus, train or plane.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put away",
+   "context": "Put away your books – it's time for lunch.",
+   "question": "What does “put away” mean in this sentence?",
+   "options": [
+    "to get out of bed",
+    "to put something back in its place",
+    "to go more slowly",
+    "to become calm after being angry or worried"
+   ],
+   "answer": 1,
+   "meaningVi": "cất đi",
+   "explanation": "“put away” = to put something back in its place.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "run out of",
+   "context": "We've run out of milk. Can you buy some?",
+   "question": "What does “run out of” mean in this sentence?",
+   "options": [
+    "to wear special or smart clothes; to wear a costume",
+    "to return something to its owner",
+    "to move into a sitting position",
+    "to have no more of something"
+   ],
+   "answer": 3,
+   "meaningVi": "hết, cạn",
+   "explanation": "“run out of” = to have no more of something.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "check in",
+   "context": "We checked in at the hotel at 3 p.m.",
+   "question": "What does “check in” mean in this sentence?",
+   "options": [
+    "to stop working (for machines and cars)",
+    "to take someone or something somewhere and leave them",
+    "to stop a machine or a light",
+    "to arrive and register at a hotel or airport"
+   ],
+   "answer": 3,
+   "meaningVi": "làm thủ tục nhận phòng / lên máy bay",
+   "explanation": "“check in” = to arrive and register at a hotel or airport.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "check out",
+   "context": "You must check out of your room by 11 a.m.",
+   "question": "What does “check out” mean in this sentence?",
+   "options": [
+    "to discover information",
+    "to return, especially home",
+    "to wash plates, cups and pans after a meal",
+    "to pay and leave a hotel"
+   ],
+   "answer": 3,
+   "meaningVi": "trả phòng",
+   "explanation": "“check out” = to pay and leave a hotel.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hurry up",
+   "context": "Hurry up! The film starts in five minutes.",
+   "question": "What does “hurry up” mean in this sentence?",
+   "options": [
+    "to do something more quickly",
+    "to make a place neat",
+    "to write something on paper",
+    "to remove clothes or shoes"
+   ],
+   "answer": 0,
+   "meaningVi": "nhanh lên",
+   "explanation": "“hurry up” = to do something more quickly.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "slow down",
+   "context": "You're driving too fast. Please slow down.",
+   "question": "What does “slow down” mean in this sentence?",
+   "options": [
+    "to get out of bed",
+    "to do something more quickly",
+    "to go more slowly",
+    "to start a machine or a light"
+   ],
+   "answer": 2,
+   "meaningVi": "chậm lại",
+   "explanation": "“slow down” = to go more slowly.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "write down",
+   "context": "Write down the new words in your notebook.",
+   "question": "What does “write down” mean in this sentence?",
+   "options": [
+    "to not go to bed",
+    "to put on clothes to see if they fit",
+    "to leave a bus, train or plane",
+    "to write something on paper"
+   ],
+   "answer": 3,
+   "meaningVi": "ghi lại, viết ra",
+   "explanation": "“write down” = to write something on paper.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "calm down",
+   "context": "Calm down – there's no need to shout.",
+   "question": "What does “calm down” mean in this sentence?",
+   "options": [
+    "to discover information",
+    "to wash plates, cups and pans after a meal",
+    "to stop working (for machines and cars)",
+    "to become calm after being angry or worried"
+   ],
+   "answer": 3,
+   "meaningVi": "bình tĩnh lại",
+   "explanation": "“calm down” = to become calm after being angry or worried.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "break down",
+   "context": "Our car broke down on the way to the beach.",
+   "question": "What does “break down” mean in this sentence?",
+   "options": [
+    "to do something more quickly",
+    "to take someone or something somewhere and leave them",
+    "to stop working (for machines and cars)",
+    "to pay and leave a hotel"
+   ],
+   "answer": 2,
+   "meaningVi": "bị hỏng (máy móc, xe)",
+   "explanation": "“break down” = to stop working (for machines and cars).",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look forward to",
+   "context": "I'm looking forward to the summer holidays.",
+   "question": "What does “look forward to” mean in this sentence?",
+   "options": [
+    "to make a place clean",
+    "to put on clothes to see if they fit",
+    "to feel happy about something in the future",
+    "to stop a machine or a light"
+   ],
+   "answer": 2,
+   "meaningVi": "mong chờ, háo hức",
+   "explanation": "“look forward to” = to feel happy about something in the future.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "clean up",
+   "context": "Let's clean up the kitchen after dinner.",
+   "question": "What does “clean up” mean in this sentence?",
+   "options": [
+    "to become an adult",
+    "to make a place clean",
+    "to leave home to do something fun",
+    "to put your body flat on a bed or sofa"
+   ],
+   "answer": 1,
+   "meaningVi": "dọn dẹp sạch sẽ",
+   "explanation": "“clean up” = to make a place clean.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "call back",
+   "context": "I'm busy now. Can I call you back later?",
+   "question": "What does “call back” mean in this sentence?",
+   "options": [
+    "to try to find",
+    "to do something more quickly",
+    "to stop trying or stop doing something",
+    "to phone someone again"
+   ],
+   "answer": 3,
+   "meaningVi": "gọi lại",
+   "explanation": "“call back” = to phone someone again.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "wash up",
+   "context": "After dinner, I usually wash up and my sister dries the plates.",
+   "question": "What does “wash up” mean in this sentence?",
+   "options": [
+    "to leave a bus, train or plane",
+    "to wash plates, cups and pans after a meal",
+    "to go more slowly",
+    "to stop working (for machines and cars)"
+   ],
+   "answer": 1,
+   "meaningVi": "rửa bát đĩa",
+   "explanation": "“wash up” = to wash plates, cups and pans after a meal.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hang out",
+   "context": "On Saturdays I hang out with my friends at the shopping centre.",
+   "question": "What does “hang out” mean in this sentence?",
+   "options": [
+    "to remove clothes or shoes",
+    "to spend time relaxing with friends",
+    "to enter a bus, train or plane",
+    "to make quieter or lower"
+   ],
+   "answer": 1,
+   "meaningVi": "đi chơi, tụ tập",
+   "explanation": "“hang out” = to spend time relaxing with friends.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "eat out",
+   "context": "We don't cook on Fridays – we eat out at a restaurant.",
+   "question": "What does “eat out” mean in this sentence?",
+   "options": [
+    "to go more slowly",
+    "to fall to the ground",
+    "to discover information",
+    "to eat at a restaurant"
+   ],
+   "answer": 3,
+   "meaningVi": "ăn ở ngoài, ăn nhà hàng",
+   "explanation": "“eat out” = to eat at a restaurant.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fall over",
+   "context": "The floor was wet and I fell over.",
+   "question": "What does “fall over” mean in this sentence?",
+   "options": [
+    "to stop sleeping",
+    "to put your body flat on a bed or sofa",
+    "to fall to the ground",
+    "to have no more of something"
+   ],
+   "answer": 2,
+   "meaningVi": "ngã, té",
+   "explanation": "“fall over” = to fall to the ground.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "give back",
+   "context": "Can I borrow your pen? I'll give it back after class.",
+   "question": "What does “give back” mean in this sentence?",
+   "options": [
+    "to write something on paper",
+    "to return something to its owner",
+    "to do something more quickly",
+    "to make a place clean"
+   ],
+   "answer": 1,
+   "meaningVi": "trả lại",
+   "explanation": "“give back” = to return something to its owner.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "work out",
+   "context": "My brother works out at the gym three times a week.",
+   "question": "What does “work out” mean in this sentence?",
+   "options": [
+    "to collect someone; to lift something",
+    "to pay and leave a hotel",
+    "to do exercise",
+    "to stop trying or stop doing something"
+   ],
+   "answer": 2,
+   "meaningVi": "tập thể dục",
+   "explanation": "“work out” = to do exercise.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "dress up",
+   "context": "Everyone dressed up as animals for the school party.",
+   "question": "What does “dress up” mean in this sentence?",
+   "options": [
+    "to become an adult",
+    "to start a journey",
+    "to make quieter or lower",
+    "to wear special or smart clothes; to wear a costume"
+   ],
+   "answer": 3,
+   "meaningVi": "ăn diện; hóa trang",
+   "explanation": "“dress up” = to wear special or smart clothes; to wear a costume.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "tidy up",
+   "context": "Tidy up your room before your friends arrive.",
+   "question": "What does “tidy up” mean in this sentence?",
+   "options": [
+    "to make a place neat",
+    "to try to find",
+    "to become calm after being angry or worried",
+    "to enter a website or computer with your password"
+   ],
+   "answer": 0,
+   "meaningVi": "dọn gọn gàng",
+   "explanation": "“tidy up” = to make a place neat.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "drop off",
+   "context": "Dad drops me off at school on his way to work.",
+   "question": "What does “drop off” mean in this sentence?",
+   "options": [
+    "to arrive and register at a hotel or airport",
+    "to stop trying or stop doing something",
+    "to start wearing clothes",
+    "to take someone or something somewhere and leave them"
+   ],
+   "answer": 3,
+   "meaningVi": "thả (ai đó) xuống, đưa tới",
+   "explanation": "“drop off” = to take someone or something somewhere and leave them.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get back",
+   "context": "What time did you get back from the trip?",
+   "question": "What does “get back” mean in this sentence?",
+   "options": [
+    "to return, especially home",
+    "to take care of",
+    "to write information in a form",
+    "to have no more of something"
+   ],
+   "answer": 0,
+   "meaningVi": "trở về",
+   "explanation": "“get back” = to return, especially home.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stay up",
+   "context": "On New Year's Eve, we stay up until midnight.",
+   "question": "What does “stay up” mean in this sentence?",
+   "options": [
+    "to not go to bed",
+    "to do something more quickly",
+    "to enter a website or computer with your password",
+    "to fall to the ground"
+   ],
+   "answer": 0,
+   "meaningVi": "thức khuya",
+   "explanation": "“stay up” = to not go to bed.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "lie down",
+   "context": "I have a headache, so I'm going to lie down for an hour.",
+   "question": "What does “lie down” mean in this sentence?",
+   "options": [
+    "to leave home to do something fun",
+    "to put your body flat on a bed or sofa",
+    "to write information in a form",
+    "to put something back in its place"
+   ],
+   "answer": 1,
+   "meaningVi": "nằm xuống",
+   "explanation": "“lie down” = to put your body flat on a bed or sofa.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come in",
+   "context": "The door's open – please come in!",
+   "question": "What does “come in” mean in this sentence?",
+   "options": [
+    "to enter a room or building",
+    "to move into a sitting position",
+    "to arrive and register at a hotel or airport",
+    "to put on clothes to see if they fit"
+   ],
+   "answer": 0,
+   "meaningVi": "đi vào",
+   "explanation": "“come in” = to enter a room or building.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "log in",
+   "context": "You need a password to log in to the school website.",
+   "question": "What does “log in” mean in this sentence?",
+   "options": [
+    "to start wearing clothes",
+    "to wash plates, cups and pans after a meal",
+    "to make louder or higher",
+    "to enter a website or computer with your password"
+   ],
+   "answer": 3,
+   "meaningVi": "đăng nhập",
+   "explanation": "“log in” = to enter a website or computer with your password.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come in",
+   "question": "Choose the correct phrasal verb:\nPlease ___ and sit down.",
+   "options": [
+    "go out",
+    "come in",
+    "get off",
+    "take off"
+   ],
+   "answer": 1,
+   "meaningVi": "đi vào",
+   "explanation": "“come in” = to enter a room or building. Full sentence: Please come in and sit down.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look up",
+   "question": "Choose the correct phrasal verb:\nI don't know this word. I'll ___ the meaning on my phone.",
+   "options": [
+    "look after",
+    "log in",
+    "look up",
+    "look forward to"
+   ],
+   "answer": 2,
+   "meaningVi": "tra cứu",
+   "explanation": "“look up” = to find information in a dictionary or online. Full sentence: I don't know this word. I'll look up the meaning on my phone.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "pick up",
+   "question": "Choose the correct phrasal verb:\nCan you ___ your toys from the floor, please?",
+   "options": [
+    "put on",
+    "pick up",
+    "turn on",
+    "get on"
+   ],
+   "answer": 1,
+   "meaningVi": "đón (ai đó); nhặt lên",
+   "explanation": "“pick up” = to collect someone; to lift something. Full sentence: Can you pick up your toys from the floor, please?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get back",
+   "question": "Choose the correct phrasal verb:\nI'll call you when I ___ home tonight.",
+   "options": [
+    "get back",
+    "get off",
+    "get on",
+    "get up"
+   ],
+   "answer": 0,
+   "meaningVi": "trở về",
+   "explanation": "“get back” = to return, especially home. Full sentence: I'll call you when I get back home tonight.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look forward to",
+   "question": "Choose the correct phrasal verb:\nWe ___ seeing you at the party next week!",
+   "options": [
+    "look for",
+    "look forward to",
+    "look after",
+    "look up"
+   ],
+   "answer": 1,
+   "meaningVi": "mong chờ, háo hức",
+   "explanation": "“look forward to” = to feel happy about something in the future. Full sentence: We look forward to seeing you at the party next week!",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get off",
+   "question": "Choose the correct phrasal verb:\nThis is our stop. Let's ___ the bus here.",
+   "options": [
+    "get off",
+    "take off",
+    "get on",
+    "get up"
+   ],
+   "answer": 0,
+   "meaningVi": "xuống (xe, tàu)",
+   "explanation": "“get off” = to leave a bus, train or plane. Full sentence: This is our stop. Let's get off the bus here.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn down",
+   "question": "Choose the correct phrasal verb:\nCan you ___ the volume a little? The TV is too loud.",
+   "options": [
+    "turn down",
+    "put on",
+    "turn up",
+    "turn on"
+   ],
+   "answer": 0,
+   "meaningVi": "vặn nhỏ",
+   "explanation": "“turn down” = to make quieter or lower. Full sentence: Can you turn down the volume a little? The TV is too loud.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put on",
+   "question": "Choose the correct phrasal verb:\nDon't forget to ___ your gloves and hat – it's snowing!",
+   "options": [
+    "turn on",
+    "take off",
+    "fill in",
+    "put on"
+   ],
+   "answer": 3,
+   "meaningVi": "mặc, đội, mang vào",
+   "explanation": "“put on” = to start wearing clothes. Full sentence: Don't forget to put on your gloves and hat – it's snowing!",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put away",
+   "question": "Choose the correct phrasal verb:\nPlease ___ your clothes in the cupboard.",
+   "options": [
+    "put on",
+    "take off",
+    "try on",
+    "put away"
+   ],
+   "answer": 3,
+   "meaningVi": "cất đi",
+   "explanation": "“put away” = to put something back in its place. Full sentence: Please put away your clothes in the cupboard.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "sit down",
+   "question": "Choose the correct phrasal verb:\nThere's a free chair here. Would you like to ___?",
+   "options": [
+    "get off",
+    "fall over",
+    "sit down",
+    "stand up"
+   ],
+   "answer": 2,
+   "meaningVi": "ngồi xuống",
+   "explanation": "“sit down” = to move into a sitting position. Full sentence: There's a free chair here. Would you like to sit down?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "break down",
+   "question": "Choose the correct phrasal verb:\nThis old bus might ___ on the mountain road.",
+   "options": [
+    "break down",
+    "calm down",
+    "lie down",
+    "grow up"
+   ],
+   "answer": 0,
+   "meaningVi": "bị hỏng (máy móc, xe)",
+   "explanation": "“break down” = to stop working (for machines and cars). Full sentence: This old bus might break down on the mountain road.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "wake up",
+   "question": "Choose the correct phrasal verb:\nThe alarm didn't ring, so I didn't ___ until nine!",
+   "options": [
+    "fill in",
+    "look up",
+    "throw away",
+    "wake up"
+   ],
+   "answer": 3,
+   "meaningVi": "tỉnh giấc",
+   "explanation": "“wake up” = to stop sleeping. Full sentence: The alarm didn't ring, so I didn't wake up until nine!",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get on",
+   "question": "Choose the correct phrasal verb:\nHurry! We need to ___ the train before the doors close.",
+   "options": [
+    "get on",
+    "get back",
+    "get up",
+    "get off"
+   ],
+   "answer": 0,
+   "meaningVi": "lên (xe, tàu)",
+   "explanation": "“get on” = to enter a bus, train or plane. Full sentence: Hurry! We need to get on the train before the doors close.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fall over",
+   "question": "Choose the correct phrasal verb:\nBe careful on the ice or you'll ___!",
+   "options": [
+    "give up",
+    "check in",
+    "eat out",
+    "fall over"
+   ],
+   "answer": 3,
+   "meaningVi": "ngã, té",
+   "explanation": "“fall over” = to fall to the ground. Full sentence: Be careful on the ice or you'll fall over!",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "grow up",
+   "question": "Choose the correct phrasal verb:\nWhat do you want to be when you ___?",
+   "options": [
+    "grow up",
+    "wake up",
+    "get up",
+    "give up"
+   ],
+   "answer": 0,
+   "meaningVi": "lớn lên",
+   "explanation": "“grow up” = to become an adult. Full sentence: What do you want to be when you grow up?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "try on",
+   "question": "Choose the correct phrasal verb:\nExcuse me, where can I ___ this dress?",
+   "options": [
+    "try on",
+    "put away",
+    "take off",
+    "turn on"
+   ],
+   "answer": 0,
+   "meaningVi": "mặc thử",
+   "explanation": "“try on” = to put on clothes to see if they fit. Full sentence: Excuse me, where can I try on this dress?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "log in",
+   "question": "Choose the correct phrasal verb:\nType your username and password to ___.",
+   "options": [
+    "check out",
+    "fill in",
+    "log in",
+    "turn up"
+   ],
+   "answer": 2,
+   "meaningVi": "đăng nhập",
+   "explanation": "“log in” = to enter a website or computer with your password. Full sentence: Type your username and password to log in.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stay up",
+   "question": "Choose the correct phrasal verb:\nI don't want to ___ late tonight because I have an exam tomorrow.",
+   "options": [
+    "sit down",
+    "dress up",
+    "log in",
+    "stay up"
+   ],
+   "answer": 3,
+   "meaningVi": "thức khuya",
+   "explanation": "“stay up” = to not go to bed. Full sentence: I don't want to stay up late tonight because I have an exam tomorrow.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "give back",
+   "question": "Choose the correct phrasal verb:\nPlease ___ my book on Monday – I need it for the test.",
+   "options": [
+    "put on",
+    "give up",
+    "give back",
+    "fill in"
+   ],
+   "answer": 2,
+   "meaningVi": "trả lại",
+   "explanation": "“give back” = to return something to its owner. Full sentence: Please give back my book on Monday – I need it for the test.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "throw away",
+   "question": "Choose the correct phrasal verb:\nLet's ___ the old milk – it smells bad.",
+   "options": [
+    "look after",
+    "give back",
+    "throw away",
+    "try on"
+   ],
+   "answer": 2,
+   "meaningVi": "vứt đi",
+   "explanation": "“throw away” = to put something in the bin. Full sentence: Let's throw away the old milk – it smells bad.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get up",
+   "question": "Choose the correct phrasal verb:\nOn Sundays I like to ___ late, at about ten.",
+   "options": [
+    "get up",
+    "give up",
+    "get on",
+    "get off"
+   ],
+   "answer": 0,
+   "meaningVi": "thức dậy, ra khỏi giường",
+   "explanation": "“get up” = to get out of bed. Full sentence: On Sundays I like to get up late, at about ten.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look after",
+   "question": "Choose the correct phrasal verb:\nCan you ___ my cat while I'm on holiday?",
+   "options": [
+    "look after",
+    "look for",
+    "look up",
+    "take off"
+   ],
+   "answer": 0,
+   "meaningVi": "chăm sóc, trông nom",
+   "explanation": "“look after” = to take care of. Full sentence: Can you look after my cat while I'm on holiday?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "write down",
+   "question": "Choose the correct phrasal verb:\nLet me ___ your phone number so I don't forget it.",
+   "options": [
+    "turn down",
+    "pick up",
+    "write down",
+    "give back"
+   ],
+   "answer": 2,
+   "meaningVi": "ghi lại, viết ra",
+   "explanation": "“write down” = to write something on paper. Full sentence: Let me write down your phone number so I don't forget it.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "set off",
+   "question": "Choose the correct phrasal verb:\nIt's a long drive, so we need to ___ early in the morning.",
+   "options": [
+    "give up",
+    "calm down",
+    "set off",
+    "put away"
+   ],
+   "answer": 2,
+   "meaningVi": "khởi hành, lên đường",
+   "explanation": "“set off” = to start a journey. Full sentence: It's a long drive, so we need to set off early in the morning.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "call back",
+   "question": "Choose the correct phrasal verb:\nI'm in class now. I'll ___ after 4 p.m., OK?",
+   "options": [
+    "fall over",
+    "call back",
+    "give up",
+    "come in"
+   ],
+   "answer": 1,
+   "meaningVi": "gọi lại",
+   "explanation": "“call back” = to phone someone again. Full sentence: I'm in class now. I'll call back after 4 p.m., OK?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "find out",
+   "question": "Choose the correct phrasal verb:\nLet's check online to ___ what time the museum opens.",
+   "options": [
+    "throw away",
+    "give up",
+    "find out",
+    "fill in"
+   ],
+   "answer": 2,
+   "meaningVi": "tìm ra, phát hiện ra",
+   "explanation": "“find out” = to discover information. Full sentence: Let's check online to find out what time the museum opens.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "work out",
+   "question": "Choose the correct phrasal verb:\nTo stay fit, I ___ for thirty minutes every morning.",
+   "options": [
+    "break down",
+    "work out",
+    "hang out",
+    "eat out"
+   ],
+   "answer": 1,
+   "meaningVi": "tập thể dục",
+   "explanation": "“work out” = to do exercise. Full sentence: To stay fit, I work out for thirty minutes every morning.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hang out",
+   "question": "Choose the correct phrasal verb:\nDo you want to ___ at the park after school?",
+   "options": [
+    "check out",
+    "fill in",
+    "log in",
+    "hang out"
+   ],
+   "answer": 3,
+   "meaningVi": "đi chơi, tụ tập",
+   "explanation": "“hang out” = to spend time relaxing with friends. Full sentence: Do you want to hang out at the park after school?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "give up",
+   "question": "Choose the correct phrasal verb:\nThis puzzle is hard, but don't ___! You can do it.",
+   "options": [
+    "give back",
+    "pick up",
+    "give up",
+    "set off"
+   ],
+   "answer": 2,
+   "meaningVi": "từ bỏ",
+   "explanation": "“give up” = to stop trying or stop doing something. Full sentence: This puzzle is hard, but don't give up! You can do it.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "drop off",
+   "question": "Choose the correct phrasal verb:\nCan you ___ these letters at the post office for me?",
+   "options": [
+    "turn off",
+    "fall over",
+    "drop off",
+    "take off"
+   ],
+   "answer": 2,
+   "meaningVi": "thả (ai đó) xuống, đưa tới",
+   "explanation": "“drop off” = to take someone or something somewhere and leave them. Full sentence: Can you drop off these letters at the post office for me?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "tidy up",
+   "question": "Choose the correct phrasal verb:\nYour desk is so messy! Please ___ before you start your homework.",
+   "options": [
+    "work out",
+    "dress up",
+    "tidy up",
+    "turn up"
+   ],
+   "answer": 2,
+   "meaningVi": "dọn gọn gàng",
+   "explanation": "“tidy up” = to make a place neat. Full sentence: Your desk is so messy! Please tidy up before you start your homework.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fill in",
+   "question": "Choose the correct phrasal verb:\nTo join the library, you need to ___ a short form.",
+   "options": [
+    "fill in",
+    "find out",
+    "turn down",
+    "give up"
+   ],
+   "answer": 0,
+   "meaningVi": "điền vào (mẫu đơn)",
+   "explanation": "“fill in” = to write information in a form. Full sentence: To join the library, you need to fill in a short form.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "check out",
+   "question": "Choose the correct phrasal verb:\nOur flight is at noon, so we'll ___ of the hotel at nine.",
+   "options": [
+    "get up",
+    "check out",
+    "calm down",
+    "check in"
+   ],
+   "answer": 1,
+   "meaningVi": "trả phòng",
+   "explanation": "“check out” = to pay and leave a hotel. Full sentence: Our flight is at noon, so we'll check out of the hotel at nine.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hurry up",
+   "question": "Choose the correct phrasal verb:\nCan you ___, please? We're going to miss the bus!",
+   "options": [
+    "lie down",
+    "hurry up",
+    "sit down",
+    "slow down"
+   ],
+   "answer": 1,
+   "meaningVi": "nhanh lên",
+   "explanation": "“hurry up” = to do something more quickly. Full sentence: Can you hurry up, please? We're going to miss the bus!",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "check in",
+   "question": "Choose the correct phrasal verb:\nWhen you arrive at the airport, you must ___ two hours before your flight.",
+   "options": [
+    "check in",
+    "come back",
+    "log in",
+    "check out"
+   ],
+   "answer": 0,
+   "meaningVi": "làm thủ tục nhận phòng / lên máy bay",
+   "explanation": "“check in” = to arrive and register at a hotel or airport. Full sentence: When you arrive at the airport, you must check in two hours before your flight.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "run out of",
+   "question": "Choose the correct phrasal verb:\nDon't use too much paper or we will ___ it before Friday.",
+   "options": [
+    "give up",
+    "find out",
+    "look after",
+    "run out of"
+   ],
+   "answer": 3,
+   "meaningVi": "hết, cạn",
+   "explanation": "“run out of” = to have no more of something. Full sentence: Don't use too much paper or we will run out of it before Friday.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "wash up",
+   "question": "Choose the correct phrasal verb:\nMum cooked dinner, so I'll ___ the plates and bowls.",
+   "options": [
+    "try on",
+    "wash up",
+    "put on",
+    "look up"
+   ],
+   "answer": 1,
+   "meaningVi": "rửa bát đĩa",
+   "explanation": "“wash up” = to wash plates, cups and pans after a meal. Full sentence: Mum cooked dinner, so I'll wash up the plates and bowls.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come back",
+   "question": "Choose the correct phrasal verb:\nI'm going to the shop. I'll ___ in ten minutes.",
+   "options": [
+    "sit down",
+    "come in",
+    "get on",
+    "come back"
+   ],
+   "answer": 3,
+   "meaningVi": "quay lại",
+   "explanation": "“come back” = to return. Full sentence: I'm going to the shop. I'll come back in ten minutes.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "take off",
+   "question": "Choose the correct phrasal verb:\nIt's very hot in here. You can ___ your jacket.",
+   "options": [
+    "get off",
+    "take off",
+    "turn on",
+    "put on"
+   ],
+   "answer": 1,
+   "meaningVi": "cởi ra",
+   "explanation": "“take off” = to remove clothes or shoes. Full sentence: It's very hot in here. You can take off your jacket.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "slow down",
+   "question": "Choose the correct phrasal verb:\nThere's a school here, so drivers must ___.",
+   "options": [
+    "hurry up",
+    "turn up",
+    "slow down",
+    "break down"
+   ],
+   "answer": 2,
+   "meaningVi": "chậm lại",
+   "explanation": "“slow down” = to go more slowly. Full sentence: There's a school here, so drivers must slow down.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn on",
+   "question": "Choose the correct phrasal verb:\nThe room is dark. Please ___ the light.",
+   "options": [
+    "put on",
+    "take off",
+    "turn off",
+    "turn on"
+   ],
+   "answer": 3,
+   "meaningVi": "bật (máy, đèn)",
+   "explanation": "“turn on” = to start a machine or a light. Full sentence: The room is dark. Please turn on the light.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "eat out",
+   "question": "Choose the correct phrasal verb:\nI'm too tired to cook tonight. Let's ___.",
+   "options": [
+    "grow up",
+    "wake up",
+    "eat out",
+    "wash up"
+   ],
+   "answer": 2,
+   "meaningVi": "ăn ở ngoài, ăn nhà hàng",
+   "explanation": "“eat out” = to eat at a restaurant. Full sentence: I'm too tired to cook tonight. Let's eat out.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn off",
+   "question": "Choose the correct phrasal verb:\nDon't forget to ___ the lights when you leave the room.",
+   "options": [
+    "turn on",
+    "try on",
+    "look after",
+    "turn off"
+   ],
+   "answer": 3,
+   "meaningVi": "tắt (máy, đèn)",
+   "explanation": "“turn off” = to stop a machine or a light. Full sentence: Don't forget to turn off the lights when you leave the room.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look for",
+   "question": "Choose the correct phrasal verb:\nI can't find my glasses. Can you help me ___ them?",
+   "options": [
+    "look for",
+    "look up",
+    "look forward to",
+    "look after"
+   ],
+   "answer": 0,
+   "meaningVi": "tìm kiếm",
+   "explanation": "“look for” = to try to find. Full sentence: I can't find my glasses. Can you help me look for them?",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "calm down",
+   "question": "Choose the correct phrasal verb:\nDon't worry about the exam. Take a deep breath and ___.",
+   "options": [
+    "calm down",
+    "turn up",
+    "hurry up",
+    "break down"
+   ],
+   "answer": 0,
+   "meaningVi": "bình tĩnh lại",
+   "explanation": "“calm down” = to become calm after being angry or worried. Full sentence: Don't worry about the exam. Take a deep breath and calm down.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "go out",
+   "question": "Choose the correct phrasal verb:\nI'm too tired to ___ tonight. Let's stay at home and watch a film.",
+   "options": [
+    "fill in",
+    "sit down",
+    "go out",
+    "look up"
+   ],
+   "answer": 2,
+   "meaningVi": "ra ngoài chơi",
+   "explanation": "“go out” = to leave home to do something fun. Full sentence: I'm too tired to go out tonight. Let's stay at home and watch a film.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "clean up",
+   "question": "Choose the correct phrasal verb:\nAfter the party, everyone helped to ___ the classroom.",
+   "options": [
+    "turn on",
+    "fill in",
+    "log in",
+    "clean up"
+   ],
+   "answer": 3,
+   "meaningVi": "dọn dẹp sạch sẽ",
+   "explanation": "“clean up” = to make a place clean. Full sentence: After the party, everyone helped to clean up the classroom.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "lie down",
+   "question": "Choose the correct phrasal verb:\nIf you feel dizzy, ___ on the sofa for a few minutes.",
+   "options": [
+    "stand up",
+    "lie down",
+    "hurry up",
+    "work out"
+   ],
+   "answer": 1,
+   "meaningVi": "nằm xuống",
+   "explanation": "“lie down” = to put your body flat on a bed or sofa. Full sentence: If you feel dizzy, lie down on the sofa for a few minutes.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn up",
+   "question": "Choose the correct phrasal verb:\nI can't hear the radio. Please ___ the volume.",
+   "options": [
+    "turn up",
+    "slow down",
+    "turn off",
+    "turn down"
+   ],
+   "answer": 0,
+   "meaningVi": "vặn to",
+   "explanation": "“turn up” = to make louder or higher. Full sentence: I can't hear the radio. Please turn up the volume.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  },
+  {
+   "id": "a2-phrasalVerb-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "dress up",
+   "question": "Choose the correct phrasal verb:\nIt's a special dinner, so we need to ___ nicely.",
+   "options": [
+    "grow up",
+    "wash up",
+    "clean up",
+    "dress up"
+   ],
+   "answer": 3,
+   "meaningVi": "ăn diện; hóa trang",
+   "explanation": "“dress up” = to wear special or smart clothes; to wear a costume. Full sentence: It's a special dinner, so we need to dress up nicely.",
+   "skill": "phrasalVerb",
+   "level": "a2"
+  }
+ ]
+}

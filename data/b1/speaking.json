@@ -1,0 +1,2014 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "speaking",
+ "title": {
+  "en": "Speaking",
+  "vi": "Nói"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-speaking-001",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "How has your daily routine changed in the last few years?",
+   "promptVi": "Thói quen hằng ngày của bạn đã thay đổi thế nào trong vài năm qua?",
+   "modelAnswer": "It's changed quite a lot. I used to get up late and spend hours playing games, but since I started university, I've had to get up at six. These days I also go to the gym three times a week, which makes me feel much more energetic.",
+   "keywords": [
+    "used to",
+    "since",
+    "these days"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-002",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What do you enjoy doing to relax after a busy day?",
+   "promptVi": "Bạn thích làm gì để thư giãn sau một ngày bận rộn?",
+   "modelAnswer": "After a busy day, I usually listen to podcasts or go for a walk around the lake near my home. I find that being outside helps me forget about work. If I'm really tired, I just watch a comedy series, because laughing is the best way to relax.",
+   "keywords": [
+    "relax",
+    "usually",
+    "because"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-003",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "hometown",
+   "prompt": "What do you like most about your hometown, and what would you change?",
+   "promptVi": "Bạn thích điều gì nhất ở quê hương mình, và bạn muốn thay đổi điều gì?",
+   "modelAnswer": "What I like most is the food – the street stalls sell amazing noodle soup. People are also very friendly. However, if I could change one thing, I would improve public transport, because the traffic is terrible and there aren't enough buses.",
+   "keywords": [
+    "like most",
+    "however",
+    "would"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-004",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "study",
+   "prompt": "Why are you learning English, and how do you practise outside class?",
+   "promptVi": "Vì sao bạn học tiếng Anh và bạn luyện tập ngoài giờ học thế nào?",
+   "modelAnswer": "I'm learning English because I'd like to work for an international company in the future. Outside class, I watch films with English subtitles and I've joined an online conversation group. I've also started writing a short diary in English every evening.",
+   "keywords": [
+    "because",
+    "outside class",
+    "started"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-005",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "Has your diet changed since you were a child? How?",
+   "promptVi": "Chế độ ăn của bạn có thay đổi so với hồi nhỏ không? Như thế nào?",
+   "modelAnswer": "Yes, definitely. When I was a child, I ate a lot of sweets and hardly any vegetables. Now I try to eat more healthily because I know it affects my energy. I've also cut down on fizzy drinks, although I still can't resist ice cream.",
+   "keywords": [
+    "when I was",
+    "healthily",
+    "although"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-006",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "technology",
+   "prompt": "How much time do you spend on your phone, and is it too much?",
+   "promptVi": "Bạn dùng điện thoại bao nhiêu thời gian, và như vậy có quá nhiều không?",
+   "modelAnswer": "Honestly, I probably spend about five hours a day on my phone, which is far too much. A lot of that time is social media. I've recently turned off notifications at night, and I'm trying to read a real book before bed instead.",
+   "keywords": [
+    "probably",
+    "far too much",
+    "instead"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-007",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "travel",
+   "prompt": "Tell me about the best trip you have ever taken.",
+   "promptVi": "Hãy kể về chuyến đi tuyệt nhất mà bạn từng có.",
+   "modelAnswer": "The best trip I've ever taken was to Ha Giang with my university friends. We rented motorbikes and rode through the mountains for four days. The views were breathtaking, and we stayed with local families, so we learned a lot about their culture.",
+   "keywords": [
+    "ever",
+    "rented",
+    "learned"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-008",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "What kind of job would you like to have in ten years?",
+   "promptVi": "Mười năm nữa bạn muốn làm công việc gì?",
+   "modelAnswer": "In ten years, I'd like to be working as a designer, maybe for a games company. I've always loved drawing, and I think it would be exciting to create characters that millions of people see. I'd also like to have the chance to work abroad for a while.",
+   "keywords": [
+    "I'd like",
+    "always",
+    "abroad"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-009",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "family",
+   "prompt": "Who in your family are you most similar to, and why?",
+   "promptVi": "Bạn giống ai nhất trong gia đình, vì sao?",
+   "modelAnswer": "I think I'm most similar to my father. We both love being outdoors, and we're quite calm in difficult situations. People also say I take after him because we laugh in the same way. My mother, on the other hand, is much more organised than us.",
+   "keywords": [
+    "similar",
+    "take after",
+    "on the other hand"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-010",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "friends",
+   "prompt": "What makes someone a good friend, in your opinion?",
+   "promptVi": "Theo bạn, điều gì làm nên một người bạn tốt?",
+   "modelAnswer": "In my opinion, a good friend is someone you can trust completely. They should listen without judging you and tell you the truth, even when it's difficult to hear. My best friend is like that – I know I can always count on her.",
+   "keywords": [
+    "in my opinion",
+    "trust",
+    "even when"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-011",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "health",
+   "prompt": "What do you do to stay healthy?",
+   "promptVi": "Bạn làm gì để giữ sức khỏe?",
+   "modelAnswer": "I try to stay healthy by cycling to university instead of taking a motorbike taxi. I also drink plenty of water and try to sleep at least seven hours. I'm not perfect, though – I sometimes eat too much fast food when I'm stressed.",
+   "keywords": [
+    "stay healthy",
+    "instead of",
+    "though"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-012",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "shopping",
+   "prompt": "Do you prefer shopping online or in shops? Why?",
+   "promptVi": "Bạn thích mua sắm trực tuyến hay ở cửa hàng? Vì sao?",
+   "modelAnswer": "I generally prefer shopping online because it's quicker and I can compare prices easily. However, for clothes and shoes, I'd rather go to a shop, since I need to try things on. I once bought a jacket online that was two sizes too small!",
+   "keywords": [
+    "prefer",
+    "however",
+    "I'd rather"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-013",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "environment",
+   "prompt": "What do you personally do to help the environment?",
+   "promptVi": "Cá nhân bạn làm gì để bảo vệ môi trường?",
+   "modelAnswer": "I try to avoid single-use plastic, so I always carry a reusable bottle and a cloth bag. At home, we separate our rubbish for recycling. I know these are small things, but if everyone did them, they would make a real difference.",
+   "keywords": [
+    "avoid",
+    "recycling",
+    "if everyone"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-014",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "learning",
+   "prompt": "Tell me about a skill you learned recently.",
+   "promptVi": "Hãy kể về một kỹ năng bạn mới học gần đây.",
+   "modelAnswer": "Recently, I learned how to edit videos. I watched lots of online tutorials and practised by making short clips of my family. It was frustrating at first, but now I've got the hang of it, and I've even made a video for my cousin's wedding.",
+   "keywords": [
+    "recently",
+    "at first",
+    "even"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-015",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "weekend",
+   "prompt": "What did you do last weekend?",
+   "promptVi": "Cuối tuần trước bạn đã làm gì?",
+   "modelAnswer": "Last weekend was quite busy. On Saturday morning, I helped my parents clean the house, and in the afternoon I met some friends for coffee. On Sunday, we went to a photography exhibition that had just opened. In the evening, I finally relaxed and watched a film.",
+   "keywords": [
+    "last weekend",
+    "had just",
+    "finally"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-016",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "plans",
+   "prompt": "What are your plans for next year?",
+   "promptVi": "Kế hoạch năm tới của bạn là gì?",
+   "modelAnswer": "Next year I'm going to finish my degree, and then I'm hoping to find an internship at a marketing company. If I have enough money, I'd also like to travel to Japan, because I've been interested in Japanese culture for a long time.",
+   "keywords": [
+    "going to",
+    "hoping",
+    "if I have"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-017",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "music",
+   "prompt": "How important is music in your life?",
+   "promptVi": "Âm nhạc quan trọng thế nào trong cuộc sống của bạn?",
+   "modelAnswer": "Music is really important to me. I listen to it almost all the time – on the bus, while I'm studying and when I exercise. It helps me concentrate and changes my mood. I've been learning the guitar for two years, but I'm still not very good.",
+   "keywords": [
+    "important",
+    "helps me",
+    "I've been learning"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-018",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "reading",
+   "prompt": "Do you prefer reading books or watching films? Why?",
+   "promptVi": "Bạn thích đọc sách hay xem phim hơn? Vì sao?",
+   "modelAnswer": "It depends on my mood, but I think I prefer reading. When you read a book, you can imagine the characters and places yourself. Films are more relaxing, of course, and I often watch them with friends. I usually find the book is better than the film, though.",
+   "keywords": [
+    "depends",
+    "prefer",
+    "usually"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-019",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "home",
+   "prompt": "Describe the place where you live and say whether you'd like to move.",
+   "promptVi": "Hãy miêu tả nơi bạn sống và cho biết bạn có muốn chuyển đi không.",
+   "modelAnswer": "I live in a small apartment on the eighth floor of a building in the city centre. It's convenient because it's close to everything, but it can be noisy at night. I'd like to move somewhere with a garden one day, maybe in a quieter area.",
+   "keywords": [
+    "live",
+    "convenient",
+    "one day"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-020",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "What was your favourite teacher like?",
+   "promptVi": "Người thầy/cô yêu thích của bạn là người thế nào?",
+   "modelAnswer": "My favourite teacher was my literature teacher in high school. She was strict, but she was also very encouraging. She made us believe that our opinions mattered, and she always gave us detailed feedback. I don't think I would love reading so much without her.",
+   "keywords": [
+    "favourite",
+    "encouraging",
+    "without"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-021",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "sport",
+   "prompt": "Do you think young people do enough sport these days?",
+   "promptVi": "Bạn có nghĩ giới trẻ ngày nay chơi thể thao đủ không?",
+   "modelAnswer": "Not really. Many young people spend most of their free time indoors on their phones or computers. Schools have also reduced the time for PE because of exams. I think sport should be more fun and less competitive, so that more teenagers would want to take part.",
+   "keywords": [
+    "free time",
+    "because of",
+    "so that"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-022",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "festivals",
+   "prompt": "What is your favourite festival, and how do you celebrate it?",
+   "promptVi": "Lễ hội yêu thích của bạn là gì và bạn đón nó thế nào?",
+   "modelAnswer": "My favourite festival is Tet, the Lunar New Year. Before it starts, we clean and decorate the house. During the holiday, we visit relatives, give lucky money to children and eat special food like banh chung. It's the only time of year when my whole family is together.",
+   "keywords": [
+    "favourite",
+    "before",
+    "during"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-023",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "money",
+   "prompt": "Are you good at saving money? Why or why not?",
+   "promptVi": "Bạn có giỏi tiết kiệm tiền không? Vì sao?",
+   "modelAnswer": "I'm getting better at it. I used to spend all my money as soon as I got it, mostly on clothes and eating out. Now I put twenty percent of my salary into a savings account at the start of every month, so I don't feel tempted to spend it.",
+   "keywords": [
+    "used to",
+    "savings",
+    "so"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-024",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "transport",
+   "prompt": "How do you usually travel around your city, and why?",
+   "promptVi": "Bạn thường di chuyển trong thành phố bằng gì, vì sao?",
+   "modelAnswer": "I usually travel by motorbike because it's the fastest way to get around, especially in heavy traffic. However, when it rains, I take a ride-hailing car. I'd love to use public transport more, but the metro doesn't go near my house yet.",
+   "keywords": [
+    "usually",
+    "however",
+    "yet"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-025",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "social media",
+   "prompt": "What are the advantages and disadvantages of social media for you?",
+   "promptVi": "Mạng xã hội có những mặt lợi và hại gì đối với bạn?",
+   "modelAnswer": "The main advantage is that I can keep in touch with friends who live abroad. I also follow pages that teach English. The disadvantage is that it wastes a lot of time, and sometimes seeing other people's perfect lives makes me feel a bit down.",
+   "keywords": [
+    "advantage",
+    "disadvantage",
+    "makes me"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-026",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "memories",
+   "prompt": "What is one of your happiest childhood memories?",
+   "promptVi": "Một trong những kỷ niệm tuổi thơ vui nhất của bạn là gì?",
+   "modelAnswer": "One of my happiest memories is spending summer holidays at my grandparents' house in the countryside. My cousins and I used to catch fish in the river and fly kites in the rice fields. Life was so simple then, and we didn't have phones to distract us.",
+   "keywords": [
+    "memories",
+    "used to",
+    "then"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-027",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "Would you prefer to work for a large company or a small one?",
+   "promptVi": "Bạn thích làm cho công ty lớn hay công ty nhỏ hơn?",
+   "modelAnswer": "I'd prefer to work for a small company. In a large company, you might just be one person among thousands. In a small one, you can learn about many different areas and your ideas are more likely to be heard. The salary might be lower, though.",
+   "keywords": [
+    "prefer",
+    "more likely",
+    "though"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-028",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "languages",
+   "prompt": "Would you like to learn another language? Which one?",
+   "promptVi": "Bạn có muốn học thêm một ngôn ngữ khác không? Ngôn ngữ nào?",
+   "modelAnswer": "Yes, I'd really like to learn Korean. I've been watching Korean dramas for years, and I'd love to understand them without subtitles. It would also be useful for my career, as there are lots of Korean companies in Vietnam. I just need to find the time.",
+   "keywords": [
+    "I'd really like",
+    "without",
+    "useful"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-029",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "weather",
+   "prompt": "How does the weather affect your mood and plans?",
+   "promptVi": "Thời tiết ảnh hưởng thế nào đến tâm trạng và kế hoạch của bạn?",
+   "modelAnswer": "The weather affects me quite a lot. When it's sunny, I feel energetic and want to go out. During the rainy season, I often feel lazy and prefer to stay at home. I always check the forecast before making plans with friends at the weekend.",
+   "keywords": [
+    "affects",
+    "during",
+    "before"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-030",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "cooking",
+   "prompt": "Can you cook? Tell me about a dish you make well.",
+   "promptVi": "Bạn có biết nấu ăn không? Hãy kể về món bạn nấu ngon.",
+   "modelAnswer": "Yes, I can cook a few dishes. The one I make best is fried rice with prawns. My mother taught me when I was twelve, and I've changed the recipe a bit since then. My friends always ask me to make it when they come round.",
+   "keywords": [
+    "make",
+    "taught",
+    "since then"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-031",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "volunteering",
+   "prompt": "Have you ever done any volunteer work?",
+   "promptVi": "Bạn đã từng làm tình nguyện bao giờ chưa?",
+   "modelAnswer": "Yes, I have. Last summer I volunteered at an animal shelter for two months. I cleaned the cages, fed the dogs and took them for walks. It was hard work, but it was really rewarding, and I ended up adopting one of the puppies.",
+   "keywords": [
+    "volunteered",
+    "rewarding",
+    "ended up"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-032",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "future",
+   "prompt": "How do you think your life will be different in twenty years?",
+   "promptVi": "Bạn nghĩ cuộc sống của mình sẽ khác thế nào sau hai mươi năm?",
+   "modelAnswer": "In twenty years, I'll probably have a family of my own. I hope I'll be living in a house with a garden rather than an apartment. Technology will have changed a lot, so maybe I'll be travelling in a self-driving car and working from home.",
+   "keywords": [
+    "probably",
+    "I'll be",
+    "rather than"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-033",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "advice",
+   "prompt": "What is the best piece of advice anyone has given you?",
+   "promptVi": "Lời khuyên hay nhất mà ai đó từng cho bạn là gì?",
+   "modelAnswer": "The best advice I've ever been given came from my grandfather. He told me not to compare myself with other people, because everyone has their own path. Whenever I feel jealous of someone's success, I remember his words and focus on my own goals.",
+   "keywords": [
+    "advice",
+    "told me",
+    "whenever"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-034",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrities",
+   "prompt": "Is there a famous person you admire? Why?",
+   "promptVi": "Có người nổi tiếng nào bạn ngưỡng mộ không? Vì sao?",
+   "modelAnswer": "I really admire a Vietnamese chef who became famous on social media. She grew up in a poor village, but she taught herself to cook and now runs three restaurants. What I admire most is that she still uses her fame to support farmers in her hometown.",
+   "keywords": [
+    "admire",
+    "grew up",
+    "what I admire"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-035",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "habits",
+   "prompt": "Is there a habit you would like to change?",
+   "promptVi": "Có thói quen nào bạn muốn thay đổi không?",
+   "modelAnswer": "I'd like to stop checking my phone as soon as I wake up. I spend the first half hour of the day reading messages and news, and it makes me feel stressed before I've even got out of bed. I'm going to try leaving my phone in another room.",
+   "keywords": [
+    "I'd like",
+    "as soon as",
+    "going to"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-036",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "city life",
+   "prompt": "Would you rather live in a city or in the countryside?",
+   "promptVi": "Bạn muốn sống ở thành phố hay nông thôn hơn?",
+   "modelAnswer": "At the moment, I'd rather live in the city because there are more job opportunities and things to do. But when I'm older, I'd like to move to the countryside. I think the clean air and peaceful lifestyle would be much better for my health.",
+   "keywords": [
+    "I'd rather",
+    "because",
+    "when I'm older"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-037",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "education",
+   "prompt": "What subject do you wish you had studied more at school?",
+   "promptVi": "Bạn ước mình đã học môn nào nhiều hơn ở trường?",
+   "modelAnswer": "I wish I had studied more science at school. At the time, I thought it was boring and I preferred art. Now I realise how useful it is for understanding things like health and climate change. I've started watching science documentaries to catch up.",
+   "keywords": [
+    "wish I had",
+    "at the time",
+    "realise"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-038",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "holidays",
+   "prompt": "Do you prefer active holidays or relaxing ones?",
+   "promptVi": "Bạn thích những kỳ nghỉ năng động hay thư giãn hơn?",
+   "modelAnswer": "I prefer active holidays. Lying on a beach for a week sounds boring to me. I'd much rather go hiking, kayaking or explore a new city on foot. Having said that, after a really stressful term, a couple of days doing nothing can be wonderful.",
+   "keywords": [
+    "prefer",
+    "much rather",
+    "having said that"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-039",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "neighbours",
+   "prompt": "How well do you know your neighbours?",
+   "promptVi": "Bạn biết rõ hàng xóm của mình đến mức nào?",
+   "modelAnswer": "I know some of my neighbours quite well. The family next door has lived there for as long as I can remember, and we often share food during festivals. However, many people in our building have only moved in recently, so I don't even know their names.",
+   "keywords": [
+    "neighbours",
+    "as long as",
+    "recently"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-040",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "challenges",
+   "prompt": "Tell me about a difficult situation you dealt with successfully.",
+   "promptVi": "Hãy kể về một tình huống khó khăn bạn đã xử lý thành công.",
+   "modelAnswer": "Last year, I had to give a presentation in English to the whole department, and I was terrified. I prepared for two weeks and practised in front of my family every evening. On the day, I was still nervous, but it went well and my manager praised me.",
+   "keywords": [
+    "had to",
+    "prepared",
+    "went well"
+   ],
+   "tip": {
+    "en": "Speak for 30–40 seconds. Give a reason and an example, and use different tenses (used to, present perfect, would…).",
+    "vi": "Nói khoảng 30–40 giây. Đưa ra lý do và ví dụ, dùng nhiều thì khác nhau (used to, hiện tại hoàn thành, would…)."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-041",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: family meal",
+   "prompt": "Describe a photo of a large family having a meal together outdoors.",
+   "promptVi": "Miêu tả bức ảnh một đại gia đình đang dùng bữa ngoài trời.",
+   "modelAnswer": "In this photo, I can see a large family sitting around a long table in a garden. It looks like a special occasion, maybe a birthday, because there's a cake in the middle. An older man is telling a story, and everyone seems to be laughing. I imagine it's a warm summer evening.",
+   "keywords": [
+    "I can see",
+    "looks like",
+    "seems to be"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-042",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: busy market",
+   "prompt": "Describe a photo of a busy street market.",
+   "promptVi": "Miêu tả bức ảnh một khu chợ đường phố đông đúc.",
+   "modelAnswer": "This photo shows a crowded street market, probably somewhere in Southeast Asia. On the left, a woman is selling fresh fruit, and on the right there are stalls with clothes. In the background, lots of people are walking and some are carrying bags. It looks noisy but exciting.",
+   "keywords": [
+    "shows",
+    "on the left",
+    "in the background"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-043",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: office",
+   "prompt": "Describe a photo of people working in a modern open-plan office.",
+   "promptVi": "Miêu tả bức ảnh mọi người làm việc trong văn phòng mở hiện đại.",
+   "modelAnswer": "In the picture, there's a bright, modern office with large windows. Several young people are working at long desks on their laptops. In the foreground, two colleagues are discussing something on a screen. The atmosphere seems relaxed, and there are plants everywhere, which makes it look pleasant.",
+   "keywords": [
+    "in the picture",
+    "in the foreground",
+    "seems"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-044",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: hiking",
+   "prompt": "Describe a photo of two friends hiking in the mountains.",
+   "promptVi": "Miêu tả bức ảnh hai người bạn đang leo núi.",
+   "modelAnswer": "The photo shows two friends hiking on a narrow mountain path. They're wearing backpacks and walking boots, and one of them is pointing at something in the distance. The sky is clear, so the weather must be good. They look tired but happy, as if they've almost reached the top.",
+   "keywords": [
+    "shows",
+    "must be",
+    "as if"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-045",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: classroom",
+   "prompt": "Describe a photo of a classroom where students are working in groups.",
+   "promptVi": "Miêu tả bức ảnh lớp học nơi học sinh đang làm việc nhóm.",
+   "modelAnswer": "In this photo, students are sitting in small groups around tables instead of in rows. Each group seems to be working on a project with large sheets of paper. The teacher is kneeling next to one group and helping them. Everyone looks focused, and the classroom is colourful.",
+   "keywords": [
+    "instead of",
+    "seems to be",
+    "looks"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-046",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: rainy street",
+   "prompt": "Describe a photo of a city street on a rainy evening.",
+   "promptVi": "Miêu tả bức ảnh một con phố vào buổi tối mưa.",
+   "modelAnswer": "This picture shows a city street on a rainy evening. The road is wet and reflects the lights from shops and cars. A few people are hurrying along with umbrellas, and a man is sheltering in a doorway. It might be winter, because everyone is wearing heavy coats.",
+   "keywords": [
+    "shows",
+    "might be",
+    "because"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-047",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: elderly couple",
+   "prompt": "Describe a photo of an elderly couple using a tablet.",
+   "promptVi": "Miêu tả bức ảnh một cặp vợ chồng lớn tuổi đang dùng máy tính bảng.",
+   "modelAnswer": "In the photo, an elderly couple are sitting on a sofa looking at a tablet. The woman is holding it and the man is pointing at the screen. Perhaps they're having a video call with their grandchildren, because they're both smiling and waving. It shows that technology isn't just for young people.",
+   "keywords": [
+    "perhaps",
+    "because",
+    "it shows"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-048",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: kitchen",
+   "prompt": "Describe a photo of a young man cooking in a small kitchen.",
+   "promptVi": "Miêu tả bức ảnh một chàng trai đang nấu ăn trong căn bếp nhỏ.",
+   "modelAnswer": "Here I can see a young man cooking in a small, rather untidy kitchen. He's stirring something in a pan and reading a recipe on his phone at the same time. There are vegetables and dirty bowls all over the counter. I think he's probably a student who's just learning to cook.",
+   "keywords": [
+    "I can see",
+    "at the same time",
+    "probably"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-049",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: beach clean-up",
+   "prompt": "Describe a photo of volunteers cleaning a beach.",
+   "promptVi": "Miêu tả bức ảnh các tình nguyện viên dọn dẹp bãi biển.",
+   "modelAnswer": "This photo shows a group of volunteers cleaning a beach. They're wearing gloves and matching T-shirts, and they're picking up plastic bottles and putting them into large bags. It looks like early morning because the light is soft. I think events like this are a great way to raise awareness.",
+   "keywords": [
+    "shows",
+    "looks like",
+    "I think"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-050",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "photo: airport",
+   "prompt": "Describe a photo of passengers waiting at an airport.",
+   "promptVi": "Miêu tả bức ảnh hành khách đang chờ ở sân bay.",
+   "modelAnswer": "In this picture, lots of passengers are waiting in an airport departure lounge. Some are looking at the information screens, while others are sleeping on the seats. There seems to be a delay, because a few people look frustrated. In the background, you can see planes through a huge window.",
+   "keywords": [
+    "while",
+    "there seems to be",
+    "in the background"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-051",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: city vs village",
+   "prompt": "Compare two photos: a crowded city and a quiet village. Which place would you prefer to live in?",
+   "promptVi": "So sánh hai bức ảnh: thành phố đông đúc và làng quê yên tĩnh. Bạn muốn sống ở đâu hơn?",
+   "modelAnswer": "Both photos show places where people live, but they're very different. The first one shows a crowded city with tall buildings and heavy traffic, whereas the second shows a peaceful village surrounded by fields. Personally, I'd prefer the village because life there seems less stressful, although it might be boring.",
+   "keywords": [
+    "both",
+    "whereas",
+    "personally"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-052",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: studying",
+   "prompt": "Compare two photos: a student studying alone in a library and students studying together in a café.",
+   "promptVi": "So sánh hai bức ảnh: một sinh viên học một mình ở thư viện và các sinh viên học cùng nhau ở quán cà phê.",
+   "modelAnswer": "In the first photo, a student is studying alone in a quiet library, while in the second, a group is studying together in a busy café. The library is better for concentration, but the café looks more fun and students can help each other. I'd choose the library before exams.",
+   "keywords": [
+    "while",
+    "better for",
+    "I'd choose"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-053",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: holidays",
+   "prompt": "Compare two photos: a family camping in a forest and a family at a luxury hotel pool.",
+   "promptVi": "So sánh hai bức ảnh: gia đình cắm trại trong rừng và gia đình bên hồ bơi khách sạn sang trọng.",
+   "modelAnswer": "Both photos show families on holiday. In the first, they're camping in a forest and cooking over a fire, whereas in the second they're relaxing by a hotel pool. Camping is cheaper and more adventurous, but the hotel is definitely more comfortable. For young children, I think the hotel would be easier.",
+   "keywords": [
+    "both",
+    "whereas",
+    "definitely"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-054",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: transport",
+   "prompt": "Compare two photos: people cycling to work and people stuck in a traffic jam.",
+   "promptVi": "So sánh hai bức ảnh: người đạp xe đi làm và người kẹt xe.",
+   "modelAnswer": "The first photo shows people cycling to work along a green path, while the second shows cars stuck in a traffic jam. The cyclists look relaxed and healthy, but the drivers seem stressed. Cycling is obviously better for the environment, although it isn't practical when the weather is bad.",
+   "keywords": [
+    "while",
+    "seem",
+    "although"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-055",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: shopping",
+   "prompt": "Compare two photos: someone shopping in a traditional market and someone shopping online at home.",
+   "promptVi": "So sánh hai bức ảnh: người mua sắm ở chợ truyền thống và người mua sắm trực tuyến tại nhà.",
+   "modelAnswer": "In the first photo, a woman is choosing vegetables at a traditional market, whereas in the second, a man is shopping online on his sofa. At the market, you can check the quality and chat to sellers. Online shopping is more convenient, but you can't touch the products before you buy them.",
+   "keywords": [
+    "whereas",
+    "more convenient",
+    "before"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-056",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: exercise",
+   "prompt": "Compare two photos: people doing yoga in a park and people lifting weights in a gym.",
+   "promptVi": "So sánh hai bức ảnh: người tập yoga ở công viên và người tập tạ trong phòng gym.",
+   "modelAnswer": "Both pictures show people exercising, but in different ways. In the first, a group is doing yoga in a park early in the morning, while in the second, people are lifting weights in a gym. Yoga seems more relaxing, and it's free. The gym is better if you want to build muscle.",
+   "keywords": [
+    "both",
+    "while",
+    "better if"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-057",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: working",
+   "prompt": "Compare two photos: someone working from home and someone working in a busy office.",
+   "promptVi": "So sánh hai bức ảnh: người làm việc tại nhà và người làm việc trong văn phòng đông đúc.",
+   "modelAnswer": "The first photo shows a woman working from home at her kitchen table, and the second shows a busy office full of people. Working from home saves time on travel, but it can be lonely. In the office, it's easier to share ideas. I'd prefer a mix of both.",
+   "keywords": [
+    "shows",
+    "saves",
+    "I'd prefer"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-058",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: celebrations",
+   "prompt": "Compare two photos: a big wedding party and a small family dinner.",
+   "promptVi": "So sánh hai bức ảnh: tiệc cưới lớn và bữa tối gia đình nhỏ.",
+   "modelAnswer": "Both photos show celebrations. The first is a huge wedding with hundreds of guests in a hotel, whereas the second shows a small family having dinner at home. The wedding looks exciting, but it must have been very expensive. Personally, I prefer smaller events because you can actually talk to everyone.",
+   "keywords": [
+    "both",
+    "must have been",
+    "personally"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-059",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: reading",
+   "prompt": "Compare two photos: a child reading a paper book and a child using a tablet.",
+   "promptVi": "So sánh hai bức ảnh: một đứa trẻ đọc sách giấy và một đứa trẻ dùng máy tính bảng.",
+   "modelAnswer": "In the first photo, a child is reading a paper book in bed, while in the second, a child is playing on a tablet. Both children look interested. I think paper books are better before sleep, because screens can keep you awake. However, tablets can make learning more interactive.",
+   "keywords": [
+    "while",
+    "better",
+    "however"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-060",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: food",
+   "prompt": "Compare two photos: a family cooking at home and a family eating fast food.",
+   "promptVi": "So sánh hai bức ảnh: gia đình nấu ăn ở nhà và gia đình ăn đồ ăn nhanh.",
+   "modelAnswer": "The first photo shows a family cooking together in their kitchen, whereas in the second, a family is eating burgers in a fast-food restaurant. Cooking at home is healthier and cheaper, and it's a nice way to spend time together. Fast food is quicker, though, which is useful when parents are busy.",
+   "keywords": [
+    "whereas",
+    "healthier",
+    "though"
+   ],
+   "tip": {
+    "en": "Describe what you see (in the foreground / in the background), then guess: It looks like…, They might be…, whereas… when comparing.",
+    "vi": "Tả những gì bạn thấy (in the foreground / in the background), rồi phỏng đoán: It looks like…, They might be…; dùng whereas… khi so sánh."
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-061",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "technology",
+   "prompt": "Some people think children should not have smartphones until they are 14. Do you agree?",
+   "promptVi": "Có người cho rằng trẻ em không nên có điện thoại thông minh trước 14 tuổi. Bạn có đồng ý không?",
+   "modelAnswer": "I partly agree. On the one hand, smartphones can be addictive and expose children to things they're not ready for. On the other hand, parents may want to contact their children easily. I think younger children could have a basic phone without internet until they're old enough.",
+   "keywords": [
+    "partly agree",
+    "on the one hand",
+    "on the other hand"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-062",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "education",
+   "prompt": "Is it better to study at university or to start working straight after school?",
+   "promptVi": "Học đại học hay đi làm ngay sau khi tốt nghiệp phổ thông thì tốt hơn?",
+   "modelAnswer": "It depends on the person. For jobs like medicine or engineering, a degree is essential. However, some people learn better by doing, and starting work early gives them experience and money. In my view, nobody should go to university just because their friends are going.",
+   "keywords": [
+    "depends",
+    "however",
+    "in my view"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-063",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "environment",
+   "prompt": "What can governments do to reduce plastic waste?",
+   "promptVi": "Chính phủ có thể làm gì để giảm rác thải nhựa?",
+   "modelAnswer": "Governments could ban single-use plastic items like straws and bags, as some countries have already done. They could also make companies pay for recycling their packaging. Another idea is to give people money back when they return bottles. These measures would encourage everyone to change their habits.",
+   "keywords": [
+    "could",
+    "another idea",
+    "encourage"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-064",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "work",
+   "prompt": "Would a four-day working week be a good idea?",
+   "promptVi": "Tuần làm việc bốn ngày có phải là ý tưởng hay không?",
+   "modelAnswer": "I think it would be a good idea for many jobs. Research suggests that people are more productive when they're well rested. Workers would have more time for their families and hobbies. The main problem is that it wouldn't work for hospitals or shops, which need staff every day.",
+   "keywords": [
+    "would",
+    "research suggests",
+    "main problem"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-065",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "health",
+   "prompt": "Should junk food advertising be banned?",
+   "promptVi": "Có nên cấm quảng cáo đồ ăn vặt không lành mạnh?",
+   "modelAnswer": "I believe it should be banned, at least during children's TV programmes. Children are easily influenced by adverts, and obesity is becoming a serious problem. Having said that, a ban alone won't solve the problem. Schools also need to teach children about healthy eating.",
+   "keywords": [
+    "I believe",
+    "at least",
+    "having said that"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-066",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "travel",
+   "prompt": "Is tourism good or bad for local communities?",
+   "promptVi": "Du lịch tốt hay xấu đối với cộng đồng địa phương?",
+   "modelAnswer": "Tourism has both advantages and disadvantages. It creates jobs and brings money into poor areas. However, too many tourists can damage the environment and push up prices for local people. I think the solution is responsible tourism, where visitors respect local culture and spend money in local businesses.",
+   "keywords": [
+    "advantages",
+    "however",
+    "solution"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-067",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "family",
+   "prompt": "Should elderly parents live with their adult children?",
+   "promptVi": "Cha mẹ già có nên sống cùng con cái đã trưởng thành không?",
+   "modelAnswer": "In Vietnam, it's traditional for parents to live with their children, and I think there are real benefits. Grandparents can help with childcare, and they don't feel lonely. However, it can cause conflict if people have different lifestyles. The most important thing is that everyone feels respected.",
+   "keywords": [
+    "traditional",
+    "benefits",
+    "the most important thing"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-068",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "media",
+   "prompt": "Do people trust the news less than they used to?",
+   "promptVi": "Mọi người có ít tin vào tin tức hơn trước đây không?",
+   "modelAnswer": "Yes, I think so. Because anyone can post information online, it's harder to know what's true. Fake news spreads very quickly on social media. As a result, many people have become suspicious of all news. We need to teach people how to check sources before sharing anything.",
+   "keywords": [
+    "because",
+    "as a result",
+    "before"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-069",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "city life",
+   "prompt": "What could be done to reduce traffic in big cities?",
+   "promptVi": "Có thể làm gì để giảm ùn tắc giao thông ở các thành phố lớn?",
+   "modelAnswer": "Firstly, cities should invest in cheap and reliable public transport, such as metro lines and buses. Secondly, they could charge drivers to enter the city centre at busy times. Finally, encouraging companies to let staff work from home would reduce the number of people travelling every day.",
+   "keywords": [
+    "firstly",
+    "secondly",
+    "finally"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-070",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "sport",
+   "prompt": "Are professional footballers paid too much?",
+   "promptVi": "Cầu thủ bóng đá chuyên nghiệp có được trả lương quá cao không?",
+   "modelAnswer": "Personally, I think they are. It seems unfair that a footballer earns more in a week than a nurse earns in ten years. On the other hand, their careers are short, and they bring in huge amounts of money for their clubs. Still, the difference is too big.",
+   "keywords": [
+    "personally",
+    "on the other hand",
+    "still"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-071",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "learning",
+   "prompt": "Can you learn a language well using only apps?",
+   "promptVi": "Có thể học tốt một ngôn ngữ chỉ bằng ứng dụng không?",
+   "modelAnswer": "I don't think apps alone are enough. They're great for learning vocabulary and they keep you motivated with games and rewards. However, to speak fluently you need real conversations with people, because apps can't teach you how to react naturally. I'd use an app as well as classes.",
+   "keywords": [
+    "alone",
+    "however",
+    "as well as"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-072",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "money",
+   "prompt": "Should schools teach students how to manage money?",
+   "promptVi": "Trường học có nên dạy học sinh cách quản lý tiền bạc?",
+   "modelAnswer": "Definitely. Many young people leave school without knowing how to make a budget or what interest is. As a result, some of them get into debt very quickly. If schools taught basic money skills, students would make better decisions when they start earning their own salaries.",
+   "keywords": [
+    "definitely",
+    "as a result",
+    "if schools"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-073",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "technology",
+   "prompt": "Will robots take over most jobs in the future?",
+   "promptVi": "Liệu robot sẽ thay thế phần lớn công việc trong tương lai?",
+   "modelAnswer": "Robots will probably take over many repetitive jobs, like working in factories or warehouses. However, I don't think they will replace jobs that need creativity or empathy, such as teaching or nursing. New types of jobs will also appear, so people will need to keep learning new skills.",
+   "keywords": [
+    "probably",
+    "however",
+    "such as"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-074",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "culture",
+   "prompt": "Is it important to keep traditional customs alive?",
+   "promptVi": "Việc gìn giữ phong tục truyền thống có quan trọng không?",
+   "modelAnswer": "I think it's very important. Traditional customs connect us to our history and give us a sense of identity. If young people stop practising them, they could disappear forever. That doesn't mean we can't change anything, though. Traditions can be adapted to modern life without losing their meaning.",
+   "keywords": [
+    "important",
+    "if young people",
+    "without"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-075",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "environment",
+   "prompt": "Should people eat less meat to protect the planet?",
+   "promptVi": "Con người có nên ăn ít thịt hơn để bảo vệ hành tinh?",
+   "modelAnswer": "Scientists say that producing meat creates a lot of greenhouse gases, so eating less would help. I don't think everyone needs to become vegetarian, but having a few meat-free days a week is realistic. Governments could also support farmers who want to grow more plant-based food.",
+   "keywords": [
+    "so",
+    "realistic",
+    "could also"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-076",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "education",
+   "prompt": "Should homework be banned in primary schools?",
+   "promptVi": "Có nên bỏ bài tập về nhà ở trường tiểu học?",
+   "modelAnswer": "I'm not sure it should be banned completely. A small amount of homework, like reading for fifteen minutes, helps children develop good habits. However, too much homework can make young children stressed and leave no time for play, which is also important for their development.",
+   "keywords": [
+    "not sure",
+    "however",
+    "which"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-077",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "health",
+   "prompt": "Is it the government's job to make people healthier?",
+   "promptVi": "Làm cho người dân khỏe mạnh hơn có phải là trách nhiệm của chính phủ?",
+   "modelAnswer": "I think it's partly the government's responsibility. They can build parks, put taxes on sugary drinks and provide good healthcare. But in the end, individuals have to make their own choices about what they eat and how much exercise they do. It should be a shared responsibility.",
+   "keywords": [
+    "partly",
+    "in the end",
+    "responsibility"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-078",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "work",
+   "prompt": "Is it better to have a job you love or a job that pays well?",
+   "promptVi": "Làm công việc mình yêu thích hay công việc lương cao thì tốt hơn?",
+   "modelAnswer": "Ideally, you'd have both. If I had to choose, I'd pick a job I love, because we spend so much of our lives at work. Being unhappy every day isn't worth any amount of money. That said, you still need to earn enough to live comfortably.",
+   "keywords": [
+    "ideally",
+    "if I had to",
+    "that said"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-079",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "social media",
+   "prompt": "Should there be a minimum age for using social media?",
+   "promptVi": "Có nên quy định độ tuổi tối thiểu để dùng mạng xã hội?",
+   "modelAnswer": "Yes, I think there should be a minimum age, maybe sixteen. Younger teenagers are more likely to be affected by online bullying and pressure to look perfect. The difficulty is that it's easy to lie about your age online, so companies would need better ways to check.",
+   "keywords": [
+    "minimum age",
+    "more likely",
+    "difficulty"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-080",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "travel",
+   "prompt": "Is it better to travel alone or with friends?",
+   "promptVi": "Đi du lịch một mình hay đi với bạn bè thì tốt hơn?",
+   "modelAnswer": "Both have advantages. When you travel alone, you can do exactly what you want, and you're more likely to meet new people. Travelling with friends is safer and more fun, and you can share costs. I'd recommend trying solo travel at least once, because it builds confidence.",
+   "keywords": [
+    "both",
+    "more likely",
+    "recommend"
+   ],
+   "tip": {
+    "en": "Give your opinion, then show the other side: In my opinion…, On the other hand…, Having said that…, Overall…",
+    "vi": "Nêu ý kiến rồi xét mặt còn lại: In my opinion…, On the other hand…, Having said that…, Overall…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-081",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "hotel",
+   "prompt": "You booked a sea-view room, but your room faces the car park. Complain politely to the receptionist.",
+   "promptVi": "Bạn đã đặt phòng hướng biển nhưng phòng lại nhìn ra bãi đỗ xe. Hãy phàn nàn lịch sự với lễ tân.",
+   "modelAnswer": "Excuse me, I'm sorry to bother you, but there seems to be a problem with my room. I booked a sea-view room, but mine faces the car park. I have the confirmation email here. Would it be possible to move to another room, please?",
+   "keywords": [
+    "excuse me",
+    "seems to be",
+    "would it be possible"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-082",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "restaurant",
+   "prompt": "Your meal is cold and you have waited a long time. Speak to the waiter.",
+   "promptVi": "Món ăn của bạn bị nguội và bạn đã chờ rất lâu. Hãy nói với bồi bàn.",
+   "modelAnswer": "Excuse me, I'm afraid my soup is cold. We also waited nearly forty minutes for it. I understand you're busy tonight, but could you heat it up or bring me another one, please? And could you check how long the main course will be?",
+   "keywords": [
+    "I'm afraid",
+    "could you",
+    "please"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-083",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "shop",
+   "prompt": "You want to return a pair of headphones that stopped working after a week.",
+   "promptVi": "Bạn muốn trả lại tai nghe bị hỏng sau một tuần.",
+   "modelAnswer": "Hello, I bought these headphones here last week, but the left side has stopped working. I've got the receipt. I'd like a refund if possible, but if you don't have that option, I'd be happy to exchange them for a different model.",
+   "keywords": [
+    "receipt",
+    "I'd like",
+    "exchange"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-084",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "doctor",
+   "prompt": "Make an appointment with a doctor's receptionist for a persistent cough.",
+   "promptVi": "Đặt lịch hẹn với lễ tân phòng khám vì bị ho kéo dài.",
+   "modelAnswer": "Good morning. I'd like to make an appointment to see a doctor, please. I've had a bad cough for nearly two weeks, and it isn't getting better. Is there anything available tomorrow? I'm free in the afternoon, but I can't come before twelve because of work.",
+   "keywords": [
+    "appointment",
+    "for nearly",
+    "available"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-085",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "work",
+   "prompt": "Ask your manager for a day off next Friday to attend a family wedding.",
+   "promptVi": "Xin quản lý nghỉ một ngày vào thứ Sáu tới để dự đám cưới gia đình.",
+   "modelAnswer": "Hi, do you have a moment? I was wondering if I could take next Friday off. My cousin is getting married in Hue, and the wedding is on Friday afternoon. I'll make sure all my work is finished before then, and Lan has agreed to cover for me.",
+   "keywords": [
+    "I was wondering",
+    "make sure",
+    "agreed"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-086",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friend",
+   "prompt": "Your friend wants to go to an expensive concert. Suggest a cheaper alternative.",
+   "promptVi": "Bạn của bạn muốn đi một buổi hòa nhạc đắt tiền. Hãy gợi ý lựa chọn rẻ hơn.",
+   "modelAnswer": "I'd love to go, but those tickets are a bit too expensive for me at the moment. How about going to the free music festival in the park instead? Several good local bands are playing. We could take a picnic and make an afternoon of it.",
+   "keywords": [
+    "how about",
+    "instead",
+    "we could"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-087",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "neighbour",
+   "prompt": "Your neighbour plays loud music late at night. Ask them politely to turn it down.",
+   "promptVi": "Hàng xóm mở nhạc to vào đêm khuya. Hãy lịch sự đề nghị họ vặn nhỏ lại.",
+   "modelAnswer": "Hi, sorry to disturb you. I live in the flat next door. I don't want to cause any problems, but the music has been quite loud after midnight recently, and I have to get up early for work. Would you mind turning it down a bit after eleven?",
+   "keywords": [
+    "sorry to disturb",
+    "recently",
+    "would you mind"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-088",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "travel",
+   "prompt": "Your train has been cancelled. Ask the ticket office about your options.",
+   "promptVi": "Chuyến tàu của bạn bị hủy. Hãy hỏi phòng vé về các lựa chọn.",
+   "modelAnswer": "Excuse me, I've just seen that the ten o'clock train to Da Nang has been cancelled. I need to be there by this evening for a meeting. What are my options? Can I use this ticket on the next train, or would I be able to get a refund?",
+   "keywords": [
+    "has been cancelled",
+    "options",
+    "refund"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-089",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "phone",
+   "prompt": "Call a language school to ask about evening English courses.",
+   "promptVi": "Gọi điện cho trung tâm ngoại ngữ để hỏi về các khóa tiếng Anh buổi tối.",
+   "modelAnswer": "Hello, I'm calling to ask about your evening English courses. I'm at about intermediate level, and I'm especially interested in improving my speaking. Could you tell me how many students there are in each class, how much the course costs and when the next one starts?",
+   "keywords": [
+    "calling to ask",
+    "interested in",
+    "could you tell me"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-090",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "job interview",
+   "prompt": "At a job interview, explain why you would be good at the job of hotel receptionist.",
+   "promptVi": "Trong buổi phỏng vấn, hãy giải thích vì sao bạn phù hợp với vị trí lễ tân khách sạn.",
+   "modelAnswer": "I think I'd be a good receptionist because I enjoy meeting people and I stay calm under pressure. I worked part-time in a café for two years, so I'm used to dealing with customers. I also speak English and some Korean, which would be useful with international guests.",
+   "keywords": [
+    "because",
+    "used to",
+    "which would be"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-091",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "flatmate",
+   "prompt": "Your flatmate never does the washing-up. Discuss the problem and suggest a solution.",
+   "promptVi": "Bạn cùng phòng không bao giờ rửa bát. Hãy nói về vấn đề và đề xuất giải pháp.",
+   "modelAnswer": "Can we talk about something? I've noticed that the dishes are often left in the sink for days, and it's starting to bother me. I know you're busy, but maybe we could make a rota so that we take turns. What do you think? I'm open to other ideas too.",
+   "keywords": [
+    "I've noticed",
+    "maybe we could",
+    "what do you think"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-092",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "tourist",
+   "prompt": "A tourist asks you to recommend places to visit in your city. Give advice.",
+   "promptVi": "Một du khách nhờ bạn giới thiệu những nơi nên đến trong thành phố. Hãy đưa ra lời khuyên.",
+   "modelAnswer": "If you've only got one day, I'd definitely recommend visiting the old quarter in the morning, before it gets too hot. Then you should try the street food at the night market. If you're interested in history, the museum by the river is well worth a visit.",
+   "keywords": [
+    "recommend",
+    "you should",
+    "worth"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-093",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "customer service",
+   "prompt": "Your online order arrived damaged. Phone customer service.",
+   "promptVi": "Đơn hàng trực tuyến của bạn bị hư hại khi giao. Hãy gọi cho chăm sóc khách hàng.",
+   "modelAnswer": "Hi, I'm calling about an order I received yesterday. Unfortunately, the vase was broken when I opened the box. The order number is 4521. I've taken some photos of the damage. I'd like you to send a replacement as soon as possible, please.",
+   "keywords": [
+    "unfortunately",
+    "order number",
+    "as soon as possible"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-094",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "teacher",
+   "prompt": "Ask your teacher for an extension on an essay because you were ill.",
+   "promptVi": "Xin giáo viên gia hạn nộp bài luận vì bạn bị ốm.",
+   "modelAnswer": "Excuse me, could I speak to you for a minute? I was ill with a fever for most of last week, so I wasn't able to finish my essay. I have a note from the doctor. Would it be possible to have a few extra days? I could hand it in on Monday.",
+   "keywords": [
+    "wasn't able to",
+    "would it be possible",
+    "hand it in"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-095",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "invitation",
+   "prompt": "Politely decline a colleague's invitation to dinner and suggest another time.",
+   "promptVi": "Lịch sự từ chối lời mời ăn tối của đồng nghiệp và gợi ý thời gian khác.",
+   "modelAnswer": "Thanks so much for inviting me – that's really kind. Unfortunately, I've already promised to help my sister move house on Saturday. Would you be free next weekend instead? I'd really like to try that new restaurant you mentioned.",
+   "keywords": [
+    "thanks so much",
+    "unfortunately",
+    "would you be free"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-096",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "gym",
+   "prompt": "Ask a gym receptionist about membership options.",
+   "promptVi": "Hỏi lễ tân phòng gym về các gói thành viên.",
+   "modelAnswer": "Hi, I'm thinking of joining the gym. Could you tell me what kinds of membership you offer? I'd probably come three or four times a week, mostly in the evenings. Is there a student discount? And are classes like yoga included in the price, or do they cost extra?",
+   "keywords": [
+    "thinking of",
+    "could you tell me",
+    "included"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-097",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "lost property",
+   "prompt": "You left your bag on a bus. Speak to the lost property office.",
+   "promptVi": "Bạn để quên túi trên xe buýt. Hãy nói chuyện với văn phòng đồ thất lạc.",
+   "modelAnswer": "Hello, I think I left my bag on the number 32 bus this morning, at about half past eight. It's a small black backpack with a laptop and a blue water bottle inside. Has anyone handed it in? If not, could I leave my phone number in case it turns up?",
+   "keywords": [
+    "I think I left",
+    "handed it in",
+    "in case"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-098",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "planning",
+   "prompt": "You and a friend are planning a weekend trip. Discuss where to go and agree.",
+   "promptVi": "Bạn và một người bạn đang lên kế hoạch đi chơi cuối tuần. Hãy bàn bạc nơi đi và thống nhất.",
+   "modelAnswer": "What do you think about going to Vung Tau? It's only two hours away, so we wouldn't waste much time travelling. Or would you prefer somewhere in the mountains, like Da Lat? It's further, but it's cooler. Shall we check the prices and decide tonight?",
+   "keywords": [
+    "what do you think",
+    "would you prefer",
+    "shall we"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-099",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "advice",
+   "prompt": "Your friend is stressed about exams. Give them some advice.",
+   "promptVi": "Bạn của bạn đang căng thẳng vì thi cử. Hãy cho họ lời khuyên.",
+   "modelAnswer": "I know exams are stressful, but try not to panic. If I were you, I'd make a realistic timetable and study for short periods with breaks. You should also get enough sleep, because you can't remember anything when you're exhausted. And why don't we study together on Saturday?",
+   "keywords": [
+    "if I were you",
+    "you should",
+    "why don't we"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  },
+  {
+   "id": "b1-speaking-100",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "apology",
+   "prompt": "You forgot your friend's birthday. Apologise and offer to make it up to them.",
+   "promptVi": "Bạn quên sinh nhật của bạn mình. Hãy xin lỗi và đề nghị bù đắp.",
+   "modelAnswer": "I'm so sorry I forgot your birthday yesterday. I've had so much going on at work, but that's no excuse. I feel terrible about it. Let me make it up to you – can I take you out for dinner this weekend? Anywhere you like, my treat.",
+   "keywords": [
+    "so sorry",
+    "make it up",
+    "my treat"
+   ],
+   "tip": {
+    "en": "Be polite and indirect: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…",
+    "vi": "Lịch sự, gián tiếp: I was wondering if…, Would it be possible to…?, Would you mind…-ing?, I'm afraid…"
+   },
+   "skill": "speaking",
+   "level": "b1"
+  }
+ ]
+}

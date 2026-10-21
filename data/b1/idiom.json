@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "idiom",
+ "title": {
+  "en": "Idioms",
+  "vi": "Thành ngữ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-idiom-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "bite off more than you can chew",
+   "context": "Don't bite off more than you can chew – one big project at a time is enough.",
+   "question": "What does “bite off more than you can chew” mean in this sentence?",
+   "options": [
+    "to try to do more than you are able to manage",
+    "a very small amount compared with what is needed",
+    "a lot of anger or worry about something unimportant",
+    "to start planning something again because the first plan failed"
+   ],
+   "answer": 0,
+   "meaningVi": "ôm đồm, cố làm quá sức mình",
+   "explanation": "“bite off more than you can chew” means to try to do more than you are able to manage. Example: Five clubs and two part-time jobs? Be careful not to bite off more than you can chew.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the ball is in your court",
+   "context": "I've made you a fair offer, so the ball is in your court now.",
+   "question": "What does “the ball is in your court” mean in this sentence?",
+   "options": [
+    "it is your turn to decide or take the next step",
+    "to stop trying because you think you cannot succeed",
+    "after a bad experience, you are more careful not to repeat it",
+    "suddenly and unexpectedly"
+   ],
+   "answer": 0,
+   "meaningVi": "giờ đến lượt bạn quyết định / hành động",
+   "explanation": "“the ball is in your court” means it is your turn to decide or take the next step. Example: I've explained all the options. The ball is in your court – let me know what you decide.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a blessing in disguise",
+   "context": "Losing that job was a blessing in disguise – it pushed me to start my own business.",
+   "question": "What does “a blessing in disguise” mean in this sentence?",
+   "options": [
+    "to hope that something will happen the way you want",
+    "to not completely believe something you are told",
+    "to work or study late into the night",
+    "something that seems bad at first but turns out to be good"
+   ],
+   "answer": 3,
+   "meaningVi": "trong cái rủi có cái may",
+   "explanation": "“a blessing in disguise” means something that seems bad at first but turns out to be good. Example: Missing the flight turned out to be a blessing in disguise because I met my future wife at the airport.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cut corners",
+   "context": "The builders cut corners, and now the roof leaks every time it rains.",
+   "question": "What does “cut corners” mean in this sentence?",
+   "options": [
+    "back at the beginning after making no progress",
+    "to do something quickly or cheaply by ignoring rules or quality",
+    "to just manage to survive, especially when you have money problems",
+    "to do something that helps you get rid of strong feelings or energy"
+   ],
+   "answer": 1,
+   "meaningVi": "làm ẩu, làm tắt để tiết kiệm",
+   "explanation": "“cut corners” means to do something quickly or cheaply by ignoring rules or quality. Example: If you cut corners when you're building a house, it won't be safe.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get the hang of",
+   "context": "Driving was hard at first, but I'm getting the hang of it now.",
+   "question": "What does “get the hang of” mean in this sentence?",
+   "options": [
+    "to accept criticism or punishment for something you have done",
+    "to try to do more than you are able to manage",
+    "to learn how to do something after some practice",
+    "a sign that a long, difficult period is ending"
+   ],
+   "answer": 2,
+   "meaningVi": "nắm được cách làm, quen tay",
+   "explanation": "“get the hang of” means to learn how to do something after some practice. Example: Don't worry if the software seems confusing. You'll get the hang of it after a few days.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hit the nail on the head",
+   "context": "You hit the nail on the head when you said the real problem is poor communication.",
+   "question": "What does “hit the nail on the head” mean in this sentence?",
+   "options": [
+    "to do your fair share of the work",
+    "to describe exactly what is causing a situation or problem",
+    "a sign that a long, difficult period is ending",
+    "to believe someone even though you are not completely sure they are telling the truth"
+   ],
+   "answer": 1,
+   "meaningVi": "nói trúng phóc, nói đúng trọng tâm",
+   "explanation": "“hit the nail on the head” means to describe exactly what is causing a situation or problem. Example: When Lan said the company needed younger customers, she really hit the nail on the head. That was exactly the problem.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "jump on the bandwagon",
+   "context": "Lots of companies have jumped on the bandwagon and started selling plant-based burgers.",
+   "question": "What does “jump on the bandwagon” mean in this sentence?",
+   "options": [
+    "to do something that helps you get rid of strong feelings or energy",
+    "to start doing something only because it has become popular",
+    "the final problem in a series that makes you lose patience",
+    "to learn how to do something after some practice"
+   ],
+   "answer": 1,
+   "meaningVi": "chạy theo phong trào, a dua",
+   "explanation": "“jump on the bandwagon” means to start doing something only because it has become popular. Example: When short videos became popular, every brand wanted to jump on the bandwagon.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep your fingers crossed",
+   "context": "I've got my driving test tomorrow, so keep your fingers crossed for me!",
+   "question": "What does “keep your fingers crossed” mean in this sentence?",
+   "options": [
+    "something that has only a small chance of success",
+    "to start to feel unsure about a decision you have made",
+    "suddenly and unexpectedly",
+    "to hope that something will happen the way you want"
+   ],
+   "answer": 3,
+   "meaningVi": "cầu mong may mắn",
+   "explanation": "“keep your fingers crossed” means to hope that something will happen the way you want. Example: My exam results come out tomorrow. Please keep your fingers crossed for me!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "miss the boat",
+   "context": "Tickets sold out in an hour, so anyone who didn't book early missed the boat.",
+   "question": "What does “miss the boat” mean in this sentence?",
+   "options": [
+    "to lose an opportunity because you are too slow to act",
+    "to try to do more than you are able to manage",
+    "to relax and accept what happens instead of trying to control it",
+    "not able to decide between two choices"
+   ],
+   "answer": 0,
+   "meaningVi": "lỡ mất cơ hội",
+   "explanation": "“miss the boat” means to lose an opportunity because you are too slow to act. Example: The early-bird offer ends tonight. Book now or you'll miss the boat.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on the fence",
+   "context": "I'm still on the fence about whether to study abroad or stay here.",
+   "question": "What does “on the fence” mean in this sentence?",
+   "options": [
+    "to learn how to do a new job or activity",
+    "not able to decide between two choices",
+    "to relax and accept what happens instead of trying to control it",
+    "to start doing something only because it has become popular"
+   ],
+   "answer": 1,
+   "meaningVi": "phân vân, lưỡng lự, chưa chọn phe",
+   "explanation": "“on the fence” means not able to decide between two choices. Example: Most voters have decided, but some are still on the fence about who to choose.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "out of the blue",
+   "context": "An old school friend called me out of the blue last night.",
+   "question": "What does “out of the blue” mean in this sentence?",
+   "options": [
+    "to start doing something only because it has become popular",
+    "to decide what to do as things happen, without a fixed plan",
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "suddenly and unexpectedly"
+   ],
+   "answer": 3,
+   "meaningVi": "bất ngờ, không báo trước",
+   "explanation": "“out of the blue” means suddenly and unexpectedly. Example: I hadn't heard from him for ten years, and then he sent me a message completely out of the blue.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a drop in the ocean",
+   "context": "The money we raised is a drop in the ocean compared with the cost of the new hospital.",
+   "question": "What does “a drop in the ocean” mean in this sentence?",
+   "options": [
+    "to learn how to do something after some practice",
+    "it is your turn to decide or take the next step",
+    "people telling each other about something, rather than advertising",
+    "a very small amount compared with what is needed"
+   ],
+   "answer": 3,
+   "meaningVi": "muối bỏ bể",
+   "explanation": "“a drop in the ocean” means a very small amount compared with what is needed. Example: Ten dollars is a drop in the ocean when the repairs will cost thousands.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the last straw",
+   "context": "He was always late, but forgetting my birthday was the last straw.",
+   "question": "What does “the last straw” mean in this sentence?",
+   "options": [
+    "the final problem in a series that makes you lose patience",
+    "after a bad experience, you are more careful not to repeat it",
+    "to just manage to survive, especially when you have money problems",
+    "to tell people secret information"
+   ],
+   "answer": 0,
+   "meaningVi": "giọt nước tràn ly",
+   "explanation": "“the last straw” means the final problem in a series that makes you lose patience. Example: My neighbours had been noisy for months, but the party at 3 a.m. was the last straw. I called the landlord.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "burn the midnight oil",
+   "context": "I'll have to burn the midnight oil to finish this report by tomorrow.",
+   "question": "What does “burn the midnight oil” mean in this sentence?",
+   "options": [
+    "suddenly and unexpectedly",
+    "to start to feel unsure about a decision you have made",
+    "something that has only a small chance of success",
+    "to work or study late into the night"
+   ],
+   "answer": 3,
+   "meaningVi": "thức khuya làm việc/học bài",
+   "explanation": "“burn the midnight oil” means to work or study late into the night. Example: Exams start on Monday, so many students will burn the midnight oil this weekend, studying until two in the morning.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get something off your chest",
+   "context": "I need to get something off my chest – I was the one who broke your vase.",
+   "question": "What does “get something off your chest” mean in this sentence?",
+   "options": [
+    "to tell someone about something that has been worrying you",
+    "after a bad experience, you are more careful not to repeat it",
+    "to depend completely on one plan or thing",
+    "to do something quickly or cheaply by ignoring rules or quality"
+   ],
+   "answer": 0,
+   "meaningVi": "nói ra điều canh cánh trong lòng",
+   "explanation": "“get something off your chest” means to tell someone about something that has been worrying you. Example: You've been worried about it for weeks. Talk to me – you'll feel better once you get it off your chest.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "go back to the drawing board",
+   "context": "The customers hated our design, so we had to go back to the drawing board.",
+   "question": "What does “go back to the drawing board” mean in this sentence?",
+   "options": [
+    "to lose an opportunity because you are too slow to act",
+    "to start planning something again because the first plan failed",
+    "suddenly and unexpectedly",
+    "to hope that something will happen the way you want"
+   ],
+   "answer": 1,
+   "meaningVi": "làm lại từ đầu (lên kế hoạch lại)",
+   "explanation": "“go back to the drawing board” means to start planning something again because the first plan failed. Example: The test failed completely. We'll have to go back to the drawing board and design a new engine.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the long run",
+   "context": "Buying good shoes is more expensive now but cheaper in the long run.",
+   "question": "What does “in the long run” mean in this sentence?",
+   "options": [
+    "over a long period of time; in the end",
+    "to decide what to do as things happen, without a fixed plan",
+    "without checking or thinking carefully",
+    "to depend completely on one plan or thing"
+   ],
+   "answer": 0,
+   "meaningVi": "về lâu dài",
+   "explanation": "“in the long run” means over a long period of time; in the end. Example: Learning to cook takes time at first, but in the long run it saves you a lot of money.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "learn the ropes",
+   "context": "It took me a month to learn the ropes at my new job.",
+   "question": "What does “learn the ropes” mean in this sentence?",
+   "options": [
+    "back at the beginning after making no progress",
+    "a very small amount compared with what is needed",
+    "to learn how to do a new job or activity",
+    "to stop trying because you think you cannot succeed"
+   ],
+   "answer": 2,
+   "meaningVi": "học việc, làm quen với công việc mới",
+   "explanation": "“learn the ropes” means to learn how to do a new job or activity. Example: New staff spend their first week with a manager so they can learn the ropes.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "face the music",
+   "context": "He broke the window playing football, and now he has to face the music.",
+   "question": "What does “face the music” mean in this sentence?",
+   "options": [
+    "an event that makes you realise you must change something",
+    "to accept criticism or punishment for something you have done",
+    "to decide what to do as things happen, without a fixed plan",
+    "to keep something secret"
+   ],
+   "answer": 1,
+   "meaningVi": "chịu trận, đối mặt với hậu quả",
+   "explanation": "“face the music” means to accept criticism or punishment for something you have done. Example: You lied to your parents about the party. Sooner or later you'll have to face the music.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "give someone the benefit of the doubt",
+   "context": "She said the bus was late, so I gave her the benefit of the doubt.",
+   "question": "What does “give someone the benefit of the doubt” mean in this sentence?",
+   "options": [
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "people telling each other about something, rather than advertising",
+    "to do something that helps you get rid of strong feelings or energy",
+    "something that has only a small chance of success"
+   ],
+   "answer": 0,
+   "meaningVi": "tin ai đó dù còn nghi ngờ",
+   "explanation": "“give someone the benefit of the doubt” means to believe someone even though you are not completely sure they are telling the truth. Example: He says he didn't see your message. Let's give him the benefit of the doubt – he's never lied before.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "have second thoughts",
+   "context": "I booked the trip, but now I'm having second thoughts because it's so expensive.",
+   "question": "What does “have second thoughts” mean in this sentence?",
+   "options": [
+    "the final problem in a series that makes you lose patience",
+    "a simple, practical rule based on experience",
+    "to start to feel unsure about a decision you have made",
+    "to learn how to do something after some practice"
+   ],
+   "answer": 2,
+   "meaningVi": "đắn đo, suy nghĩ lại",
+   "explanation": "“have second thoughts” means to start to feel unsure about a decision you have made. Example: Lan agreed to sing at the wedding, but she's starting to have second thoughts because she's so nervous.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep your head above water",
+   "context": "My sister works two jobs just to keep her head above water.",
+   "question": "What does “keep your head above water” mean in this sentence?",
+   "options": [
+    "it is your turn to decide or take the next step",
+    "to try to do more than you are able to manage",
+    "to not completely believe something you are told",
+    "to just manage to survive, especially when you have money problems"
+   ],
+   "answer": 3,
+   "meaningVi": "xoay xở cầm cự (thường về tài chính)",
+   "explanation": "“keep your head above water” means to just manage to survive, especially when you have money problems. Example: If you lose your job, it can be difficult to keep your head above water financially.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "let off steam",
+   "context": "After a stressful week, I go running to let off steam.",
+   "question": "What does “let off steam” mean in this sentence?",
+   "options": [
+    "over a long period of time; in the end",
+    "to do something that helps you get rid of strong feelings or energy",
+    "to do your fair share of the work",
+    "to keep something secret"
+   ],
+   "answer": 1,
+   "meaningVi": "xả hơi, giải tỏa căng thẳng",
+   "explanation": "“let off steam” means to do something that helps you get rid of strong feelings or energy. Example: The kids have been inside all day. Let's take them to the park so they can let off steam.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on the same page",
+   "context": "Before we start the project, let's make sure we're all on the same page.",
+   "question": "What does “on the same page” mean in this sentence?",
+   "options": [
+    "to describe exactly what is causing a situation or problem",
+    "to start an activity or process",
+    "agreeing about what should be done",
+    "to believe someone even though you are not completely sure they are telling the truth"
+   ],
+   "answer": 2,
+   "meaningVi": "cùng quan điểm, thống nhất ý kiến",
+   "explanation": "“on the same page” means agreeing about what should be done. Example: The team argued for weeks because they weren't on the same page about the budget.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "play it by ear",
+   "context": "I don't know how long we'll stay at the party – let's just play it by ear.",
+   "question": "What does “play it by ear” mean in this sentence?",
+   "options": [
+    "to try to do more than you are able to manage",
+    "to keep something secret",
+    "to decide what to do as things happen, without a fixed plan",
+    "not yet decided or certain"
+   ],
+   "answer": 2,
+   "meaningVi": "tùy cơ ứng biến",
+   "explanation": "“play it by ear” means to decide what to do as things happen, without a fixed plan. Example: We haven't planned every day of the holiday. We'll play it by ear and see what the weather's like.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "pull your weight",
+   "context": "If everyone pulls their weight, we'll finish the project on time.",
+   "question": "What does “pull your weight” mean in this sentence?",
+   "options": [
+    "to do your fair share of the work",
+    "to start planning something again because the first plan failed",
+    "to start a new activity with a lot of energy and immediate success",
+    "more difficult to do than it sounds"
+   ],
+   "answer": 0,
+   "meaningVi": "làm tròn phần việc của mình",
+   "explanation": "“pull your weight” means to do your fair share of the work. Example: In a shared flat, you have to pull your weight and help with the cleaning.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "rule of thumb",
+   "context": "As a rule of thumb, you should save about ten percent of your salary.",
+   "question": "What does “rule of thumb” mean in this sentence?",
+   "options": [
+    "over a long period of time; in the end",
+    "to start an activity or process",
+    "a simple, practical rule based on experience",
+    "to start doing something only because it has become popular"
+   ],
+   "answer": 2,
+   "meaningVi": "quy tắc kinh nghiệm, nguyên tắc chung",
+   "explanation": "“rule of thumb” means a simple, practical rule based on experience. Example: A useful rule of thumb is to drink a glass of water before every meal.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a storm in a teacup",
+   "context": "Everyone was upset about the new uniform, but it was a storm in a teacup – nobody remembers it now.",
+   "question": "What does “a storm in a teacup” mean in this sentence?",
+   "options": [
+    "a lot of anger or worry about something unimportant",
+    "to relax and accept what happens instead of trying to control it",
+    "a small, visible part of a much bigger problem",
+    "a sign that a long, difficult period is ending"
+   ],
+   "answer": 0,
+   "meaningVi": "chuyện bé xé ra to",
+   "explanation": "“a storm in a teacup” means a lot of anger or worry about something unimportant. Example: The argument about who ate the last biscuit was just a storm in a teacup. They were friends again an hour later.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "take something with a pinch of salt",
+   "context": "Take his travel stories with a pinch of salt – he loves to exaggerate.",
+   "question": "What does “take something with a pinch of salt” mean in this sentence?",
+   "options": [
+    "to not completely believe something you are told",
+    "used to say something will never happen",
+    "to do something quickly or cheaply by ignoring rules or quality",
+    "over a long period of time; in the end"
+   ],
+   "answer": 0,
+   "meaningVi": "nghe nhưng đừng tin hoàn toàn",
+   "explanation": "“take something with a pinch of salt” means to not completely believe something you are told. Example: That news story came from a website that often publishes rumours, so I'd take it with a pinch of salt.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the tip of the iceberg",
+   "context": "The complaints we've received are only the tip of the iceberg – many unhappy customers say nothing.",
+   "question": "What does “the tip of the iceberg” mean in this sentence?",
+   "options": [
+    "to tell people secret information",
+    "to do something that helps you get rid of strong feelings or energy",
+    "a small, visible part of a much bigger problem",
+    "to stop trying because you think you cannot succeed"
+   ],
+   "answer": 2,
+   "meaningVi": "phần nổi của tảng băng chìm",
+   "explanation": "“the tip of the iceberg” means a small, visible part of a much bigger problem. Example: The ten cases of fraud they found are just the tip of the iceberg. Experts think there are hundreds more.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "throw in the towel",
+   "context": "After failing the exam three times, he almost threw in the towel.",
+   "question": "What does “throw in the towel” mean in this sentence?",
+   "options": [
+    "a lot of anger or worry about something unimportant",
+    "to keep something secret",
+    "to just manage to survive, especially when you have money problems",
+    "to stop trying because you think you cannot succeed"
+   ],
+   "answer": 3,
+   "meaningVi": "bỏ cuộc, đầu hàng",
+   "explanation": "“throw in the towel” means to stop trying because you think you cannot succeed. Example: The project is difficult, but it's too early to throw in the towel. Let's try one more time.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "up in the air",
+   "context": "Our holiday plans are still up in the air because we don't know when we can take time off.",
+   "question": "What does “up in the air” mean in this sentence?",
+   "options": [
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "not yet decided or certain",
+    "without checking or thinking carefully",
+    "to not completely believe something you are told"
+   ],
+   "answer": 1,
+   "meaningVi": "chưa ngã ngũ, còn bỏ ngỏ",
+   "explanation": "“up in the air” means not yet decided or certain. Example: The date of the concert is still up in the air because the band hasn't confirmed.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "when pigs fly",
+   "context": "My brother will clean his room when pigs fly.",
+   "question": "What does “when pigs fly” mean in this sentence?",
+   "options": [
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "used to say something will never happen",
+    "suddenly and unexpectedly",
+    "to do your fair share of the work"
+   ],
+   "answer": 1,
+   "meaningVi": "khi nào lợn biết bay (chẳng bao giờ)",
+   "explanation": "“when pigs fly” means used to say something will never happen. Example: My lazy brother says he'll start getting up at 5 a.m. to exercise. Sure – he'll do that when pigs fly!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "word of mouth",
+   "context": "The café doesn't advertise – all its customers come through word of mouth.",
+   "question": "What does “word of mouth” mean in this sentence?",
+   "options": [
+    "to do something that helps you get rid of strong feelings or energy",
+    "people telling each other about something, rather than advertising",
+    "used to say something will never happen",
+    "to be the person who makes the important decisions"
+   ],
+   "answer": 1,
+   "meaningVi": "truyền miệng",
+   "explanation": "“word of mouth” means people telling each other about something, rather than advertising. Example: We never paid for adverts. Our business grew by word of mouth.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a long shot",
+   "context": "It's a long shot, but I've applied for a job at a big tech company.",
+   "question": "What does “a long shot” mean in this sentence?",
+   "options": [
+    "after a bad experience, you are more careful not to repeat it",
+    "to relax and accept what happens instead of trying to control it",
+    "the final problem in a series that makes you lose patience",
+    "something that has only a small chance of success"
+   ],
+   "answer": 3,
+   "meaningVi": "cơ hội mong manh",
+   "explanation": "“a long shot” means something that has only a small chance of success. Example: Winning the competition is a long shot, but it's still worth entering.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "back to square one",
+   "context": "The computer crashed and I lost all my work, so I'm back to square one.",
+   "question": "What does “back to square one” mean in this sentence?",
+   "options": [
+    "after a bad experience, you are more careful not to repeat it",
+    "back at the beginning after making no progress",
+    "to learn how to do something after some practice",
+    "to stop trying because you think you cannot succeed"
+   ],
+   "answer": 1,
+   "meaningVi": "quay về vạch xuất phát",
+   "explanation": "“back to square one” means back at the beginning after making no progress. Example: The buyer changed his mind, so we're back to square one and need to find someone else.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "call the shots",
+   "context": "My aunt owns the restaurant, so she calls the shots.",
+   "question": "What does “call the shots” mean in this sentence?",
+   "options": [
+    "to be the person who makes the important decisions",
+    "a situation where you enjoy the benefits of two different things",
+    "to start planning something again because the first plan failed",
+    "over a long period of time; in the end"
+   ],
+   "answer": 0,
+   "meaningVi": "nắm quyền quyết định",
+   "explanation": "“call the shots” means to be the person who makes the important decisions. Example: It's your company, so you call the shots. We'll do whatever you decide.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "easier said than done",
+   "context": "“Just stop worrying.” “That's easier said than done!”",
+   "question": "What does “easier said than done” mean in this sentence?",
+   "options": [
+    "to tell people secret information",
+    "to start planning something again because the first plan failed",
+    "more difficult to do than it sounds",
+    "not yet decided or certain"
+   ],
+   "answer": 2,
+   "meaningVi": "nói thì dễ, làm mới khó",
+   "explanation": "“easier said than done” means more difficult to do than it sounds. Example: Everyone tells me to save money, but it's easier said than done when prices keep rising.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get the ball rolling",
+   "context": "Let's get the ball rolling by introducing ourselves.",
+   "question": "What does “get the ball rolling” mean in this sentence?",
+   "options": [
+    "to start an activity or process",
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "to relax and accept what happens instead of trying to control it",
+    "to do your fair share of the work"
+   ],
+   "answer": 0,
+   "meaningVi": "khởi động, bắt đầu việc gì",
+   "explanation": "“get the ball rolling” means to start an activity or process. Example: Nobody wanted to speak first, so the teacher asked a question to get the ball rolling.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "go with the flow",
+   "context": "On holiday, I don't make plans – I just go with the flow.",
+   "question": "What does “go with the flow” mean in this sentence?",
+   "options": [
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "an event that makes you realise you must change something",
+    "to relax and accept what happens instead of trying to control it",
+    "to work or study late into the night"
+   ],
+   "answer": 2,
+   "meaningVi": "thuận theo tự nhiên",
+   "explanation": "“go with the flow” means to relax and accept what happens instead of trying to control it. Example: Travelling with young children rarely goes to plan, so you have to go with the flow.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hit the ground running",
+   "context": "She hit the ground running in her new job and won two clients in her first week.",
+   "question": "What does “hit the ground running” mean in this sentence?",
+   "options": [
+    "a sign that a long, difficult period is ending",
+    "to believe someone even though you are not completely sure they are telling the truth",
+    "without checking or thinking carefully",
+    "to start a new activity with a lot of energy and immediate success"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt tay vào việc ngay và hiệu quả",
+   "explanation": "“hit the ground running” means to start a new activity with a lot of energy and immediate success. Example: We need someone with experience who can hit the ground running from day one.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep something under wraps",
+   "context": "The company is keeping its new design under wraps until the launch.",
+   "question": "What does “keep something under wraps” mean in this sentence?",
+   "options": [
+    "a simple, practical rule based on experience",
+    "to accept criticism or punishment for something you have done",
+    "to keep something secret",
+    "to try to do more than you are able to manage"
+   ],
+   "answer": 2,
+   "meaningVi": "giữ kín, giữ bí mật",
+   "explanation": "“keep something under wraps” means to keep something secret. Example: We're planning a surprise party for Mai, so please keep it under wraps – don't tell her!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "off the top of my head",
+   "context": "Off the top of my head, I'd say there are about thirty students in the class.",
+   "question": "What does “off the top of my head” mean in this sentence?",
+   "options": [
+    "to keep something secret",
+    "without checking or thinking carefully",
+    "to do your fair share of the work",
+    "to stop trying because you think you cannot succeed"
+   ],
+   "answer": 1,
+   "meaningVi": "nói ngay không cần tra cứu, nói đại khái",
+   "explanation": "“off the top of my head” means without checking or thinking carefully. Example: I don't know the exact figure, but off the top of my head, I'd say it costs about fifty dollars.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "once bitten, twice shy",
+   "context": "I lost money on a fake online shop once, so now I only buy from big websites – once bitten, twice shy.",
+   "question": "What does “once bitten, twice shy” mean in this sentence?",
+   "options": [
+    "after a bad experience, you are more careful not to repeat it",
+    "to learn how to do something after some practice",
+    "to do something quickly or cheaply by ignoring rules or quality",
+    "to start an activity or process"
+   ],
+   "answer": 0,
+   "meaningVi": "một lần bị rắn cắn, mười năm sợ dây thừng",
+   "explanation": "“once bitten, twice shy” means after a bad experience, you are more careful not to repeat it. Example: “Why won't you lend Tom money again?” “He never paid me back last time. Once bitten, twice shy.”",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "put all your eggs in one basket",
+   "context": "Apply to several universities – don't put all your eggs in one basket.",
+   "question": "What does “put all your eggs in one basket” mean in this sentence?",
+   "options": [
+    "to depend completely on one plan or thing",
+    "to decide what to do as things happen, without a fixed plan",
+    "more difficult to do than it sounds",
+    "after a bad experience, you are more careful not to repeat it"
+   ],
+   "answer": 0,
+   "meaningVi": "dồn hết trứng vào một giỏ",
+   "explanation": "“put all your eggs in one basket” means to depend completely on one plan or thing. Example: Don't spend all your savings on one company's shares. It's never wise to put all your eggs in one basket.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "light at the end of the tunnel",
+   "context": "After months of unemployment, getting an interview felt like light at the end of the tunnel.",
+   "question": "What does “light at the end of the tunnel” mean in this sentence?",
+   "options": [
+    "to do something quickly or cheaply by ignoring rules or quality",
+    "it is your turn to decide or take the next step",
+    "to describe exactly what is causing a situation or problem",
+    "a sign that a long, difficult period is ending"
+   ],
+   "answer": 3,
+   "meaningVi": "ánh sáng cuối đường hầm",
+   "explanation": "“light at the end of the tunnel” means a sign that a long, difficult period is ending. Example: The renovation has taken a year, but we can finally see light at the end of the tunnel – it'll be finished next month.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "spill the beans",
+   "context": "We were planning a surprise party, but my little brother spilled the beans.",
+   "question": "What does “spill the beans” mean in this sentence?",
+   "options": [
+    "to do your fair share of the work",
+    "to tell people secret information",
+    "not yet decided or certain",
+    "to start a new activity with a lot of energy and immediate success"
+   ],
+   "answer": 1,
+   "meaningVi": "để lộ bí mật",
+   "explanation": "“spill the beans” means to tell people secret information. Example: Don't spill the beans about the wedding – they want to announce it themselves.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the best of both worlds",
+   "context": "Working from home two days a week gives me the best of both worlds.",
+   "question": "What does “the best of both worlds” mean in this sentence?",
+   "options": [
+    "a small, visible part of a much bigger problem",
+    "a situation where you enjoy the benefits of two different things",
+    "to decide what to do as things happen, without a fixed plan",
+    "to start an activity or process"
+   ],
+   "answer": 1,
+   "meaningVi": "vẹn cả đôi đường",
+   "explanation": "“the best of both worlds” means a situation where you enjoy the benefits of two different things. Example: Living in a small town near a big city gives you the best of both worlds – peace and quiet, but shops and jobs nearby.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a wake-up call",
+   "context": "Failing my first exam was a wake-up call – I started studying much harder.",
+   "question": "What does “a wake-up call” mean in this sentence?",
+   "options": [
+    "an event that makes you realise you must change something",
+    "to try very hard to help or please someone",
+    "to tell people secret information",
+    "over a long period of time; in the end"
+   ],
+   "answer": 0,
+   "meaningVi": "hồi chuông cảnh tỉnh",
+   "explanation": "“a wake-up call” means an event that makes you realise you must change something. Example: The doctor's warning about his heart was a wake-up call. He stopped smoking the next day.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "bend over backwards",
+   "context": "The hotel staff bent over backwards to make our stay special.",
+   "question": "What does “bend over backwards” mean in this sentence?",
+   "options": [
+    "to try very hard to help or please someone",
+    "a very small amount compared with what is needed",
+    "it is your turn to decide or take the next step",
+    "to work or study late into the night"
+   ],
+   "answer": 0,
+   "meaningVi": "cố gắng hết sức (để giúp/làm hài lòng ai)",
+   "explanation": "“bend over backwards” means to try very hard to help or please someone. Example: Good hotels will bend over backwards to make their guests feel welcome.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep your head above water",
+   "question": "Choose the idiom that best completes the sentence:\nIf you lose your job, it can be difficult to ___ financially.",
+   "options": [
+    "bend over backwards",
+    "take it with a pinch of salt",
+    "keep your head above water",
+    "give them the benefit of the doubt"
+   ],
+   "answer": 2,
+   "meaningVi": "xoay xở cầm cự (thường về tài chính)",
+   "explanation": "“keep your head above water” = to just manage to survive, especially when you have money problems. Full sentence: If you lose your job, it can be difficult to keep your head above water financially.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "bite off more than you can chew",
+   "question": "Choose the idiom that best completes the sentence:\nFive clubs and two part-time jobs? Be careful not to ___.",
+   "options": [
+    "let off steam",
+    "bite off more than you can chew",
+    "keep your head above water",
+    "get the ball rolling"
+   ],
+   "answer": 1,
+   "meaningVi": "ôm đồm, cố làm quá sức mình",
+   "explanation": "“bite off more than you can chew” = to try to do more than you are able to manage. Full sentence: Five clubs and two part-time jobs? Be careful not to bite off more than you can chew.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "spill the beans",
+   "question": "Choose the idiom that best completes the sentence:\nDon't ___ about the wedding – they want to announce it themselves.",
+   "options": [
+    "spill the beans",
+    "have second thoughts",
+    "put all your eggs in one basket",
+    "miss the boat"
+   ],
+   "answer": 0,
+   "meaningVi": "để lộ bí mật",
+   "explanation": "“spill the beans” = to tell people secret information. Full sentence: Don't spill the beans about the wedding – they want to announce it themselves.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the last straw",
+   "question": "Choose the idiom that best completes the sentence:\nMy neighbours had been noisy for months, but the party at 3 a.m. was ___. I called the landlord.",
+   "options": [
+    "a long shot",
+    "a wake-up call",
+    "the last straw",
+    "rule of thumb"
+   ],
+   "answer": 2,
+   "meaningVi": "giọt nước tràn ly",
+   "explanation": "“the last straw” = the final problem in a series that makes you lose patience. Full sentence: My neighbours had been noisy for months, but the party at 3 a.m. was the last straw. I called the landlord.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a long shot",
+   "question": "Choose the idiom that best completes the sentence:\nWinning the competition is ___, but it's still worth entering.",
+   "options": [
+    "a drop in the ocean",
+    "a long shot",
+    "rule of thumb",
+    "a blessing in disguise"
+   ],
+   "answer": 1,
+   "meaningVi": "cơ hội mong manh",
+   "explanation": "“a long shot” = something that has only a small chance of success. Full sentence: Winning the competition is a long shot, but it's still worth entering.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on the same page",
+   "question": "Choose the idiom that best completes the sentence:\nThe team argued for weeks because they weren't ___ about the budget.",
+   "options": [
+    "on the same page",
+    "up in the air",
+    "on the fence",
+    "back to square one"
+   ],
+   "answer": 0,
+   "meaningVi": "cùng quan điểm, thống nhất ý kiến",
+   "explanation": "“on the same page” = agreeing about what should be done. Full sentence: The team argued for weeks because they weren't on the same page about the budget.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "light at the end of the tunnel",
+   "question": "Choose the idiom that best completes the sentence:\nThe renovation has taken a year, but we can finally see ___ – it'll be finished next month.",
+   "options": [
+    "the tip of the iceberg",
+    "word of mouth",
+    "rule of thumb",
+    "light at the end of the tunnel"
+   ],
+   "answer": 3,
+   "meaningVi": "ánh sáng cuối đường hầm",
+   "explanation": "“light at the end of the tunnel” = a sign that a long, difficult period is ending. Full sentence: The renovation has taken a year, but we can finally see light at the end of the tunnel – it'll be finished next month.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "rule of thumb",
+   "question": "Choose the idiom that best completes the sentence:\nA useful ___ is to drink a glass of water before every meal.",
+   "options": [
+    "rule of thumb",
+    "the best of both worlds",
+    "a long shot",
+    "a storm in a teacup"
+   ],
+   "answer": 0,
+   "meaningVi": "quy tắc kinh nghiệm, nguyên tắc chung",
+   "explanation": "“rule of thumb” = a simple, practical rule based on experience. Full sentence: A useful rule of thumb is to drink a glass of water before every meal.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "back to square one",
+   "question": "Choose the idiom that best completes the sentence:\nThe buyer changed his mind, so we're ___ and need to find someone else.",
+   "options": [
+    "back to square one",
+    "up in the air",
+    "on the fence",
+    "on the same page"
+   ],
+   "answer": 0,
+   "meaningVi": "quay về vạch xuất phát",
+   "explanation": "“back to square one” = back at the beginning after making no progress. Full sentence: The buyer changed his mind, so we're back to square one and need to find someone else.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "easier said than done",
+   "question": "Choose the idiom that best completes the sentence:\nEveryone tells me to save money, but it's ___ when prices keep rising.",
+   "options": [
+    "easier said than done",
+    "the ball is in your court",
+    "once bitten, twice shy",
+    "a storm in a teacup"
+   ],
+   "answer": 0,
+   "meaningVi": "nói thì dễ, làm mới khó",
+   "explanation": "“easier said than done” = more difficult to do than it sounds. Full sentence: Everyone tells me to save money, but it's easier said than done when prices keep rising.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "let off steam",
+   "question": "Choose the idiom that best completes the sentence:\nThe kids have been inside all day. Let's take them to the park so they can ___.",
+   "options": [
+    "let off steam",
+    "call the shots",
+    "bend over backwards",
+    "have second thoughts"
+   ],
+   "answer": 0,
+   "meaningVi": "xả hơi, giải tỏa căng thẳng",
+   "explanation": "“let off steam” = to do something that helps you get rid of strong feelings or energy. Full sentence: The kids have been inside all day. Let's take them to the park so they can let off steam.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the best of both worlds",
+   "question": "Choose the idiom that best completes the sentence:\nLiving in a small town near a big city gives you ___ – peace and quiet, but shops and jobs nearby.",
+   "options": [
+    "a wake-up call",
+    "the best of both worlds",
+    "the last straw",
+    "a long shot"
+   ],
+   "answer": 1,
+   "meaningVi": "vẹn cả đôi đường",
+   "explanation": "“the best of both worlds” = a situation where you enjoy the benefits of two different things. Full sentence: Living in a small town near a big city gives you the best of both worlds – peace and quiet, but shops and jobs nearby.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a blessing in disguise",
+   "question": "Choose the idiom that best completes the sentence:\nMissing the flight turned out to be ___ because I met my future wife at the airport.",
+   "options": [
+    "a blessing in disguise",
+    "a long shot",
+    "a drop in the ocean",
+    "a storm in a teacup"
+   ],
+   "answer": 0,
+   "meaningVi": "trong cái rủi có cái may",
+   "explanation": "“a blessing in disguise” = something that seems bad at first but turns out to be good. Full sentence: Missing the flight turned out to be a blessing in disguise because I met my future wife at the airport.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the ball is in your court",
+   "question": "Choose the idiom that best completes the sentence:\nI've explained all the options. ___ – let me know what you decide.",
+   "options": [
+    "Easier said than done",
+    "The ball is in your court",
+    "Once bitten, twice shy",
+    "Up in the air"
+   ],
+   "answer": 1,
+   "meaningVi": "giờ đến lượt bạn quyết định / hành động",
+   "explanation": "“the ball is in your court” = it is your turn to decide or take the next step. Full sentence: I've explained all the options. The ball is in your court – let me know what you decide.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep something under wraps",
+   "question": "Choose the idiom that best completes the sentence:\nWe're planning a surprise party for Mai, so please ___ – don't tell her!",
+   "options": [
+    "face the music",
+    "keep it under wraps",
+    "get the hang of",
+    "take it with a pinch of salt"
+   ],
+   "answer": 1,
+   "meaningVi": "giữ kín, giữ bí mật",
+   "explanation": "“keep something under wraps” = to keep something secret. Full sentence: We're planning a surprise party for Mai, so please keep it under wraps – don't tell her!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "burn the midnight oil",
+   "question": "Choose the idiom that best completes the sentence:\nExams start on Monday, so many students will ___ this weekend, studying until two in the morning.",
+   "options": [
+    "bend over backwards",
+    "throw in the towel",
+    "let off steam",
+    "burn the midnight oil"
+   ],
+   "answer": 3,
+   "meaningVi": "thức khuya làm việc/học bài",
+   "explanation": "“burn the midnight oil” = to work or study late into the night. Full sentence: Exams start on Monday, so many students will burn the midnight oil this weekend, studying until two in the morning.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "give someone the benefit of the doubt",
+   "question": "Choose the idiom that best completes the sentence:\nHe says he didn't see your message. Let's ___ – he's never lied before.",
+   "options": [
+    "give him the benefit of the doubt",
+    "keep your fingers crossed",
+    "cut corners",
+    "miss the boat"
+   ],
+   "answer": 0,
+   "meaningVi": "tin ai đó dù còn nghi ngờ",
+   "explanation": "“give someone the benefit of the doubt” = to believe someone even though you are not completely sure they are telling the truth. Full sentence: He says he didn't see your message. Let's give him the benefit of the doubt – he's never lied before.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "up in the air",
+   "question": "Choose the idiom that best completes the sentence:\nThe date of the concert is still ___ because the band hasn't confirmed.",
+   "options": [
+    "on the same page",
+    "back to square one",
+    "up in the air",
+    "get it off your chest"
+   ],
+   "answer": 2,
+   "meaningVi": "chưa ngã ngũ, còn bỏ ngỏ",
+   "explanation": "“up in the air” = not yet decided or certain. Full sentence: The date of the concert is still up in the air because the band hasn't confirmed.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "out of the blue",
+   "question": "Choose the idiom that best completes the sentence:\nI hadn't heard from him for ten years, and then he sent me a message completely ___.",
+   "options": [
+    "out of the blue",
+    "in the long run",
+    "when pigs fly",
+    "off the top of my head"
+   ],
+   "answer": 0,
+   "meaningVi": "bất ngờ, không báo trước",
+   "explanation": "“out of the blue” = suddenly and unexpectedly. Full sentence: I hadn't heard from him for ten years, and then he sent me a message completely out of the blue.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "miss the boat",
+   "question": "Choose the idiom that best completes the sentence:\nThe early-bird offer ends tonight. Book now or you'll ___.",
+   "options": [
+    "spill the beans",
+    "play it by ear",
+    "miss the boat",
+    "keep your head above water"
+   ],
+   "answer": 2,
+   "meaningVi": "lỡ mất cơ hội",
+   "explanation": "“miss the boat” = to lose an opportunity because you are too slow to act. Full sentence: The early-bird offer ends tonight. Book now or you'll miss the boat.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a wake-up call",
+   "question": "Choose the idiom that best completes the sentence:\nThe doctor's warning about his heart was ___. He stopped smoking the next day.",
+   "options": [
+    "the best of both worlds",
+    "a wake-up call",
+    "a drop in the ocean",
+    "a storm in a teacup"
+   ],
+   "answer": 1,
+   "meaningVi": "hồi chuông cảnh tỉnh",
+   "explanation": "“a wake-up call” = an event that makes you realise you must change something. Full sentence: The doctor's warning about his heart was a wake-up call. He stopped smoking the next day.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "once bitten, twice shy",
+   "question": "Choose the idiom that best completes the sentence:\n“Why won't you lend Tom money again?” “He never paid me back last time. ___.”",
+   "options": [
+    "Once bitten, twice shy",
+    "Get it off your chest",
+    "The ball is in your court",
+    "Easier said than done"
+   ],
+   "answer": 0,
+   "meaningVi": "một lần bị rắn cắn, mười năm sợ dây thừng",
+   "explanation": "“once bitten, twice shy” = after a bad experience, you are more careful not to repeat it. Full sentence: “Why won't you lend Tom money again?” “He never paid me back last time. Once bitten, twice shy.”",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "jump on the bandwagon",
+   "question": "Choose the idiom that best completes the sentence:\nWhen short videos became popular, every brand wanted to ___.",
+   "options": [
+    "burn the midnight oil",
+    "jump on the bandwagon",
+    "play it by ear",
+    "miss the boat"
+   ],
+   "answer": 1,
+   "meaningVi": "chạy theo phong trào, a dua",
+   "explanation": "“jump on the bandwagon” = to start doing something only because it has become popular. Full sentence: When short videos became popular, every brand wanted to jump on the bandwagon.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "have second thoughts",
+   "question": "Choose the idiom that best completes the sentence:\nLan agreed to sing at the wedding, but she's starting to ___ because she's so nervous.",
+   "options": [
+    "get the ball rolling",
+    "have second thoughts",
+    "burn the midnight oil",
+    "go back to the drawing board"
+   ],
+   "answer": 1,
+   "meaningVi": "đắn đo, suy nghĩ lại",
+   "explanation": "“have second thoughts” = to start to feel unsure about a decision you have made. Full sentence: Lan agreed to sing at the wedding, but she's starting to have second thoughts because she's so nervous.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "throw in the towel",
+   "question": "Choose the idiom that best completes the sentence:\nThe project is difficult, but it's too early to ___. Let's try one more time.",
+   "options": [
+    "throw in the towel",
+    "get it off your chest",
+    "pull your weight",
+    "put all your eggs in one basket"
+   ],
+   "answer": 0,
+   "meaningVi": "bỏ cuộc, đầu hàng",
+   "explanation": "“throw in the towel” = to stop trying because you think you cannot succeed. Full sentence: The project is difficult, but it's too early to throw in the towel. Let's try one more time.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep your fingers crossed",
+   "question": "Choose the idiom that best completes the sentence:\nMy exam results come out tomorrow. Please ___ for me!",
+   "options": [
+    "keep your fingers crossed",
+    "get the hang of",
+    "go back to the drawing board",
+    "take it with a pinch of salt"
+   ],
+   "answer": 0,
+   "meaningVi": "cầu mong may mắn",
+   "explanation": "“keep your fingers crossed” = to hope that something will happen the way you want. Full sentence: My exam results come out tomorrow. Please keep your fingers crossed for me!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get something off your chest",
+   "question": "Choose the idiom that best completes the sentence:\nYou've been worried about it for weeks. Talk to me – you'll feel better once you ___.",
+   "options": [
+    "call the shots",
+    "throw in the towel",
+    "learn the ropes",
+    "get it off your chest"
+   ],
+   "answer": 3,
+   "meaningVi": "nói ra điều canh cánh trong lòng",
+   "explanation": "“get something off your chest” = to tell someone about something that has been worrying you. Full sentence: You've been worried about it for weeks. Talk to me – you'll feel better once you get it off your chest.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "off the top of my head",
+   "question": "Choose the idiom that best completes the sentence:\nI don't know the exact figure, but ___, I'd say it costs about fifty dollars.",
+   "options": [
+    "when pigs fly",
+    "in the long run",
+    "out of the blue",
+    "off the top of my head"
+   ],
+   "answer": 3,
+   "meaningVi": "nói ngay không cần tra cứu, nói đại khái",
+   "explanation": "“off the top of my head” = without checking or thinking carefully. Full sentence: I don't know the exact figure, but off the top of my head, I'd say it costs about fifty dollars.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "pull your weight",
+   "question": "Choose the idiom that best completes the sentence:\nIn a shared flat, you have to ___ and help with the cleaning.",
+   "options": [
+    "keep your fingers crossed",
+    "give them the benefit of the doubt",
+    "put all your eggs in one basket",
+    "pull your weight"
+   ],
+   "answer": 3,
+   "meaningVi": "làm tròn phần việc của mình",
+   "explanation": "“pull your weight” = to do your fair share of the work. Full sentence: In a shared flat, you have to pull your weight and help with the cleaning.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on the fence",
+   "question": "Choose the idiom that best completes the sentence:\nMost voters have decided, but some are still ___ about who to choose.",
+   "options": [
+    "on the same page",
+    "back to square one",
+    "get the hang of",
+    "on the fence"
+   ],
+   "answer": 3,
+   "meaningVi": "phân vân, lưỡng lự, chưa chọn phe",
+   "explanation": "“on the fence” = not able to decide between two choices. Full sentence: Most voters have decided, but some are still on the fence about who to choose.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cut corners",
+   "question": "Choose the idiom that best completes the sentence:\nIf you ___ when you're building a house, it won't be safe.",
+   "options": [
+    "keep your fingers crossed",
+    "throw in the towel",
+    "cut corners",
+    "take it with a pinch of salt"
+   ],
+   "answer": 2,
+   "meaningVi": "làm ẩu, làm tắt để tiết kiệm",
+   "explanation": "“cut corners” = to do something quickly or cheaply by ignoring rules or quality. Full sentence: If you cut corners when you're building a house, it won't be safe.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "face the music",
+   "question": "Choose the idiom that best completes the sentence:\nYou lied to your parents about the party. Sooner or later you'll have to ___.",
+   "options": [
+    "burn the midnight oil",
+    "face the music",
+    "keep your fingers crossed",
+    "get it off your chest"
+   ],
+   "answer": 1,
+   "meaningVi": "chịu trận, đối mặt với hậu quả",
+   "explanation": "“face the music” = to accept criticism or punishment for something you have done. Full sentence: You lied to your parents about the party. Sooner or later you'll have to face the music.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a drop in the ocean",
+   "question": "Choose the idiom that best completes the sentence:\nTen dollars is ___ when the repairs will cost thousands.",
+   "options": [
+    "the best of both worlds",
+    "a drop in the ocean",
+    "the last straw",
+    "a wake-up call"
+   ],
+   "answer": 1,
+   "meaningVi": "muối bỏ bể",
+   "explanation": "“a drop in the ocean” = a very small amount compared with what is needed. Full sentence: Ten dollars is a drop in the ocean when the repairs will cost thousands.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "call the shots",
+   "question": "Choose the idiom that best completes the sentence:\nIt's your company, so you ___. We'll do whatever you decide.",
+   "options": [
+    "let off steam",
+    "call the shots",
+    "give them the benefit of the doubt",
+    "hit the nail on the head"
+   ],
+   "answer": 1,
+   "meaningVi": "nắm quyền quyết định",
+   "explanation": "“call the shots” = to be the person who makes the important decisions. Full sentence: It's your company, so you call the shots. We'll do whatever you decide.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "put all your eggs in one basket",
+   "question": "Choose the idiom that best completes the sentence:\nDon't spend all your savings on one company's shares. It's never wise to ___.",
+   "options": [
+    "cut corners",
+    "pull your weight",
+    "put all your eggs in one basket",
+    "jump on the bandwagon"
+   ],
+   "answer": 2,
+   "meaningVi": "dồn hết trứng vào một giỏ",
+   "explanation": "“put all your eggs in one basket” = to depend completely on one plan or thing. Full sentence: Don't spend all your savings on one company's shares. It's never wise to put all your eggs in one basket.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a storm in a teacup",
+   "question": "Choose the idiom that best completes the sentence:\nThe argument about who ate the last biscuit was just ___. They were friends again an hour later.",
+   "options": [
+    "a storm in a teacup",
+    "a blessing in disguise",
+    "a long shot",
+    "rule of thumb"
+   ],
+   "answer": 0,
+   "meaningVi": "chuyện bé xé ra to",
+   "explanation": "“a storm in a teacup” = a lot of anger or worry about something unimportant. Full sentence: The argument about who ate the last biscuit was just a storm in a teacup. They were friends again an hour later.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get the hang of",
+   "question": "Choose the idiom that best completes the sentence:\nDon't worry if the software seems confusing. You'll ___ it after a few days.",
+   "options": [
+    "jump on the bandwagon",
+    "hit the nail on the head",
+    "burn the midnight oil",
+    "get the hang of"
+   ],
+   "answer": 3,
+   "meaningVi": "nắm được cách làm, quen tay",
+   "explanation": "“get the hang of” = to learn how to do something after some practice. Full sentence: Don't worry if the software seems confusing. You'll get the hang of it after a few days.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "learn the ropes",
+   "question": "Choose the idiom that best completes the sentence:\nNew staff spend their first week with a manager so they can ___.",
+   "options": [
+    "learn the ropes",
+    "throw in the towel",
+    "play it by ear",
+    "keep it under wraps"
+   ],
+   "answer": 0,
+   "meaningVi": "học việc, làm quen với công việc mới",
+   "explanation": "“learn the ropes” = to learn how to do a new job or activity. Full sentence: New staff spend their first week with a manager so they can learn the ropes.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hit the nail on the head",
+   "question": "Choose the idiom that best completes the sentence:\nWhen Lan said the company needed younger customers, she really ___. That was exactly the problem.",
+   "options": [
+    "keep your fingers crossed",
+    "play it by ear",
+    "go with the flow",
+    "hit the nail on the head"
+   ],
+   "answer": 3,
+   "meaningVi": "nói trúng phóc, nói đúng trọng tâm",
+   "explanation": "“hit the nail on the head” = to describe exactly what is causing a situation or problem. Full sentence: When Lan said the company needed younger customers, she really hit the nail on the head. That was exactly the problem.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hit the ground running",
+   "question": "Choose the idiom that best completes the sentence:\nWe need someone with experience who can ___ from day one.",
+   "options": [
+    "throw in the towel",
+    "let off steam",
+    "take it with a pinch of salt",
+    "hit the ground running"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt tay vào việc ngay và hiệu quả",
+   "explanation": "“hit the ground running” = to start a new activity with a lot of energy and immediate success. Full sentence: We need someone with experience who can hit the ground running from day one.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "word of mouth",
+   "question": "Choose the idiom that best completes the sentence:\nWe never paid for adverts. Our business grew by ___.",
+   "options": [
+    "the last straw",
+    "a storm in a teacup",
+    "word of mouth",
+    "a wake-up call"
+   ],
+   "answer": 2,
+   "meaningVi": "truyền miệng",
+   "explanation": "“word of mouth” = people telling each other about something, rather than advertising. Full sentence: We never paid for adverts. Our business grew by word of mouth.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "bend over backwards",
+   "question": "Choose the idiom that best completes the sentence:\nGood hotels will ___ to make their guests feel welcome.",
+   "options": [
+    "keep your head above water",
+    "bend over backwards",
+    "miss the boat",
+    "face the music"
+   ],
+   "answer": 1,
+   "meaningVi": "cố gắng hết sức (để giúp/làm hài lòng ai)",
+   "explanation": "“bend over backwards” = to try very hard to help or please someone. Full sentence: Good hotels will bend over backwards to make their guests feel welcome.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "go back to the drawing board",
+   "question": "Choose the idiom that best completes the sentence:\nThe test failed completely. We'll have to ___ and design a new engine.",
+   "options": [
+    "go with the flow",
+    "go back to the drawing board",
+    "spill the beans",
+    "cut corners"
+   ],
+   "answer": 1,
+   "meaningVi": "làm lại từ đầu (lên kế hoạch lại)",
+   "explanation": "“go back to the drawing board” = to start planning something again because the first plan failed. Full sentence: The test failed completely. We'll have to go back to the drawing board and design a new engine.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the tip of the iceberg",
+   "question": "Choose the idiom that best completes the sentence:\nThe ten cases of fraud they found are just ___. Experts think there are hundreds more.",
+   "options": [
+    "light at the end of the tunnel",
+    "the best of both worlds",
+    "rule of thumb",
+    "the tip of the iceberg"
+   ],
+   "answer": 3,
+   "meaningVi": "phần nổi của tảng băng chìm",
+   "explanation": "“the tip of the iceberg” = a small, visible part of a much bigger problem. Full sentence: The ten cases of fraud they found are just the tip of the iceberg. Experts think there are hundreds more.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "when pigs fly",
+   "question": "Choose the idiom that best completes the sentence:\nMy lazy brother says he'll start getting up at 5 a.m. to exercise. Sure – he'll do that ___!",
+   "options": [
+    "off the top of my head",
+    "when pigs fly",
+    "out of the blue",
+    "in the long run"
+   ],
+   "answer": 1,
+   "meaningVi": "khi nào lợn biết bay (chẳng bao giờ)",
+   "explanation": "“when pigs fly” = used to say something will never happen. Full sentence: My lazy brother says he'll start getting up at 5 a.m. to exercise. Sure – he'll do that when pigs fly!",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the long run",
+   "question": "Choose the idiom that best completes the sentence:\nLearning to cook takes time at first, but ___ it saves you a lot of money.",
+   "options": [
+    "when pigs fly",
+    "out of the blue",
+    "off the top of my head",
+    "in the long run"
+   ],
+   "answer": 3,
+   "meaningVi": "về lâu dài",
+   "explanation": "“in the long run” = over a long period of time; in the end. Full sentence: Learning to cook takes time at first, but in the long run it saves you a lot of money.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "go with the flow",
+   "question": "Choose the idiom that best completes the sentence:\nTravelling with young children rarely goes to plan, so you have to ___.",
+   "options": [
+    "pull your weight",
+    "jump on the bandwagon",
+    "call the shots",
+    "go with the flow"
+   ],
+   "answer": 3,
+   "meaningVi": "thuận theo tự nhiên",
+   "explanation": "“go with the flow” = to relax and accept what happens instead of trying to control it. Full sentence: Travelling with young children rarely goes to plan, so you have to go with the flow.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "play it by ear",
+   "question": "Choose the idiom that best completes the sentence:\nWe haven't planned every day of the holiday. We'll ___ and see what the weather's like.",
+   "options": [
+    "call the shots",
+    "play it by ear",
+    "put all your eggs in one basket",
+    "spill the beans"
+   ],
+   "answer": 1,
+   "meaningVi": "tùy cơ ứng biến",
+   "explanation": "“play it by ear” = to decide what to do as things happen, without a fixed plan. Full sentence: We haven't planned every day of the holiday. We'll play it by ear and see what the weather's like.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "take something with a pinch of salt",
+   "question": "Choose the idiom that best completes the sentence:\nThat news story came from a website that often publishes rumours, so I'd ___.",
+   "options": [
+    "take it with a pinch of salt",
+    "keep it under wraps",
+    "have second thoughts",
+    "go back to the drawing board"
+   ],
+   "answer": 0,
+   "meaningVi": "nghe nhưng đừng tin hoàn toàn",
+   "explanation": "“take something with a pinch of salt” = to not completely believe something you are told. Full sentence: That news story came from a website that often publishes rumours, so I'd take it with a pinch of salt.",
+   "skill": "idiom",
+   "level": "b1"
+  },
+  {
+   "id": "b1-idiom-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get the ball rolling",
+   "question": "Choose the idiom that best completes the sentence:\nNobody wanted to speak first, so the teacher asked a question to ___.",
+   "options": [
+    "bend over backwards",
+    "throw in the towel",
+    "spill the beans",
+    "get the ball rolling"
+   ],
+   "answer": 3,
+   "meaningVi": "khởi động, bắt đầu việc gì",
+   "explanation": "“get the ball rolling” = to start an activity or process. Full sentence: Nobody wanted to speak first, so the teacher asked a question to get the ball rolling.",
+   "skill": "idiom",
+   "level": "b1"
+  }
+ ]
+}

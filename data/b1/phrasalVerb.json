@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "phrasalVerb",
+ "title": {
+  "en": "Phrasal Verbs",
+  "vi": "Cụm động từ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-phrasalVerb-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "bring up",
+   "context": "She brought up the problem of noise at the residents' meeting.",
+   "question": "What does “bring up” mean in this sentence?",
+   "options": [
+    "to try to impress people with what you have or can do",
+    "to disappoint someone by not doing what they expected",
+    "to start talking about a subject",
+    "to look at or visit something interesting"
+   ],
+   "answer": 2,
+   "meaningVi": "đề cập, nêu ra (chủ đề)",
+   "explanation": "“bring up” = to start talking about a subject.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "carry on",
+   "context": "Sorry I interrupted you – please carry on.",
+   "question": "What does “carry on” mean in this sentence?",
+   "options": [
+    "to continue doing something",
+    "to experience a difficult or unpleasant situation",
+    "to find or meet something by chance",
+    "to arrive somewhere, especially when people are waiting"
+   ],
+   "answer": 0,
+   "meaningVi": "tiếp tục",
+   "explanation": "“carry on” = to continue doing something.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come across",
+   "context": "I came across some old photos while I was cleaning my room.",
+   "question": "What does “come across” mean in this sentence?",
+   "options": [
+    "to refuse an offer or request",
+    "to start doing a new hobby or activity",
+    "to find or meet something by chance",
+    "to have a friendly relationship with someone"
+   ],
+   "answer": 2,
+   "meaningVi": "tình cờ thấy, bắt gặp",
+   "explanation": "“come across” = to find or meet something by chance.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come up with",
+   "context": "We need to come up with a name for our new café.",
+   "question": "What does “come up with” mean in this sentence?",
+   "options": [
+    "to think that you are better than someone",
+    "to think of an idea, plan or answer",
+    "to arrive somewhere, especially when people are waiting",
+    "to give something to someone for free"
+   ],
+   "answer": 1,
+   "meaningVi": "nghĩ ra (ý tưởng, kế hoạch)",
+   "explanation": "“come up with” = to think of an idea, plan or answer.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "cut down on",
+   "context": "My doctor told me to cut down on sugar.",
+   "question": "What does “cut down on” mean in this sentence?",
+   "options": [
+    "to delay doing something until later",
+    "to reduce the amount of something you use or do",
+    "to reach the same level or place as someone who is ahead",
+    "to give work to a teacher or person in authority"
+   ],
+   "answer": 1,
+   "meaningVi": "cắt giảm",
+   "explanation": "“cut down on” = to reduce the amount of something you use or do.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "deal with",
+   "context": "The manager dealt with the complaint very quickly.",
+   "question": "What does “deal with” mean in this sentence?",
+   "options": [
+    "to die (a polite way of saying it)",
+    "to give work to a teacher or person in authority",
+    "to stop a fire from burning",
+    "to take action to solve a problem"
+   ],
+   "answer": 3,
+   "meaningVi": "giải quyết, xử lý",
+   "explanation": "“deal with” = to take action to solve a problem.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "figure out",
+   "context": "I can't figure out how to use this new app.",
+   "question": "What does “figure out” mean in this sentence?",
+   "options": [
+    "to start doing a new hobby or activity",
+    "to understand something or find the answer after thinking",
+    "to disappoint someone by not doing what they expected",
+    "to wait for a short time"
+   ],
+   "answer": 1,
+   "meaningVi": "tìm ra, hiểu ra",
+   "explanation": "“figure out” = to understand something or find the answer after thinking.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get along with",
+   "context": "I get along with all my colleagues.",
+   "question": "What does “get along with” mean in this sentence?",
+   "options": [
+    "to start to have an illness, usually not serious",
+    "to start talking about a subject",
+    "to be easy to see or notice because it is different",
+    "to have a friendly relationship with someone"
+   ],
+   "answer": 3,
+   "meaningVi": "hòa hợp với",
+   "explanation": "“get along with” = to have a friendly relationship with someone.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get over",
+   "context": "It took her months to get over the loss of her dog.",
+   "question": "What does “get over” mean in this sentence?",
+   "options": [
+    "to recover from an illness or something sad",
+    "to start to have an illness, usually not serious",
+    "to reach the same level or place as someone who is ahead",
+    "to start doing a new hobby or activity"
+   ],
+   "answer": 0,
+   "meaningVi": "vượt qua, hồi phục",
+   "explanation": "“get over” = to recover from an illness or something sad.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "give away",
+   "context": "The shop is giving away free samples of its new tea.",
+   "question": "What does “give away” mean in this sentence?",
+   "options": [
+    "to try to impress people with what you have or can do",
+    "to give something to someone for free",
+    "to start doing a new hobby or activity",
+    "to disappoint someone by not doing what they expected"
+   ],
+   "answer": 1,
+   "meaningVi": "cho, tặng không",
+   "explanation": "“give away” = to give something to someone for free.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "go through",
+   "context": "She went through a difficult time after her parents divorced.",
+   "question": "What does “go through” mean in this sentence?",
+   "options": [
+    "to experience a difficult or unpleasant situation",
+    "to start to have an illness, usually not serious",
+    "to manage to live or do something with difficulty",
+    "to find the answer to a problem by thinking or calculating"
+   ],
+   "answer": 0,
+   "meaningVi": "trải qua (khó khăn)",
+   "explanation": "“go through” = to experience a difficult or unpleasant situation.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hold on",
+   "context": "Hold on a minute – I'll get my coat.",
+   "question": "What does “hold on” mean in this sentence?",
+   "options": [
+    "to manage to live or do something with difficulty",
+    "to wait for a short time",
+    "to argue with someone and stop being friendly",
+    "to start a business or organisation"
+   ],
+   "answer": 1,
+   "meaningVi": "chờ một chút",
+   "explanation": "“hold on” = to wait for a short time.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look into",
+   "context": "The police are looking into the cause of the fire.",
+   "question": "What does “look into” mean in this sentence?",
+   "options": [
+    "to do something wrong without being punished",
+    "to die (a polite way of saying it)",
+    "to leave school or a course before finishing it",
+    "to investigate or examine something"
+   ],
+   "answer": 3,
+   "meaningVi": "xem xét, điều tra",
+   "explanation": "“look into” = to investigate or examine something.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look up to",
+   "context": "I've always looked up to my older sister.",
+   "question": "What does “look up to” mean in this sentence?",
+   "options": [
+    "to invent a story or excuse that is not true",
+    "to continue doing something",
+    "to admire and respect someone",
+    "to use something so much that it becomes damaged"
+   ],
+   "answer": 2,
+   "meaningVi": "kính trọng, ngưỡng mộ",
+   "explanation": "“look up to” = to admire and respect someone.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "make up",
+   "context": "He made up an excuse about his car breaking down.",
+   "question": "What does “make up” mean in this sentence?",
+   "options": [
+    "to consider something carefully before deciding",
+    "to invent a story or excuse that is not true",
+    "to admire and respect someone",
+    "to give something to someone for free"
+   ],
+   "answer": 1,
+   "meaningVi": "bịa ra",
+   "explanation": "“make up” = to invent a story or excuse that is not true.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "point out",
+   "context": "My teacher pointed out a few mistakes in my essay.",
+   "question": "What does “point out” mean in this sentence?",
+   "options": [
+    "to have a friendly relationship with someone",
+    "to refuse an offer or request",
+    "to understand something or find the answer after thinking",
+    "to tell someone something they had not noticed"
+   ],
+   "answer": 3,
+   "meaningVi": "chỉ ra",
+   "explanation": "“point out” = to tell someone something they had not noticed.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put off",
+   "context": "Stop putting off your homework and do it now!",
+   "question": "What does “put off” mean in this sentence?",
+   "options": [
+    "to delay doing something until later",
+    "to recover from an illness or something sad",
+    "to start doing a new hobby or activity",
+    "to continue doing something"
+   ],
+   "answer": 0,
+   "meaningVi": "hoãn lại, trì hoãn",
+   "explanation": "“put off” = to delay doing something until later.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put up with",
+   "context": "I can't put up with this noise any longer.",
+   "question": "What does “put up with” mean in this sentence?",
+   "options": [
+    "to accept something unpleasant without complaining",
+    "to start a business or organisation",
+    "to investigate or examine something",
+    "to arrive somewhere, especially when people are waiting"
+   ],
+   "answer": 0,
+   "meaningVi": "chịu đựng",
+   "explanation": "“put up with” = to accept something unpleasant without complaining.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "run into",
+   "context": "I ran into my old maths teacher at the supermarket.",
+   "question": "What does “run into” mean in this sentence?",
+   "options": [
+    "to deal with a problem or situation successfully",
+    "to do something wrong without being punished",
+    "to depend on someone to help you",
+    "to meet someone you know by chance"
+   ],
+   "answer": 3,
+   "meaningVi": "tình cờ gặp",
+   "explanation": "“run into” = to meet someone you know by chance.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "set up",
+   "context": "My cousin set up her own online shop last year.",
+   "question": "What does “set up” mean in this sentence?",
+   "options": [
+    "to deal with a problem or situation successfully",
+    "to start a business or organisation",
+    "to refuse an offer or request",
+    "to start doing a new hobby or activity"
+   ],
+   "answer": 1,
+   "meaningVi": "thành lập, mở (doanh nghiệp)",
+   "explanation": "“set up” = to start a business or organisation.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "show up",
+   "context": "We waited for an hour, but he never showed up.",
+   "question": "What does “show up” mean in this sentence?",
+   "options": [
+    "to give work to a teacher or person in authority",
+    "to arrive somewhere, especially when people are waiting",
+    "to try to impress people with what you have or can do",
+    "to depend on someone to help you"
+   ],
+   "answer": 1,
+   "meaningVi": "xuất hiện, có mặt",
+   "explanation": "“show up” = to arrive somewhere, especially when people are waiting.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "take after",
+   "context": "Lan takes after her mother – they're both very creative.",
+   "question": "What does “take after” mean in this sentence?",
+   "options": [
+    "to look or behave like an older family member",
+    "to die (a polite way of saying it)",
+    "to take control of something",
+    "to finally agree to something after refusing"
+   ],
+   "answer": 0,
+   "meaningVi": "giống (người thân lớn tuổi)",
+   "explanation": "“take after” = to look or behave like an older family member.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "take over",
+   "context": "A big company took over the small family business.",
+   "question": "What does “take over” mean in this sentence?",
+   "options": [
+    "to find the answer to a problem by thinking or calculating",
+    "to enter a building or car illegally, usually to steal",
+    "to take control of something",
+    "to look at or visit something interesting"
+   ],
+   "answer": 2,
+   "meaningVi": "tiếp quản, nắm quyền",
+   "explanation": "“take over” = to take control of something.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "take up",
+   "context": "I took up yoga to help me relax.",
+   "question": "What does “take up” mean in this sentence?",
+   "options": [
+    "to give something to someone for free",
+    "to start doing a new hobby or activity",
+    "to refuse an offer or request",
+    "to take action to solve a problem"
+   ],
+   "answer": 1,
+   "meaningVi": "bắt đầu (một sở thích, hoạt động)",
+   "explanation": "“take up” = to start doing a new hobby or activity.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn down",
+   "context": "She turned down the job because the salary was too low.",
+   "question": "What does “turn down” mean in this sentence?",
+   "options": [
+    "to argue with someone and stop being friendly",
+    "to experience a difficult or unpleasant situation",
+    "to refuse an offer or request",
+    "to finally agree to something after refusing"
+   ],
+   "answer": 2,
+   "meaningVi": "từ chối",
+   "explanation": "“turn down” = to refuse an offer or request.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn out",
+   "context": "The weather turned out to be lovely.",
+   "question": "What does “turn out” mean in this sentence?",
+   "options": [
+    "to happen in a particular way, often unexpectedly",
+    "to depend on someone to help you",
+    "to investigate or examine something",
+    "to find the answer to a problem by thinking or calculating"
+   ],
+   "answer": 0,
+   "meaningVi": "hóa ra, kết quả là",
+   "explanation": "“turn out” = to happen in a particular way, often unexpectedly.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "work out",
+   "context": "Can you work out the answer to this puzzle?",
+   "question": "What does “work out” mean in this sentence?",
+   "options": [
+    "to have a friendly relationship with someone",
+    "to find the answer to a problem by thinking or calculating",
+    "to take control of something",
+    "to stop a fire from burning"
+   ],
+   "answer": 1,
+   "meaningVi": "tính ra, tìm ra",
+   "explanation": "“work out” = to find the answer to a problem by thinking or calculating.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "break into",
+   "context": "Thieves broke into our car and took my bag.",
+   "question": "What does “break into” mean in this sentence?",
+   "options": [
+    "to enter a building or car illegally, usually to steal",
+    "to start talking about a subject",
+    "to start to have an illness, usually not serious",
+    "to do something wrong without being punished"
+   ],
+   "answer": 0,
+   "meaningVi": "đột nhập",
+   "explanation": "“break into” = to enter a building or car illegally, usually to steal.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "break up",
+   "context": "They broke up after five years together.",
+   "question": "What does “break up” mean in this sentence?",
+   "options": [
+    "to reach the same level or place as someone who is ahead",
+    "to happen in a particular way, often unexpectedly",
+    "to end a romantic relationship",
+    "to arrive somewhere, especially when people are waiting"
+   ],
+   "answer": 2,
+   "meaningVi": "chia tay",
+   "explanation": "“break up” = to end a romantic relationship.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "catch up with",
+   "context": "I missed two weeks of school, so I have to work hard to catch up with my classmates.",
+   "question": "What does “catch up with” mean in this sentence?",
+   "options": [
+    "to reach the same level or place as someone who is ahead",
+    "to start a business or organisation",
+    "to be easy to see or notice because it is different",
+    "to think of an idea, plan or answer"
+   ],
+   "answer": 0,
+   "meaningVi": "đuổi kịp",
+   "explanation": "“catch up with” = to reach the same level or place as someone who is ahead.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "check out",
+   "context": "You should check out the new bookshop on Le Loi Street.",
+   "question": "What does “check out” mean in this sentence?",
+   "options": [
+    "to arrive somewhere, especially when people are waiting",
+    "to take action to solve a problem",
+    "to look at or visit something interesting",
+    "to give work to a teacher or person in authority"
+   ],
+   "answer": 2,
+   "meaningVi": "xem thử, ghé xem",
+   "explanation": "“check out” = to look at or visit something interesting.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "drop out",
+   "context": "He dropped out of university to start a tech company.",
+   "question": "What does “drop out” mean in this sentence?",
+   "options": [
+    "to think of an idea, plan or answer",
+    "to die (a polite way of saying it)",
+    "to delay doing something until later",
+    "to leave school or a course before finishing it"
+   ],
+   "answer": 3,
+   "meaningVi": "bỏ học, bỏ dở",
+   "explanation": "“drop out” = to leave school or a course before finishing it.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fall out",
+   "context": "Tom and Jack fell out over a girl.",
+   "question": "What does “fall out” mean in this sentence?",
+   "options": [
+    "to think that you are better than someone",
+    "to argue with someone and stop being friendly",
+    "to start talking about a subject",
+    "to reach the same level or place as someone who is ahead"
+   ],
+   "answer": 1,
+   "meaningVi": "cãi nhau, bất hòa",
+   "explanation": "“fall out” = to argue with someone and stop being friendly.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get away with",
+   "context": "He cheated in the test and got away with it.",
+   "question": "What does “get away with” mean in this sentence?",
+   "options": [
+    "to do something wrong without being punished",
+    "to meet someone you know by chance",
+    "to start talking about a subject",
+    "to move or make progress at the same speed as others"
+   ],
+   "answer": 0,
+   "meaningVi": "thoát tội, làm sai mà không bị phạt",
+   "explanation": "“get away with” = to do something wrong without being punished.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get by",
+   "context": "I only speak a little French, but I can get by.",
+   "question": "What does “get by” mean in this sentence?",
+   "options": [
+    "to manage to live or do something with difficulty",
+    "to tell someone something they had not noticed",
+    "to recover from an illness or something sad",
+    "to look or behave like an older family member"
+   ],
+   "answer": 0,
+   "meaningVi": "xoay xở, sống qua ngày",
+   "explanation": "“get by” = to manage to live or do something with difficulty.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "give in",
+   "context": "My parents finally gave in and let me get a dog.",
+   "question": "What does “give in” mean in this sentence?",
+   "options": [
+    "to finally agree to something after refusing",
+    "to do something wrong without being punished",
+    "to refuse an offer or request",
+    "to experience a difficult or unpleasant situation"
+   ],
+   "answer": 0,
+   "meaningVi": "nhượng bộ, chịu thua",
+   "explanation": "“give in” = to finally agree to something after refusing.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hand in",
+   "context": "Please hand in your essays by Friday.",
+   "question": "What does “hand in” mean in this sentence?",
+   "options": [
+    "to think that you are better than someone",
+    "to refuse an offer or request",
+    "to leave school or a course before finishing it",
+    "to give work to a teacher or person in authority"
+   ],
+   "answer": 3,
+   "meaningVi": "nộp (bài, đơn)",
+   "explanation": "“hand in” = to give work to a teacher or person in authority.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "keep up with",
+   "context": "It's hard to keep up with all the changes in technology.",
+   "question": "What does “keep up with” mean in this sentence?",
+   "options": [
+    "to understand something or find the answer after thinking",
+    "to arrive somewhere, especially when people are waiting",
+    "to deal with a problem or situation successfully",
+    "to move or make progress at the same speed as others"
+   ],
+   "answer": 3,
+   "meaningVi": "theo kịp",
+   "explanation": "“keep up with” = to move or make progress at the same speed as others.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "let down",
+   "context": "I promised to help, and I won't let you down.",
+   "question": "What does “let down” mean in this sentence?",
+   "options": [
+    "to disappoint someone by not doing what they expected",
+    "to take action to solve a problem",
+    "to continue doing something",
+    "to start talking about a subject"
+   ],
+   "answer": 0,
+   "meaningVi": "làm thất vọng",
+   "explanation": "“let down” = to disappoint someone by not doing what they expected.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look down on",
+   "context": "He looks down on people who didn't go to university.",
+   "question": "What does “look down on” mean in this sentence?",
+   "options": [
+    "to think that you are better than someone",
+    "to deal with a problem or situation successfully",
+    "to give work to a teacher or person in authority",
+    "to finally agree to something after refusing"
+   ],
+   "answer": 0,
+   "meaningVi": "coi thường",
+   "explanation": "“look down on” = to think that you are better than someone.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "pass away",
+   "context": "Her grandfather passed away last year at the age of ninety.",
+   "question": "What does “pass away” mean in this sentence?",
+   "options": [
+    "to stop a fire from burning",
+    "to meet someone you know by chance",
+    "to die (a polite way of saying it)",
+    "to think that you are better than someone"
+   ],
+   "answer": 2,
+   "meaningVi": "qua đời",
+   "explanation": "“pass away” = to die (a polite way of saying it).",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put out",
+   "context": "Firefighters took three hours to put out the fire.",
+   "question": "What does “put out” mean in this sentence?",
+   "options": [
+    "to die (a polite way of saying it)",
+    "to stop a fire from burning",
+    "to accept something unpleasant without complaining",
+    "to understand something or find the answer after thinking"
+   ],
+   "answer": 1,
+   "meaningVi": "dập tắt (lửa)",
+   "explanation": "“put out” = to stop a fire from burning.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "sort out",
+   "context": "Don't worry, I'll sort out the problem with your booking.",
+   "question": "What does “sort out” mean in this sentence?",
+   "options": [
+    "to deal with a problem or situation successfully",
+    "to manage to live or do something with difficulty",
+    "to wait for a short time",
+    "to start to have an illness, usually not serious"
+   ],
+   "answer": 0,
+   "meaningVi": "giải quyết ổn thỏa, thu xếp",
+   "explanation": "“sort out” = to deal with a problem or situation successfully.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "show off",
+   "context": "He's always showing off his expensive car.",
+   "question": "What does “show off” mean in this sentence?",
+   "options": [
+    "to give something to someone for free",
+    "to investigate or examine something",
+    "to try to impress people with what you have or can do",
+    "to give work to a teacher or person in authority"
+   ],
+   "answer": 2,
+   "meaningVi": "khoe khoang",
+   "explanation": "“show off” = to try to impress people with what you have or can do.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stand out",
+   "context": "Her bright red coat made her stand out in the crowd.",
+   "question": "What does “stand out” mean in this sentence?",
+   "options": [
+    "to end a romantic relationship",
+    "to admire and respect someone",
+    "to deal with a problem or situation successfully",
+    "to be easy to see or notice because it is different"
+   ],
+   "answer": 3,
+   "meaningVi": "nổi bật",
+   "explanation": "“stand out” = to be easy to see or notice because it is different.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "think over",
+   "context": "Thanks for the offer – I'll think it over and tell you tomorrow.",
+   "question": "What does “think over” mean in this sentence?",
+   "options": [
+    "to disappoint someone by not doing what they expected",
+    "to consider something carefully before deciding",
+    "to try to impress people with what you have or can do",
+    "to start a business or organisation"
+   ],
+   "answer": 1,
+   "meaningVi": "cân nhắc kỹ",
+   "explanation": "“think over” = to consider something carefully before deciding.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "try out",
+   "context": "Can I try out this camera before I buy it?",
+   "question": "What does “try out” mean in this sentence?",
+   "options": [
+    "to test something to see if it works or if you like it",
+    "to disappoint someone by not doing what they expected",
+    "to meet someone you know by chance",
+    "to take action to solve a problem"
+   ],
+   "answer": 0,
+   "meaningVi": "dùng thử",
+   "explanation": "“try out” = to test something to see if it works or if you like it.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "wear out",
+   "context": "I've worn out my running shoes – I need new ones.",
+   "question": "What does “wear out” mean in this sentence?",
+   "options": [
+    "to look at or visit something interesting",
+    "to enter a building or car illegally, usually to steal",
+    "to reduce the amount of something you use or do",
+    "to use something so much that it becomes damaged"
+   ],
+   "answer": 3,
+   "meaningVi": "dùng đến mòn, làm hỏng",
+   "explanation": "“wear out” = to use something so much that it becomes damaged.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come down with",
+   "context": "I think I'm coming down with a cold.",
+   "question": "What does “come down with” mean in this sentence?",
+   "options": [
+    "to accept something unpleasant without complaining",
+    "to understand something or find the answer after thinking",
+    "to start to have an illness, usually not serious",
+    "to invent a story or excuse that is not true"
+   ],
+   "answer": 2,
+   "meaningVi": "bị (ốm, cảm)",
+   "explanation": "“come down with” = to start to have an illness, usually not serious.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "count on",
+   "context": "You can always count on Hoa to help you.",
+   "question": "What does “count on” mean in this sentence?",
+   "options": [
+    "to happen in a particular way, often unexpectedly",
+    "to delay doing something until later",
+    "to admire and respect someone",
+    "to depend on someone to help you"
+   ],
+   "answer": 3,
+   "meaningVi": "trông cậy vào",
+   "explanation": "“count on” = to depend on someone to help you.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "bring up",
+   "question": "Choose the correct phrasal verb:\nI didn't want to ___ the subject of money during dinner.",
+   "options": [
+    "turn up",
+    "take off",
+    "bring up",
+    "put away"
+   ],
+   "answer": 2,
+   "meaningVi": "đề cập, nêu ra (chủ đề)",
+   "explanation": "“bring up” = to start talking about a subject. Full sentence: I didn't want to bring up the subject of money during dinner.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "show off",
+   "question": "Choose the correct phrasal verb:\nShe likes to ___ her new clothes on social media.",
+   "options": [
+    "show up",
+    "try on",
+    "show off",
+    "hand in"
+   ],
+   "answer": 2,
+   "meaningVi": "khoe khoang",
+   "explanation": "“show off” = to try to impress people with what you have or can do. Full sentence: She likes to show off her new clothes on social media.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hold on",
+   "question": "Choose the correct phrasal verb:\nCould you ___ for a moment? I'll check if the manager is free.",
+   "options": [
+    "put off",
+    "hold on",
+    "turn out",
+    "pass away"
+   ],
+   "answer": 1,
+   "meaningVi": "chờ một chút",
+   "explanation": "“hold on” = to wait for a short time. Full sentence: Could you hold on for a moment? I'll check if the manager is free.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn out",
+   "question": "Choose the correct phrasal verb:\nDon't worry – I'm sure everything will ___ fine.",
+   "options": [
+    "give in",
+    "turn out",
+    "turn down",
+    "break up"
+   ],
+   "answer": 1,
+   "meaningVi": "hóa ra, kết quả là",
+   "explanation": "“turn out” = to happen in a particular way, often unexpectedly. Full sentence: Don't worry – I'm sure everything will turn out fine.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come up with",
+   "question": "Choose the correct phrasal verb:\nOur team has to ___ a solution to the parking problem by Friday.",
+   "options": [
+    "come down with",
+    "come up with",
+    "look up to",
+    "put up with"
+   ],
+   "answer": 1,
+   "meaningVi": "nghĩ ra (ý tưởng, kế hoạch)",
+   "explanation": "“come up with” = to think of an idea, plan or answer. Full sentence: Our team has to come up with a solution to the parking problem by Friday.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "take after",
+   "question": "Choose the correct phrasal verb:\nEveryone says I ___ my grandfather because we both love fishing.",
+   "options": [
+    "take over",
+    "take after",
+    "take up",
+    "look after"
+   ],
+   "answer": 1,
+   "meaningVi": "giống (người thân lớn tuổi)",
+   "explanation": "“take after” = to look or behave like an older family member. Full sentence: Everyone says I take after my grandfather because we both love fishing.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put out",
+   "question": "Choose the correct phrasal verb:\nUse water or sand to ___ the campfire before you leave.",
+   "options": [
+    "put off",
+    "give away",
+    "put on",
+    "put out"
+   ],
+   "answer": 3,
+   "meaningVi": "dập tắt (lửa)",
+   "explanation": "“put out” = to stop a fire from burning. Full sentence: Use water or sand to put out the campfire before you leave.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come down with",
+   "question": "Choose the correct phrasal verb:\nI don't feel well. I think I might ___ a cold.",
+   "options": [
+    "come up with",
+    "get along with",
+    "come down with",
+    "look forward to"
+   ],
+   "answer": 2,
+   "meaningVi": "bị (ốm, cảm)",
+   "explanation": "“come down with” = to start to have an illness, usually not serious. Full sentence: I don't feel well. I think I might come down with a cold.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "take up",
+   "question": "Choose the correct phrasal verb:\nAfter he retired, my father decided to ___ painting.",
+   "options": [
+    "hand in",
+    "take up",
+    "break into",
+    "take after"
+   ],
+   "answer": 1,
+   "meaningVi": "bắt đầu (một sở thích, hoạt động)",
+   "explanation": "“take up” = to start doing a new hobby or activity. Full sentence: After he retired, my father decided to take up painting.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put off",
+   "question": "Choose the correct phrasal verb:\nWe had to ___ the barbecue until next weekend because of the storm.",
+   "options": [
+    "put off",
+    "put out",
+    "put up with",
+    "turn out"
+   ],
+   "answer": 0,
+   "meaningVi": "hoãn lại, trì hoãn",
+   "explanation": "“put off” = to delay doing something until later. Full sentence: We had to put off the barbecue until next weekend because of the storm.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn down",
+   "question": "Choose the correct phrasal verb:\nWhy would you ___ the chance to study abroad for free?",
+   "options": [
+    "turn up",
+    "put up with",
+    "turn down",
+    "turn out"
+   ],
+   "answer": 2,
+   "meaningVi": "từ chối",
+   "explanation": "“turn down” = to refuse an offer or request. Full sentence: Why would you turn down the chance to study abroad for free?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "work out",
+   "question": "Choose the correct phrasal verb:\nI couldn't ___ how much I owed, so I asked the waiter.",
+   "options": [
+    "make up",
+    "put away",
+    "work out",
+    "hold on"
+   ],
+   "answer": 2,
+   "meaningVi": "tính ra, tìm ra",
+   "explanation": "“work out” = to find the answer to a problem by thinking or calculating. Full sentence: I couldn't work out how much I owed, so I asked the waiter.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "point out",
+   "question": "Choose the correct phrasal verb:\nI'd like to ___ that the meeting room is not available on Friday.",
+   "options": [
+    "point out",
+    "set up",
+    "wear out",
+    "hand in"
+   ],
+   "answer": 0,
+   "meaningVi": "chỉ ra",
+   "explanation": "“point out” = to tell someone something they had not noticed. Full sentence: I'd like to point out that the meeting room is not available on Friday.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look down on",
+   "question": "Choose the correct phrasal verb:\nIt's wrong to ___ people just because they have less money than you.",
+   "options": [
+    "look up to",
+    "catch up with",
+    "look into",
+    "look down on"
+   ],
+   "answer": 3,
+   "meaningVi": "coi thường",
+   "explanation": "“look down on” = to think that you are better than someone. Full sentence: It's wrong to look down on people just because they have less money than you.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "wear out",
+   "question": "Choose the correct phrasal verb:\nIf you run every day, you'll ___ your shoes in a few months.",
+   "options": [
+    "give in",
+    "try out",
+    "put off",
+    "wear out"
+   ],
+   "answer": 3,
+   "meaningVi": "dùng đến mòn, làm hỏng",
+   "explanation": "“wear out” = to use something so much that it becomes damaged. Full sentence: If you run every day, you'll wear out your shoes in a few months.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "think over",
+   "question": "Choose the correct phrasal verb:\nIt's a big decision, so take a few days to ___ the offer.",
+   "options": [
+    "think up",
+    "think over",
+    "turn out",
+    "get by"
+   ],
+   "answer": 1,
+   "meaningVi": "cân nhắc kỹ",
+   "explanation": "“think over” = to consider something carefully before deciding. Full sentence: It's a big decision, so take a few days to think over the offer.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fall out",
+   "question": "Choose the correct phrasal verb:\nI hope you two don't ___ over something as silly as a football match.",
+   "options": [
+    "show up",
+    "drop out",
+    "fall out",
+    "give away"
+   ],
+   "answer": 2,
+   "meaningVi": "cãi nhau, bất hòa",
+   "explanation": "“fall out” = to argue with someone and stop being friendly. Full sentence: I hope you two don't fall out over something as silly as a football match.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "go through",
+   "question": "Choose the correct phrasal verb:\nMany families ___ hard times when someone loses their job.",
+   "options": [
+    "go off",
+    "take up",
+    "get away with",
+    "go through"
+   ],
+   "answer": 3,
+   "meaningVi": "trải qua (khó khăn)",
+   "explanation": "“go through” = to experience a difficult or unpleasant situation. Full sentence: Many families go through hard times when someone loses their job.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "try out",
+   "question": "Choose the correct phrasal verb:\nThe gym lets new members ___ the equipment for free for a week.",
+   "options": [
+    "fall out",
+    "hand in",
+    "try out",
+    "look down on"
+   ],
+   "answer": 2,
+   "meaningVi": "dùng thử",
+   "explanation": "“try out” = to test something to see if it works or if you like it. Full sentence: The gym lets new members try out the equipment for free for a week.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get by",
+   "question": "Choose the correct phrasal verb:\nStudents often have to ___ on very little money.",
+   "options": [
+    "get over",
+    "get by",
+    "put off",
+    "stand out"
+   ],
+   "answer": 1,
+   "meaningVi": "xoay xở, sống qua ngày",
+   "explanation": "“get by” = to manage to live or do something with difficulty. Full sentence: Students often have to get by on very little money.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "make up",
+   "question": "Choose the correct phrasal verb:\nChildren love to ___ stories about monsters and dragons.",
+   "options": [
+    "drop out",
+    "make up",
+    "break up",
+    "give in"
+   ],
+   "answer": 1,
+   "meaningVi": "bịa ra",
+   "explanation": "“make up” = to invent a story or excuse that is not true. Full sentence: Children love to make up stories about monsters and dragons.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "carry on",
+   "question": "Choose the correct phrasal verb:\nEven though it started to rain, the players decided to ___ with the match.",
+   "options": [
+    "carry on",
+    "carry out",
+    "give away",
+    "set off"
+   ],
+   "answer": 0,
+   "meaningVi": "tiếp tục",
+   "explanation": "“carry on” = to continue doing something. Full sentence: Even though it started to rain, the players decided to carry on with the match.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "let down",
+   "question": "Choose the correct phrasal verb:\nMany voters feel ___ by the government's broken promises.",
+   "options": [
+    "let down",
+    "look down on",
+    "put up with",
+    "show off"
+   ],
+   "answer": 0,
+   "meaningVi": "làm thất vọng",
+   "explanation": "“let down” = to disappoint someone by not doing what they expected. Full sentence: Many voters feel let down by the government's broken promises.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "break into",
+   "question": "Choose the correct phrasal verb:\nSomeone tried to ___ the office last night, but the alarm went off.",
+   "options": [
+    "break up",
+    "show off",
+    "break into",
+    "cut down on"
+   ],
+   "answer": 2,
+   "meaningVi": "đột nhập",
+   "explanation": "“break into” = to enter a building or car illegally, usually to steal. Full sentence: Someone tried to break into the office last night, but the alarm went off.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "cut down on",
+   "question": "Choose the correct phrasal verb:\nI'm trying to ___ the time I spend on social media.",
+   "options": [
+    "cut down on",
+    "cut off",
+    "run out of",
+    "look forward to"
+   ],
+   "answer": 0,
+   "meaningVi": "cắt giảm",
+   "explanation": "“cut down on” = to reduce the amount of something you use or do. Full sentence: I'm trying to cut down on the time I spend on social media.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "deal with",
+   "question": "Choose the correct phrasal verb:\nWho is going to ___ all these customer complaints?",
+   "options": [
+    "show off",
+    "come into",
+    "stand for",
+    "deal with"
+   ],
+   "answer": 3,
+   "meaningVi": "giải quyết, xử lý",
+   "explanation": "“deal with” = to take action to solve a problem. Full sentence: Who is going to deal with all these customer complaints?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look up to",
+   "question": "Choose the correct phrasal verb:\nYoung players often ___ famous footballers and want to be like them.",
+   "options": [
+    "look down on",
+    "get away with",
+    "look up to",
+    "drop out"
+   ],
+   "answer": 2,
+   "meaningVi": "kính trọng, ngưỡng mộ",
+   "explanation": "“look up to” = to admire and respect someone. Full sentence: Young players often look up to famous footballers and want to be like them.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "catch up with",
+   "question": "Choose the correct phrasal verb:\nWalk slowly so that your little brother can ___ you.",
+   "options": [
+    "look down on",
+    "catch up with",
+    "put up with",
+    "come up with"
+   ],
+   "answer": 1,
+   "meaningVi": "đuổi kịp",
+   "explanation": "“catch up with” = to reach the same level or place as someone who is ahead. Full sentence: Walk slowly so that your little brother can catch up with you.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get over",
+   "question": "Choose the correct phrasal verb:\nIt can take a long time to ___ a bad break-up.",
+   "options": [
+    "get over",
+    "give in",
+    "go off",
+    "get by"
+   ],
+   "answer": 0,
+   "meaningVi": "vượt qua, hồi phục",
+   "explanation": "“get over” = to recover from an illness or something sad. Full sentence: It can take a long time to get over a bad break-up.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "keep up with",
+   "question": "Choose the correct phrasal verb:\nThe teacher speaks so fast that I can't ___ her.",
+   "options": [
+    "keep up with",
+    "get away with",
+    "come up with",
+    "look down on"
+   ],
+   "answer": 0,
+   "meaningVi": "theo kịp",
+   "explanation": "“keep up with” = to move or make progress at the same speed as others. Full sentence: The teacher speaks so fast that I can't keep up with her.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hand in",
+   "question": "Choose the correct phrasal verb:\nDon't forget to ___ your application form before the deadline.",
+   "options": [
+    "wear out",
+    "give in",
+    "try out",
+    "hand in"
+   ],
+   "answer": 3,
+   "meaningVi": "nộp (bài, đơn)",
+   "explanation": "“hand in” = to give work to a teacher or person in authority. Full sentence: Don't forget to hand in your application form before the deadline.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "drop out",
+   "question": "Choose the correct phrasal verb:\nIf you ___ of school, it will be harder to find a good job.",
+   "options": [
+    "drop out",
+    "give out",
+    "fall out",
+    "run out"
+   ],
+   "answer": 0,
+   "meaningVi": "bỏ học, bỏ dở",
+   "explanation": "“drop out” = to leave school or a course before finishing it. Full sentence: If you drop out of school, it will be harder to find a good job.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stand out",
+   "question": "Choose the correct phrasal verb:\nIf you want your CV to ___, include some interesting achievements.",
+   "options": [
+    "break up",
+    "show up",
+    "stand out",
+    "stand up"
+   ],
+   "answer": 2,
+   "meaningVi": "nổi bật",
+   "explanation": "“stand out” = to be easy to see or notice because it is different. Full sentence: If you want your CV to stand out, include some interesting achievements.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get along with",
+   "question": "Choose the correct phrasal verb:\nDo you ___ your new flatmate, or do you argue a lot?",
+   "options": [
+    "get along with",
+    "look into",
+    "get away with",
+    "run out of"
+   ],
+   "answer": 0,
+   "meaningVi": "hòa hợp với",
+   "explanation": "“get along with” = to have a friendly relationship with someone. Full sentence: Do you get along with your new flatmate, or do you argue a lot?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "sort out",
+   "question": "Choose the correct phrasal verb:\nWe need to ___ this misunderstanding before it gets worse.",
+   "options": [
+    "sort out",
+    "stand out",
+    "try out",
+    "drop out"
+   ],
+   "answer": 0,
+   "meaningVi": "giải quyết ổn thỏa, thu xếp",
+   "explanation": "“sort out” = to deal with a problem or situation successfully. Full sentence: We need to sort out this misunderstanding before it gets worse.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "set up",
+   "question": "Choose the correct phrasal verb:\nThey borrowed money from the bank to ___ a small restaurant.",
+   "options": [
+    "set off",
+    "give away",
+    "set up",
+    "show up"
+   ],
+   "answer": 2,
+   "meaningVi": "thành lập, mở (doanh nghiệp)",
+   "explanation": "“set up” = to start a business or organisation. Full sentence: They borrowed money from the bank to set up a small restaurant.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "figure out",
+   "question": "Choose the correct phrasal verb:\nIt took me ages to ___ how the coffee machine works.",
+   "options": [
+    "hand out",
+    "fill in",
+    "figure out",
+    "look down on"
+   ],
+   "answer": 2,
+   "meaningVi": "tìm ra, hiểu ra",
+   "explanation": "“figure out” = to understand something or find the answer after thinking. Full sentence: It took me ages to figure out how the coffee machine works.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "run into",
+   "question": "Choose the correct phrasal verb:\nIf you ___ Minh at the party, tell him to call me.",
+   "options": [
+    "put off",
+    "run into",
+    "take over",
+    "run out of"
+   ],
+   "answer": 1,
+   "meaningVi": "tình cờ gặp",
+   "explanation": "“run into” = to meet someone you know by chance. Full sentence: If you run into Minh at the party, tell him to call me.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "break up",
+   "question": "Choose the correct phrasal verb:\nLinh and her boyfriend decided to ___ because they wanted different things.",
+   "options": [
+    "take after",
+    "show up",
+    "break up",
+    "break into"
+   ],
+   "answer": 2,
+   "meaningVi": "chia tay",
+   "explanation": "“break up” = to end a romantic relationship. Full sentence: Linh and her boyfriend decided to break up because they wanted different things.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put up with",
+   "question": "Choose the correct phrasal verb:\nHow do you ___ such a long journey to work every day?",
+   "options": [
+    "put up with",
+    "come up with",
+    "catch up with",
+    "get along with"
+   ],
+   "answer": 0,
+   "meaningVi": "chịu đựng",
+   "explanation": "“put up with” = to accept something unpleasant without complaining. Full sentence: How do you put up with such a long journey to work every day?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "check out",
+   "question": "Choose the correct phrasal verb:\nHave you had a chance to ___ the new exhibition at the museum yet?",
+   "options": [
+    "put out",
+    "drop out",
+    "check out",
+    "check in"
+   ],
+   "answer": 2,
+   "meaningVi": "xem thử, ghé xem",
+   "explanation": "“check out” = to look at or visit something interesting. Full sentence: Have you had a chance to check out the new exhibition at the museum yet?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "count on",
+   "question": "Choose the correct phrasal verb:\nDon't worry, you can ___ me – I'll be there at six.",
+   "options": [
+    "count on",
+    "look into",
+    "turn down",
+    "put off"
+   ],
+   "answer": 0,
+   "meaningVi": "trông cậy vào",
+   "explanation": "“count on” = to depend on someone to help you. Full sentence: Don't worry, you can count on me – I'll be there at six.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "give away",
+   "question": "Choose the correct phrasal verb:\nThe radio station is going to ___ two concert tickets to the first caller.",
+   "options": [
+    "take over",
+    "put out",
+    "give in",
+    "give away"
+   ],
+   "answer": 3,
+   "meaningVi": "cho, tặng không",
+   "explanation": "“give away” = to give something to someone for free. Full sentence: The radio station is going to give away two concert tickets to the first caller.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "take over",
+   "question": "Choose the correct phrasal verb:\nWhen Mr Hai retires, his daughter will ___ the restaurant.",
+   "options": [
+    "take up",
+    "take after",
+    "give in",
+    "take over"
+   ],
+   "answer": 3,
+   "meaningVi": "tiếp quản, nắm quyền",
+   "explanation": "“take over” = to take control of something. Full sentence: When Mr Hai retires, his daughter will take over the restaurant.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "pass away",
+   "question": "Choose the correct phrasal verb:\nI'm so sorry. When did your grandfather ___?",
+   "options": [
+    "set up",
+    "give away",
+    "pass away",
+    "put out"
+   ],
+   "answer": 2,
+   "meaningVi": "qua đời",
+   "explanation": "“pass away” = to die (a polite way of saying it). Full sentence: I'm so sorry. When did your grandfather pass away?",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look into",
+   "question": "Choose the correct phrasal verb:\nThank you for your complaint. We will ___ the matter and reply within five days.",
+   "options": [
+    "make up",
+    "look down on",
+    "look up to",
+    "look into"
+   ],
+   "answer": 3,
+   "meaningVi": "xem xét, điều tra",
+   "explanation": "“look into” = to investigate or examine something. Full sentence: Thank you for your complaint. We will look into the matter and reply within five days.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "give in",
+   "question": "Choose the correct phrasal verb:\nThe children kept asking for ice cream until their dad decided to ___.",
+   "options": [
+    "give in",
+    "give away",
+    "break into",
+    "hand in"
+   ],
+   "answer": 0,
+   "meaningVi": "nhượng bộ, chịu thua",
+   "explanation": "“give in” = to finally agree to something after refusing. Full sentence: The children kept asking for ice cream until their dad decided to give in.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get away with",
+   "question": "Choose the correct phrasal verb:\nSome drivers think they can ___ parking anywhere they like.",
+   "options": [
+    "get along with",
+    "get away with",
+    "look up to",
+    "catch up with"
+   ],
+   "answer": 1,
+   "meaningVi": "thoát tội, làm sai mà không bị phạt",
+   "explanation": "“get away with” = to do something wrong without being punished. Full sentence: Some drivers think they can get away with parking anywhere they like.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "show up",
+   "question": "Choose the correct phrasal verb:\nIf you don't ___ for work on time, you'll lose your job.",
+   "options": [
+    "show off",
+    "show up",
+    "break into",
+    "stand out"
+   ],
+   "answer": 1,
+   "meaningVi": "xuất hiện, có mặt",
+   "explanation": "“show up” = to arrive somewhere, especially when people are waiting. Full sentence: If you don't show up for work on time, you'll lose your job.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  },
+  {
+   "id": "b1-phrasalVerb-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come across",
+   "question": "Choose the correct phrasal verb:\nIf you ___ any interesting articles about climate change, please send them to me.",
+   "options": [
+    "take after",
+    "come up",
+    "get over",
+    "come across"
+   ],
+   "answer": 3,
+   "meaningVi": "tình cờ thấy, bắt gặp",
+   "explanation": "“come across” = to find or meet something by chance. Full sentence: If you come across any interesting articles about climate change, please send them to me.",
+   "skill": "phrasalVerb",
+   "level": "b1"
+  }
+ ]
+}

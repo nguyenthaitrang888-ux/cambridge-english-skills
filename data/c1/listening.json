@@ -1,0 +1,3890 @@
+{
+ "schemaVersion": 1,
+ "level": "c1",
+ "skill": "listening",
+ "title": {
+  "en": "Listening",
+  "vi": "Nghe"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "c1-listening-001",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-01",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Your research suggests that scientists have become worse at admitting uncertainty. Why do you think that is?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "I wouldn't say worse, exactly. The pressures have changed. Funding bodies and journalists want clear, confident messages, and a researcher who says 'we're not sure yet' risks sounding incompetent rather than honest."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But surely the public wants clarity?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "Up to a point. The trouble is that when early, confident claims later turn out to be wrong – which is a perfectly normal part of science – people feel misled, and trust erodes. Paradoxically, being upfront about uncertainty from the start tends to make people more trusting in the long run, not less."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So scientists should hedge everything?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "No – endless hedging is just as unhelpful. The skill lies in being clear about what we know, what we suspect, and what we simply don't know yet."
+    }
+   ],
+   "question": "Why, according to the scientist, do researchers avoid admitting uncertainty?",
+   "options": [
+    "They are not allowed to by law.",
+    "The public never asks about it.",
+    "They fear appearing incompetent.",
+    "They are rarely uncertain."
+   ],
+   "answer": 2,
+   "explanation": "'…a researcher who says \"we're not sure yet\" risks sounding incompetent rather than honest.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-002",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-01",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Your research suggests that scientists have become worse at admitting uncertainty. Why do you think that is?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "I wouldn't say worse, exactly. The pressures have changed. Funding bodies and journalists want clear, confident messages, and a researcher who says 'we're not sure yet' risks sounding incompetent rather than honest."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But surely the public wants clarity?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "Up to a point. The trouble is that when early, confident claims later turn out to be wrong – which is a perfectly normal part of science – people feel misled, and trust erodes. Paradoxically, being upfront about uncertainty from the start tends to make people more trusting in the long run, not less."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So scientists should hedge everything?"
+    },
+    {
+     "speaker": "Scientist",
+     "text": "No – endless hedging is just as unhelpful. The skill lies in being clear about what we know, what we suspect, and what we simply don't know yet."
+    }
+   ],
+   "question": "What is the scientist's view on hedging?",
+   "options": [
+    "Excessive hedging is as unhelpful as false confidence.",
+    "Hedging always increases public trust.",
+    "Scientists should hedge every claim.",
+    "Hedging is only necessary in medicine."
+   ],
+   "answer": 0,
+   "explanation": "'No – endless hedging is just as unhelpful. The skill lies in being clear about what we know…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-003",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-02",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've read the consultants' report on restructuring the department, and frankly, I'm underwhelmed."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I thought the analysis of the problem was pretty sharp."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Oh, the diagnosis is fine – nobody disputes that communication between teams is poor. It's the cure I object to. Merging three teams into one won't fix communication; it'll just hide the problems inside a bigger structure."
+    },
+    {
+     "speaker": "Man",
+     "text": "I take your point, but doing nothing isn't an option either. The board wants to see change."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Change for its own sake, though? I'd rather we tried something smaller first – regular cross-team meetings, shared targets – and measured the effect before tearing everything up."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's fair. Though I suspect the board will see that as dragging our feet."
+    }
+   ],
+   "question": "What is the woman's main criticism of the report?",
+   "options": [
+    "It was too expensive to produce.",
+    "Its analysis of the problem is wrong.",
+    "Its proposed solution would not solve the problem.",
+    "It ignores the board's wishes."
+   ],
+   "answer": 2,
+   "explanation": "'Oh, the diagnosis is fine… It's the cure I object to.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-004",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-02",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've read the consultants' report on restructuring the department, and frankly, I'm underwhelmed."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I thought the analysis of the problem was pretty sharp."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Oh, the diagnosis is fine – nobody disputes that communication between teams is poor. It's the cure I object to. Merging three teams into one won't fix communication; it'll just hide the problems inside a bigger structure."
+    },
+    {
+     "speaker": "Man",
+     "text": "I take your point, but doing nothing isn't an option either. The board wants to see change."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Change for its own sake, though? I'd rather we tried something smaller first – regular cross-team meetings, shared targets – and measured the effect before tearing everything up."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's fair. Though I suspect the board will see that as dragging our feet."
+    }
+   ],
+   "question": "What concern does the man raise about the woman's suggestion?",
+   "options": [
+    "The board may think it shows a lack of urgency.",
+    "It will make communication worse.",
+    "It has already been tried.",
+    "It will cost too much."
+   ],
+   "answer": 0,
+   "explanation": "'I suspect the board will see that as dragging our feet.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-005",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-03",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your latest novel has been described as your most personal yet. Is that fair?"
+    },
+    {
+     "speaker": "Author",
+     "text": "It's funny – people always say that when a book is set somewhere I've lived. But the setting is the least personal thing about it. The town is real; the characters are entirely invented."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So where does the personal element come from?"
+    },
+    {
+     "speaker": "Author",
+     "text": "From the questions the book is asking, I suppose. I wrote it the year after my father died, and although he isn't in it, every page is preoccupied with what we inherit from our parents – not money or property, but habits, fears, ways of seeing the world. I didn't plan that. I only noticed it when I reread the first draft."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Was that uncomfortable?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Very. My first instinct was to cut half of it. Thankfully, my editor talked me out of it."
+    }
+   ],
+   "question": "What does the author think about the description of the novel as 'personal'?",
+   "options": [
+    "It is completely inaccurate.",
+    "It was invented by her publisher.",
+    "It is true, but not for the reason people assume.",
+    "It refers to the real characters in the book."
+   ],
+   "answer": 2,
+   "explanation": "She says the setting is the least personal thing; the personal element comes from the questions the book asks.",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-006",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-03",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your latest novel has been described as your most personal yet. Is that fair?"
+    },
+    {
+     "speaker": "Author",
+     "text": "It's funny – people always say that when a book is set somewhere I've lived. But the setting is the least personal thing about it. The town is real; the characters are entirely invented."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So where does the personal element come from?"
+    },
+    {
+     "speaker": "Author",
+     "text": "From the questions the book is asking, I suppose. I wrote it the year after my father died, and although he isn't in it, every page is preoccupied with what we inherit from our parents – not money or property, but habits, fears, ways of seeing the world. I didn't plan that. I only noticed it when I reread the first draft."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Was that uncomfortable?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Very. My first instinct was to cut half of it. Thankfully, my editor talked me out of it."
+    }
+   ],
+   "question": "How did the author react when she reread her first draft?",
+   "options": [
+    "She was pleased it was so well planned.",
+    "She asked her editor to rewrite it.",
+    "She decided to add her father as a character.",
+    "She was tempted to remove much of what she had written."
+   ],
+   "answer": 3,
+   "explanation": "'My first instinct was to cut half of it.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-007",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-04",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Today I want to challenge a widespread assumption: that students learn best when material is presented in their preferred 'learning style' – visual, auditory and so on. It's an intuitively appealing idea, and surveys suggest the vast majority of teachers believe it. The problem is that when researchers have tested it properly – teaching students in their supposed style and then in a different one – the predicted benefit simply doesn't appear. Now, that doesn't mean all students are identical, or that variety in teaching is pointless. Quite the opposite. Most content is learned best in a particular way regardless of who's learning it: you learn geography from maps and music by listening. What matters is matching the method to the material, not to the student."
+    }
+   ],
+   "question": "What does the lecturer say about research into learning styles?",
+   "options": [
+    "It has never been carried out.",
+    "It shows visual learners perform best.",
+    "It has failed to show the expected benefits.",
+    "It has proved that learning styles are real."
+   ],
+   "answer": 2,
+   "explanation": "'…the predicted benefit simply doesn't appear.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-008",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-04",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Today I want to challenge a widespread assumption: that students learn best when material is presented in their preferred 'learning style' – visual, auditory and so on. It's an intuitively appealing idea, and surveys suggest the vast majority of teachers believe it. The problem is that when researchers have tested it properly – teaching students in their supposed style and then in a different one – the predicted benefit simply doesn't appear. Now, that doesn't mean all students are identical, or that variety in teaching is pointless. Quite the opposite. Most content is learned best in a particular way regardless of who's learning it: you learn geography from maps and music by listening. What matters is matching the method to the material, not to the student."
+    }
+   ],
+   "question": "What does the lecturer recommend instead?",
+   "options": [
+    "Choosing teaching methods that suit the content.",
+    "Testing each student's learning style.",
+    "Using only one teaching method.",
+    "Letting students choose what to learn."
+   ],
+   "answer": 0,
+   "explanation": "'What matters is matching the method to the material, not to the student.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-009",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-05",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Electric cars are often presented as the solution to transport emissions. You're more cautious."
+    },
+    {
+     "speaker": "Guest",
+     "text": "I'm cautious about the word 'solution'. Electric cars are clearly better than petrol cars in terms of emissions over their lifetime, especially as electricity grids get cleaner. I'm not disputing that."
+    },
+    {
+     "speaker": "Host",
+     "text": "Then what's the concern?"
+    },
+    {
+     "speaker": "Guest",
+     "text": "That replacing every petrol car with an electric one leaves most problems untouched: congestion, the space cities give to parking, road deaths, even certain kinds of pollution from tyres and brakes. If we treat electric cars as the whole answer, we risk neglecting public transport, cycling and urban design, which tackle all of those at once."
+    },
+    {
+     "speaker": "Host",
+     "text": "So you'd rather people didn't buy them?"
+    },
+    {
+     "speaker": "Guest",
+     "text": "Not at all. If you need a car, buy an electric one. I'm simply saying fewer cars should be the goal, not just cleaner ones."
+    }
+   ],
+   "question": "What is the guest's attitude to electric cars?",
+   "options": [
+    "They are no better than petrol cars.",
+    "They are an improvement but not a complete answer.",
+    "They should be banned in cities.",
+    "They will solve congestion."
+   ],
+   "answer": 1,
+   "explanation": "'Electric cars are clearly better… I'm cautious about the word \"solution\".'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-010",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-05",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Electric cars are often presented as the solution to transport emissions. You're more cautious."
+    },
+    {
+     "speaker": "Guest",
+     "text": "I'm cautious about the word 'solution'. Electric cars are clearly better than petrol cars in terms of emissions over their lifetime, especially as electricity grids get cleaner. I'm not disputing that."
+    },
+    {
+     "speaker": "Host",
+     "text": "Then what's the concern?"
+    },
+    {
+     "speaker": "Guest",
+     "text": "That replacing every petrol car with an electric one leaves most problems untouched: congestion, the space cities give to parking, road deaths, even certain kinds of pollution from tyres and brakes. If we treat electric cars as the whole answer, we risk neglecting public transport, cycling and urban design, which tackle all of those at once."
+    },
+    {
+     "speaker": "Host",
+     "text": "So you'd rather people didn't buy them?"
+    },
+    {
+     "speaker": "Guest",
+     "text": "Not at all. If you need a car, buy an electric one. I'm simply saying fewer cars should be the goal, not just cleaner ones."
+    }
+   ],
+   "question": "What does the guest believe the main goal should be?",
+   "options": [
+    "Cleaning up electricity grids first.",
+    "Building more roads.",
+    "Reducing the number of cars.",
+    "Making all cars electric."
+   ],
+   "answer": 2,
+   "explanation": "'…fewer cars should be the goal, not just cleaner ones.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-011",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you seen the latest headlines? Apparently coffee now protects against heart disease. Last year it was supposed to cause it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's exactly why I've stopped reading nutrition news. Every week there's a new miracle food or a new poison."
+    },
+    {
+     "speaker": "Man",
+     "text": "Do you think the research is just bad, then?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not necessarily. A lot of it is observational – they notice that people who drink coffee have fewer heart problems, but those people might also exercise more or smoke less. The researchers usually acknowledge that; it's the headlines that turn 'is associated with' into 'causes'."
+    },
+    {
+     "speaker": "Man",
+     "text": "So who's to blame – scientists or journalists?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Both, to some extent. Universities love a press release with a catchy finding, and journalists rarely have time to read the full study. Meanwhile readers just end up confused."
+    }
+   ],
+   "question": "According to the woman, what is often wrong with nutrition headlines?",
+   "options": [
+    "They present links between things as proof of cause.",
+    "They exaggerate the risks of exercise.",
+    "They ignore observational research.",
+    "They report fake studies."
+   ],
+   "answer": 0,
+   "explanation": "'…it's the headlines that turn \"is associated with\" into \"causes\".'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-012",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you seen the latest headlines? Apparently coffee now protects against heart disease. Last year it was supposed to cause it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's exactly why I've stopped reading nutrition news. Every week there's a new miracle food or a new poison."
+    },
+    {
+     "speaker": "Man",
+     "text": "Do you think the research is just bad, then?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not necessarily. A lot of it is observational – they notice that people who drink coffee have fewer heart problems, but those people might also exercise more or smoke less. The researchers usually acknowledge that; it's the headlines that turn 'is associated with' into 'causes'."
+    },
+    {
+     "speaker": "Man",
+     "text": "So who's to blame – scientists or journalists?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Both, to some extent. Universities love a press release with a catchy finding, and journalists rarely have time to read the full study. Meanwhile readers just end up confused."
+    }
+   ],
+   "question": "Who does the woman hold responsible for the confusion?",
+   "options": [
+    "Both researchers' institutions and the media.",
+    "Only journalists.",
+    "Mainly readers.",
+    "Only scientists."
+   ],
+   "answer": 0,
+   "explanation": "'Both, to some extent. Universities love a press release… and journalists rarely have time…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-013",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-07",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've argued that we should be teaching children to be bored with technology, rather than excited by it. That sounds counterintuitive."
+    },
+    {
+     "speaker": "Expert",
+     "text": "It's a deliberately provocative way of putting it. What I mean is that children are surrounded by devices designed to be thrilling – every notification, every reward is engineered to capture attention. If we only ever present technology as exciting, we reinforce that."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So what would 'boring' technology education look like?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Treating devices as tools rather than toys. Understanding how an app makes money, why a video platform recommends what it does, what happens to your data. Once you see the machinery behind the magic, it tends to lose some of its hold over you."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Isn't there a risk of making children cynical?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I'd say sceptical rather than cynical. Cynicism means assuming the worst; scepticism means asking questions. That's precisely the habit we want to develop."
+    }
+   ],
+   "question": "What does the expert mean by teaching children to be 'bored' with technology?",
+   "options": [
+    "Helping them see devices as tools and understand how they work.",
+    "Banning devices from schools.",
+    "Making lessons deliberately dull.",
+    "Encouraging children to avoid technology completely."
+   ],
+   "answer": 0,
+   "explanation": "'Treating devices as tools rather than toys… Once you see the machinery behind the magic…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-014",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-07",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've argued that we should be teaching children to be bored with technology, rather than excited by it. That sounds counterintuitive."
+    },
+    {
+     "speaker": "Expert",
+     "text": "It's a deliberately provocative way of putting it. What I mean is that children are surrounded by devices designed to be thrilling – every notification, every reward is engineered to capture attention. If we only ever present technology as exciting, we reinforce that."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So what would 'boring' technology education look like?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Treating devices as tools rather than toys. Understanding how an app makes money, why a video platform recommends what it does, what happens to your data. Once you see the machinery behind the magic, it tends to lose some of its hold over you."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Isn't there a risk of making children cynical?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I'd say sceptical rather than cynical. Cynicism means assuming the worst; scepticism means asking questions. That's precisely the habit we want to develop."
+    }
+   ],
+   "question": "How does the expert distinguish scepticism from cynicism?",
+   "options": [
+    "They are exactly the same.",
+    "Cynicism is more useful for children.",
+    "Scepticism involves questioning, while cynicism assumes the worst.",
+    "Scepticism means rejecting all technology."
+   ],
+   "answer": 2,
+   "explanation": "'Cynicism means assuming the worst; scepticism means asking questions.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-015",
+   "type": "listening",
+   "topic": "history",
+   "scriptId": "c1-ls-08",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "Before we go in, a word about what you won't see. Visitors often ask why the museum displays so few objects relating to the workers who actually built this palace. The honest answer is that almost nothing survives. Their tools were reused until they broke; their homes were demolished; most couldn't write, so they left no letters. What we know comes largely from the records of those who employed them – payment lists, complaints about delays – which tell us a lot about costs and very little about lives. So as you admire the craftsmanship inside, I'd ask you to bear in mind that the history on display is, inevitably, a partial one, shaped by what was considered worth keeping."
+    }
+   ],
+   "question": "Why does the museum display few objects related to the workers?",
+   "options": [
+    "The workers were not important to the palace.",
+    "Very little evidence of their lives has survived.",
+    "The objects are kept in storage.",
+    "The museum chose not to display them."
+   ],
+   "answer": 1,
+   "explanation": "'The honest answer is that almost nothing survives.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-016",
+   "type": "listening",
+   "topic": "history",
+   "scriptId": "c1-ls-08",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "Before we go in, a word about what you won't see. Visitors often ask why the museum displays so few objects relating to the workers who actually built this palace. The honest answer is that almost nothing survives. Their tools were reused until they broke; their homes were demolished; most couldn't write, so they left no letters. What we know comes largely from the records of those who employed them – payment lists, complaints about delays – which tell us a lot about costs and very little about lives. So as you admire the craftsmanship inside, I'd ask you to bear in mind that the history on display is, inevitably, a partial one, shaped by what was considered worth keeping."
+    }
+   ],
+   "question": "What point is the guide making at the end?",
+   "options": [
+    "The museum's records are unreliable.",
+    "The history presented reflects what earlier people chose to preserve.",
+    "Visitors should not admire the craftsmanship.",
+    "The workers' letters are on display elsewhere."
+   ],
+   "answer": 1,
+   "explanation": "'…the history on display is, inevitably, a partial one, shaped by what was considered worth keeping.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-017",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "c1-ls-09",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your company famously has no fixed holiday allowance. Employees can take as much as they like. Doesn't that get abused?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "That was our fear too. In fact, the opposite happened. In the first year, people took fewer days off than before."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Why would that be?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "Without a clear entitlement, people felt guilty taking time off, especially if their manager rarely did. Unlimited holiday turned out to mean no holiday at all for some people. We had to introduce a minimum – everyone must take at least twenty-five days – and managers are now expected to lead by example."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So would you recommend the policy?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "With reservations. The freedom is valuable, but only if the culture supports it. Otherwise it's just a nice-sounding policy that quietly works against the people it was meant to help."
+    }
+   ],
+   "question": "What unexpected result did the unlimited holiday policy have?",
+   "options": [
+    "Employees took far too many holidays.",
+    "Managers stopped working.",
+    "Some employees took less time off.",
+    "The company lost money."
+   ],
+   "answer": 2,
+   "explanation": "'In the first year, people took fewer days off than before.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-018",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "c1-ls-09",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your company famously has no fixed holiday allowance. Employees can take as much as they like. Doesn't that get abused?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "That was our fear too. In fact, the opposite happened. In the first year, people took fewer days off than before."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Why would that be?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "Without a clear entitlement, people felt guilty taking time off, especially if their manager rarely did. Unlimited holiday turned out to mean no holiday at all for some people. We had to introduce a minimum – everyone must take at least twenty-five days – and managers are now expected to lead by example."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So would you recommend the policy?"
+    },
+    {
+     "speaker": "CEO",
+     "text": "With reservations. The freedom is valuable, but only if the culture supports it. Otherwise it's just a nice-sounding policy that quietly works against the people it was meant to help."
+    }
+   ],
+   "question": "What is the CEO's overall view of the policy?",
+   "options": [
+    "It was a complete failure.",
+    "It works only if the company culture encourages people to use it.",
+    "It should be adopted by every company.",
+    "It is mainly a way to save money."
+   ],
+   "answer": 1,
+   "explanation": "'The freedom is valuable, but only if the culture supports it.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-019",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I volunteered at the food bank again on Saturday. The queue was longer than ever."
+    },
+    {
+     "speaker": "Man",
+     "text": "It's admirable that so many people give up their time. It really shows the best of the community."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It does. But I've started to feel uneasy about how much we celebrate it."
+    },
+    {
+     "speaker": "Man",
+     "text": "Uneasy? Why?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Because in a wealthy country, the fact that people need food banks at all is a sign that something's gone wrong. When we praise the generosity of volunteers, we sometimes forget to ask why they're needed. Charity can end up masking a problem that ought to be addressed by policy."
+    },
+    {
+     "speaker": "Man",
+     "text": "Still, I'd rather people were fed by volunteers than not fed at all."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Absolutely – I'm not saying we should stop. I just think gratitude shouldn't replace questions."
+    }
+   ],
+   "question": "Why does the woman feel uneasy?",
+   "options": [
+    "She no longer wants to volunteer.",
+    "The food bank is badly organised.",
+    "She thinks volunteers are not sincere.",
+    "Praising charity may distract from the causes of the problem."
+   ],
+   "answer": 3,
+   "explanation": "'When we praise the generosity of volunteers, we sometimes forget to ask why they're needed.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-020",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I volunteered at the food bank again on Saturday. The queue was longer than ever."
+    },
+    {
+     "speaker": "Man",
+     "text": "It's admirable that so many people give up their time. It really shows the best of the community."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It does. But I've started to feel uneasy about how much we celebrate it."
+    },
+    {
+     "speaker": "Man",
+     "text": "Uneasy? Why?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Because in a wealthy country, the fact that people need food banks at all is a sign that something's gone wrong. When we praise the generosity of volunteers, we sometimes forget to ask why they're needed. Charity can end up masking a problem that ought to be addressed by policy."
+    },
+    {
+     "speaker": "Man",
+     "text": "Still, I'd rather people were fed by volunteers than not fed at all."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Absolutely – I'm not saying we should stop. I just think gratitude shouldn't replace questions."
+    }
+   ],
+   "question": "On what point do the speakers agree?",
+   "options": [
+    "Government policy is working well.",
+    "The queue is shorter than before.",
+    "Volunteers deserve no praise.",
+    "Food banks should continue to operate."
+   ],
+   "answer": 3,
+   "explanation": "Man: 'I'd rather people were fed by volunteers than not fed at all.' Woman: 'Absolutely – I'm not saying we should stop.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-021",
+   "type": "listening",
+   "topic": "language",
+   "scriptId": "c1-ls-11",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "It's often said that English has borrowed words from more languages than almost any other. That's broadly true, but it's worth looking at what kind of words get borrowed. Words for food, fashion and technology – things that travel with trade – cross borders easily. Words for basic concepts like 'water', 'hand' or 'mother' almost never do; they tend to stay remarkably stable over thousands of years. That's precisely why historical linguists use them to trace relationships between languages. If two languages share hundreds of words for computers, it tells you very little. If they share their words for body parts and family members, you may well be looking at distant relatives."
+    }
+   ],
+   "question": "Which type of words, according to the lecturer, are rarely borrowed?",
+   "options": [
+    "Words for basic concepts such as body parts.",
+    "Words for food.",
+    "Words for fashion.",
+    "Words for technology."
+   ],
+   "answer": 0,
+   "explanation": "'Words for basic concepts like \"water\", \"hand\" or \"mother\" almost never do…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-022",
+   "type": "listening",
+   "topic": "language",
+   "scriptId": "c1-ls-11",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "It's often said that English has borrowed words from more languages than almost any other. That's broadly true, but it's worth looking at what kind of words get borrowed. Words for food, fashion and technology – things that travel with trade – cross borders easily. Words for basic concepts like 'water', 'hand' or 'mother' almost never do; they tend to stay remarkably stable over thousands of years. That's precisely why historical linguists use them to trace relationships between languages. If two languages share hundreds of words for computers, it tells you very little. If they share their words for body parts and family members, you may well be looking at distant relatives."
+    }
+   ],
+   "question": "Why do historical linguists focus on basic vocabulary?",
+   "options": [
+    "Because modern words are not recorded.",
+    "Because shared basic words suggest languages are related.",
+    "Because basic words change very quickly.",
+    "Because they are easier to pronounce."
+   ],
+   "answer": 1,
+   "explanation": "'If they share their words for body parts and family members, you may well be looking at distant relatives.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-023",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "c1-ls-12",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You coach young athletes. What's the biggest mistake parents make?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "Specialising too early. A parent sees a ten-year-old who's good at tennis and decides that's it – year-round training, no other sports. It seems logical: start early, get ahead."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And it isn't?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "For most sports, the evidence suggests not. Children who play a variety of sports tend to develop better all-round movement skills, get injured less and, crucially, are less likely to burn out and quit in their teens. Many elite athletes only committed to one sport surprisingly late."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Are there exceptions?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "Gymnastics, perhaps, where peak performance comes young. But they're the exception, not the rule. My advice to parents is simple: let them play."
+    }
+   ],
+   "question": "What does the coach see as the main mistake parents make?",
+   "options": [
+    "Making children focus on a single sport too soon.",
+    "Choosing the wrong coach.",
+    "Not letting children play sport at all.",
+    "Pushing children to compete against adults."
+   ],
+   "answer": 0,
+   "explanation": "'Specialising too early.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-024",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "c1-ls-12",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You coach young athletes. What's the biggest mistake parents make?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "Specialising too early. A parent sees a ten-year-old who's good at tennis and decides that's it – year-round training, no other sports. It seems logical: start early, get ahead."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And it isn't?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "For most sports, the evidence suggests not. Children who play a variety of sports tend to develop better all-round movement skills, get injured less and, crucially, are less likely to burn out and quit in their teens. Many elite athletes only committed to one sport surprisingly late."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Are there exceptions?"
+    },
+    {
+     "speaker": "Coach",
+     "text": "Gymnastics, perhaps, where peak performance comes young. But they're the exception, not the rule. My advice to parents is simple: let them play."
+    }
+   ],
+   "question": "What does the coach say about gymnastics?",
+   "options": [
+    "It shows his advice is wrong.",
+    "Children should avoid it.",
+    "It is the most dangerous sport.",
+    "It may be an exception to his general advice."
+   ],
+   "answer": 3,
+   "explanation": "'Gymnastics, perhaps, where peak performance comes young. But they're the exception, not the rule.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-025",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "c1-ls-13",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Did you watch that documentary about the fishing village last night?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I did. Beautifully filmed, but I came away feeling slightly manipulated."
+    },
+    {
+     "speaker": "Man",
+     "text": "Manipulated? It seemed pretty balanced to me – they interviewed the fishermen and the environmental campaigners."
+    },
+    {
+     "speaker": "Woman",
+     "text": "They did, but notice how it was edited. The fishermen were always filmed in the rain, looking exhausted, with sad music. The campaigners were interviewed in bright offices. Nobody said anything false, but the emotional message was clear."
+    },
+    {
+     "speaker": "Man",
+     "text": "Hmm. I suppose I didn't pay attention to the music."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the point – you're not supposed to. Balance isn't just about giving both sides airtime; it's about how each side is framed."
+    }
+   ],
+   "question": "Why did the woman feel manipulated by the documentary?",
+   "options": [
+    "The way it was filmed and edited favoured one side.",
+    "It contained false information.",
+    "It was too long.",
+    "It only interviewed fishermen."
+   ],
+   "answer": 0,
+   "explanation": "'Nobody said anything false, but the emotional message was clear.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-026",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "c1-ls-13",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Did you watch that documentary about the fishing village last night?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I did. Beautifully filmed, but I came away feeling slightly manipulated."
+    },
+    {
+     "speaker": "Man",
+     "text": "Manipulated? It seemed pretty balanced to me – they interviewed the fishermen and the environmental campaigners."
+    },
+    {
+     "speaker": "Woman",
+     "text": "They did, but notice how it was edited. The fishermen were always filmed in the rain, looking exhausted, with sad music. The campaigners were interviewed in bright offices. Nobody said anything false, but the emotional message was clear."
+    },
+    {
+     "speaker": "Man",
+     "text": "Hmm. I suppose I didn't pay attention to the music."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the point – you're not supposed to. Balance isn't just about giving both sides airtime; it's about how each side is framed."
+    }
+   ],
+   "question": "What does the woman mean by her final comment?",
+   "options": [
+    "Campaigners always receive better treatment.",
+    "Both sides should get equal time.",
+    "Documentaries should not use music.",
+    "Fairness depends on presentation as well as on who is included."
+   ],
+   "answer": 3,
+   "explanation": "'Balance isn't just about giving both sides airtime; it's about how each side is framed.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-027",
+   "type": "listening",
+   "topic": "cities",
+   "scriptId": "c1-ls-14",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your neighbourhood has changed enormously in the past decade. New cafés, galleries, rising rents. Do you welcome it?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "It's complicated. I'd be lying if I said I didn't enjoy having a decent bakery round the corner. And the streets feel safer than they did."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "But?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "But many of the people who made this area what it was can no longer afford to live here. The woman who ran the corner shop for thirty years had to close when her rent doubled. The irony is that the newcomers were attracted by the area's character – and that character is exactly what's disappearing."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Is there a solution?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "I don't think you can stop change, nor should you. But protecting some affordable housing and small businesses would at least mean it wasn't only the wealthy who benefited."
+    }
+   ],
+   "question": "What irony does the resident point out?",
+   "options": [
+    "Newcomers are destroying the character that attracted them.",
+    "Rents have fallen despite new businesses.",
+    "Long-term residents are opening new cafés.",
+    "The area is less safe than before."
+   ],
+   "answer": 0,
+   "explanation": "'…the newcomers were attracted by the area's character – and that character is exactly what's disappearing.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-028",
+   "type": "listening",
+   "topic": "cities",
+   "scriptId": "c1-ls-14",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your neighbourhood has changed enormously in the past decade. New cafés, galleries, rising rents. Do you welcome it?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "It's complicated. I'd be lying if I said I didn't enjoy having a decent bakery round the corner. And the streets feel safer than they did."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "But?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "But many of the people who made this area what it was can no longer afford to live here. The woman who ran the corner shop for thirty years had to close when her rent doubled. The irony is that the newcomers were attracted by the area's character – and that character is exactly what's disappearing."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Is there a solution?"
+    },
+    {
+     "speaker": "Resident",
+     "text": "I don't think you can stop change, nor should you. But protecting some affordable housing and small businesses would at least mean it wasn't only the wealthy who benefited."
+    }
+   ],
+   "question": "What is the resident's view on change in the neighbourhood?",
+   "options": [
+    "It only affects business owners.",
+    "It should be managed so that benefits are shared.",
+    "It has been entirely positive.",
+    "It should be stopped completely."
+   ],
+   "answer": 1,
+   "explanation": "'I don't think you can stop change… But protecting some affordable housing… would at least mean it wasn't only the wealthy who benefited.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-029",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "c1-ls-15",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Let's consider what's sometimes called 'decision fatigue' – the idea that the quality of our decisions deteriorates after we've made a lot of them. A famous study claimed that judges granted parole far more often early in the morning and just after lunch than late in the session. It was widely cited as evidence that even experts are worn down by decision-making. I'd urge some caution, however. Later analyses pointed out that the order of cases wasn't random – prisoners without lawyers, for instance, tended to be heard last, and their cases were less likely to succeed anyway. That doesn't mean decision fatigue is a myth. It means that a single striking study, however memorable, is rarely enough to settle a question."
+    }
+   ],
+   "question": "What did the famous study about judges claim?",
+   "options": [
+    "Judges made more favourable decisions at certain times of day.",
+    "Prisoners preferred morning hearings.",
+    "Lawyers influenced every decision.",
+    "Judges were rarely tired."
+   ],
+   "answer": 0,
+   "explanation": "'…judges granted parole far more often early in the morning and just after lunch…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-030",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "c1-ls-15",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Let's consider what's sometimes called 'decision fatigue' – the idea that the quality of our decisions deteriorates after we've made a lot of them. A famous study claimed that judges granted parole far more often early in the morning and just after lunch than late in the session. It was widely cited as evidence that even experts are worn down by decision-making. I'd urge some caution, however. Later analyses pointed out that the order of cases wasn't random – prisoners without lawyers, for instance, tended to be heard last, and their cases were less likely to succeed anyway. That doesn't mean decision fatigue is a myth. It means that a single striking study, however memorable, is rarely enough to settle a question."
+    }
+   ],
+   "question": "What is the lecturer's main point?",
+   "options": [
+    "Judges should work shorter hours.",
+    "All research on judges is unreliable.",
+    "Decision fatigue definitely does not exist.",
+    "One memorable study should not be treated as conclusive."
+   ],
+   "answer": 3,
+   "explanation": "'…a single striking study, however memorable, is rarely enough to settle a question.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-031",
+   "type": "listening",
+   "topic": "economics",
+   "scriptId": "c1-ls-16",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "So, the proposal is to raise the minimum wage by fifteen per cent next year. What's your view?"
+    },
+    {
+     "speaker": "Man",
+     "text": "My concern is small businesses. A café that's barely breaking even might respond by cutting staff or hours."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the standard argument, but the evidence from previous increases is more mixed than people assume. In many cases, employment hardly changed – businesses absorbed the cost through slightly higher prices or lower staff turnover."
+    },
+    {
+     "speaker": "Man",
+     "text": "Moderate increases, yes. Fifteen per cent in one go is a different matter."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Perhaps. Would you support it if it were phased in over two or three years?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd be far more comfortable with that. It would give employers time to adjust."
+    }
+   ],
+   "question": "What does the woman say about the evidence from previous increases?",
+   "options": [
+    "It is too old to be useful.",
+    "It proves many jobs were lost.",
+    "It does not clearly show that jobs were lost.",
+    "It shows prices fell."
+   ],
+   "answer": 2,
+   "explanation": "'…the evidence… is more mixed than people assume. In many cases, employment hardly changed…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-032",
+   "type": "listening",
+   "topic": "economics",
+   "scriptId": "c1-ls-16",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "So, the proposal is to raise the minimum wage by fifteen per cent next year. What's your view?"
+    },
+    {
+     "speaker": "Man",
+     "text": "My concern is small businesses. A café that's barely breaking even might respond by cutting staff or hours."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the standard argument, but the evidence from previous increases is more mixed than people assume. In many cases, employment hardly changed – businesses absorbed the cost through slightly higher prices or lower staff turnover."
+    },
+    {
+     "speaker": "Man",
+     "text": "Moderate increases, yes. Fifteen per cent in one go is a different matter."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Perhaps. Would you support it if it were phased in over two or three years?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd be far more comfortable with that. It would give employers time to adjust."
+    }
+   ],
+   "question": "What would make the man more willing to accept the increase?",
+   "options": [
+    "Introducing it gradually.",
+    "Abandoning it entirely.",
+    "Applying it only to large companies.",
+    "Making it larger."
+   ],
+   "answer": 0,
+   "explanation": "'Would you support it if it were phased in…?' 'I'd be far more comfortable with that.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-033",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "c1-ls-17",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Venice, Barcelona, Amsterdam – many cities are now actively discouraging tourists. As a travel writer, how do you feel about that?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "Honestly, relieved. For years, my profession contributed to the problem – every article promising a 'hidden gem' helped to make sure it didn't stay hidden for long."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Isn't tourism vital to these economies?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "It is, but the benefits are unevenly spread. Short-term rentals push residents out, and day-trippers off cruise ships spend very little while crowding the streets. Cities aren't trying to end tourism; they're trying to reshape it – fewer, longer visits that put more back into the community."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And what can travellers do?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "Travel out of season, stay longer, and perhaps visit the places nobody is writing about – including, ironically, by ignoring writers like me."
+    }
+   ],
+   "question": "How does the writer feel about her profession's role in overtourism?",
+   "options": [
+    "She thinks writers had no influence.",
+    "She believes travel writers helped create the problem.",
+    "She blames only cruise companies.",
+    "She is proud of finding hidden gems."
+   ],
+   "answer": 1,
+   "explanation": "'For years, my profession contributed to the problem…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-034",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "c1-ls-17",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Venice, Barcelona, Amsterdam – many cities are now actively discouraging tourists. As a travel writer, how do you feel about that?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "Honestly, relieved. For years, my profession contributed to the problem – every article promising a 'hidden gem' helped to make sure it didn't stay hidden for long."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Isn't tourism vital to these economies?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "It is, but the benefits are unevenly spread. Short-term rentals push residents out, and day-trippers off cruise ships spend very little while crowding the streets. Cities aren't trying to end tourism; they're trying to reshape it – fewer, longer visits that put more back into the community."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And what can travellers do?"
+    },
+    {
+     "speaker": "Writer",
+     "text": "Travel out of season, stay longer, and perhaps visit the places nobody is writing about – including, ironically, by ignoring writers like me."
+    }
+   ],
+   "question": "What, according to the writer, are cities trying to achieve?",
+   "options": [
+    "An end to all tourism.",
+    "More short-term rentals.",
+    "More day-trippers.",
+    "A different kind of tourism that benefits residents more."
+   ],
+   "answer": 3,
+   "explanation": "'Cities aren't trying to end tourism; they're trying to reshape it…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-035",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "c1-ls-18",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I read that about a third of all food produced is wasted. That's staggering."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It is, though people often assume the waste happens mostly in supermarkets. In wealthy countries, households are actually responsible for the biggest share."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I'd have thought restaurants were worse."
+    },
+    {
+     "speaker": "Woman",
+     "text": "They're significant, but think about how much we throw away at home – bread that goes stale, vegetables forgotten at the back of the fridge. Part of the problem is 'best before' dates. Many people treat them as safety warnings, when they're really about quality."
+    },
+    {
+     "speaker": "Man",
+     "text": "So the food's usually fine after the date?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Often, yes – though 'use by' dates are different; those are about safety and should be taken seriously."
+    }
+   ],
+   "question": "According to the woman, where does most food waste occur in wealthy countries?",
+   "options": [
+    "On farms.",
+    "In restaurants.",
+    "In supermarkets.",
+    "In people's homes."
+   ],
+   "answer": 3,
+   "explanation": "'In wealthy countries, households are actually responsible for the biggest share.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-036",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "c1-ls-18",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I read that about a third of all food produced is wasted. That's staggering."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It is, though people often assume the waste happens mostly in supermarkets. In wealthy countries, households are actually responsible for the biggest share."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I'd have thought restaurants were worse."
+    },
+    {
+     "speaker": "Woman",
+     "text": "They're significant, but think about how much we throw away at home – bread that goes stale, vegetables forgotten at the back of the fridge. Part of the problem is 'best before' dates. Many people treat them as safety warnings, when they're really about quality."
+    },
+    {
+     "speaker": "Man",
+     "text": "So the food's usually fine after the date?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Often, yes – though 'use by' dates are different; those are about safety and should be taken seriously."
+    }
+   ],
+   "question": "What distinction does the woman make about date labels?",
+   "options": [
+    "'Best before' concerns quality, while 'use by' concerns safety.",
+    "'Best before' dates are about safety.",
+    "Both labels mean the same thing.",
+    "Neither label should be taken seriously."
+   ],
+   "answer": 0,
+   "explanation": "'…they're really about quality… \"use by\" dates are different; those are about safety…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-037",
+   "type": "listening",
+   "topic": "law",
+   "scriptId": "c1-ls-19",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You served on a jury last year. What surprised you most?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "How seriously everyone took it. I'd expected some people to be bored or to rush to a verdict so they could go home. Instead, we spent two days going through the evidence line by line."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Were there disagreements?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "Plenty. At first, eight of us were convinced the defendant was guilty. But one woman kept asking questions about the timeline that none of us could answer. Gradually, we realised that being fairly sure isn't the same as being sure beyond reasonable doubt."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So the verdict changed?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "It did. I still don't know whether he did it. But I know we couldn't prove it – and that's what the system asks."
+    }
+   ],
+   "question": "What surprised the juror most?",
+   "options": [
+    "How boring the trial was.",
+    "The commitment shown by the other jurors.",
+    "How little evidence there was.",
+    "How quickly the verdict was reached."
+   ],
+   "answer": 1,
+   "explanation": "'How seriously everyone took it.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-038",
+   "type": "listening",
+   "topic": "law",
+   "scriptId": "c1-ls-19",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You served on a jury last year. What surprised you most?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "How seriously everyone took it. I'd expected some people to be bored or to rush to a verdict so they could go home. Instead, we spent two days going through the evidence line by line."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Were there disagreements?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "Plenty. At first, eight of us were convinced the defendant was guilty. But one woman kept asking questions about the timeline that none of us could answer. Gradually, we realised that being fairly sure isn't the same as being sure beyond reasonable doubt."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So the verdict changed?"
+    },
+    {
+     "speaker": "Juror",
+     "text": "It did. I still don't know whether he did it. But I know we couldn't prove it – and that's what the system asks."
+    }
+   ],
+   "question": "What does the juror's final comment suggest?",
+   "options": [
+    "The evidence was clearly fabricated.",
+    "The jury was sure the man was innocent.",
+    "The jury acquitted because guilt could not be proved, not because innocence was certain.",
+    "The juror regrets the verdict."
+   ],
+   "answer": 2,
+   "explanation": "'I still don't know whether he did it. But I know we couldn't prove it…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-039",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-20",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Critics say space exploration is a luxury when there are so many problems on Earth. How do you respond?"
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "I understand the sentiment, but I think the framing is misleading. Space budgets are tiny compared with what governments spend on health or defence. Cancelling them wouldn't solve poverty."
+    },
+    {
+     "speaker": "Host",
+     "text": "Still, it's money that could be spent elsewhere."
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "Of course. But much of what we learn in space directly benefits life on Earth. Satellites monitor crops, forests and storms; they're essential for understanding climate change. And the technologies developed – from water purification to medical imaging – often find uses nobody anticipated."
+    },
+    {
+     "speaker": "Host",
+     "text": "So it's justified on practical grounds?"
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "Partly. Though I'd also defend it simply as part of what makes us human – the desire to understand where we come from."
+    }
+   ],
+   "question": "How does the astronomer respond to the claim that space exploration is a luxury?",
+   "options": [
+    "He claims it will end poverty.",
+    "He argues that its cost is small relative to other spending.",
+    "He agrees that it should be cancelled.",
+    "He says it is cheaper than ever before."
+   ],
+   "answer": 1,
+   "explanation": "'Space budgets are tiny compared with what governments spend on health or defence.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-040",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-20",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Critics say space exploration is a luxury when there are so many problems on Earth. How do you respond?"
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "I understand the sentiment, but I think the framing is misleading. Space budgets are tiny compared with what governments spend on health or defence. Cancelling them wouldn't solve poverty."
+    },
+    {
+     "speaker": "Host",
+     "text": "Still, it's money that could be spent elsewhere."
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "Of course. But much of what we learn in space directly benefits life on Earth. Satellites monitor crops, forests and storms; they're essential for understanding climate change. And the technologies developed – from water purification to medical imaging – often find uses nobody anticipated."
+    },
+    {
+     "speaker": "Host",
+     "text": "So it's justified on practical grounds?"
+    },
+    {
+     "speaker": "Astronomer",
+     "text": "Partly. Though I'd also defend it simply as part of what makes us human – the desire to understand where we come from."
+    }
+   ],
+   "question": "Besides practical benefits, how else does the astronomer justify space exploration?",
+   "options": [
+    "It creates jobs for astronomers.",
+    "It brings nations together politically.",
+    "It reflects a basic human desire to understand our origins.",
+    "It is popular with voters."
+   ],
+   "answer": 2,
+   "explanation": "'…as part of what makes us human – the desire to understand where we come from.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-041",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-21",
+   "script": [
+    {
+     "speaker": "Manager",
+     "text": "Right, the launch date. I know we promised March, but the testing team has found more bugs than expected."
+    },
+    {
+     "speaker": "Developer",
+     "text": "Realistically, we need another six weeks to fix them properly."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Marketing will not be pleased. They've already booked the advertising campaign."
+    },
+    {
+     "speaker": "Developer",
+     "text": "I understand, but releasing something unreliable would be far more damaging than a short delay. One bad review spreads faster than any advert."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Agreed. Could we launch a limited version in March – just the core features – and add the rest later?"
+    },
+    {
+     "speaker": "Developer",
+     "text": "That's possible, as long as we're honest with users about what's coming. Otherwise it'll look like we've released something half-finished."
+    }
+   ],
+   "question": "Why does the developer oppose launching in March as planned?",
+   "options": [
+    "The advertising campaign is not ready.",
+    "Users do not want new features.",
+    "A faulty product would harm the company's reputation.",
+    "Marketing has requested a delay."
+   ],
+   "answer": 2,
+   "explanation": "'…releasing something unreliable would be far more damaging than a short delay.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-042",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-21",
+   "script": [
+    {
+     "speaker": "Manager",
+     "text": "Right, the launch date. I know we promised March, but the testing team has found more bugs than expected."
+    },
+    {
+     "speaker": "Developer",
+     "text": "Realistically, we need another six weeks to fix them properly."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Marketing will not be pleased. They've already booked the advertising campaign."
+    },
+    {
+     "speaker": "Developer",
+     "text": "I understand, but releasing something unreliable would be far more damaging than a short delay. One bad review spreads faster than any advert."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Agreed. Could we launch a limited version in March – just the core features – and add the rest later?"
+    },
+    {
+     "speaker": "Developer",
+     "text": "That's possible, as long as we're honest with users about what's coming. Otherwise it'll look like we've released something half-finished."
+    }
+   ],
+   "question": "What condition does the developer attach to the manager's suggestion?",
+   "options": [
+    "The testing team must be replaced.",
+    "The price must be reduced.",
+    "Marketing must cancel the campaign.",
+    "Users must be told clearly that more features will follow."
+   ],
+   "answer": 3,
+   "explanation": "'…as long as we're honest with users about what's coming.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-043",
+   "type": "listening",
+   "topic": "reading",
+   "scriptId": "c1-ls-22",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "On today's podcast, we're talking about reading. You've argued that we shouldn't feel guilty about abandoning books."
+    },
+    {
+     "speaker": "Critic",
+     "text": "Absolutely. Many people force themselves to finish every book they start, as though giving up were a moral failing. Life's too short. If a book isn't working for you after fifty pages, put it down."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But aren't some of the greatest books difficult at first?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Certainly, and I'm not suggesting we only read what's easy. There's a difference between a book that's challenging and rewarding, and one that's simply not for you – or not for you yet. I abandoned one classic three times before I finally fell in love with it in my forties."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So timing matters?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Enormously. A book you hated at twenty can speak to you at fifty. Putting it down isn't the end of the relationship."
+    }
+   ],
+   "question": "What is the critic's attitude to abandoning books?",
+   "options": [
+    "It shows a lack of discipline.",
+    "It is acceptable and shouldn't cause guilt.",
+    "It should only happen with easy books.",
+    "It is never justified with classics."
+   ],
+   "answer": 1,
+   "explanation": "'…we shouldn't feel guilty about abandoning books… Life's too short.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-044",
+   "type": "listening",
+   "topic": "reading",
+   "scriptId": "c1-ls-22",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "On today's podcast, we're talking about reading. You've argued that we shouldn't feel guilty about abandoning books."
+    },
+    {
+     "speaker": "Critic",
+     "text": "Absolutely. Many people force themselves to finish every book they start, as though giving up were a moral failing. Life's too short. If a book isn't working for you after fifty pages, put it down."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But aren't some of the greatest books difficult at first?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Certainly, and I'm not suggesting we only read what's easy. There's a difference between a book that's challenging and rewarding, and one that's simply not for you – or not for you yet. I abandoned one classic three times before I finally fell in love with it in my forties."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So timing matters?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Enormously. A book you hated at twenty can speak to you at fifty. Putting it down isn't the end of the relationship."
+    }
+   ],
+   "question": "Why does the critic mention the classic she abandoned three times?",
+   "options": [
+    "To prove that she reads slowly.",
+    "To recommend the book to listeners.",
+    "To show that a reader's response to a book can change over time.",
+    "To show that classics are overrated."
+   ],
+   "answer": 2,
+   "explanation": "'…before I finally fell in love with it in my forties… A book you hated at twenty can speak to you at fifty.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-045",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "c1-ls-23",
+   "script": [
+    {
+     "speaker": "Student",
+     "text": "I'm torn between a job at a big consultancy and one at a small start-up. Any advice?"
+    },
+    {
+     "speaker": "Adviser",
+     "text": "What appeals to you about each?"
+    },
+    {
+     "speaker": "Student",
+     "text": "The consultancy offers training, a good salary and a name that looks great on a CV. The start-up is exciting – I'd have real responsibility from day one – but it might not exist in two years."
+    },
+    {
+     "speaker": "Adviser",
+     "text": "Both are legitimate choices. One thing to consider is what you'd learn. At a large firm you'll learn structure and process; at a start-up you'll learn to improvise and take ownership. Neither is better, but they suit different people."
+    },
+    {
+     "speaker": "Student",
+     "text": "And if the start-up fails?"
+    },
+    {
+     "speaker": "Adviser",
+     "text": "Then you'll have an interesting story and skills that employers value. Early in your career, a failure is rarely as costly as it feels."
+    }
+   ],
+   "question": "What does the adviser suggest the student consider?",
+   "options": [
+    "Which job pays more.",
+    "Which company is more famous.",
+    "Which job is closer to home.",
+    "What kind of skills each job would develop."
+   ],
+   "answer": 3,
+   "explanation": "'One thing to consider is what you'd learn.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-046",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "c1-ls-23",
+   "script": [
+    {
+     "speaker": "Student",
+     "text": "I'm torn between a job at a big consultancy and one at a small start-up. Any advice?"
+    },
+    {
+     "speaker": "Adviser",
+     "text": "What appeals to you about each?"
+    },
+    {
+     "speaker": "Student",
+     "text": "The consultancy offers training, a good salary and a name that looks great on a CV. The start-up is exciting – I'd have real responsibility from day one – but it might not exist in two years."
+    },
+    {
+     "speaker": "Adviser",
+     "text": "Both are legitimate choices. One thing to consider is what you'd learn. At a large firm you'll learn structure and process; at a start-up you'll learn to improvise and take ownership. Neither is better, but they suit different people."
+    },
+    {
+     "speaker": "Student",
+     "text": "And if the start-up fails?"
+    },
+    {
+     "speaker": "Adviser",
+     "text": "Then you'll have an interesting story and skills that employers value. Early in your career, a failure is rarely as costly as it feels."
+    }
+   ],
+   "question": "What is the adviser's view of the risk of the start-up failing?",
+   "options": [
+    "It is the main reason to choose the consultancy.",
+    "It is extremely unlikely.",
+    "It would not be very damaging at this stage of a career.",
+    "It would ruin the student's career."
+   ],
+   "answer": 2,
+   "explanation": "'Early in your career, a failure is rarely as costly as it feels.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-047",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-24",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Discussions of climate change have traditionally focused on mitigation – reducing emissions to limit warming. Increasingly, though, attention is turning to adaptation: preparing for the changes that are already unavoidable. This shift was once controversial. Some campaigners feared that talking about adaptation would signal defeat and weaken the pressure to cut emissions. That concern hasn't entirely disappeared, but most experts now regard the two as complementary rather than competing. Coastal defences, drought-resistant crops and heat-proof buildings don't reduce the need to cut emissions; they simply acknowledge that some warming is already locked in. The real danger lies in pretending that one can substitute for the other."
+    }
+   ],
+   "question": "Why was adaptation once a controversial topic?",
+   "options": [
+    "Some feared it would reduce efforts to cut emissions.",
+    "Scientists did not believe in it.",
+    "It was too expensive.",
+    "It had already failed."
+   ],
+   "answer": 0,
+   "explanation": "'Some campaigners feared that talking about adaptation would signal defeat and weaken the pressure to cut emissions.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-048",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-24",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Discussions of climate change have traditionally focused on mitigation – reducing emissions to limit warming. Increasingly, though, attention is turning to adaptation: preparing for the changes that are already unavoidable. This shift was once controversial. Some campaigners feared that talking about adaptation would signal defeat and weaken the pressure to cut emissions. That concern hasn't entirely disappeared, but most experts now regard the two as complementary rather than competing. Coastal defences, drought-resistant crops and heat-proof buildings don't reduce the need to cut emissions; they simply acknowledge that some warming is already locked in. The real danger lies in pretending that one can substitute for the other."
+    }
+   ],
+   "question": "What is the lecturer's view of mitigation and adaptation?",
+   "options": [
+    "Adaptation is more important.",
+    "Mitigation is no longer necessary.",
+    "Both are needed, and neither can replace the other.",
+    "They are in direct competition."
+   ],
+   "answer": 2,
+   "explanation": "'…most experts now regard the two as complementary… The real danger lies in pretending that one can substitute for the other.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-049",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-25",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My company's started using AI to translate all our documents. It's saved a fortune on translators."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is the quality good enough?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "For internal emails, absolutely. For contracts and marketing, we still use professional translators to check everything."
+    },
+    {
+     "speaker": "Man",
+     "text": "Why the difference?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Because the AI is fluent but not always accurate. It produces text that sounds completely natural, which is exactly the danger – mistakes are harder to spot. In a contract, one wrong word can have serious legal consequences. And in marketing, a phrase can be technically correct but culturally tone-deaf."
+    },
+    {
+     "speaker": "Man",
+     "text": "So translators aren't out of a job yet."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Their job's changing. They spend less time translating from scratch and more time editing and judging. Arguably, that requires more expertise, not less."
+    }
+   ],
+   "question": "Why does the woman think AI translation can be dangerous?",
+   "options": [
+    "It sounds very unnatural.",
+    "It cannot translate emails.",
+    "Its natural-sounding output makes errors difficult to notice.",
+    "It is too expensive."
+   ],
+   "answer": 2,
+   "explanation": "'It produces text that sounds completely natural, which is exactly the danger – mistakes are harder to spot.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-050",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-25",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My company's started using AI to translate all our documents. It's saved a fortune on translators."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is the quality good enough?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "For internal emails, absolutely. For contracts and marketing, we still use professional translators to check everything."
+    },
+    {
+     "speaker": "Man",
+     "text": "Why the difference?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Because the AI is fluent but not always accurate. It produces text that sounds completely natural, which is exactly the danger – mistakes are harder to spot. In a contract, one wrong word can have serious legal consequences. And in marketing, a phrase can be technically correct but culturally tone-deaf."
+    },
+    {
+     "speaker": "Man",
+     "text": "So translators aren't out of a job yet."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Their job's changing. They spend less time translating from scratch and more time editing and judging. Arguably, that requires more expertise, not less."
+    }
+   ],
+   "question": "How does the woman describe the changing role of translators?",
+   "options": [
+    "They now only translate emails.",
+    "They are no longer needed.",
+    "They increasingly edit and evaluate rather than translate from scratch.",
+    "Their work requires less skill."
+   ],
+   "answer": 2,
+   "explanation": "'They spend less time translating from scratch and more time editing and judging.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-051",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-26",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You left a teaching career after fifteen years. What made you leave?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "It wasn't the students, and it wasn't the pay, though that didn't help. It was the paperwork. By the end, I was spending more time recording what I'd taught than actually preparing to teach."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Surely some accountability is necessary?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "Of course. Parents and governments have every right to know whether schools are doing a good job. But at some point, the measurement started to replace the thing it was meant to measure. We were teaching to targets rather than teaching children."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do you miss it?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "Every September. That's the hardest part – I didn't fall out of love with teaching. I fell out of love with what it had become."
+    }
+   ],
+   "question": "What was the main reason the teacher left the profession?",
+   "options": [
+    "Low pay alone.",
+    "A lack of holidays.",
+    "The amount of administrative work.",
+    "Difficult students."
+   ],
+   "answer": 2,
+   "explanation": "'It was the paperwork.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-052",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-26",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You left a teaching career after fifteen years. What made you leave?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "It wasn't the students, and it wasn't the pay, though that didn't help. It was the paperwork. By the end, I was spending more time recording what I'd taught than actually preparing to teach."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Surely some accountability is necessary?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "Of course. Parents and governments have every right to know whether schools are doing a good job. But at some point, the measurement started to replace the thing it was meant to measure. We were teaching to targets rather than teaching children."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do you miss it?"
+    },
+    {
+     "speaker": "Former teacher",
+     "text": "Every September. That's the hardest part – I didn't fall out of love with teaching. I fell out of love with what it had become."
+    }
+   ],
+   "question": "What does the former teacher mean by 'the measurement started to replace the thing it was meant to measure'?",
+   "options": [
+    "Teachers stopped testing students.",
+    "Meeting targets became more important than actual teaching.",
+    "Parents had no information about schools.",
+    "Schools stopped measuring performance."
+   ],
+   "answer": 1,
+   "explanation": "'We were teaching to targets rather than teaching children.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-053",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-27",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Loneliness has been described as a public health crisis. Isn't that an exaggeration?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "I can see why it sounds that way. But the evidence linking chronic loneliness to heart disease, depression and even early death is surprisingly robust – comparable, in some studies, to well-known risks such as smoking."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Is it mainly a problem for elderly people?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "That's the common assumption, but some of the highest rates we see are among young adults – people who've moved to a new city for work or study and haven't yet built a network. Being surrounded by people doesn't protect you; loneliness is about the quality of connections, not the quantity."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "What can be done?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Interestingly, simply telling people to socialise more rarely works. What helps is creating situations where connection happens naturally – shared activities, community projects – rather than making loneliness itself the focus."
+    }
+   ],
+   "question": "What does the researcher say about loneliness among young adults?",
+   "options": [
+    "It can be as common as among older people, or more so.",
+    "It only affects students.",
+    "It is very rare.",
+    "It is caused by social media."
+   ],
+   "answer": 0,
+   "explanation": "'…some of the highest rates we see are among young adults…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-054",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-27",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Loneliness has been described as a public health crisis. Isn't that an exaggeration?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "I can see why it sounds that way. But the evidence linking chronic loneliness to heart disease, depression and even early death is surprisingly robust – comparable, in some studies, to well-known risks such as smoking."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Is it mainly a problem for elderly people?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "That's the common assumption, but some of the highest rates we see are among young adults – people who've moved to a new city for work or study and haven't yet built a network. Being surrounded by people doesn't protect you; loneliness is about the quality of connections, not the quantity."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "What can be done?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Interestingly, simply telling people to socialise more rarely works. What helps is creating situations where connection happens naturally – shared activities, community projects – rather than making loneliness itself the focus."
+    }
+   ],
+   "question": "What, according to the researcher, is the most effective approach?",
+   "options": [
+    "Encouraging shared activities where relationships form naturally.",
+    "Encouraging people to live in cities.",
+    "Telling people to socialise more.",
+    "Focusing directly on loneliness in campaigns."
+   ],
+   "answer": 0,
+   "explanation": "'What helps is creating situations where connection happens naturally…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-055",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "c1-ls-28",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you seen the customer feedback on the new packaging?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've glanced at it. Mostly positive, isn't it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "On the surface. People like the design. But quite a few mention it's difficult to open, and several older customers say they've given up buying the product altogether."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a handful of comments, though. We can't redesign everything because of a few complaints."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm not suggesting we start from scratch. But for every customer who bothers to complain, there are probably many more who silently switch brands. Those are the ones we never hear from."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair enough. Let's ask the design team whether the opening mechanism can be adjusted without changing the overall look."
+    }
+   ],
+   "question": "Why does the woman take the complaints seriously?",
+   "options": [
+    "The complaints come from journalists.",
+    "Many unhappy customers may leave without complaining.",
+    "The packaging is unsafe.",
+    "Most customers dislike the design."
+   ],
+   "answer": 1,
+   "explanation": "'…for every customer who bothers to complain, there are probably many more who silently switch brands.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-056",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "c1-ls-28",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you seen the customer feedback on the new packaging?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've glanced at it. Mostly positive, isn't it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "On the surface. People like the design. But quite a few mention it's difficult to open, and several older customers say they've given up buying the product altogether."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a handful of comments, though. We can't redesign everything because of a few complaints."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm not suggesting we start from scratch. But for every customer who bothers to complain, there are probably many more who silently switch brands. Those are the ones we never hear from."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair enough. Let's ask the design team whether the opening mechanism can be adjusted without changing the overall look."
+    }
+   ],
+   "question": "What do the speakers finally agree to do?",
+   "options": [
+    "Ignore the complaints.",
+    "Redesign the packaging completely.",
+    "Stop selling the product.",
+    "Investigate a small change to the packaging."
+   ],
+   "answer": 3,
+   "explanation": "'Let's ask the design team whether the opening mechanism can be adjusted without changing the overall look.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-057",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-29",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "As a film critic, how do you respond to people who say critics are out of touch with audiences?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Sometimes they're right. Critics see hundreds of films a year, so we can become impatient with familiar formulas that ordinary viewers genuinely enjoy."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So should critics simply reflect popular taste?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "No – then there'd be no point in us. Audiences can already see what's popular from box-office figures. A critic's job is to explain why a film works or doesn't, to draw attention to films people might otherwise miss, and occasionally to make a case for something difficult."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Even if readers disagree?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Especially then. A good review isn't one you agree with; it's one that makes you think more carefully about why you disagree."
+    }
+   ],
+   "question": "What does the critic admit about critics?",
+   "options": [
+    "They may lose patience with conventional films that audiences enjoy.",
+    "They never agree with audiences.",
+    "They see too few films.",
+    "They are paid by film studios."
+   ],
+   "answer": 0,
+   "explanation": "'…we can become impatient with familiar formulas that ordinary viewers genuinely enjoy.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-058",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-29",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "As a film critic, how do you respond to people who say critics are out of touch with audiences?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Sometimes they're right. Critics see hundreds of films a year, so we can become impatient with familiar formulas that ordinary viewers genuinely enjoy."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So should critics simply reflect popular taste?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "No – then there'd be no point in us. Audiences can already see what's popular from box-office figures. A critic's job is to explain why a film works or doesn't, to draw attention to films people might otherwise miss, and occasionally to make a case for something difficult."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Even if readers disagree?"
+    },
+    {
+     "speaker": "Critic",
+     "text": "Especially then. A good review isn't one you agree with; it's one that makes you think more carefully about why you disagree."
+    }
+   ],
+   "question": "According to the critic, what makes a good review?",
+   "options": [
+    "It reports box-office figures.",
+    "It encourages readers to examine their own opinions.",
+    "It agrees with popular opinion.",
+    "It is always positive."
+   ],
+   "answer": 1,
+   "explanation": "'…it's one that makes you think more carefully about why you disagree.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-059",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-30",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Generational labels – 'baby boomers', 'millennials', 'Generation Z' – have become a staple of journalism and marketing. They're convenient, but I want to suggest they obscure more than they reveal. Differences within a generation – by income, education, region – are typically far larger than differences between generations. A wealthy thirty-year-old and an unemployed thirty-year-old may have far less in common than the labels imply. There's also a tendency to confuse life stage with generation: young people have always been more likely to move house, change jobs and adopt new technology. When we attribute these behaviours to 'millennials', we mistake being young for belonging to a particular generation."
+    }
+   ],
+   "question": "What is the lecturer's main criticism of generational labels?",
+   "options": [
+    "They are only used by marketers.",
+    "They hide important differences within each generation.",
+    "They are too difficult to define.",
+    "They exaggerate similarities between old and young."
+   ],
+   "answer": 1,
+   "explanation": "'Differences within a generation… are typically far larger than differences between generations.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-060",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-30",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Generational labels – 'baby boomers', 'millennials', 'Generation Z' – have become a staple of journalism and marketing. They're convenient, but I want to suggest they obscure more than they reveal. Differences within a generation – by income, education, region – are typically far larger than differences between generations. A wealthy thirty-year-old and an unemployed thirty-year-old may have far less in common than the labels imply. There's also a tendency to confuse life stage with generation: young people have always been more likely to move house, change jobs and adopt new technology. When we attribute these behaviours to 'millennials', we mistake being young for belonging to a particular generation."
+    }
+   ],
+   "question": "What mistake does the lecturer describe at the end?",
+   "options": [
+    "Assuming older people dislike technology.",
+    "Attributing typical behaviour of young people to a specific generation.",
+    "Confusing income with education.",
+    "Ignoring regional differences."
+   ],
+   "answer": 1,
+   "explanation": "'…we mistake being young for belonging to a particular generation.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-061",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-31",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Your town banned single-use plastic bags five years ago. Has it worked?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "In one sense, spectacularly. Plastic bag litter has almost vanished from our streets and beaches."
+    },
+    {
+     "speaker": "Host",
+     "text": "In one sense?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Well, some studies suggest the alternatives aren't automatically better. A cotton bag has to be reused many times to have a lower environmental impact than a plastic one, and many people simply accumulate dozens of them. And sales of plastic bin liners went up, since people had been reusing shopping bags for their rubbish."
+    },
+    {
+     "speaker": "Host",
+     "text": "So was it a mistake?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Not at all. But it taught us that environmental policies have knock-on effects, and you have to look at the whole picture, not just the most visible problem."
+    }
+   ],
+   "question": "What unintended effect of the ban does the councillor mention?",
+   "options": [
+    "Shops stopped selling cotton bags.",
+    "Litter on beaches increased.",
+    "People stopped shopping locally.",
+    "People bought more plastic bin liners."
+   ],
+   "answer": 3,
+   "explanation": "'…sales of plastic bin liners went up…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-062",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "c1-ls-31",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Your town banned single-use plastic bags five years ago. Has it worked?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "In one sense, spectacularly. Plastic bag litter has almost vanished from our streets and beaches."
+    },
+    {
+     "speaker": "Host",
+     "text": "In one sense?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Well, some studies suggest the alternatives aren't automatically better. A cotton bag has to be reused many times to have a lower environmental impact than a plastic one, and many people simply accumulate dozens of them. And sales of plastic bin liners went up, since people had been reusing shopping bags for their rubbish."
+    },
+    {
+     "speaker": "Host",
+     "text": "So was it a mistake?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Not at all. But it taught us that environmental policies have knock-on effects, and you have to look at the whole picture, not just the most visible problem."
+    }
+   ],
+   "question": "What lesson does the councillor draw?",
+   "options": [
+    "Policies should be judged by their overall effects.",
+    "The ban should be reversed.",
+    "Cotton bags should be banned.",
+    "Visible problems are the only ones that matter."
+   ],
+   "answer": 0,
+   "explanation": "'…you have to look at the whole picture, not just the most visible problem.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-063",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-32",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've been reading about the replication crisis in psychology. Apparently many famous findings couldn't be reproduced."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, it's been quite a reckoning. When researchers repeated some classic experiments, a large proportion produced weaker results or none at all."
+    },
+    {
+     "speaker": "Man",
+     "text": "Doesn't that undermine the whole field?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'd argue the opposite, actually. The fact that psychologists themselves exposed the problem, and have changed their methods, shows science correcting itself, which is exactly what it's supposed to do."
+    },
+    {
+     "speaker": "Man",
+     "text": "What kind of changes?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Researchers now often register their hypotheses before collecting data, so they can't quietly change them afterwards to fit the results. And journals are more willing to publish studies that find nothing – which used to be almost impossible."
+    }
+   ],
+   "question": "What is the woman's view of the replication crisis?",
+   "options": [
+    "It proves psychology is not a science.",
+    "It shows that science is able to correct its own errors.",
+    "It has been greatly exaggerated.",
+    "It has not led to any changes."
+   ],
+   "answer": 1,
+   "explanation": "'…shows science correcting itself, which is exactly what it's supposed to do.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-064",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-32",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've been reading about the replication crisis in psychology. Apparently many famous findings couldn't be reproduced."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, it's been quite a reckoning. When researchers repeated some classic experiments, a large proportion produced weaker results or none at all."
+    },
+    {
+     "speaker": "Man",
+     "text": "Doesn't that undermine the whole field?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'd argue the opposite, actually. The fact that psychologists themselves exposed the problem, and have changed their methods, shows science correcting itself, which is exactly what it's supposed to do."
+    },
+    {
+     "speaker": "Man",
+     "text": "What kind of changes?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Researchers now often register their hypotheses before collecting data, so they can't quietly change them afterwards to fit the results. And journals are more willing to publish studies that find nothing – which used to be almost impossible."
+    }
+   ],
+   "question": "Why do researchers now register hypotheses in advance?",
+   "options": [
+    "To keep their ideas secret.",
+    "To get more funding.",
+    "To publish faster.",
+    "To prevent them from changing hypotheses to match results."
+   ],
+   "answer": 3,
+   "explanation": "'…so they can't quietly change them afterwards to fit the results.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-065",
+   "type": "listening",
+   "topic": "announcement",
+   "scriptId": "c1-ls-33",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Good evening, and welcome to tonight's lecture. Before we begin, a few brief notices. Due to the overwhelming demand for seats, this evening's talk is being streamed live to the overflow room on the ground floor, where a question-and-answer session will also be possible via the online form. We would ask those of you in the main hall to keep questions concise, as time is limited and we hope to take contributions from both rooms. Please note that the lecture is being recorded; if you would prefer not to appear on camera when asking a question, simply let one of the stewards know and a microphone will be brought to you at your seat, which is outside the camera's field of view."
+    }
+   ],
+   "question": "Why is the talk being streamed to another room?",
+   "options": [
+    "The speaker cannot attend in person.",
+    "Questions are not allowed in the main hall.",
+    "The main hall is being repaired.",
+    "More people wanted to attend than the main hall could hold."
+   ],
+   "answer": 3,
+   "explanation": "'Due to the overwhelming demand for seats, this evening's talk is being streamed live to the overflow room…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-066",
+   "type": "listening",
+   "topic": "announcement",
+   "scriptId": "c1-ls-33",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Good evening, and welcome to tonight's lecture. Before we begin, a few brief notices. Due to the overwhelming demand for seats, this evening's talk is being streamed live to the overflow room on the ground floor, where a question-and-answer session will also be possible via the online form. We would ask those of you in the main hall to keep questions concise, as time is limited and we hope to take contributions from both rooms. Please note that the lecture is being recorded; if you would prefer not to appear on camera when asking a question, simply let one of the stewards know and a microphone will be brought to you at your seat, which is outside the camera's field of view."
+    }
+   ],
+   "question": "What should audience members do if they don't want to be filmed?",
+   "options": [
+    "Leave the hall before questions.",
+    "Sit in the overflow room.",
+    "Submit questions in writing only.",
+    "Tell a steward, who will bring them a microphone."
+   ],
+   "answer": 3,
+   "explanation": "'…simply let one of the stewards know and a microphone will be brought to you at your seat…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-067",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "c1-ls-34",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your book argues that we should stop trying to be happy. That's a bold claim."
+    },
+    {
+     "speaker": "Author",
+     "text": "It's a slightly mischievous title. I'm not against happiness – I'm against the relentless pursuit of it as a goal in itself."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Why would pursuing happiness be a problem?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Because research suggests that people who place a very high value on being happy often end up less happy. They monitor their mood constantly, and every ordinary moment of sadness feels like a failure."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So what should we pursue instead?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Meaning, connection, absorbing work. Happiness tends to arrive as a by-product of those things rather than as a result of chasing it directly. It's a bit like sleep – the harder you try, the more it eludes you."
+    }
+   ],
+   "question": "What does the author mean by calling the title 'mischievous'?",
+   "options": [
+    "It was suggested by a psychologist.",
+    "It was chosen by mistake.",
+    "It is offensive to readers.",
+    "It is deliberately provocative and not meant literally."
+   ],
+   "answer": 3,
+   "explanation": "'I'm not against happiness – I'm against the relentless pursuit of it as a goal in itself.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-068",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "c1-ls-34",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your book argues that we should stop trying to be happy. That's a bold claim."
+    },
+    {
+     "speaker": "Author",
+     "text": "It's a slightly mischievous title. I'm not against happiness – I'm against the relentless pursuit of it as a goal in itself."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Why would pursuing happiness be a problem?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Because research suggests that people who place a very high value on being happy often end up less happy. They monitor their mood constantly, and every ordinary moment of sadness feels like a failure."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So what should we pursue instead?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Meaning, connection, absorbing work. Happiness tends to arrive as a by-product of those things rather than as a result of chasing it directly. It's a bit like sleep – the harder you try, the more it eludes you."
+    }
+   ],
+   "question": "Why does the author compare happiness to sleep?",
+   "options": [
+    "Both are essential for health.",
+    "Both decline with age.",
+    "Both depend on routine.",
+    "Both become harder to achieve when you try too hard."
+   ],
+   "answer": 3,
+   "explanation": "'…the harder you try, the more it eludes you.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-069",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-35",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been asked to mentor a new graduate. I'm flattered, but I'm not sure what I'm supposed to do."
+    },
+    {
+     "speaker": "Man",
+     "text": "I mentored someone last year. My main mistake at first was trying to solve every problem she brought me."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Isn't that the point?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I thought so. But she wasn't learning anything – she was just learning to come to me. Eventually I started asking questions instead: what options do you see, what would you do if I weren't here? It was slower, but she became far more confident."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And what about when she made the wrong decision?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Unless the consequences were serious, I let her. Making a manageable mistake and talking it through afterwards taught her more than any advice I could give."
+    }
+   ],
+   "question": "What does the man say was his main mistake as a mentor?",
+   "options": [
+    "Refusing to give any advice.",
+    "Not meeting his mentee often enough.",
+    "Being too critical.",
+    "Solving problems instead of helping his mentee learn to solve them."
+   ],
+   "answer": 3,
+   "explanation": "'My main mistake at first was trying to solve every problem she brought me.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-070",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-35",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been asked to mentor a new graduate. I'm flattered, but I'm not sure what I'm supposed to do."
+    },
+    {
+     "speaker": "Man",
+     "text": "I mentored someone last year. My main mistake at first was trying to solve every problem she brought me."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Isn't that the point?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I thought so. But she wasn't learning anything – she was just learning to come to me. Eventually I started asking questions instead: what options do you see, what would you do if I weren't here? It was slower, but she became far more confident."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And what about when she made the wrong decision?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Unless the consequences were serious, I let her. Making a manageable mistake and talking it through afterwards taught her more than any advice I could give."
+    }
+   ],
+   "question": "How did the man handle his mentee's wrong decisions?",
+   "options": [
+    "He reported them to her manager.",
+    "He allowed minor mistakes and discussed them afterwards.",
+    "He ignored them completely.",
+    "He always prevented them."
+   ],
+   "answer": 1,
+   "explanation": "'Unless the consequences were serious, I let her.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-071",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-36",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "When we talk about the 'digital divide', we usually mean the gap between those who have internet access and those who don't. That gap is shrinking in many countries. But researchers increasingly describe a second-level divide: differences in how people use the internet once they're online. Two people with identical devices and connections may have very different experiences. One uses it to apply for jobs, manage finances and learn new skills; the other mainly for entertainment, perhaps because they lack the confidence or knowledge to do more. Closing the first divide is largely a question of infrastructure. Closing the second requires education and support, which is considerably harder and slower to deliver."
+    }
+   ],
+   "question": "What is the 'second-level divide'?",
+   "options": [
+    "Differences in internet speed.",
+    "Differences in how people use the internet once they have access.",
+    "The gap between countries.",
+    "The cost of devices."
+   ],
+   "answer": 1,
+   "explanation": "'…differences in how people use the internet once they're online.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-072",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "c1-ls-36",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "When we talk about the 'digital divide', we usually mean the gap between those who have internet access and those who don't. That gap is shrinking in many countries. But researchers increasingly describe a second-level divide: differences in how people use the internet once they're online. Two people with identical devices and connections may have very different experiences. One uses it to apply for jobs, manage finances and learn new skills; the other mainly for entertainment, perhaps because they lack the confidence or knowledge to do more. Closing the first divide is largely a question of infrastructure. Closing the second requires education and support, which is considerably harder and slower to deliver."
+    }
+   ],
+   "question": "Why does the lecturer say the second divide is harder to close?",
+   "options": [
+    "It is caused by expensive devices.",
+    "It affects more countries.",
+    "It requires faster connections.",
+    "It depends on education rather than infrastructure."
+   ],
+   "answer": 3,
+   "explanation": "'Closing the second requires education and support, which is considerably harder and slower to deliver.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-073",
+   "type": "listening",
+   "topic": "history",
+   "scriptId": "c1-ls-37",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've written a history of failure – inventions, expeditions and businesses that didn't work out. Why focus on failure?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Because history is usually written about the winners, which gives a distorted picture. We tend to see successful inventions as inevitable, when in fact many rivals were equally promising and failed for reasons that had nothing to do with quality – bad timing, poor funding, sheer bad luck."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Can you give an example?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Electric cars were actually quite popular in the early 1900s. They lost out to petrol not because they were worse in every respect, but because cheap oil was discovered and roads improved, making long-distance travel more important."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So failure is often a matter of circumstance?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Very often. Which should make us a little humbler about predicting which technologies will win today."
+    }
+   ],
+   "question": "Why does the historian think studying failure is important?",
+   "options": [
+    "Most inventions are successful.",
+    "Failures are more entertaining.",
+    "Successful inventions are poorly documented.",
+    "Focusing only on successes makes them seem inevitable."
+   ],
+   "answer": 3,
+   "explanation": "'We tend to see successful inventions as inevitable, when in fact many rivals were equally promising…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-074",
+   "type": "listening",
+   "topic": "history",
+   "scriptId": "c1-ls-37",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've written a history of failure – inventions, expeditions and businesses that didn't work out. Why focus on failure?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Because history is usually written about the winners, which gives a distorted picture. We tend to see successful inventions as inevitable, when in fact many rivals were equally promising and failed for reasons that had nothing to do with quality – bad timing, poor funding, sheer bad luck."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Can you give an example?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Electric cars were actually quite popular in the early 1900s. They lost out to petrol not because they were worse in every respect, but because cheap oil was discovered and roads improved, making long-distance travel more important."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So failure is often a matter of circumstance?"
+    },
+    {
+     "speaker": "Historian",
+     "text": "Very often. Which should make us a little humbler about predicting which technologies will win today."
+    }
+   ],
+   "question": "What point does the example of early electric cars illustrate?",
+   "options": [
+    "Petrol cars were invented first.",
+    "Outside circumstances can determine which technologies succeed.",
+    "Roads were better for electric cars.",
+    "Electric cars were always inferior."
+   ],
+   "answer": 1,
+   "explanation": "'They lost out… because cheap oil was discovered and roads improved…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-075",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-38",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My son's school has banned mobile phones completely. I wasn't sure at first, but I'm coming round to it."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I'd have thought teenagers need phones for emergencies."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That was my worry. But they can hand them in at the office and collect them at the end of the day, so they've got them for the journey home. And the teachers say break times have transformed – kids actually talk to each other and play games."
+    },
+    {
+     "speaker": "Man",
+     "text": "Doesn't it just push the problem outside school hours?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "To some extent. But it gives them six or seven hours a day without constant notifications, which is more than many adults manage. I suspect the bigger challenge is persuading parents to set the same example at home."
+    }
+   ],
+   "question": "What has changed the woman's mind about the phone ban?",
+   "options": [
+    "Reports of improved social interaction during breaks.",
+    "Her son's request for the ban.",
+    "A government recommendation.",
+    "Her son's improved exam results."
+   ],
+   "answer": 0,
+   "explanation": "'…break times have transformed – kids actually talk to each other and play games.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-076",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "c1-ls-38",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My son's school has banned mobile phones completely. I wasn't sure at first, but I'm coming round to it."
+    },
+    {
+     "speaker": "Man",
+     "text": "Really? I'd have thought teenagers need phones for emergencies."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That was my worry. But they can hand them in at the office and collect them at the end of the day, so they've got them for the journey home. And the teachers say break times have transformed – kids actually talk to each other and play games."
+    },
+    {
+     "speaker": "Man",
+     "text": "Doesn't it just push the problem outside school hours?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "To some extent. But it gives them six or seven hours a day without constant notifications, which is more than many adults manage. I suspect the bigger challenge is persuading parents to set the same example at home."
+    }
+   ],
+   "question": "What does the woman suggest is the greater challenge?",
+   "options": [
+    "Keeping phones safe in the office.",
+    "Enforcing the ban at school.",
+    "Persuading teachers to support the ban.",
+    "Getting parents to model similar behaviour at home."
+   ],
+   "answer": 3,
+   "explanation": "'…the bigger challenge is persuading parents to set the same example at home.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-077",
+   "type": "listening",
+   "topic": "cities",
+   "scriptId": "c1-ls-39",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Your city replaced a busy motorway with a park. Weren't people worried about traffic chaos?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "Terrified. The predictions were apocalyptic – gridlock, businesses closing, commuters stranded."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And what happened?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "Something traffic engineers call 'traffic evaporation'. When road space is removed, a portion of the traffic simply disappears. People change their routes, travel at different times, switch to public transport or decide some journeys aren't worth making. It's the mirror image of what happens when you build new roads: they fill up almost immediately."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So the chaos never came?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "There were a difficult few weeks. But within a year, traffic in the surrounding area was lower than before, and the park had become the most popular public space in the city. Frankly, I wish we'd been braver sooner."
+    }
+   ],
+   "question": "What is 'traffic evaporation'?",
+   "options": [
+    "Pollution disappearing from cities.",
+    "Traffic moving to new motorways.",
+    "Cars becoming more fuel-efficient.",
+    "A reduction in traffic when road space is removed."
+   ],
+   "answer": 3,
+   "explanation": "'When road space is removed, a portion of the traffic simply disappears.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-078",
+   "type": "listening",
+   "topic": "cities",
+   "scriptId": "c1-ls-39",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Your city replaced a busy motorway with a park. Weren't people worried about traffic chaos?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "Terrified. The predictions were apocalyptic – gridlock, businesses closing, commuters stranded."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "And what happened?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "Something traffic engineers call 'traffic evaporation'. When road space is removed, a portion of the traffic simply disappears. People change their routes, travel at different times, switch to public transport or decide some journeys aren't worth making. It's the mirror image of what happens when you build new roads: they fill up almost immediately."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So the chaos never came?"
+    },
+    {
+     "speaker": "Planner",
+     "text": "There were a difficult few weeks. But within a year, traffic in the surrounding area was lower than before, and the park had become the most popular public space in the city. Frankly, I wish we'd been braver sooner."
+    }
+   ],
+   "question": "How does the planner feel about the project now?",
+   "options": [
+    "She wishes the motorway had been kept.",
+    "She is still uncertain about it.",
+    "She thinks it caused lasting chaos.",
+    "She regrets not acting earlier."
+   ],
+   "answer": 3,
+   "explanation": "'Frankly, I wish we'd been braver sooner.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-079",
+   "type": "listening",
+   "topic": "ethics",
+   "scriptId": "c1-ls-40",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Would you eat an insect burger if it were better for the environment?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In principle, yes. Insects need far less land, water and feed than cattle. The logic is hard to argue with."
+    },
+    {
+     "speaker": "Man",
+     "text": "In principle?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In practice, I'd probably hesitate, and I'm not proud of that. It's purely cultural – billions of people around the world eat insects quite happily. We just grew up thinking of them as disgusting."
+    },
+    {
+     "speaker": "Man",
+     "text": "So how would you persuade people like us?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Probably not by putting whole crickets on a plate. Grinding them into flour for pasta or bread seems to work better – people accept them once they're not recognisable. Over time, attitudes might shift, the way they did with sushi, which many Europeans once found revolting."
+    }
+   ],
+   "question": "Why does the woman say she would hesitate to eat insects?",
+   "options": [
+    "Because insects are harmful to the environment.",
+    "Because of cultural attitudes she grew up with.",
+    "Because insects are expensive.",
+    "Because insects are unhealthy."
+   ],
+   "answer": 1,
+   "explanation": "'It's purely cultural… We just grew up thinking of them as disgusting.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-080",
+   "type": "listening",
+   "topic": "ethics",
+   "scriptId": "c1-ls-40",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Would you eat an insect burger if it were better for the environment?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In principle, yes. Insects need far less land, water and feed than cattle. The logic is hard to argue with."
+    },
+    {
+     "speaker": "Man",
+     "text": "In principle?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "In practice, I'd probably hesitate, and I'm not proud of that. It's purely cultural – billions of people around the world eat insects quite happily. We just grew up thinking of them as disgusting."
+    },
+    {
+     "speaker": "Man",
+     "text": "So how would you persuade people like us?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Probably not by putting whole crickets on a plate. Grinding them into flour for pasta or bread seems to work better – people accept them once they're not recognisable. Over time, attitudes might shift, the way they did with sushi, which many Europeans once found revolting."
+    }
+   ],
+   "question": "Why does the woman mention sushi?",
+   "options": [
+    "To show that food attitudes can change over time.",
+    "To suggest insects taste like fish.",
+    "To explain why insects are popular in Japan.",
+    "To recommend a healthier alternative."
+   ],
+   "answer": 0,
+   "explanation": "'…attitudes might shift, the way they did with sushi, which many Europeans once found revolting.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-081",
+   "type": "listening",
+   "topic": "economics",
+   "scriptId": "c1-ls-41",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Economists have long debated why some countries grow rich while others remain poor. Geography plays a role – access to the sea, a temperate climate, natural resources. But natural resources can be a curse as well as a blessing. Several countries rich in oil or minerals have grown more slowly than resource-poor neighbours. One explanation is that easy revenue from resources reduces the incentive to develop other industries and makes governments less dependent on taxing their citizens – and therefore less accountable to them. Increasingly, economists emphasise institutions: secure property rights, independent courts and a government that is constrained by law. Without these, even abundant resources tend to benefit a narrow elite."
+    }
+   ],
+   "question": "What does the lecturer mean by resources being 'a curse'?",
+   "options": [
+    "Resources damage the environment.",
+    "Resources are too expensive to extract.",
+    "Resources are running out.",
+    "Resource wealth can slow wider economic development."
+   ],
+   "answer": 3,
+   "explanation": "'Several countries rich in oil or minerals have grown more slowly than resource-poor neighbours.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-082",
+   "type": "listening",
+   "topic": "economics",
+   "scriptId": "c1-ls-41",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Economists have long debated why some countries grow rich while others remain poor. Geography plays a role – access to the sea, a temperate climate, natural resources. But natural resources can be a curse as well as a blessing. Several countries rich in oil or minerals have grown more slowly than resource-poor neighbours. One explanation is that easy revenue from resources reduces the incentive to develop other industries and makes governments less dependent on taxing their citizens – and therefore less accountable to them. Increasingly, economists emphasise institutions: secure property rights, independent courts and a government that is constrained by law. Without these, even abundant resources tend to benefit a narrow elite."
+    }
+   ],
+   "question": "Why might resource wealth make governments less accountable?",
+   "options": [
+    "They have more independent courts.",
+    "They are controlled by foreign companies.",
+    "They invest more in education.",
+    "They rely less on taxes from their citizens."
+   ],
+   "answer": 3,
+   "explanation": "'…makes governments less dependent on taxing their citizens – and therefore less accountable to them.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-083",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-42",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You're a doctor who's become known for prescribing gardening, walking groups and art classes. Isn't that a bit unscientific?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "It's called social prescribing, and it's not as unconventional as it sounds. A large proportion of the patients I see aren't suffering from something a pill can fix. They're isolated, stressed or inactive, and that's affecting their health."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "But does it work?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "The evidence is still developing, and I'd be the first to admit some studies are small. But we do see reductions in GP visits and improvements in wellbeing. Most importantly, it gets people involved in their own recovery rather than passively receiving treatment."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So medication is overprescribed?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Sometimes. But I wouldn't put it that way. Medication is essential for many conditions. Social prescribing complements it; it doesn't replace it."
+    }
+   ],
+   "question": "How does the doctor describe the evidence for social prescribing?",
+   "options": [
+    "Entirely negative.",
+    "Encouraging, but still limited in some respects.",
+    "Conclusive and complete.",
+    "Non-existent."
+   ],
+   "answer": 1,
+   "explanation": "'The evidence is still developing, and I'd be the first to admit some studies are small.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-084",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "c1-ls-42",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You're a doctor who's become known for prescribing gardening, walking groups and art classes. Isn't that a bit unscientific?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "It's called social prescribing, and it's not as unconventional as it sounds. A large proportion of the patients I see aren't suffering from something a pill can fix. They're isolated, stressed or inactive, and that's affecting their health."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "But does it work?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "The evidence is still developing, and I'd be the first to admit some studies are small. But we do see reductions in GP visits and improvements in wellbeing. Most importantly, it gets people involved in their own recovery rather than passively receiving treatment."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So medication is overprescribed?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Sometimes. But I wouldn't put it that way. Medication is essential for many conditions. Social prescribing complements it; it doesn't replace it."
+    }
+   ],
+   "question": "What is the doctor's view of medication?",
+   "options": [
+    "It is almost always overprescribed.",
+    "It should be replaced by social activities.",
+    "It is unnecessary for most patients.",
+    "It remains essential and works alongside social prescribing."
+   ],
+   "answer": 3,
+   "explanation": "'Social prescribing complements it; it doesn't replace it.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-085",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "c1-ls-43",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "As a fact-checker, do you think correcting false information actually changes people's minds?"
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "More often than people assume, though not always in the way you'd hope. There was a worry for some years about a 'backfire effect' – the idea that corrections make people cling to false beliefs even more strongly. Larger studies have found that's actually quite rare."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So corrections work?"
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "They shift beliefs about the specific facts. What they rarely shift is the attitudes behind them. Someone might accept that a particular statistic was wrong while remaining just as supportive of the politician who used it."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "That's rather depressing."
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "Or realistic. Facts matter, but people's political loyalties are built on much more than facts."
+    }
+   ],
+   "question": "What does the fact-checker say about the 'backfire effect'?",
+   "options": [
+    "It was proved by recent research.",
+    "It only affects politicians.",
+    "Larger studies suggest it rarely happens.",
+    "It happens in most cases."
+   ],
+   "answer": 2,
+   "explanation": "'Larger studies have found that's actually quite rare.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-086",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "c1-ls-43",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "As a fact-checker, do you think correcting false information actually changes people's minds?"
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "More often than people assume, though not always in the way you'd hope. There was a worry for some years about a 'backfire effect' – the idea that corrections make people cling to false beliefs even more strongly. Larger studies have found that's actually quite rare."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So corrections work?"
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "They shift beliefs about the specific facts. What they rarely shift is the attitudes behind them. Someone might accept that a particular statistic was wrong while remaining just as supportive of the politician who used it."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "That's rather depressing."
+    },
+    {
+     "speaker": "Fact-checker",
+     "text": "Or realistic. Facts matter, but people's political loyalties are built on much more than facts."
+    }
+   ],
+   "question": "What, according to the fact-checker, do corrections rarely change?",
+   "options": [
+    "The accuracy of statistics.",
+    "Beliefs about specific facts.",
+    "Journalists' behaviour.",
+    "People's underlying political attitudes."
+   ],
+   "answer": 3,
+   "explanation": "'What they rarely shift is the attitudes behind them.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-087",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-44",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "The new open-plan office was supposed to encourage collaboration. Has it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "If anything, the opposite. People are wearing headphones all day to block out the noise, and important conversations have moved to messaging apps so others can't overhear."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So face-to-face interaction has actually decreased?"
+    },
+    {
+     "speaker": "Man",
+     "text": "That's what it feels like, and apparently there's research showing exactly that. When people lose privacy, they create it artificially."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Should we go back to separate offices, then?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I wouldn't go that far. What seems to work best is variety – quiet areas for focused work, open spaces for meetings, and the freedom to choose. The mistake was assuming one layout would suit every task."
+    }
+   ],
+   "question": "What has happened since the open-plan office was introduced?",
+   "options": [
+    "Employees have found ways to recreate privacy.",
+    "Employees talk to each other more.",
+    "Productivity has doubled.",
+    "Collaboration has greatly improved."
+   ],
+   "answer": 0,
+   "explanation": "'People are wearing headphones all day… When people lose privacy, they create it artificially.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-088",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "c1-ls-44",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "The new open-plan office was supposed to encourage collaboration. Has it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "If anything, the opposite. People are wearing headphones all day to block out the noise, and important conversations have moved to messaging apps so others can't overhear."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So face-to-face interaction has actually decreased?"
+    },
+    {
+     "speaker": "Man",
+     "text": "That's what it feels like, and apparently there's research showing exactly that. When people lose privacy, they create it artificially."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Should we go back to separate offices, then?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I wouldn't go that far. What seems to work best is variety – quiet areas for focused work, open spaces for meetings, and the freedom to choose. The mistake was assuming one layout would suit every task."
+    }
+   ],
+   "question": "What does the man recommend?",
+   "options": [
+    "Returning to individual offices.",
+    "A range of spaces for different kinds of work.",
+    "Keeping the current layout.",
+    "Banning headphones."
+   ],
+   "answer": 1,
+   "explanation": "'What seems to work best is variety…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-089",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-45",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Bees are often held up as the symbol of declining insect populations, and rightly so. But I want to point out a common misunderstanding. When people hear 'save the bees', many think of honeybees, and some respond by keeping hives. Honeybees, however, are essentially farmed animals and are not endangered. In some areas, large numbers of hives can actually compete with wild bees for limited flowers, potentially making things worse for the species that genuinely are in decline. If you want to help, planting a variety of native flowers and leaving part of your garden untidy is likely to do far more good than buying a beehive."
+    }
+   ],
+   "question": "What misunderstanding does the lecturer describe?",
+   "options": [
+    "Believing that keeping honeybees helps endangered bees.",
+    "Thinking bees are not declining.",
+    "Thinking flowers harm bees.",
+    "Believing wild bees produce honey."
+   ],
+   "answer": 0,
+   "explanation": "'…some respond by keeping hives. Honeybees, however, are… not endangered.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-090",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "c1-ls-45",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Bees are often held up as the symbol of declining insect populations, and rightly so. But I want to point out a common misunderstanding. When people hear 'save the bees', many think of honeybees, and some respond by keeping hives. Honeybees, however, are essentially farmed animals and are not endangered. In some areas, large numbers of hives can actually compete with wild bees for limited flowers, potentially making things worse for the species that genuinely are in decline. If you want to help, planting a variety of native flowers and leaving part of your garden untidy is likely to do far more good than buying a beehive."
+    }
+   ],
+   "question": "What does the lecturer recommend?",
+   "options": [
+    "Removing all wild flowers.",
+    "Buying a beehive.",
+    "Planting native flowers and leaving areas untidy.",
+    "Avoiding gardening altogether."
+   ],
+   "answer": 2,
+   "explanation": "'…planting a variety of native flowers and leaving part of your garden untidy…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-091",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "c1-ls-46",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've decided to stop flying for holidays. I'm going to take the train to Italy this summer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's admirable, but won't it take forever?"
+    },
+    {
+     "speaker": "Man",
+     "text": "About a day and a half, with an overnight stop in Paris. I used to see the journey as wasted time, but now I see it as part of the holiday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'd love to do that, but with two children and only two weeks off, it's just not realistic for us."
+    },
+    {
+     "speaker": "Man",
+     "text": "I don't think it's realistic for everyone, and I'm not trying to make anyone feel guilty. Honestly, the bigger issue is how expensive trains are compared with budget flights. Until that changes, most people will keep flying."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's true. It shouldn't cost three times as much to do the right thing."
+    }
+   ],
+   "question": "How has the man's view of long journeys changed?",
+   "options": [
+    "He thinks they are a waste of time.",
+    "He now sees travelling as an enjoyable part of the trip.",
+    "He prefers to travel overnight by plane.",
+    "He finds them more stressful."
+   ],
+   "answer": 1,
+   "explanation": "'I used to see the journey as wasted time, but now I see it as part of the holiday.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-092",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "c1-ls-46",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've decided to stop flying for holidays. I'm going to take the train to Italy this summer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's admirable, but won't it take forever?"
+    },
+    {
+     "speaker": "Man",
+     "text": "About a day and a half, with an overnight stop in Paris. I used to see the journey as wasted time, but now I see it as part of the holiday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'd love to do that, but with two children and only two weeks off, it's just not realistic for us."
+    },
+    {
+     "speaker": "Man",
+     "text": "I don't think it's realistic for everyone, and I'm not trying to make anyone feel guilty. Honestly, the bigger issue is how expensive trains are compared with budget flights. Until that changes, most people will keep flying."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's true. It shouldn't cost three times as much to do the right thing."
+    }
+   ],
+   "question": "On what do the speakers agree?",
+   "options": [
+    "Budget flights should be banned.",
+    "Everyone should stop flying.",
+    "Train travel is too expensive compared with flying.",
+    "Families should travel by train."
+   ],
+   "answer": 2,
+   "explanation": "Man: 'the bigger issue is how expensive trains are…' Woman: 'That's true. It shouldn't cost three times as much…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-093",
+   "type": "listening",
+   "topic": "language",
+   "scriptId": "c1-ls-47",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've been learning Japanese for ten years. What's the hardest part?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "People assume it's the writing system, and that's certainly a mountain to climb. But for me, it's the levels of politeness. The way you speak changes depending on who you're talking to – your boss, a customer, a friend – and getting it wrong can come across as rude or oddly distant."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do native speakers forgive mistakes?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "Generally, yes – they're very patient with foreigners. But that's almost a problem in itself. Because they're so polite, they rarely correct you, so you can make the same mistake for years without realising."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "How did you overcome that?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "I asked a close friend to correct me ruthlessly. It was painful at first, but my Japanese improved more in six months than in the previous three years."
+    }
+   ],
+   "question": "What does the learner find most difficult about Japanese?",
+   "options": [
+    "Grammar rules.",
+    "Adjusting speech to different levels of formality.",
+    "Pronunciation.",
+    "The writing system."
+   ],
+   "answer": 1,
+   "explanation": "'…for me, it's the levels of politeness.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-094",
+   "type": "listening",
+   "topic": "language",
+   "scriptId": "c1-ls-47",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've been learning Japanese for ten years. What's the hardest part?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "People assume it's the writing system, and that's certainly a mountain to climb. But for me, it's the levels of politeness. The way you speak changes depending on who you're talking to – your boss, a customer, a friend – and getting it wrong can come across as rude or oddly distant."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do native speakers forgive mistakes?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "Generally, yes – they're very patient with foreigners. But that's almost a problem in itself. Because they're so polite, they rarely correct you, so you can make the same mistake for years without realising."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "How did you overcome that?"
+    },
+    {
+     "speaker": "Learner",
+     "text": "I asked a close friend to correct me ruthlessly. It was painful at first, but my Japanese improved more in six months than in the previous three years."
+    }
+   ],
+   "question": "Why does the learner say native speakers' patience is 'almost a problem'?",
+   "options": [
+    "It makes conversations very slow.",
+    "It means learners are rarely corrected.",
+    "It makes learners overconfident.",
+    "It prevents learners from making friends."
+   ],
+   "answer": 1,
+   "explanation": "'Because they're so polite, they rarely correct you…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-095",
+   "type": "listening",
+   "topic": "announcement",
+   "scriptId": "c1-ls-48",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "Thank you all for coming to this information session about the proposed changes to the graduate programme. I'd like to begin by addressing the rumours that have been circulating. Contrary to what some of you may have heard, the programme is not being cut. What is changing is its structure. Instead of three six-month rotations in different departments, graduates will spend the first year in a single department and then choose a second placement based on their interests. We believe this will allow for deeper learning and stronger relationships with mentors. I appreciate that some of you valued the variety of the old system, and we'll be holding small-group discussions after this session to hear your concerns."
+    }
+   ],
+   "question": "What rumour does the speaker address?",
+   "options": [
+    "That graduates will be paid less.",
+    "That the graduate programme is being cut.",
+    "That mentors are leaving.",
+    "That the session has been cancelled."
+   ],
+   "answer": 1,
+   "explanation": "'Contrary to what some of you may have heard, the programme is not being cut.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-096",
+   "type": "listening",
+   "topic": "announcement",
+   "scriptId": "c1-ls-48",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "Thank you all for coming to this information session about the proposed changes to the graduate programme. I'd like to begin by addressing the rumours that have been circulating. Contrary to what some of you may have heard, the programme is not being cut. What is changing is its structure. Instead of three six-month rotations in different departments, graduates will spend the first year in a single department and then choose a second placement based on their interests. We believe this will allow for deeper learning and stronger relationships with mentors. I appreciate that some of you valued the variety of the old system, and we'll be holding small-group discussions after this session to hear your concerns."
+    }
+   ],
+   "question": "Why has the structure of the programme been changed?",
+   "options": [
+    "To save money.",
+    "To allow deeper learning and closer mentoring relationships.",
+    "To give graduates more variety.",
+    "To reduce the length of the programme."
+   ],
+   "answer": 1,
+   "explanation": "'We believe this will allow for deeper learning and stronger relationships with mentors.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-097",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-49",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've studied the effects of giving people cash with no conditions attached. What did you find?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "The common fear is that people will waste it – on alcohol, gambling and so on. In the trials I've studied, that simply didn't happen on any significant scale. Most people spent it on food, school fees, tools or livestock."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Did people stop working?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "Very few. In some cases, they worked more, because they could finally afford to invest in a small business or travel to find better jobs."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So why isn't it more widespread?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "Partly politics. There's a deep-rooted belief that help should come with conditions and supervision. Ironically, monitoring how people spend money is often expensive and can cost more than it saves."
+    }
+   ],
+   "question": "What did the economist find about how people spent the cash?",
+   "options": [
+    "Most saved it all.",
+    "Most spent it on useful goods and investments.",
+    "Most wasted it on gambling.",
+    "Most gave it to relatives."
+   ],
+   "answer": 1,
+   "explanation": "'Most people spent it on food, school fees, tools or livestock.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-098",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "c1-ls-49",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "You've studied the effects of giving people cash with no conditions attached. What did you find?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "The common fear is that people will waste it – on alcohol, gambling and so on. In the trials I've studied, that simply didn't happen on any significant scale. Most people spent it on food, school fees, tools or livestock."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Did people stop working?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "Very few. In some cases, they worked more, because they could finally afford to invest in a small business or travel to find better jobs."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So why isn't it more widespread?"
+    },
+    {
+     "speaker": "Economist",
+     "text": "Partly politics. There's a deep-rooted belief that help should come with conditions and supervision. Ironically, monitoring how people spend money is often expensive and can cost more than it saves."
+    }
+   ],
+   "question": "What irony does the economist point out?",
+   "options": [
+    "Conditions make the programmes cheaper.",
+    "Supervising spending can cost more than it saves.",
+    "People worked less after receiving cash.",
+    "Politicians support the idea strongly."
+   ],
+   "answer": 1,
+   "explanation": "'Ironically, monitoring how people spend money is often expensive and can cost more than it saves.'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-099",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-50",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I went to that exhibition of AI-generated art at the weekend."
+    },
+    {
+     "speaker": "Man",
+     "text": "And? Is it art?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's what everyone asks, and I think it's the wrong question. Some of the images were genuinely striking. But what I found more interesting was the debate around them – who the artist is when a machine produces the image."
+    },
+    {
+     "speaker": "Man",
+     "text": "Surely it's the person who wrote the instructions?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Partly. But the system was trained on millions of images by human artists, most of whom were never asked or paid. So in a sense, they're uncredited collaborators."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds like a legal problem rather than an artistic one."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's both. Questions about authorship have always been artistic questions too."
+    }
+   ],
+   "question": "Why does the woman think 'Is it art?' is the wrong question?",
+   "options": [
+    "The question has already been answered.",
+    "Nobody visited the exhibition.",
+    "The issue of authorship is more interesting.",
+    "The images were obviously not art."
+   ],
+   "answer": 2,
+   "explanation": "'…what I found more interesting was the debate around them – who the artist is…'",
+   "skill": "listening",
+   "level": "c1"
+  },
+  {
+   "id": "c1-listening-100",
+   "type": "listening",
+   "topic": "arts",
+   "scriptId": "c1-ls-50",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I went to that exhibition of AI-generated art at the weekend."
+    },
+    {
+     "speaker": "Man",
+     "text": "And? Is it art?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's what everyone asks, and I think it's the wrong question. Some of the images were genuinely striking. But what I found more interesting was the debate around them – who the artist is when a machine produces the image."
+    },
+    {
+     "speaker": "Man",
+     "text": "Surely it's the person who wrote the instructions?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Partly. But the system was trained on millions of images by human artists, most of whom were never asked or paid. So in a sense, they're uncredited collaborators."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds like a legal problem rather than an artistic one."
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's both. Questions about authorship have always been artistic questions too."
+    }
+   ],
+   "question": "What does the woman mean by 'uncredited collaborators'?",
+   "options": [
+    "Visitors who commented on the images.",
+    "Human artists whose work was used to train the system.",
+    "Engineers who built the computers.",
+    "Gallery staff who organised the exhibition."
+   ],
+   "answer": 1,
+   "explanation": "'…the system was trained on millions of images by human artists, most of whom were never asked or paid.'",
+   "skill": "listening",
+   "level": "c1"
+  }
+ ]
+}

@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "c1",
+ "skill": "phrasalVerb",
+ "title": {
+  "en": "Phrasal Verbs",
+  "vi": "Cụm động từ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "c1-phrasalVerb-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "abide by",
+   "context": "All members must abide by the club's code of conduct.",
+   "question": "What does “abide by” mean in this sentence?",
+   "options": [
+    "to happen or appear unexpectedly",
+    "to depend completely on something",
+    "to accept and obey a rule, law or decision",
+    "to examine something carefully in order to find information"
+   ],
+   "answer": 2,
+   "meaningVi": "tuân thủ, chấp hành",
+   "explanation": "“abide by” = to accept and obey a rule, law or decision.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "brush aside",
+   "context": "The minister brushed aside questions about his expenses.",
+   "question": "What does “brush aside” mean in this sentence?",
+   "options": [
+    "to add more details to a plan or idea",
+    "to refuse to consider something seriously",
+    "to include something when you are calculating or planning",
+    "to persuade someone to help with an activity"
+   ],
+   "answer": 1,
+   "meaningVi": "gạt đi, phớt lờ",
+   "explanation": "“brush aside” = to refuse to consider something seriously.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "butt in",
+   "context": "Sorry to butt in, but I couldn't help overhearing your plans.",
+   "question": "What does “butt in” mean in this sentence?",
+   "options": [
+    "to leave an activity or job, especially after a long time",
+    "to keep thinking or talking about something unpleasant",
+    "to interrupt a conversation rudely",
+    "to start working hard, especially after not working hard enough"
+   ],
+   "answer": 2,
+   "meaningVi": "chen ngang, xen vào",
+   "explanation": "“butt in” = to interrupt a conversation rudely.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "chip in",
+   "context": "We all chipped in to buy our teacher a leaving present.",
+   "question": "What does “chip in” mean in this sentence?",
+   "options": [
+    "to suddenly attack or criticise someone angrily",
+    "to discover or describe something exactly",
+    "to reach an agreement after a long, difficult discussion",
+    "to give a small amount of money or help along with others"
+   ],
+   "answer": 3,
+   "meaningVi": "góp tiền, góp sức",
+   "explanation": "“chip in” = to give a small amount of money or help along with others.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "churn out",
+   "context": "The factory churns out thousands of cheap toys every day.",
+   "question": "What does “churn out” mean in this sentence?",
+   "options": [
+    "to get through a difficult period without serious damage",
+    "to produce large quantities of something quickly, often of low quality",
+    "to persuade someone to help with an activity",
+    "to try to get support or business by making an effort"
+   ],
+   "answer": 1,
+   "meaningVi": "sản xuất hàng loạt (thường kém chất lượng)",
+   "explanation": "“churn out” = to produce large quantities of something quickly, often of low quality.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "conjure up",
+   "context": "The smell of cinnamon always conjures up memories of my grandmother's kitchen.",
+   "question": "What does “conjure up” mean in this sentence?",
+   "options": [
+    "to discover or describe something exactly",
+    "to start to have an effect",
+    "to gradually get a large amount or number of something",
+    "to make a picture or memory appear in someone's mind"
+   ],
+   "answer": 3,
+   "meaningVi": "gợi lên (hình ảnh, ký ức)",
+   "explanation": "“conjure up” = to make a picture or memory appear in someone's mind.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "delve into",
+   "context": "The documentary delves into the history of the city's forgotten industries.",
+   "question": "What does “delve into” mean in this sentence?",
+   "options": [
+    "to become very interested in an idea and use it enthusiastically",
+    "to stop something bad from happening for a period of time",
+    "to examine something carefully in order to find information",
+    "to reach an agreement after a long, difficult discussion"
+   ],
+   "answer": 2,
+   "meaningVi": "đào sâu, tìm hiểu kỹ",
+   "explanation": "“delve into” = to examine something carefully in order to find information.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "dwell on",
+   "context": "There's no point dwelling on past mistakes – learn from them and move on.",
+   "question": "What does “dwell on” mean in this sentence?",
+   "options": [
+    "to keep thinking or talking about something unpleasant",
+    "to finally agree to something after strong opposition",
+    "to make a picture or memory appear in someone's mind",
+    "to gradually end in a weak or disappointing way"
+   ],
+   "answer": 0,
+   "meaningVi": "day dứt, cứ nghĩ mãi về",
+   "explanation": "“dwell on” = to keep thinking or talking about something unpleasant.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "embark on",
+   "context": "After retiring, he embarked on a new career as a novelist.",
+   "question": "What does “embark on” mean in this sentence?",
+   "options": [
+    "to start something new, important or difficult",
+    "to get through a difficult period without serious damage",
+    "to give a small amount of money or help along with others",
+    "to tell someone the truth about something"
+   ],
+   "answer": 0,
+   "meaningVi": "bắt tay vào, khởi đầu",
+   "explanation": "“embark on” = to start something new, important or difficult.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "factor in",
+   "context": "When planning the trip, don't forget to factor in the cost of insurance.",
+   "question": "What does “factor in” mean in this sentence?",
+   "options": [
+    "to include something when you are calculating or planning",
+    "to start to have an effect",
+    "to accept and obey a rule, law or decision",
+    "to study or look at something very carefully for a long time"
+   ],
+   "answer": 0,
+   "meaningVi": "tính đến, đưa vào tính toán",
+   "explanation": "“factor in” = to include something when you are calculating or planning.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fend off",
+   "context": "The small company managed to fend off a takeover bid from its larger rival.",
+   "question": "What does “fend off” mean in this sentence?",
+   "options": [
+    "to buy or take something quickly because it is cheap or popular",
+    "to persuade someone to help with an activity",
+    "to defend yourself against an attack, criticism or competition",
+    "to try to get support or business by making an effort"
+   ],
+   "answer": 2,
+   "meaningVi": "chống đỡ, đẩy lùi",
+   "explanation": "“fend off” = to defend yourself against an attack, criticism or competition.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "flesh out",
+   "context": "The proposal is promising, but you need to flesh out the budget section.",
+   "question": "What does “flesh out” mean in this sentence?",
+   "options": [
+    "to emphasise something to make it seem more important",
+    "to discover or describe something exactly",
+    "to become very interested in an idea and use it enthusiastically",
+    "to add more details to a plan or idea"
+   ],
+   "answer": 3,
+   "meaningVi": "bổ sung chi tiết, làm rõ",
+   "explanation": "“flesh out” = to add more details to a plan or idea.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fork out",
+   "context": "We had to fork out £500 to repair the boiler.",
+   "question": "What does “fork out” mean in this sentence?",
+   "options": [
+    "to start working hard, especially after not working hard enough",
+    "to support or defend someone who is being criticised",
+    "to prepare for something that is going to happen",
+    "to spend a lot of money on something, often unwillingly"
+   ],
+   "answer": 3,
+   "meaningVi": "bỏ tiền ra (miễn cưỡng)",
+   "explanation": "“fork out” = to spend a lot of money on something, often unwillingly.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "gloss over",
+   "context": "The report glosses over the company's serious environmental record.",
+   "question": "What does “gloss over” mean in this sentence?",
+   "options": [
+    "to study or look at something very carefully for a long time",
+    "to deal with a problem quickly so that people don't notice it",
+    "to keep thinking or talking about something unpleasant",
+    "to use or take advantage of a supply of something"
+   ],
+   "answer": 1,
+   "meaningVi": "lấp liếm, nói lướt qua",
+   "explanation": "“gloss over” = to deal with a problem quickly so that people don't notice it.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hammer out",
+   "context": "Negotiators worked through the night to hammer out a deal.",
+   "question": "What does “hammer out” mean in this sentence?",
+   "options": [
+    "to try to find out what someone thinks, often informally",
+    "to keep thinking or talking about something unpleasant",
+    "to deal with a problem quickly so that people don't notice it",
+    "to reach an agreement after a long, difficult discussion"
+   ],
+   "answer": 3,
+   "meaningVi": "thương lượng đến cùng để đạt thỏa thuận",
+   "explanation": "“hammer out” = to reach an agreement after a long, difficult discussion.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hinge on",
+   "context": "The success of the project hinges on getting government funding.",
+   "question": "What does “hinge on” mean in this sentence?",
+   "options": [
+    "to depend completely on something",
+    "to leave an activity or job, especially after a long time",
+    "to finally agree to something after strong opposition",
+    "to discover or describe something exactly"
+   ],
+   "answer": 0,
+   "meaningVi": "phụ thuộc hoàn toàn vào",
+   "explanation": "“hinge on” = to depend completely on something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "lash out",
+   "context": "The coach lashed out at journalists after the defeat.",
+   "question": "What does “lash out” mean in this sentence?",
+   "options": [
+    "to suddenly attack or criticise someone angrily",
+    "to use or take advantage of a supply of something",
+    "to make a picture or memory appear in someone's mind",
+    "to support or defend someone who is being criticised"
+   ],
+   "answer": 0,
+   "meaningVi": "đả kích, nổi xung tấn công",
+   "explanation": "“lash out” = to suddenly attack or criticise someone angrily.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "latch onto",
+   "context": "The media quickly latched onto the story of the missing cat.",
+   "question": "What does “latch onto” mean in this sentence?",
+   "options": [
+    "to start working hard, especially after not working hard enough",
+    "to become very interested in an idea and use it enthusiastically",
+    "to increase the amount, speed or intensity of something",
+    "to accept and obey a rule, law or decision"
+   ],
+   "answer": 1,
+   "meaningVi": "bám lấy, nắm lấy (ý tưởng)",
+   "explanation": "“latch onto” = to become very interested in an idea and use it enthusiastically.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "level with",
+   "context": "I'll level with you – the company is in serious financial trouble.",
+   "question": "What does “level with” mean in this sentence?",
+   "options": [
+    "to tell someone the truth about something",
+    "to buy or take something quickly because it is cheap or popular",
+    "to gradually end in a weak or disappointing way",
+    "to control or limit something more strictly"
+   ],
+   "answer": 0,
+   "meaningVi": "nói thật, thẳng thắn với",
+   "explanation": "“level with” = to tell someone the truth about something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "nod off",
+   "context": "Several students nodded off during the afternoon lecture.",
+   "question": "What does “nod off” mean in this sentence?",
+   "options": [
+    "to interrupt a conversation rudely",
+    "to become very interested in an idea and use it enthusiastically",
+    "to fall asleep, especially when you do not intend to",
+    "to tell someone the truth about something"
+   ],
+   "answer": 2,
+   "meaningVi": "ngủ gật",
+   "explanation": "“nod off” = to fall asleep, especially when you do not intend to.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "own up to",
+   "context": "Nobody would own up to breaking the printer.",
+   "question": "What does “own up to” mean in this sentence?",
+   "options": [
+    "to refuse to consider something seriously",
+    "to suddenly attack or criticise someone angrily",
+    "to gradually end in a weak or disappointing way",
+    "to admit that you have done something wrong"
+   ],
+   "answer": 3,
+   "meaningVi": "thú nhận, nhận lỗi",
+   "explanation": "“own up to” = to admit that you have done something wrong.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "pin down",
+   "context": "Doctors have been unable to pin down the cause of her symptoms.",
+   "question": "What does “pin down” mean in this sentence?",
+   "options": [
+    "to give a small amount of money or help along with others",
+    "to persuade someone to help with an activity",
+    "to gradually end in a weak or disappointing way",
+    "to discover or describe something exactly"
+   ],
+   "answer": 3,
+   "meaningVi": "xác định chính xác",
+   "explanation": "“pin down” = to discover or describe something exactly.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "play up",
+   "context": "The advert plays up the car's safety features.",
+   "question": "What does “play up” mean in this sentence?",
+   "options": [
+    "to examine something carefully in order to find information",
+    "to start working hard, especially after not working hard enough",
+    "to emphasise something to make it seem more important",
+    "to finally agree to something after strong opposition"
+   ],
+   "answer": 2,
+   "meaningVi": "nhấn mạnh, phóng đại",
+   "explanation": "“play up” = to emphasise something to make it seem more important.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "rein in",
+   "context": "The government has promised to rein in public spending.",
+   "question": "What does “rein in” mean in this sentence?",
+   "options": [
+    "to give a small amount of money or help along with others",
+    "to become gradually quieter and then stop",
+    "to control or limit something more strictly",
+    "to finally agree to something after strong opposition"
+   ],
+   "answer": 2,
+   "meaningVi": "kìm hãm, kiểm soát chặt",
+   "explanation": "“rein in” = to control or limit something more strictly.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "rope in",
+   "context": "I got roped in to help with the school fair.",
+   "question": "What does “rope in” mean in this sentence?",
+   "options": [
+    "to leave an activity or job, especially after a long time",
+    "to persuade someone to help with an activity",
+    "to start something new, important or difficult",
+    "to refuse to consider something seriously"
+   ],
+   "answer": 1,
+   "meaningVi": "lôi kéo (ai) giúp một tay",
+   "explanation": "“rope in” = to persuade someone to help with an activity.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "shrug off",
+   "context": "The champion shrugged off a minor injury to win the final.",
+   "question": "What does “shrug off” mean in this sentence?",
+   "options": [
+    "to treat something as unimportant and not let it affect you",
+    "to buy or take something quickly because it is cheap or popular",
+    "to get through a difficult period without serious damage",
+    "to support or defend someone who is being criticised"
+   ],
+   "answer": 0,
+   "meaningVi": "coi nhẹ, gạt bỏ",
+   "explanation": "“shrug off” = to treat something as unimportant and not let it affect you.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "sound out",
+   "context": "Before proposing the idea, I'll sound out a few colleagues.",
+   "question": "What does “sound out” mean in this sentence?",
+   "options": [
+    "to include something when you are calculating or planning",
+    "to try to find out what someone thinks, often informally",
+    "to admit that you have done something wrong",
+    "to mark or cause the start of a new period"
+   ],
+   "answer": 1,
+   "meaningVi": "thăm dò ý kiến",
+   "explanation": "“sound out” = to try to find out what someone thinks, often informally.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stave off",
+   "context": "The company cut costs to stave off bankruptcy.",
+   "question": "What does “stave off” mean in this sentence?",
+   "options": [
+    "to get through a difficult period without serious damage",
+    "to start to have an effect",
+    "to stop something bad from happening for a period of time",
+    "to emphasise something to make it seem more important"
+   ],
+   "answer": 2,
+   "meaningVi": "ngăn chặn, trì hoãn (điều xấu)",
+   "explanation": "“stave off” = to stop something bad from happening for a period of time.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "step up",
+   "context": "Police have stepped up patrols in the city centre.",
+   "question": "What does “step up” mean in this sentence?",
+   "options": [
+    "to discover or describe something exactly",
+    "to increase the amount, speed or intensity of something",
+    "to emphasise something to make it seem more important",
+    "to buy or take something quickly because it is cheap or popular"
+   ],
+   "answer": 1,
+   "meaningVi": "đẩy mạnh, tăng cường",
+   "explanation": "“step up” = to increase the amount, speed or intensity of something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stick up for",
+   "context": "Thanks for sticking up for me at the meeting.",
+   "question": "What does “stick up for” mean in this sentence?",
+   "options": [
+    "to support or defend someone who is being criticised",
+    "to discover or describe something exactly",
+    "to admit that you have done something wrong",
+    "to gradually get a large amount or number of something"
+   ],
+   "answer": 0,
+   "meaningVi": "bênh vực",
+   "explanation": "“stick up for” = to support or defend someone who is being criticised.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "tap into",
+   "context": "The brand has successfully tapped into the growing market for eco-friendly products.",
+   "question": "What does “tap into” mean in this sentence?",
+   "options": [
+    "to increase the amount, speed or intensity of something",
+    "to treat something as unimportant and not let it affect you",
+    "to use or take advantage of a supply of something",
+    "to finally agree to something after strong opposition"
+   ],
+   "answer": 2,
+   "meaningVi": "khai thác, tận dụng",
+   "explanation": "“tap into” = to use or take advantage of a supply of something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "tone down",
+   "context": "The editor asked him to tone down the language in his article.",
+   "question": "What does “tone down” mean in this sentence?",
+   "options": [
+    "to make something less extreme, offensive or intense",
+    "to accept and obey a rule, law or decision",
+    "to increase the amount, speed or intensity of something",
+    "to start something new, important or difficult"
+   ],
+   "answer": 0,
+   "meaningVi": "giảm nhẹ, làm dịu bớt",
+   "explanation": "“tone down” = to make something less extreme, offensive or intense.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "trail off",
+   "context": "Her voice trailed off as she realised everyone was staring at her.",
+   "question": "What does “trail off” mean in this sentence?",
+   "options": [
+    "to become gradually quieter and then stop",
+    "to admit that you have done something wrong",
+    "to spend a lot of money on something, often unwillingly",
+    "to emphasise something to make it seem more important"
+   ],
+   "answer": 0,
+   "meaningVi": "nhỏ dần rồi tắt hẳn (giọng nói)",
+   "explanation": "“trail off” = to become gradually quieter and then stop.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "usher in",
+   "context": "The invention of the printing press ushered in a new age of learning.",
+   "question": "What does “usher in” mean in this sentence?",
+   "options": [
+    "to tell someone the truth about something",
+    "to add more details to a plan or idea",
+    "to mark or cause the start of a new period",
+    "to plan in detail how something will happen"
+   ],
+   "answer": 2,
+   "meaningVi": "mở ra (thời kỳ mới)",
+   "explanation": "“usher in” = to mark or cause the start of a new period.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "weed out",
+   "context": "The first interview is designed to weed out unsuitable candidates.",
+   "question": "What does “weed out” mean in this sentence?",
+   "options": [
+    "to remove unwanted people or things from a group",
+    "to gradually get a large amount or number of something",
+    "to gradually reduce the size or number of something",
+    "to deal with a problem quickly so that people don't notice it"
+   ],
+   "answer": 0,
+   "meaningVi": "loại bỏ, sàng lọc",
+   "explanation": "“weed out” = to remove unwanted people or things from a group.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "whittle down",
+   "context": "We've whittled down the list of applicants to five.",
+   "question": "What does “whittle down” mean in this sentence?",
+   "options": [
+    "to discover or describe something exactly",
+    "to gradually end in a weak or disappointing way",
+    "to get through a difficult period without serious damage",
+    "to gradually reduce the size or number of something"
+   ],
+   "answer": 3,
+   "meaningVi": "rút gọn dần, giảm dần",
+   "explanation": "“whittle down” = to gradually reduce the size or number of something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "wriggle out of",
+   "context": "He always manages to wriggle out of the washing-up.",
+   "question": "What does “wriggle out of” mean in this sentence?",
+   "options": [
+    "to suddenly attack or criticise someone angrily",
+    "to gradually get a large amount or number of something",
+    "to give a small amount of money or help along with others",
+    "to avoid doing something you should do, especially by being clever or dishonest"
+   ],
+   "answer": 3,
+   "meaningVi": "lẩn tránh, thoái thác",
+   "explanation": "“wriggle out of” = to avoid doing something you should do, especially by being clever or dishonest.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "drum up",
+   "context": "The band played free concerts to drum up interest in their new album.",
+   "question": "What does “drum up” mean in this sentence?",
+   "options": [
+    "to suddenly attack or criticise someone angrily",
+    "to try to get support or business by making an effort",
+    "to persuade someone to help with an activity",
+    "to plan in detail how something will happen"
+   ],
+   "answer": 1,
+   "meaningVi": "vận động, kêu gọi (ủng hộ)",
+   "explanation": "“drum up” = to try to get support or business by making an effort.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "bow out",
+   "context": "After thirty years in politics, she has decided to bow out.",
+   "question": "What does “bow out” mean in this sentence?",
+   "options": [
+    "to reach an agreement after a long, difficult discussion",
+    "to leave an activity or job, especially after a long time",
+    "to admit that you have done something wrong",
+    "to persuade someone to help with an activity"
+   ],
+   "answer": 1,
+   "meaningVi": "rút lui, giải nghệ",
+   "explanation": "“bow out” = to leave an activity or job, especially after a long time.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "cave in",
+   "context": "The government eventually caved in to public pressure.",
+   "question": "What does “cave in” mean in this sentence?",
+   "options": [
+    "to try to find out what someone thinks, often informally",
+    "to buy or take something quickly because it is cheap or popular",
+    "to refuse to consider something seriously",
+    "to finally agree to something after strong opposition"
+   ],
+   "answer": 3,
+   "meaningVi": "nhượng bộ, chịu thua",
+   "explanation": "“cave in” = to finally agree to something after strong opposition.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "crop up",
+   "context": "I'm sorry I'm late – something cropped up at work.",
+   "question": "What does “crop up” mean in this sentence?",
+   "options": [
+    "to use or take advantage of a supply of something",
+    "to happen or appear unexpectedly",
+    "to fall asleep, especially when you do not intend to",
+    "to spend a lot of money on something, often unwillingly"
+   ],
+   "answer": 1,
+   "meaningVi": "nảy sinh bất ngờ",
+   "explanation": "“crop up” = to happen or appear unexpectedly.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fizzle out",
+   "context": "The protest fizzled out after a few days.",
+   "question": "What does “fizzle out” mean in this sentence?",
+   "options": [
+    "to defend yourself against an attack, criticism or competition",
+    "to gradually end in a weak or disappointing way",
+    "to admit that you have done something wrong",
+    "to deal with a problem quickly so that people don't notice it"
+   ],
+   "answer": 1,
+   "meaningVi": "xẹp dần, tàn lụi",
+   "explanation": "“fizzle out” = to gradually end in a weak or disappointing way.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "gear up",
+   "context": "Shops are gearing up for the busy Christmas period.",
+   "question": "What does “gear up” mean in this sentence?",
+   "options": [
+    "to suddenly attack or criticise someone angrily",
+    "to try to get support or business by making an effort",
+    "to control or limit something more strictly",
+    "to prepare for something that is going to happen"
+   ],
+   "answer": 3,
+   "meaningVi": "chuẩn bị sẵn sàng",
+   "explanation": "“gear up” = to prepare for something that is going to happen.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "kick in",
+   "context": "The painkillers should kick in after about twenty minutes.",
+   "question": "What does “kick in” mean in this sentence?",
+   "options": [
+    "to try to get support or business by making an effort",
+    "to leave an activity or job, especially after a long time",
+    "to try to find out what someone thinks, often informally",
+    "to start to have an effect"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt đầu có tác dụng",
+   "explanation": "“kick in” = to start to have an effect.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "knuckle down",
+   "context": "If you want to pass, you'll have to knuckle down and revise.",
+   "question": "What does “knuckle down” mean in this sentence?",
+   "options": [
+    "to start working hard, especially after not working hard enough",
+    "to try to find out what someone thinks, often informally",
+    "to control or limit something more strictly",
+    "to defend yourself against an attack, criticism or competition"
+   ],
+   "answer": 0,
+   "meaningVi": "bắt tay vào làm việc nghiêm túc",
+   "explanation": "“knuckle down” = to start working hard, especially after not working hard enough.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "map out",
+   "context": "She has already mapped out her career for the next ten years.",
+   "question": "What does “map out” mean in this sentence?",
+   "options": [
+    "to deal with a problem quickly so that people don't notice it",
+    "to leave an activity or job, especially after a long time",
+    "to plan in detail how something will happen",
+    "to treat something as unimportant and not let it affect you"
+   ],
+   "answer": 2,
+   "meaningVi": "vạch ra, lên kế hoạch chi tiết",
+   "explanation": "“map out” = to plan in detail how something will happen.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "pore over",
+   "context": "Investors pored over the company's financial reports.",
+   "question": "What does “pore over” mean in this sentence?",
+   "options": [
+    "to control or limit something more strictly",
+    "to tell someone the truth about something",
+    "to study or look at something very carefully for a long time",
+    "to plan in detail how something will happen"
+   ],
+   "answer": 2,
+   "meaningVi": "nghiền ngẫm, chăm chú đọc",
+   "explanation": "“pore over” = to study or look at something very carefully for a long time.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "rack up",
+   "context": "The video racked up a million views in its first week.",
+   "question": "What does “rack up” mean in this sentence?",
+   "options": [
+    "to mark or cause the start of a new period",
+    "to plan in detail how something will happen",
+    "to treat something as unimportant and not let it affect you",
+    "to gradually get a large amount or number of something"
+   ],
+   "answer": 3,
+   "meaningVi": "tích lũy, gom góp (số lượng lớn)",
+   "explanation": "“rack up” = to gradually get a large amount or number of something.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "ride out",
+   "context": "Many small businesses couldn't ride out the recession.",
+   "question": "What does “ride out” mean in this sentence?",
+   "options": [
+    "to control or limit something more strictly",
+    "to tell someone the truth about something",
+    "to get through a difficult period without serious damage",
+    "to try to find out what someone thinks, often informally"
+   ],
+   "answer": 2,
+   "meaningVi": "vượt qua (giai đoạn khó khăn)",
+   "explanation": "“ride out” = to get through a difficult period without serious damage.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "snap up",
+   "context": "Tickets for the final were snapped up within minutes.",
+   "question": "What does “snap up” mean in this sentence?",
+   "options": [
+    "to accept and obey a rule, law or decision",
+    "to admit that you have done something wrong",
+    "to buy or take something quickly because it is cheap or popular",
+    "to discover or describe something exactly"
+   ],
+   "answer": 2,
+   "meaningVi": "mua vội, chộp lấy",
+   "explanation": "“snap up” = to buy or take something quickly because it is cheap or popular.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "conjure up",
+   "question": "Choose the correct phrasal verb:\nWords like 'tropical island' tend to ___ images of white beaches and palm trees.",
+   "options": [
+    "drum up",
+    "conjure up",
+    "rack up",
+    "snap up"
+   ],
+   "answer": 1,
+   "meaningVi": "gợi lên (hình ảnh, ký ức)",
+   "explanation": "“conjure up” = to make a picture or memory appear in someone's mind. Full sentence: Words like 'tropical island' tend to conjure up images of white beaches and palm trees.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stave off",
+   "question": "Choose the correct phrasal verb:\nShe drank three cups of coffee to ___ tiredness during the night shift.",
+   "options": [
+    "stave off",
+    "flesh out",
+    "map out",
+    "play up"
+   ],
+   "answer": 0,
+   "meaningVi": "ngăn chặn, trì hoãn (điều xấu)",
+   "explanation": "“stave off” = to stop something bad from happening for a period of time. Full sentence: She drank three cups of coffee to stave off tiredness during the night shift.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "gloss over",
+   "question": "Choose the correct phrasal verb:\nA good historian shouldn't ___ the uncomfortable parts of a nation's past.",
+   "options": [
+    "hinge on",
+    "gloss over",
+    "ride out",
+    "snap up"
+   ],
+   "answer": 1,
+   "meaningVi": "lấp liếm, nói lướt qua",
+   "explanation": "“gloss over” = to deal with a problem quickly so that people don't notice it. Full sentence: A good historian shouldn't gloss over the uncomfortable parts of a nation's past.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "drum up",
+   "question": "Choose the correct phrasal verb:\nVolunteers went door to door to ___ support for the campaign.",
+   "options": [
+    "bow out",
+    "drum up",
+    "trail off",
+    "stave off"
+   ],
+   "answer": 1,
+   "meaningVi": "vận động, kêu gọi (ủng hộ)",
+   "explanation": "“drum up” = to try to get support or business by making an effort. Full sentence: Volunteers went door to door to drum up support for the campaign.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "level with",
+   "question": "Choose the correct phrasal verb:\nPatients want doctors who will ___ them about the risks of treatment.",
+   "options": [
+    "level with",
+    "hinge on",
+    "latch onto",
+    "abide by"
+   ],
+   "answer": 0,
+   "meaningVi": "nói thật, thẳng thắn với",
+   "explanation": "“level with” = to tell someone the truth about something. Full sentence: Patients want doctors who will level with them about the risks of treatment.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "step up",
+   "question": "Choose the correct phrasal verb:\nWith the deadline approaching, we'll need to ___ production.",
+   "options": [
+    "bow out",
+    "brush aside",
+    "fend off",
+    "step up"
+   ],
+   "answer": 3,
+   "meaningVi": "đẩy mạnh, tăng cường",
+   "explanation": "“step up” = to increase the amount, speed or intensity of something. Full sentence: With the deadline approaching, we'll need to step up production.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "whittle down",
+   "question": "Choose the correct phrasal verb:\nThe judges must ___ two hundred entries to a shortlist of ten.",
+   "options": [
+    "pin down",
+    "play up",
+    "tone down",
+    "whittle down"
+   ],
+   "answer": 3,
+   "meaningVi": "rút gọn dần, giảm dần",
+   "explanation": "“whittle down” = to gradually reduce the size or number of something. Full sentence: The judges must whittle down two hundred entries to a shortlist of ten.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stick up for",
+   "question": "Choose the correct phrasal verb:\nIt's important to ___ colleagues who are being treated unfairly.",
+   "options": [
+    "abide by",
+    "own up to",
+    "wriggle out of",
+    "stick up for"
+   ],
+   "answer": 3,
+   "meaningVi": "bênh vực",
+   "explanation": "“stick up for” = to support or defend someone who is being criticised. Full sentence: It's important to stick up for colleagues who are being treated unfairly.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "cave in",
+   "question": "Choose the correct phrasal verb:\nParents who ___ to every demand may find their children become harder to manage.",
+   "options": [
+    "factor in",
+    "cave in",
+    "rope in",
+    "usher in"
+   ],
+   "answer": 1,
+   "meaningVi": "nhượng bộ, chịu thua",
+   "explanation": "“cave in” = to finally agree to something after strong opposition. Full sentence: Parents who cave in to every demand may find their children become harder to manage.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "delve into",
+   "question": "Choose the correct phrasal verb:\nHer new book will ___ the causes of the 2008 financial crisis.",
+   "options": [
+    "dwell on",
+    "latch onto",
+    "embark on",
+    "delve into"
+   ],
+   "answer": 3,
+   "meaningVi": "đào sâu, tìm hiểu kỹ",
+   "explanation": "“delve into” = to examine something carefully in order to find information. Full sentence: Her new book will delve into the causes of the 2008 financial crisis.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "latch onto",
+   "question": "Choose the correct phrasal verb:\nAdvertisers were quick to ___ the trend for plant-based food.",
+   "options": [
+    "level with",
+    "dwell on",
+    "latch onto",
+    "abide by"
+   ],
+   "answer": 2,
+   "meaningVi": "bám lấy, nắm lấy (ý tưởng)",
+   "explanation": "“latch onto” = to become very interested in an idea and use it enthusiastically. Full sentence: Advertisers were quick to latch onto the trend for plant-based food.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "wriggle out of",
+   "question": "Choose the correct phrasal verb:\nDon't let the landlord ___ his responsibility to fix the heating.",
+   "options": [
+    "own up to",
+    "abide by",
+    "wriggle out of",
+    "stick up for"
+   ],
+   "answer": 2,
+   "meaningVi": "lẩn tránh, thoái thác",
+   "explanation": "“wriggle out of” = to avoid doing something you should do, especially by being clever or dishonest. Full sentence: Don't let the landlord wriggle out of his responsibility to fix the heating.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "pore over",
+   "question": "Choose the correct phrasal verb:\nLawyers will ___ every page of the contract before it is signed.",
+   "options": [
+    "fizzle out",
+    "hinge on",
+    "pore over",
+    "ride out"
+   ],
+   "answer": 2,
+   "meaningVi": "nghiền ngẫm, chăm chú đọc",
+   "explanation": "“pore over” = to study or look at something very carefully for a long time. Full sentence: Lawyers will pore over every page of the contract before it is signed.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "rack up",
+   "question": "Choose the correct phrasal verb:\nStudents can easily ___ huge debts if they rely on credit cards.",
+   "options": [
+    "snap up",
+    "conjure up",
+    "rack up",
+    "drum up"
+   ],
+   "answer": 2,
+   "meaningVi": "tích lũy, gom góp (số lượng lớn)",
+   "explanation": "“rack up” = to gradually get a large amount or number of something. Full sentence: Students can easily rack up huge debts if they rely on credit cards.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "flesh out",
+   "question": "Choose the correct phrasal verb:\nAt the next meeting, we'll ___ the details of the marketing campaign.",
+   "options": [
+    "stave off",
+    "weed out",
+    "flesh out",
+    "fizzle out"
+   ],
+   "answer": 2,
+   "meaningVi": "bổ sung chi tiết, làm rõ",
+   "explanation": "“flesh out” = to add more details to a plan or idea. Full sentence: At the next meeting, we'll flesh out the details of the marketing campaign.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "ride out",
+   "question": "Choose the correct phrasal verb:\nThe company has enough cash reserves to ___ the downturn.",
+   "options": [
+    "ride out",
+    "gloss over",
+    "pore over",
+    "fend off"
+   ],
+   "answer": 0,
+   "meaningVi": "vượt qua (giai đoạn khó khăn)",
+   "explanation": "“ride out” = to get through a difficult period without serious damage. Full sentence: The company has enough cash reserves to ride out the downturn.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "brush aside",
+   "question": "Choose the correct phrasal verb:\nIt's unwise to ___ customer complaints, however minor they seem.",
+   "options": [
+    "abide by",
+    "kick in",
+    "brush aside",
+    "chip in"
+   ],
+   "answer": 2,
+   "meaningVi": "gạt đi, phớt lờ",
+   "explanation": "“brush aside” = to refuse to consider something seriously. Full sentence: It's unwise to brush aside customer complaints, however minor they seem.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "bow out",
+   "question": "Choose the correct phrasal verb:\nThe veteran player plans to ___ at the end of the season.",
+   "options": [
+    "sound out",
+    "butt in",
+    "bow out",
+    "drum up"
+   ],
+   "answer": 2,
+   "meaningVi": "rút lui, giải nghệ",
+   "explanation": "“bow out” = to leave an activity or job, especially after a long time. Full sentence: The veteran player plans to bow out at the end of the season.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "tap into",
+   "question": "Choose the correct phrasal verb:\nSchools should ___ the knowledge of parents who work in science and technology.",
+   "options": [
+    "dwell on",
+    "tap into",
+    "embark on",
+    "level with"
+   ],
+   "answer": 1,
+   "meaningVi": "khai thác, tận dụng",
+   "explanation": "“tap into” = to use or take advantage of a supply of something. Full sentence: Schools should tap into the knowledge of parents who work in science and technology.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "map out",
+   "question": "Choose the correct phrasal verb:\nBefore starting the business, ___ exactly how you'll fund the first year.",
+   "options": [
+    "map out",
+    "fork out",
+    "trail off",
+    "weed out"
+   ],
+   "answer": 0,
+   "meaningVi": "vạch ra, lên kế hoạch chi tiết",
+   "explanation": "“map out” = to plan in detail how something will happen. Full sentence: Before starting the business, map out exactly how you'll fund the first year.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "play up",
+   "question": "Choose the correct phrasal verb:\nIn your cover letter, ___ your experience of working with international clients.",
+   "options": [
+    "bow out",
+    "play up",
+    "fork out",
+    "nod off"
+   ],
+   "answer": 1,
+   "meaningVi": "nhấn mạnh, phóng đại",
+   "explanation": "“play up” = to emphasise something to make it seem more important. Full sentence: In your cover letter, play up your experience of working with international clients.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "chip in",
+   "question": "Choose the correct phrasal verb:\nIf everyone in the office could ___ five pounds, we'd have enough for the gift.",
+   "options": [
+    "butt in",
+    "usher in",
+    "kick in",
+    "chip in"
+   ],
+   "answer": 3,
+   "meaningVi": "góp tiền, góp sức",
+   "explanation": "“chip in” = to give a small amount of money or help along with others. Full sentence: If everyone in the office could chip in five pounds, we'd have enough for the gift.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "trail off",
+   "question": "Choose the correct phrasal verb:\nHalfway through the speech, his words began to ___ and he lost his place.",
+   "options": [
+    "map out",
+    "churn out",
+    "hammer out",
+    "trail off"
+   ],
+   "answer": 3,
+   "meaningVi": "nhỏ dần rồi tắt hẳn (giọng nói)",
+   "explanation": "“trail off” = to become gradually quieter and then stop. Full sentence: Halfway through the speech, his words began to trail off and he lost his place.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "rope in",
+   "question": "Choose the correct phrasal verb:\nWe're short of volunteers, so I'll try to ___ a few friends.",
+   "options": [
+    "butt in",
+    "rope in",
+    "cave in",
+    "rein in"
+   ],
+   "answer": 1,
+   "meaningVi": "lôi kéo (ai) giúp một tay",
+   "explanation": "“rope in” = to persuade someone to help with an activity. Full sentence: We're short of volunteers, so I'll try to rope in a few friends.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "pin down",
+   "question": "Choose the correct phrasal verb:\nEconomists find it hard to ___ exactly why productivity growth has slowed.",
+   "options": [
+    "snap up",
+    "whittle down",
+    "pin down",
+    "tone down"
+   ],
+   "answer": 2,
+   "meaningVi": "xác định chính xác",
+   "explanation": "“pin down” = to discover or describe something exactly. Full sentence: Economists find it hard to pin down exactly why productivity growth has slowed.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "kick in",
+   "question": "Choose the correct phrasal verb:\nThe new tax rules don't ___ until next April.",
+   "options": [
+    "rope in",
+    "kick in",
+    "usher in",
+    "butt in"
+   ],
+   "answer": 1,
+   "meaningVi": "bắt đầu có tác dụng",
+   "explanation": "“kick in” = to start to have an effect. Full sentence: The new tax rules don't kick in until next April.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "rein in",
+   "question": "Choose the correct phrasal verb:\nThe central bank raised interest rates to ___ inflation.",
+   "options": [
+    "rein in",
+    "chip in",
+    "cave in",
+    "butt in"
+   ],
+   "answer": 0,
+   "meaningVi": "kìm hãm, kiểm soát chặt",
+   "explanation": "“rein in” = to control or limit something more strictly. Full sentence: The central bank raised interest rates to rein in inflation.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "sound out",
+   "question": "Choose the correct phrasal verb:\nIt might be worth trying to ___ the director before the board meeting.",
+   "options": [
+    "trail off",
+    "snap up",
+    "map out",
+    "sound out"
+   ],
+   "answer": 3,
+   "meaningVi": "thăm dò ý kiến",
+   "explanation": "“sound out” = to try to find out what someone thinks, often informally. Full sentence: It might be worth trying to sound out the director before the board meeting.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hammer out",
+   "question": "Choose the correct phrasal verb:\nThe two parties need to ___ a compromise before the deadline on Friday.",
+   "options": [
+    "hammer out",
+    "churn out",
+    "bow out",
+    "trail off"
+   ],
+   "answer": 0,
+   "meaningVi": "thương lượng đến cùng để đạt thỏa thuận",
+   "explanation": "“hammer out” = to reach an agreement after a long, difficult discussion. Full sentence: The two parties need to hammer out a compromise before the deadline on Friday.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "shrug off",
+   "question": "Choose the correct phrasal verb:\nExperienced politicians learn to ___ personal criticism.",
+   "options": [
+    "fork out",
+    "ride out",
+    "stave off",
+    "shrug off"
+   ],
+   "answer": 3,
+   "meaningVi": "coi nhẹ, gạt bỏ",
+   "explanation": "“shrug off” = to treat something as unimportant and not let it affect you. Full sentence: Experienced politicians learn to shrug off personal criticism.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fend off",
+   "question": "Choose the correct phrasal verb:\nThe champion had to ___ a strong challenge from the young newcomer.",
+   "options": [
+    "trail off",
+    "bow out",
+    "fork out",
+    "fend off"
+   ],
+   "answer": 3,
+   "meaningVi": "chống đỡ, đẩy lùi",
+   "explanation": "“fend off” = to defend yourself against an attack, criticism or competition. Full sentence: The champion had to fend off a strong challenge from the young newcomer.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "knuckle down",
+   "question": "Choose the correct phrasal verb:\nThe holidays are over; it's time to ___ and finish the thesis.",
+   "options": [
+    "whittle down",
+    "pin down",
+    "tone down",
+    "knuckle down"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt tay vào làm việc nghiêm túc",
+   "explanation": "“knuckle down” = to start working hard, especially after not working hard enough. Full sentence: The holidays are over; it's time to knuckle down and finish the thesis.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "churn out",
+   "question": "Choose the correct phrasal verb:\nSome websites ___ dozens of poorly researched articles a day just to attract clicks.",
+   "options": [
+    "trail off",
+    "map out",
+    "weed out",
+    "churn out"
+   ],
+   "answer": 3,
+   "meaningVi": "sản xuất hàng loạt (thường kém chất lượng)",
+   "explanation": "“churn out” = to produce large quantities of something quickly, often of low quality. Full sentence: Some websites churn out dozens of poorly researched articles a day just to attract clicks.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "snap up",
+   "question": "Choose the correct phrasal verb:\nBargain hunters were queuing early to ___ discounted electronics.",
+   "options": [
+    "drum up",
+    "rack up",
+    "snap up",
+    "conjure up"
+   ],
+   "answer": 2,
+   "meaningVi": "mua vội, chộp lấy",
+   "explanation": "“snap up” = to buy or take something quickly because it is cheap or popular. Full sentence: Bargain hunters were queuing early to snap up discounted electronics.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "tone down",
+   "question": "Choose the correct phrasal verb:\nYou might want to ___ your criticism – the client is quite sensitive.",
+   "options": [
+    "step up",
+    "play up",
+    "tone down",
+    "rack up"
+   ],
+   "answer": 2,
+   "meaningVi": "giảm nhẹ, làm dịu bớt",
+   "explanation": "“tone down” = to make something less extreme, offensive or intense. Full sentence: You might want to tone down your criticism – the client is quite sensitive.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "factor in",
+   "question": "Choose the correct phrasal verb:\nThe price looks cheap, but you need to ___ delivery charges and taxes.",
+   "options": [
+    "factor in",
+    "butt in",
+    "kick in",
+    "cave in"
+   ],
+   "answer": 0,
+   "meaningVi": "tính đến, đưa vào tính toán",
+   "explanation": "“factor in” = to include something when you are calculating or planning. Full sentence: The price looks cheap, but you need to factor in delivery charges and taxes.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "own up to",
+   "question": "Choose the correct phrasal verb:\nIt takes courage to ___ a mistake in front of your colleagues.",
+   "options": [
+    "abide by",
+    "own up to",
+    "wriggle out of",
+    "stick up for"
+   ],
+   "answer": 1,
+   "meaningVi": "thú nhận, nhận lỗi",
+   "explanation": "“own up to” = to admit that you have done something wrong. Full sentence: It takes courage to own up to a mistake in front of your colleagues.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fizzle out",
+   "question": "Choose the correct phrasal verb:\nWithout strong leadership, the campaign is likely to ___ within months.",
+   "options": [
+    "fizzle out",
+    "churn out",
+    "fend off",
+    "flesh out"
+   ],
+   "answer": 0,
+   "meaningVi": "xẹp dần, tàn lụi",
+   "explanation": "“fizzle out” = to gradually end in a weak or disappointing way. Full sentence: Without strong leadership, the campaign is likely to fizzle out within months.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "embark on",
+   "question": "Choose the correct phrasal verb:\nThe city is about to ___ an ambitious ten-year plan to modernise public transport.",
+   "options": [
+    "dwell on",
+    "hinge on",
+    "embark on",
+    "level with"
+   ],
+   "answer": 2,
+   "meaningVi": "bắt tay vào, khởi đầu",
+   "explanation": "“embark on” = to start something new, important or difficult. Full sentence: The city is about to embark on an ambitious ten-year plan to modernise public transport.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "usher in",
+   "question": "Choose the correct phrasal verb:\nMany believe artificial intelligence will ___ a new era in medicine.",
+   "options": [
+    "rope in",
+    "butt in",
+    "usher in",
+    "cave in"
+   ],
+   "answer": 2,
+   "meaningVi": "mở ra (thời kỳ mới)",
+   "explanation": "“usher in” = to mark or cause the start of a new period. Full sentence: Many believe artificial intelligence will usher in a new era in medicine.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "butt in",
+   "question": "Choose the correct phrasal verb:\nHe has an irritating habit of trying to ___ whenever two people are talking.",
+   "options": [
+    "butt in",
+    "factor in",
+    "cave in",
+    "usher in"
+   ],
+   "answer": 0,
+   "meaningVi": "chen ngang, xen vào",
+   "explanation": "“butt in” = to interrupt a conversation rudely. Full sentence: He has an irritating habit of trying to butt in whenever two people are talking.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "dwell on",
+   "question": "Choose the correct phrasal verb:\nTry not to ___ the negative comments; most of the feedback was positive.",
+   "options": [
+    "dwell on",
+    "embark on",
+    "abide by",
+    "delve into"
+   ],
+   "answer": 0,
+   "meaningVi": "day dứt, cứ nghĩ mãi về",
+   "explanation": "“dwell on” = to keep thinking or talking about something unpleasant. Full sentence: Try not to dwell on the negative comments; most of the feedback was positive.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "crop up",
+   "question": "Choose the correct phrasal verb:\nUnexpected costs always seem to ___ when you renovate an old house.",
+   "options": [
+    "gear up",
+    "play up",
+    "rack up",
+    "crop up"
+   ],
+   "answer": 3,
+   "meaningVi": "nảy sinh bất ngờ",
+   "explanation": "“crop up” = to happen or appear unexpectedly. Full sentence: Unexpected costs always seem to crop up when you renovate an old house.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "weed out",
+   "question": "Choose the correct phrasal verb:\nThe new software helps banks ___ fraudulent transactions.",
+   "options": [
+    "weed out",
+    "churn out",
+    "fork out",
+    "trail off"
+   ],
+   "answer": 0,
+   "meaningVi": "loại bỏ, sàng lọc",
+   "explanation": "“weed out” = to remove unwanted people or things from a group. Full sentence: The new software helps banks weed out fraudulent transactions.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "gear up",
+   "question": "Choose the correct phrasal verb:\nFarmers are beginning to ___ for the harvest.",
+   "options": [
+    "crop up",
+    "bow out",
+    "gear up",
+    "nod off"
+   ],
+   "answer": 2,
+   "meaningVi": "chuẩn bị sẵn sàng",
+   "explanation": "“gear up” = to prepare for something that is going to happen. Full sentence: Farmers are beginning to gear up for the harvest.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hinge on",
+   "question": "Choose the correct phrasal verb:\nWhether the match goes ahead will ___ the condition of the pitch.",
+   "options": [
+    "stick up for",
+    "hinge on",
+    "embark on",
+    "dwell on"
+   ],
+   "answer": 1,
+   "meaningVi": "phụ thuộc hoàn toàn vào",
+   "explanation": "“hinge on” = to depend completely on something. Full sentence: Whether the match goes ahead will hinge on the condition of the pitch.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "abide by",
+   "question": "Choose the correct phrasal verb:\nBy signing the contract, you agree to ___ the terms and conditions.",
+   "options": [
+    "bow out",
+    "abide by",
+    "brush aside",
+    "snap up"
+   ],
+   "answer": 1,
+   "meaningVi": "tuân thủ, chấp hành",
+   "explanation": "“abide by” = to accept and obey a rule, law or decision. Full sentence: By signing the contract, you agree to abide by the terms and conditions.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "lash out",
+   "question": "Choose the correct phrasal verb:\nWhen people feel humiliated, they sometimes ___ at those closest to them.",
+   "options": [
+    "gear up",
+    "chip in",
+    "lash out",
+    "sound out"
+   ],
+   "answer": 2,
+   "meaningVi": "đả kích, nổi xung tấn công",
+   "explanation": "“lash out” = to suddenly attack or criticise someone angrily. Full sentence: When people feel humiliated, they sometimes lash out at those closest to them.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "nod off",
+   "question": "Choose the correct phrasal verb:\nThe film was so slow that I started to ___ halfway through.",
+   "options": [
+    "nod off",
+    "cave in",
+    "bow out",
+    "kick in"
+   ],
+   "answer": 0,
+   "meaningVi": "ngủ gật",
+   "explanation": "“nod off” = to fall asleep, especially when you do not intend to. Full sentence: The film was so slow that I started to nod off halfway through.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  },
+  {
+   "id": "c1-phrasalVerb-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fork out",
+   "question": "Choose the correct phrasal verb:\nFans were furious at having to ___ nearly £100 for a concert ticket.",
+   "options": [
+    "fend off",
+    "brush aside",
+    "tone down",
+    "fork out"
+   ],
+   "answer": 3,
+   "meaningVi": "bỏ tiền ra (miễn cưỡng)",
+   "explanation": "“fork out” = to spend a lot of money on something, often unwillingly. Full sentence: Fans were furious at having to fork out nearly £100 for a concert ticket.",
+   "skill": "phrasalVerb",
+   "level": "c1"
+  }
+ ]
+}

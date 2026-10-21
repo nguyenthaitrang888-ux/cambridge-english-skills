@@ -1,0 +1,2365 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "writing",
+ "title": {
+  "en": "Writing",
+  "vi": "Viết"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-writing-001",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I usually walk to school with my sister.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Adverbs of frequency (usually, often) go before the main verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-002",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She go to work by bus.",
+   "answers": [
+    "She goes to work by bus."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Present simple: he/she/it + verb-s → goes.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-003",
+   "type": "guided",
+   "kind": "email",
+   "topic": "celebrations",
+   "prompt": "Write an email to your English friend Sam. Invite Sam to your birthday party.",
+   "promptVi": "Viết email mời bạn Sam dự tiệc sinh nhật của bạn.",
+   "points": [
+    "say when and where the party is",
+    "say what you will do at the party",
+    "ask Sam to bring something"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Sam,\nI'm having a birthday party on Saturday at 6 p.m. at my house. We're going to eat pizza, play games and dance. Can you bring some music? See you soon!\nAn",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-004",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "What time does the film start tonight?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Wh- question in present simple: Wh- + does + subject + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-005",
+   "type": "guided",
+   "kind": "message",
+   "topic": "friends",
+   "prompt": "You can't meet your friend Kim tomorrow. Write a message to Kim.",
+   "promptVi": "Bạn không thể gặp Kim ngày mai. Viết tin nhắn cho Kim.",
+   "points": [
+    "say sorry",
+    "explain why you can't meet",
+    "suggest another day"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Kim,\nI'm really sorry, but I can't meet you tomorrow. I have to go to the dentist with my mum. Are you free on Thursday afternoon instead? We could go to the park.\nLinh",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-006",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I am agree with you.",
+   "answers": [
+    "I agree with you."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Agree' is a verb. Don't use 'am' before it.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-007",
+   "type": "guided",
+   "kind": "postcard",
+   "topic": "travel",
+   "prompt": "You are on holiday. Write a postcard to your family.",
+   "promptVi": "Bạn đang đi nghỉ. Viết bưu thiếp cho gia đình.",
+   "points": [
+    "say where you are",
+    "describe the weather",
+    "say what you did yesterday"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Mum and Dad,\nI'm in Sa Pa with my class. It's cold and foggy, but very beautiful. Yesterday we walked to a small village and ate grilled corn by the fire. See you on Friday!\nLove, Huy",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-008",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "We went to the beach last summer.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Time expressions like 'last summer' usually go at the end.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-009",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Yesterday I buy a new shirt.",
+   "answers": [
+    "Yesterday I bought a new shirt."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use past simple with 'yesterday': buy → bought.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-010",
+   "type": "guided",
+   "kind": "note",
+   "topic": "home",
+   "prompt": "You are going out. Write a note to your flatmate, Tom.",
+   "promptVi": "Bạn sắp ra ngoài. Viết lời nhắn cho bạn cùng phòng Tom.",
+   "points": [
+    "say where you are going",
+    "say when you will be back",
+    "ask Tom to do something"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Tom,\nI've gone to the supermarket to buy food for dinner. I'll be back at about seven. Could you please wash the rice and turn on the rice cooker? Thanks!\nMai",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-011",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "My brother is taller than me.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Comparative: short adjective + -er + than.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-012",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He is more tall than his father.",
+   "answers": [
+    "He is taller than his father."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Short adjectives take -er: tall → taller.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-013",
+   "type": "guided",
+   "kind": "description",
+   "topic": "friends",
+   "prompt": "Describe your best friend.",
+   "promptVi": "Miêu tả người bạn thân nhất của bạn.",
+   "points": [
+    "name and appearance",
+    "personality",
+    "what you do together"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "My best friend is Phuong. She is short and has long curly hair. She is funny, kind and very clever. We study together after school, and on Sundays we often ride our bikes around the lake.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-014",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She has never been to Japan.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Present perfect: has/have + never + past participle.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-015",
+   "type": "guided",
+   "kind": "email",
+   "topic": "school",
+   "prompt": "Write an email to your friend about your new school.",
+   "promptVi": "Viết email cho bạn kể về trường mới.",
+   "points": [
+    "say what the school is like",
+    "tell your friend about your new teacher",
+    "say one thing you don't like"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Ben,\nMy new school is big and modern, and it has a great sports hall. My new teacher, Mr Quang, is kind and funny. The only thing I don't like is the long journey – it takes 40 minutes!\nNam",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-016",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "There is many people in the park.",
+   "answers": [
+    "There are many people in the park.",
+    "There are a lot of people in the park."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'People' is plural → There are.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-017",
+   "type": "guided",
+   "kind": "notice",
+   "topic": "sport",
+   "prompt": "You lost your jacket at the sports centre. Write a notice for the noticeboard.",
+   "promptVi": "Bạn làm mất áo khoác ở trung tâm thể thao. Viết thông báo.",
+   "points": [
+    "describe the jacket",
+    "say where and when you lost it",
+    "say how people can contact you"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "LOST: a blue jacket with a white hood and a small yellow star on the back. I left it in the changing room on Tuesday evening. If you find it, please call Minh on 0912 345 678. Thank you!",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-018",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Can you help me with my homework?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Request: Can + you + verb…?",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-019",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I have 15 years old.",
+   "answers": [
+    "I am 15 years old.",
+    "I'm 15 years old."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "In English, we use 'be' for age: I am 15.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-020",
+   "type": "guided",
+   "kind": "message",
+   "topic": "free time",
+   "prompt": "Write a message to a friend about a film you saw last weekend.",
+   "promptVi": "Viết tin nhắn cho bạn kể về bộ phim bạn xem cuối tuần trước.",
+   "points": [
+    "say the name or type of film",
+    "say who you went with",
+    "say why you liked or didn't like it"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Tuan,\nOn Saturday I saw 'Ocean Friends', an animated film, with my cousin. I loved it because the story was funny and the music was great. You should watch it too!\nHa",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-021",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "There are three bedrooms in our new house.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "There are + plural noun + place.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-022",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Do you like play football?",
+   "answers": [
+    "Do you like playing football?",
+    "Do you like to play football?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "like + verb-ing or like + to + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-023",
+   "type": "guided",
+   "kind": "email",
+   "topic": "travel",
+   "prompt": "Write an email to a hotel to book a room.",
+   "promptVi": "Viết email đặt phòng khách sạn.",
+   "points": [
+    "give your dates",
+    "say what kind of room you want",
+    "ask one question"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Sir or Madam,\nI would like to book a double room for two nights, from 12th to 14th July. Is breakfast included in the price? Also, do you have parking?\nBest wishes,\nTran Thi Mai",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-024",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I am going to visit my grandparents on Sunday.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Future plans: am/is/are going to + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-025",
+   "type": "guided",
+   "kind": "description",
+   "topic": "daily life",
+   "prompt": "Write about your daily routine.",
+   "promptVi": "Viết về thói quen hằng ngày của bạn.",
+   "points": [
+    "what you do in the morning",
+    "what you do in the afternoon",
+    "what you do in the evening"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "I get up at six and have breakfast with my family. Then I go to school by bike. In the afternoon, I have lunch at school and play basketball after class. In the evening, I do my homework, watch TV and go to bed at ten.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-026",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "My sister don't eat meat.",
+   "answers": [
+    "My sister doesn't eat meat.",
+    "My sister does not eat meat."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "He/she/it → doesn't.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-027",
+   "type": "guided",
+   "kind": "story",
+   "topic": "free time",
+   "prompt": "Write a story (35+ words) that begins: 'When I opened the door, I saw a big box.'",
+   "promptVi": "Viết câu chuyện bắt đầu bằng: 'Khi tôi mở cửa, tôi thấy một chiếc hộp lớn.'",
+   "points": [
+    "say what was in the box",
+    "say how you felt",
+    "say what happened next"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "When I opened the door, I saw a big box. I was really surprised. I opened it carefully and found a small puppy inside! There was a card from my dad: 'Happy birthday!' I called the puppy Lucky and we played all day.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-028",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He doesn't like coffee very much.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Very much' goes at the end of the sentence.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-029",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I live in Hanoi since 2015.",
+   "answers": [
+    "I have lived in Hanoi since 2015.",
+    "I've lived in Hanoi since 2015.",
+    "I have been living in Hanoi since 2015."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "With 'since' + a point in time, use the present perfect.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-030",
+   "type": "guided",
+   "kind": "message",
+   "topic": "family",
+   "prompt": "Write a message to thank your aunt for a birthday present.",
+   "promptVi": "Viết tin nhắn cảm ơn dì/cô vì món quà sinh nhật.",
+   "points": [
+    "thank her for the present",
+    "say what you like about it",
+    "say how you will use it"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Aunt Hoa,\nThank you so much for the backpack! I love the colour, and it has lots of pockets. I'm going to use it for my school trip next week.\nLove,\nKhanh",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-031",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "How often do you play badminton?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'How often' asks about frequency.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-032",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "We arrived to the airport at 9.",
+   "answers": [
+    "We arrived at the airport at 9."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "arrive at (a place: station, airport), arrive in (a city/country).",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-033",
+   "type": "guided",
+   "kind": "email",
+   "topic": "free time",
+   "prompt": "Write an email to a friend about your plans for this weekend.",
+   "promptVi": "Viết email kể cho bạn về kế hoạch cuối tuần.",
+   "points": [
+    "say what you are going to do",
+    "say who you are going with",
+    "invite your friend to join you"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Lily,\nThis Saturday I'm going to the swimming pool with my brother. After that, we're going to have ice cream at the new café. Would you like to come with us? We're leaving at nine.\nVy",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-034",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It was raining when we left the cinema.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Past continuous (was raining) + when + past simple.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-035",
+   "type": "guided",
+   "kind": "review",
+   "topic": "food",
+   "prompt": "Write a short review of a café or restaurant you know.",
+   "promptVi": "Viết nhận xét ngắn về một quán ăn/cà phê bạn biết.",
+   "points": [
+    "say its name and where it is",
+    "describe the food or drinks",
+    "talk about the price or service"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "Green Leaf Café is on Tran Phu Street, near the river. It serves fresh juices, sandwiches and delicious coconut coffee. The prices are good – a drink costs about 30,000 dong – and the staff are very friendly. I really recommend it!",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-036",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She is good in English.",
+   "answers": [
+    "She is good at English.",
+    "She's good at English."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "The collocation is 'good at'.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-037",
+   "type": "guided",
+   "kind": "message",
+   "topic": "school",
+   "prompt": "Write a message to your teacher. You will miss class tomorrow.",
+   "promptVi": "Viết tin nhắn cho giáo viên: bạn sẽ nghỉ học ngày mai.",
+   "points": [
+    "explain why",
+    "ask about the homework",
+    "say sorry"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Ms Thao,\nI'm sorry, but I can't come to class tomorrow because I have to go to my cousin's wedding in Hue. Could you tell me the homework, please? I will do it at the weekend.\nBest wishes,\nDuc",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-038",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "This is the most beautiful beach in Vietnam.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Superlative: the most + long adjective.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-039",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I didn't went to school yesterday.",
+   "answers": [
+    "I didn't go to school yesterday.",
+    "I did not go to school yesterday."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After 'didn't', use the base verb: go.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-040",
+   "type": "guided",
+   "kind": "description",
+   "topic": "town",
+   "prompt": "Describe your hometown for a pen friend.",
+   "promptVi": "Miêu tả quê hương bạn cho một người bạn qua thư.",
+   "points": [
+    "say where it is",
+    "say what you can do there",
+    "say what you like about it"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "I live in Hoi An, a small city in central Vietnam. You can walk around the old town, ride a bike to the beach or take a boat on the river. I love it because the streets are beautiful at night with lots of lanterns.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-041",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Would you like a cup of tea?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Polite offer: Would you like + noun?",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-042",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Can you borrow me your pen?",
+   "answers": [
+    "Can you lend me your pen?",
+    "Can I borrow your pen?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "lend = give for a short time; borrow = take for a short time.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-043",
+   "type": "guided",
+   "kind": "description",
+   "topic": "travel",
+   "prompt": "Write about your last holiday.",
+   "promptVi": "Viết về kỳ nghỉ gần nhất của bạn.",
+   "points": [
+    "say where and when you went",
+    "say who you went with",
+    "describe the best moment"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "Last summer I went to Quy Nhon with my parents and my sister. We stayed in a small hotel near the sea. The best moment was when we took a boat to an island and saw lots of colourful fish in the clear water.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-044",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "They have lived here for ten years.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Present perfect + for + a period of time.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-045",
+   "type": "guided",
+   "kind": "message",
+   "topic": "free time",
+   "prompt": "Your friend wants to start a new hobby. Write a message with your advice.",
+   "promptVi": "Bạn của bạn muốn bắt đầu sở thích mới. Viết tin nhắn khuyên bạn ấy.",
+   "points": [
+    "suggest a hobby",
+    "say why it is a good hobby",
+    "say where your friend can do it"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Hien,\nWhy don't you try badminton? It's fun, cheap and good exercise. You can play in the park near your house every morning – lots of people play there. I can come with you on Sunday!\nPhong",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-046",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "It's the most good restaurant in town.",
+   "answers": [
+    "It's the best restaurant in town.",
+    "It is the best restaurant in town."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "good → better → the best.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-047",
+   "type": "guided",
+   "kind": "message",
+   "topic": "school",
+   "prompt": "Write a message to a classmate. Ask to borrow something.",
+   "promptVi": "Viết tin nhắn hỏi mượn đồ của bạn cùng lớp.",
+   "points": [
+    "say what you want to borrow",
+    "say why you need it",
+    "say when you will give it back"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Long,\nCan I borrow your science notes, please? I was ill on Monday and I missed the lesson. I'll copy them tonight and give them back to you tomorrow morning. Thanks a lot!\nTrang",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-048",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "You should drink more water every day.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Advice: should + verb (no 'to').",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-049",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'm boring in this lesson.",
+   "answers": [
+    "I'm bored in this lesson.",
+    "I am bored in this lesson."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "-ed adjectives describe feelings (bored); -ing adjectives describe things (boring).",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-050",
+   "type": "guided",
+   "kind": "email",
+   "topic": "animals",
+   "prompt": "Write an email to your cousin about your new pet.",
+   "promptVi": "Viết email cho anh/chị/em họ kể về thú cưng mới.",
+   "points": [
+    "say what pet you have",
+    "describe what it looks like",
+    "say how you look after it"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Bao,\nGuess what? I've got a new rabbit! She's small and white, with long ears and pink eyes. I give her fresh vegetables every morning, and I clean her cage on Saturdays. Come and see her soon!\nNgoc",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-051",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Where did you buy your new bag?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Past simple question: Wh- + did + subject + base verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-052",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He has a lot of homeworks.",
+   "answers": [
+    "He has a lot of homework."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Homework' is uncountable – no -s.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-053",
+   "type": "guided",
+   "kind": "story",
+   "topic": "transport",
+   "prompt": "Write a story (35+ words) that begins: 'It was raining and I missed the bus.'",
+   "promptVi": "Viết câu chuyện bắt đầu bằng: 'Trời mưa và tôi bị lỡ xe buýt.'",
+   "points": [
+    "say what you did next",
+    "say who helped you or what happened",
+    "say how the story ended"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "It was raining and I missed the bus. I didn't have an umbrella, so I stood under a tree. Then my neighbour stopped her car and offered me a lift. I arrived at school on time, and I was very grateful.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-054",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "My mother works in a big hospital.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "He/she/it + verb-s in present simple.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-055",
+   "type": "guided",
+   "kind": "advert",
+   "topic": "shopping",
+   "prompt": "Write an advert to sell your old bike.",
+   "promptVi": "Viết quảng cáo bán chiếc xe đạp cũ của bạn.",
+   "points": [
+    "describe the bike",
+    "give the price",
+    "say how to contact you"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "FOR SALE: a red mountain bike, three years old, in very good condition. It has new tyres and a basket. Price: 1,200,000 dong. Call or text Quan on 0987 654 321 after 5 p.m.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-056",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Where you live?",
+   "answers": [
+    "Where do you live?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Present simple questions need 'do/does': Where do you live?",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-057",
+   "type": "guided",
+   "kind": "description",
+   "topic": "celebrations",
+   "prompt": "Write about your favourite festival.",
+   "promptVi": "Viết về lễ hội bạn yêu thích.",
+   "points": [
+    "say when it is",
+    "say what people do",
+    "say why you like it"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "My favourite festival is Tet, the Lunar New Year. It's usually in January or February. People clean their houses, cook special food and visit their relatives. I love it because the whole family is together and I get lucky money!",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-058",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I was tired, so I went to bed early.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'So' introduces a result.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-059",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I am listening music.",
+   "answers": [
+    "I am listening to music.",
+    "I'm listening to music."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "listen to + something.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-060",
+   "type": "guided",
+   "kind": "message",
+   "topic": "health",
+   "prompt": "You are ill and can't go to school. Write a message to your friend.",
+   "promptVi": "Bạn bị ốm và không thể đến trường. Viết tin nhắn cho bạn.",
+   "points": [
+    "say what is wrong with you",
+    "say what the doctor said",
+    "ask your friend for help with the lessons"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Hoa,\nI can't come to school today because I've got a high temperature and a sore throat. The doctor said I must stay in bed for two days. Can you send me photos of your notes, please?\nThanks, Yen",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-061",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "We must wear a uniform at school.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Obligation: must + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-062",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "My father is a engineer.",
+   "answers": [
+    "My father is an engineer."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use 'an' before a vowel sound: an engineer.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-063",
+   "type": "guided",
+   "kind": "description",
+   "topic": "home",
+   "prompt": "Describe your favourite room in your home.",
+   "promptVi": "Miêu tả căn phòng bạn yêu thích nhất trong nhà.",
+   "points": [
+    "say which room it is",
+    "describe what is in it",
+    "say what you do there"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "My favourite room is our living room. It has a big sofa, a TV and lots of family photos on the walls. There is also a small table with plants. In the evening, my family sits there together, chats and watches films.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-064",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Is there a bank near here?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Question: Is there + a + singular noun…?",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-065",
+   "type": "guided",
+   "kind": "email",
+   "topic": "sport",
+   "prompt": "Write an email to a friend about a sports event you went to.",
+   "promptVi": "Viết email kể cho bạn về một sự kiện thể thao bạn đã xem.",
+   "points": [
+    "say what event it was",
+    "say who you went with",
+    "say what happened"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Kevin,\nLast Sunday my dad and I watched a football match at My Dinh Stadium. It was so exciting! Our team was losing 1–0, but they scored two goals in the last ten minutes and won!\nHung",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-066",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She can to swim very well.",
+   "answers": [
+    "She can swim very well."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After 'can', use the base verb without 'to'.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-067",
+   "type": "guided",
+   "kind": "message",
+   "topic": "shopping",
+   "prompt": "Write a message to a friend. Ask them to go shopping with you.",
+   "promptVi": "Viết tin nhắn rủ bạn đi mua sắm.",
+   "points": [
+    "say where you want to go",
+    "say what you want to buy",
+    "suggest a time to meet"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Thu,\nDo you want to go to Vincom with me on Saturday? I need to buy some new trainers for PE, and I'd like your help to choose. Let's meet at the main entrance at 2 p.m.\nMy",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-068",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Lan is good at drawing animals.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "good at + verb-ing.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-069",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "We was at home last night.",
+   "answers": [
+    "We were at home last night."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "we/you/they → were.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-070",
+   "type": "guided",
+   "kind": "description",
+   "topic": "family",
+   "prompt": "Write about a person you admire.",
+   "promptVi": "Viết về một người mà bạn ngưỡng mộ.",
+   "points": [
+    "say who the person is",
+    "describe what they do",
+    "explain why you admire them"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "I admire my grandmother. She is seventy, but she still runs a small noodle shop every morning. She works very hard and she is always kind to her customers. I admire her because she never gives up, even when life is difficult.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-071",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The museum is closed on Mondays.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "on + days of the week.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-072",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I go to school on foot every days.",
+   "answers": [
+    "I go to school on foot every day."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "every + singular noun: every day.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-073",
+   "type": "guided",
+   "kind": "story",
+   "topic": "technology",
+   "prompt": "Write a story (35+ words) that begins: 'Last Saturday, my phone started ringing at 5 a.m.'",
+   "promptVi": "Viết câu chuyện bắt đầu bằng: 'Thứ Bảy tuần trước, điện thoại của tôi reo lúc 5 giờ sáng.'",
+   "points": [
+    "say who was calling",
+    "say why they called",
+    "say how you felt at the end"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "Last Saturday, my phone started ringing at 5 a.m. It was my uncle in Canada. He forgot about the time difference! He wanted to tell us that my cousin was coming to Vietnam next month. I was tired, but I was really happy.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-074",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Don't forget to bring your passport.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Negative imperative: Don't + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-075",
+   "type": "guided",
+   "kind": "email",
+   "topic": "school",
+   "prompt": "Write an email to a language school asking for information about English classes.",
+   "promptVi": "Viết email cho trung tâm ngoại ngữ hỏi thông tin lớp tiếng Anh.",
+   "points": [
+    "say what level you are",
+    "ask about class times",
+    "ask about the price"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Sir or Madam,\nI am interested in your English classes. I think my level is elementary. Do you have evening classes on weekdays? How much does a ten-week course cost?\nThank you,\nPham Minh Anh",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-076",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "How much money do you spend for food?",
+   "answers": [
+    "How much money do you spend on food?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "spend money on something.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-077",
+   "type": "guided",
+   "kind": "description",
+   "topic": "celebrations",
+   "prompt": "Write about what you did on your last birthday.",
+   "promptVi": "Viết về những gì bạn đã làm vào sinh nhật năm ngoái.",
+   "points": [
+    "say where you were",
+    "say who you were with",
+    "say what you did"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "On my last birthday, I was at home in Hai Phong. My parents and my best friends were there. We had a big dinner with grilled seafood, and then my mum brought out a strawberry cake. After that, we sang karaoke until ten o'clock.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-078",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I have just finished my lunch.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Just' goes between have and the past participle.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-079",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "They are going to travel at next week.",
+   "answers": [
+    "They are going to travel next week.",
+    "They're going to travel next week."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "No preposition before 'next week / last year / this morning'.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-080",
+   "type": "guided",
+   "kind": "note",
+   "topic": "home",
+   "prompt": "You are having a party. Write a note to your neighbour.",
+   "promptVi": "Bạn sắp tổ chức tiệc. Viết lời nhắn cho hàng xóm.",
+   "points": [
+    "say when the party is",
+    "say sorry for any noise",
+    "invite your neighbour"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Mr and Mrs Lam,\nWe're having a small party on Saturday evening for my son's birthday. I'm sorry if it's a bit noisy. Please come and join us – there will be lots of food!\nBest wishes,\nThe Nguyen family (Flat 5B)",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-081",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Our teacher gave us a lot of homework.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "give + person + thing.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-082",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I like this book because it's very interested.",
+   "answers": [
+    "I like this book because it's very interesting.",
+    "I like this book because it is very interesting."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Things are 'interesting'; people feel 'interested'.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-083",
+   "type": "guided",
+   "kind": "instructions",
+   "topic": "food",
+   "prompt": "Write about your favourite food and how to make it.",
+   "promptVi": "Viết về món ăn yêu thích và cách làm.",
+   "points": [
+    "say what the food is",
+    "list the main ingredients",
+    "describe the steps"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "My favourite food is egg fried rice. You need cooked rice, two eggs, some onion and a little soy sauce. First, fry the onion in oil. Then add the eggs and mix quickly. Next, add the rice and soy sauce and cook for three minutes.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-084",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "What were you doing at eight last night?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Past continuous question: Wh- + were + subject + verb-ing.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-085",
+   "type": "guided",
+   "kind": "email",
+   "topic": "free time",
+   "prompt": "Write an email to a friend recommending a book.",
+   "promptVi": "Viết email giới thiệu một cuốn sách cho bạn.",
+   "points": [
+    "say the name of the book",
+    "say what it is about",
+    "say why your friend should read it"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Mia,\nYou should read 'The Secret Garden'. It's about a girl who finds a hidden garden and makes new friends. The story is exciting and the characters are lovely. I can lend you my copy!\nAnh",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-086",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "My mother cook dinner every evening.",
+   "answers": [
+    "My mother cooks dinner every evening."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "He/she/it + verb-s → cooks.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-087",
+   "type": "guided",
+   "kind": "description",
+   "topic": "travel",
+   "prompt": "Write about your plans for the summer holiday.",
+   "promptVi": "Viết về kế hoạch cho kỳ nghỉ hè.",
+   "points": [
+    "say where you are going",
+    "say who you are going with",
+    "say what you are going to do"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "This summer, I'm going to visit my grandparents in Can Tho with my brother. We're going to stay there for two weeks. We're going to take a boat to the floating market, eat lots of fruit and help my grandfather on his farm.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-088",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "My phone is cheaper than yours.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "cheap → cheaper than; yours = your phone.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-089",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "There aren't some eggs in the fridge.",
+   "answers": [
+    "There aren't any eggs in the fridge.",
+    "There are no eggs in the fridge."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use 'any' in negative sentences.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-090",
+   "type": "guided",
+   "kind": "message",
+   "topic": "family",
+   "prompt": "Write a message to your parents. You will be home late.",
+   "promptVi": "Viết tin nhắn cho bố mẹ: bạn sẽ về nhà muộn.",
+   "points": [
+    "say you will be late",
+    "explain why",
+    "say what time you will be home"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Hi Mum,\nI'll be home late today. We have extra football practice because there's a match on Saturday. I'll be home at about seven, so please don't wait for me for dinner.\nLove, Kien",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-091",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Let's meet outside the station at six.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Suggestion: Let's + verb.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-092",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I usually am tired after work.",
+   "answers": [
+    "I am usually tired after work.",
+    "I'm usually tired after work."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Adverbs of frequency go AFTER the verb 'be'.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-093",
+   "type": "guided",
+   "kind": "description",
+   "topic": "school",
+   "prompt": "Write a description of your school.",
+   "promptVi": "Miêu tả trường học của bạn.",
+   "points": [
+    "say where it is and how big it is",
+    "describe the buildings and places",
+    "say what you like about it"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "My school is in the centre of Vinh. It's quite big, with about one thousand students. There are three buildings, a library, a canteen and a large playground with old trees. I like it because the teachers are friendly and there are lots of clubs.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-094",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He can speak English and a little French.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "can + base verb (no 'to', no -s).",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-095",
+   "type": "guided",
+   "kind": "story",
+   "topic": "town",
+   "prompt": "Write a story (35+ words) that begins: 'I found a wallet on the street.'",
+   "promptVi": "Viết câu chuyện bắt đầu bằng: 'Tôi nhặt được một chiếc ví trên đường.'",
+   "points": [
+    "say what was in the wallet",
+    "say what you did",
+    "say how the story ended"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "I found a wallet on the street. Inside, there was some money and an ID card. I took it to the police station near my school. The next day, the owner, an old man, came to my house to say thank you. He gave me a box of cakes!",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-096",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Did you saw the film?",
+   "answers": [
+    "Did you see the film?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After 'did', use the base verb: see.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-097",
+   "type": "guided",
+   "kind": "email",
+   "topic": "free time",
+   "prompt": "Write an email to join a club.",
+   "promptVi": "Viết email đăng ký tham gia một câu lạc bộ.",
+   "points": [
+    "introduce yourself",
+    "say why you want to join",
+    "ask when the club meets"
+   ],
+   "minWords": 25,
+   "sampleAnswer": "Dear Ms Lien,\nMy name is Hoang and I'm in Class 8A. I'd like to join the English Speaking Club because I want to practise speaking and make new friends. When does the club meet?\nThank you,\nHoang",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    },
+    {
+     "en": "I started and finished the message correctly (Hi…, Dear…, name).",
+     "vi": "Mình mở đầu và kết thúc tin nhắn đúng cách (Hi…, Dear…, ký tên)."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-098",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Because it was sunny, we had a picnic.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "A 'because' clause can come first, followed by a comma.",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-099",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He married with a doctor.",
+   "answers": [
+    "He married a doctor.",
+    "He got married to a doctor."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "marry someone / get married to someone (no 'with').",
+   "skill": "writing",
+   "level": "a2"
+  },
+  {
+   "id": "a2-writing-100",
+   "type": "guided",
+   "kind": "description",
+   "topic": "weather",
+   "prompt": "Write about the weather and what you like doing in different seasons.",
+   "promptVi": "Viết về thời tiết và những việc bạn thích làm vào các mùa.",
+   "points": [
+    "describe the weather in two seasons",
+    "say what you do in each season",
+    "say which season you prefer"
+   ],
+   "minWords": 35,
+   "sampleAnswer": "In summer, it's hot and sunny in my city, so I often go swimming with my friends. In winter, it's cool and sometimes rainy, so I stay at home and read. I prefer winter because I don't like very hot weather.",
+   "checklist": [
+    {
+     "en": "I included all three points.",
+     "vi": "Mình đã viết đủ 3 ý."
+    },
+    {
+     "en": "I wrote enough words.",
+     "vi": "Mình viết đủ số từ."
+    },
+    {
+     "en": "I used capital letters and full stops correctly.",
+     "vi": "Mình dùng chữ hoa và dấu chấm đúng."
+    },
+    {
+     "en": "I checked verb tenses (past / present / future).",
+     "vi": "Mình đã kiểm tra thì của động từ."
+    },
+    {
+     "en": "I joined ideas with and / but / because / so.",
+     "vi": "Mình nối ý bằng and / but / because / so."
+    }
+   ],
+   "skill": "writing",
+   "level": "a2"
+  }
+ ]
+}

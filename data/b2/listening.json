@@ -1,0 +1,3818 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "listening",
+ "title": {
+  "en": "Listening",
+  "vi": "Nghe"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-listening-001",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-01",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You left a well-paid job in banking to open a bakery. Do you ever regret it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Honestly, there were moments in the first year when I wondered what on earth I'd done. I was working sixteen-hour days and earning a fraction of my old salary."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So what kept you going?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It sounds like a cliché, but it was the customers. In banking, I never saw the result of my work. Now someone comes in every morning and tells me my bread is the best thing about their day."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Would you recommend the same path to others?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Only if they've saved enough to survive at least two years without a profit. Passion alone won't pay the rent."
+    }
+   ],
+   "question": "What does the woman say about her first year?",
+   "options": [
+    "She found it easier than banking.",
+    "She never had any regrets.",
+    "She made a large profit.",
+    "She sometimes doubted her decision."
+   ],
+   "answer": 3,
+   "explanation": "'…there were moments in the first year when I wondered what on earth I'd done.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-002",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-01",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You left a well-paid job in banking to open a bakery. Do you ever regret it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Honestly, there were moments in the first year when I wondered what on earth I'd done. I was working sixteen-hour days and earning a fraction of my old salary."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So what kept you going?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It sounds like a cliché, but it was the customers. In banking, I never saw the result of my work. Now someone comes in every morning and tells me my bread is the best thing about their day."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Would you recommend the same path to others?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Only if they've saved enough to survive at least two years without a profit. Passion alone won't pay the rent."
+    }
+   ],
+   "question": "What advice does she give to people who want to follow her example?",
+   "options": [
+    "Open a business with a partner.",
+    "Make sure they have enough savings first.",
+    "Stay in their current job.",
+    "Follow their passion whatever the cost."
+   ],
+   "answer": 1,
+   "explanation": "'Only if they've saved enough to survive at least two years without a profit.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-003",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-02",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Today I want to challenge a popular belief: that we only use ten percent of our brains. This idea appears in films and advertisements, but there's absolutely no scientific basis for it."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Brain-imaging studies show that, over the course of a day, virtually every region of the brain is active. Even during sleep, areas responsible for memory and body regulation are working hard."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Moreover, the brain is incredibly expensive to run. It makes up about two percent of our body weight but consumes roughly twenty percent of our energy. From an evolutionary point of view, it simply wouldn't make sense to maintain such a costly organ if ninety percent of it were idle."
+    }
+   ],
+   "question": "What is the lecturer's main purpose?",
+   "options": [
+    "To promote a new brain-training product",
+    "To describe how sleep works",
+    "To show that a common belief is false",
+    "To explain how films are made"
+   ],
+   "answer": 2,
+   "explanation": "'Today I want to challenge a popular belief…there's absolutely no scientific basis for it.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-004",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-02",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "Today I want to challenge a popular belief: that we only use ten percent of our brains. This idea appears in films and advertisements, but there's absolutely no scientific basis for it."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Brain-imaging studies show that, over the course of a day, virtually every region of the brain is active. Even during sleep, areas responsible for memory and body regulation are working hard."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Moreover, the brain is incredibly expensive to run. It makes up about two percent of our body weight but consumes roughly twenty percent of our energy. From an evolutionary point of view, it simply wouldn't make sense to maintain such a costly organ if ninety percent of it were idle."
+    }
+   ],
+   "question": "Why does the lecturer mention the brain's energy use?",
+   "options": [
+    "To argue that an unused brain would make no evolutionary sense",
+    "To explain why we sleep",
+    "To show that the brain is very small",
+    "To recommend eating more"
+   ],
+   "answer": 0,
+   "explanation": "'…it simply wouldn't make sense to maintain such a costly organ if ninety percent of it were idle.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-005",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-03",
+   "script": [
+    {
+     "speaker": "Manager",
+     "text": "Right, the main item today is the client's complaint about the delayed launch. Priya, could you summarise?"
+    },
+    {
+     "speaker": "Priya",
+     "text": "Sure. They're unhappy because we missed the deadline by two weeks. To be fair, half of that delay was caused by them changing the design at the last minute."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Have we told them that?"
+    },
+    {
+     "speaker": "Priya",
+     "text": "Not explicitly. I didn't want to sound as if we were blaming them."
+    },
+    {
+     "speaker": "Manager",
+     "text": "I understand, but I think we need to be transparent. Let's put together a timeline showing exactly when the changes came in. That way, the facts speak for themselves."
+    }
+   ],
+   "question": "According to Priya, what partly caused the delay?",
+   "options": [
+    "Poor communication within the team",
+    "Late changes requested by the client",
+    "A shortage of staff",
+    "A technical failure"
+   ],
+   "answer": 1,
+   "explanation": "'…half of that delay was caused by them changing the design at the last minute.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-006",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-03",
+   "script": [
+    {
+     "speaker": "Manager",
+     "text": "Right, the main item today is the client's complaint about the delayed launch. Priya, could you summarise?"
+    },
+    {
+     "speaker": "Priya",
+     "text": "Sure. They're unhappy because we missed the deadline by two weeks. To be fair, half of that delay was caused by them changing the design at the last minute."
+    },
+    {
+     "speaker": "Manager",
+     "text": "Have we told them that?"
+    },
+    {
+     "speaker": "Priya",
+     "text": "Not explicitly. I didn't want to sound as if we were blaming them."
+    },
+    {
+     "speaker": "Manager",
+     "text": "I understand, but I think we need to be transparent. Let's put together a timeline showing exactly when the changes came in. That way, the facts speak for themselves."
+    }
+   ],
+   "question": "What does the manager propose?",
+   "options": [
+    "Ignoring the complaint",
+    "Apologising and offering a discount",
+    "Presenting the client with a clear record of events",
+    "Blaming the client directly"
+   ],
+   "answer": 2,
+   "explanation": "'Let's put together a timeline… the facts speak for themselves.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-007",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-04",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Our city has just introduced a congestion charge for drivers entering the centre. With me are a local shop owner and an environmental campaigner. Mr Hale, what's your view?"
+    },
+    {
+     "speaker": "Shop owner",
+     "text": "I'm worried. Many of my customers drive in from the suburbs, and I suspect they'll simply go to out-of-town shopping centres instead."
+    },
+    {
+     "speaker": "Campaigner",
+     "text": "I understand that concern, but evidence from other cities shows that footfall actually increases once streets become less congested. People enjoy walking around a cleaner, quieter centre."
+    },
+    {
+     "speaker": "Shop owner",
+     "text": "That may be true in big capitals, but our public transport is nowhere near as good."
+    },
+    {
+     "speaker": "Campaigner",
+     "text": "Which is exactly why the money raised from the charge must be invested in buses."
+    }
+   ],
+   "question": "Why is the shop owner worried about the charge?",
+   "options": [
+    "He will have to pay to park.",
+    "The streets will become noisier.",
+    "Customers may shop elsewhere.",
+    "His rent will increase."
+   ],
+   "answer": 2,
+   "explanation": "'…I suspect they'll simply go to out-of-town shopping centres instead.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-008",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-04",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Our city has just introduced a congestion charge for drivers entering the centre. With me are a local shop owner and an environmental campaigner. Mr Hale, what's your view?"
+    },
+    {
+     "speaker": "Shop owner",
+     "text": "I'm worried. Many of my customers drive in from the suburbs, and I suspect they'll simply go to out-of-town shopping centres instead."
+    },
+    {
+     "speaker": "Campaigner",
+     "text": "I understand that concern, but evidence from other cities shows that footfall actually increases once streets become less congested. People enjoy walking around a cleaner, quieter centre."
+    },
+    {
+     "speaker": "Shop owner",
+     "text": "That may be true in big capitals, but our public transport is nowhere near as good."
+    },
+    {
+     "speaker": "Campaigner",
+     "text": "Which is exactly why the money raised from the charge must be invested in buses."
+    }
+   ],
+   "question": "On what point do the speakers seem to agree?",
+   "options": [
+    "Public transport needs improving.",
+    "Footfall will definitely fall.",
+    "Big capitals are no different.",
+    "The charge should be cancelled."
+   ],
+   "answer": 0,
+   "explanation": "The shop owner says transport is poor; the campaigner says the money 'must be invested in buses'.",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-009",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-05",
+   "script": [
+    {
+     "speaker": "Student",
+     "text": "I wanted to ask about my essay mark. I was expecting something higher."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Of course. Your research was excellent, and you clearly read widely. The problem was the structure."
+    },
+    {
+     "speaker": "Student",
+     "text": "In what way?"
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Your strongest argument didn't appear until the final page. Readers, and examiners, need to know where you're going from the start. A clear thesis statement in the introduction would have made a big difference."
+    },
+    {
+     "speaker": "Student",
+     "text": "So the content was fine, but the organisation let me down?"
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Exactly. If you restructure it, I'd be happy to look at a second draft."
+    }
+   ],
+   "question": "What did the tutor praise?",
+   "options": [
+    "The student's introduction",
+    "The student's handwriting",
+    "The length of the essay",
+    "The student's research"
+   ],
+   "answer": 3,
+   "explanation": "'Your research was excellent, and you clearly read widely.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-010",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-05",
+   "script": [
+    {
+     "speaker": "Student",
+     "text": "I wanted to ask about my essay mark. I was expecting something higher."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Of course. Your research was excellent, and you clearly read widely. The problem was the structure."
+    },
+    {
+     "speaker": "Student",
+     "text": "In what way?"
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Your strongest argument didn't appear until the final page. Readers, and examiners, need to know where you're going from the start. A clear thesis statement in the introduction would have made a big difference."
+    },
+    {
+     "speaker": "Student",
+     "text": "So the content was fine, but the organisation let me down?"
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Exactly. If you restructure it, I'd be happy to look at a second draft."
+    }
+   ],
+   "question": "What does the tutor offer to do?",
+   "options": [
+    "Read a revised version",
+    "Write the introduction for the student",
+    "Give the student an extension",
+    "Change the mark immediately"
+   ],
+   "answer": 0,
+   "explanation": "'If you restructure it, I'd be happy to look at a second draft.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-011",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-06",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Many parents are asking whether children should be taught to code at primary school. What's your opinion?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I'm in favour, but not for the reason people usually give. It isn't about turning every child into a software engineer."
+    },
+    {
+     "speaker": "Host",
+     "text": "Then what is it about?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Coding teaches a way of thinking: breaking a big problem into smaller steps, testing ideas, and learning from mistakes. Those skills are valuable whether you end up as a programmer, a doctor or a chef."
+    },
+    {
+     "speaker": "Host",
+     "text": "Some argue that the curriculum is already overcrowded."
+    },
+    {
+     "speaker": "Expert",
+     "text": "That's a fair point. Ideally, coding would be integrated into existing subjects like maths and science rather than added as something separate."
+    }
+   ],
+   "question": "Why does the expert support teaching coding?",
+   "options": [
+    "Parents demand it.",
+    "Most children will become programmers.",
+    "It develops useful problem-solving skills.",
+    "It is easier than maths."
+   ],
+   "answer": 2,
+   "explanation": "'Coding teaches a way of thinking: breaking a big problem into smaller steps…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-012",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-06",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Many parents are asking whether children should be taught to code at primary school. What's your opinion?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I'm in favour, but not for the reason people usually give. It isn't about turning every child into a software engineer."
+    },
+    {
+     "speaker": "Host",
+     "text": "Then what is it about?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Coding teaches a way of thinking: breaking a big problem into smaller steps, testing ideas, and learning from mistakes. Those skills are valuable whether you end up as a programmer, a doctor or a chef."
+    },
+    {
+     "speaker": "Host",
+     "text": "Some argue that the curriculum is already overcrowded."
+    },
+    {
+     "speaker": "Expert",
+     "text": "That's a fair point. Ideally, coding would be integrated into existing subjects like maths and science rather than added as something separate."
+    }
+   ],
+   "question": "How does the expert respond to the point about the curriculum?",
+   "options": [
+    "She says children should learn at home.",
+    "She accepts it and suggests combining coding with other subjects.",
+    "She rejects it completely.",
+    "She suggests removing science lessons."
+   ],
+   "answer": 1,
+   "explanation": "'That's a fair point. Ideally, coding would be integrated into existing subjects…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-013",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-07",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "Your blood tests are mostly fine, but your vitamin D levels are quite low."
+    },
+    {
+     "speaker": "Patient",
+     "text": "Really? I eat fairly healthily."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Diet isn't the main source. Most vitamin D is produced when sunlight reaches your skin. Do you spend much time outdoors?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "Hardly any, to be honest. I work in an office all day and go to the gym in the evening."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "That would explain it. I'd recommend a supplement for the next three months, and try to get outside for at least twenty minutes around midday. We'll test you again after that."
+    }
+   ],
+   "question": "Why does the patient have low vitamin D levels?",
+   "options": [
+    "His diet is unhealthy.",
+    "He doesn't get enough sunlight.",
+    "He takes the wrong supplement.",
+    "He exercises too much."
+   ],
+   "answer": 1,
+   "explanation": "Most vitamin D comes from sunlight, and he spends 'hardly any' time outdoors.",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-014",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-07",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "Your blood tests are mostly fine, but your vitamin D levels are quite low."
+    },
+    {
+     "speaker": "Patient",
+     "text": "Really? I eat fairly healthily."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Diet isn't the main source. Most vitamin D is produced when sunlight reaches your skin. Do you spend much time outdoors?"
+    },
+    {
+     "speaker": "Patient",
+     "text": "Hardly any, to be honest. I work in an office all day and go to the gym in the evening."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "That would explain it. I'd recommend a supplement for the next three months, and try to get outside for at least twenty minutes around midday. We'll test you again after that."
+    }
+   ],
+   "question": "What will happen after three months?",
+   "options": [
+    "He will stop going to the gym.",
+    "He will change jobs.",
+    "The patient will have another test.",
+    "He will start a new diet."
+   ],
+   "answer": 2,
+   "explanation": "'We'll test you again after that.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-015",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-08",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your new novel is set in a future where it never stops raining. Is it a book about climate change?"
+    },
+    {
+     "speaker": "Author",
+     "text": "People keep asking me that, and I understand why. But for me, the rain was always more of a metaphor."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "For what?"
+    },
+    {
+     "speaker": "Author",
+     "text": "For grief. The main character has lost her brother, and the weather reflects her state of mind. Whether the rain is real or not is deliberately left unclear."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So you'd be disappointed if readers saw it as an environmental warning?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Not at all. Once a book is published, it belongs to its readers. If it makes people think about the climate, that's no bad thing."
+    }
+   ],
+   "question": "What does the author say the rain represents?",
+   "options": [
+    "Climate change",
+    "The main character's sadness",
+    "The author's childhood",
+    "Hope for the future"
+   ],
+   "answer": 1,
+   "explanation": "'…the rain was always more of a metaphor… For grief.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-016",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-08",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your new novel is set in a future where it never stops raining. Is it a book about climate change?"
+    },
+    {
+     "speaker": "Author",
+     "text": "People keep asking me that, and I understand why. But for me, the rain was always more of a metaphor."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "For what?"
+    },
+    {
+     "speaker": "Author",
+     "text": "For grief. The main character has lost her brother, and the weather reflects her state of mind. Whether the rain is real or not is deliberately left unclear."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So you'd be disappointed if readers saw it as an environmental warning?"
+    },
+    {
+     "speaker": "Author",
+     "text": "Not at all. Once a book is published, it belongs to its readers. If it makes people think about the climate, that's no bad thing."
+    }
+   ],
+   "question": "How does the author feel about other interpretations of the book?",
+   "options": [
+    "She is annoyed by them.",
+    "She thinks they are wrong.",
+    "She is open to them.",
+    "She hasn't heard any."
+   ],
+   "answer": 2,
+   "explanation": "'Once a book is published, it belongs to its readers… that's no bad thing.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-017",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-09",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm thinking of doing the Camino de Santiago next spring – walking the whole eight hundred kilometres."
+    },
+    {
+     "speaker": "Man",
+     "text": "Wow. Have you done any long-distance walking before?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not really, which is why I'm a bit nervous. My main worry is my knees."
+    },
+    {
+     "speaker": "Man",
+     "text": "When I did part of it, the people who struggled most were the ones who hadn't broken in their boots. Blisters ended more journeys than injuries did."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's useful to know. I'd assumed fitness would be the main issue."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fitness comes as you go. But start walking in your boots now, not the week before you leave."
+    }
+   ],
+   "question": "What is the woman mainly worried about?",
+   "options": [
+    "Getting lost",
+    "The cost",
+    "Her knees",
+    "Walking alone"
+   ],
+   "answer": 2,
+   "explanation": "'My main worry is my knees.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-018",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-09",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm thinking of doing the Camino de Santiago next spring – walking the whole eight hundred kilometres."
+    },
+    {
+     "speaker": "Man",
+     "text": "Wow. Have you done any long-distance walking before?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Not really, which is why I'm a bit nervous. My main worry is my knees."
+    },
+    {
+     "speaker": "Man",
+     "text": "When I did part of it, the people who struggled most were the ones who hadn't broken in their boots. Blisters ended more journeys than injuries did."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's useful to know. I'd assumed fitness would be the main issue."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fitness comes as you go. But start walking in your boots now, not the week before you leave."
+    }
+   ],
+   "question": "What is the man's key piece of advice?",
+   "options": [
+    "Buy expensive boots",
+    "Walk only part of the route",
+    "Wear in new boots well before the trip",
+    "Get fit before setting off"
+   ],
+   "answer": 2,
+   "explanation": "'…start walking in your boots now, not the week before you leave.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-019",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-10",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "A recent survey found that young adults are lonelier than any other age group, including the elderly. Dr Ahmed, does that surprise you?"
+    },
+    {
+     "speaker": "Dr Ahmed",
+     "text": "Not really. People assume that because young people are constantly connected online, they can't be lonely. But loneliness isn't about the number of contacts you have; it's about the quality of your relationships."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So is social media to blame?"
+    },
+    {
+     "speaker": "Dr Ahmed",
+     "text": "It's part of the picture, but I'd be careful about blaming it entirely. Young adults also move frequently for study and work, which makes it hard to build lasting friendships. And housing costs mean many live in shared flats with strangers."
+    }
+   ],
+   "question": "What does Dr Ahmed say about loneliness?",
+   "options": [
+    "It depends on the quality of relationships, not their number.",
+    "It mainly affects elderly people.",
+    "It can be cured by going online.",
+    "It is caused by having too many friends."
+   ],
+   "answer": 0,
+   "explanation": "'…loneliness isn't about the number of contacts you have; it's about the quality of your relationships.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-020",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-10",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "A recent survey found that young adults are lonelier than any other age group, including the elderly. Dr Ahmed, does that surprise you?"
+    },
+    {
+     "speaker": "Dr Ahmed",
+     "text": "Not really. People assume that because young people are constantly connected online, they can't be lonely. But loneliness isn't about the number of contacts you have; it's about the quality of your relationships."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So is social media to blame?"
+    },
+    {
+     "speaker": "Dr Ahmed",
+     "text": "It's part of the picture, but I'd be careful about blaming it entirely. Young adults also move frequently for study and work, which makes it hard to build lasting friendships. And housing costs mean many live in shared flats with strangers."
+    }
+   ],
+   "question": "What is Dr Ahmed's attitude to blaming social media?",
+   "options": [
+    "He thinks it is only one of several causes.",
+    "He blames it completely.",
+    "He thinks it reduces loneliness.",
+    "He thinks it has no effect."
+   ],
+   "answer": 0,
+   "explanation": "'It's part of the picture, but I'd be careful about blaming it entirely.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-021",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-11",
+   "script": [
+    {
+     "speaker": "Candidate",
+     "text": "Before we finish, could I ask about opportunities for promotion?"
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Of course. We tend to promote from within, so most of our managers started in junior roles. There's a formal review every twelve months."
+    },
+    {
+     "speaker": "Candidate",
+     "text": "And is there support for further training?"
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Yes, we fund one professional qualification per year, provided it's relevant to your role. The only condition is that if you leave within two years of completing it, you'd need to repay part of the cost."
+    }
+   ],
+   "question": "What does the interviewer say about the company's managers?",
+   "options": [
+    "Most of them began in junior positions.",
+    "They are reviewed every month.",
+    "Most were recruited from other companies.",
+    "They all have university degrees."
+   ],
+   "answer": 0,
+   "explanation": "'…most of our managers started in junior roles.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-022",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-11",
+   "script": [
+    {
+     "speaker": "Candidate",
+     "text": "Before we finish, could I ask about opportunities for promotion?"
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Of course. We tend to promote from within, so most of our managers started in junior roles. There's a formal review every twelve months."
+    },
+    {
+     "speaker": "Candidate",
+     "text": "And is there support for further training?"
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Yes, we fund one professional qualification per year, provided it's relevant to your role. The only condition is that if you leave within two years of completing it, you'd need to repay part of the cost."
+    }
+   ],
+   "question": "What condition is attached to the training?",
+   "options": [
+    "Employees must study at weekends.",
+    "Employees who leave soon after may have to pay some money back.",
+    "The course must be completed in a month.",
+    "Only managers can apply."
+   ],
+   "answer": 1,
+   "explanation": "'…if you leave within two years of completing it, you'd need to repay part of the cost.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-023",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-12",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "The wetland you're standing in was a car park until twelve years ago. When the council decided to restore it, many residents were sceptical. They thought it would become a breeding ground for mosquitoes."
+    },
+    {
+     "speaker": "Guide",
+     "text": "In fact, the opposite happened. Dragonflies and frogs, which feed on mosquito larvae, returned within two years. We now record over a hundred bird species here."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The wetland also has a practical function. During heavy rain, it absorbs water that would otherwise flood the streets nearby. The council estimates it has already saved more in flood damage than it cost to create."
+    }
+   ],
+   "question": "Why were residents originally sceptical?",
+   "options": [
+    "They disliked birds.",
+    "They thought it would be too expensive.",
+    "They wanted to keep the car park.",
+    "They feared it would increase the number of mosquitoes."
+   ],
+   "answer": 3,
+   "explanation": "'They thought it would become a breeding ground for mosquitoes.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-024",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-12",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "The wetland you're standing in was a car park until twelve years ago. When the council decided to restore it, many residents were sceptical. They thought it would become a breeding ground for mosquitoes."
+    },
+    {
+     "speaker": "Guide",
+     "text": "In fact, the opposite happened. Dragonflies and frogs, which feed on mosquito larvae, returned within two years. We now record over a hundred bird species here."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The wetland also has a practical function. During heavy rain, it absorbs water that would otherwise flood the streets nearby. The council estimates it has already saved more in flood damage than it cost to create."
+    }
+   ],
+   "question": "What practical benefit of the wetland is mentioned?",
+   "options": [
+    "It helps prevent flooding.",
+    "It attracts tourists who spend money.",
+    "It produces clean drinking water.",
+    "It provides parking spaces."
+   ],
+   "answer": 0,
+   "explanation": "'…it absorbs water that would otherwise flood the streets nearby.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-025",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "b2-ls-13",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Did you read that article claiming that coffee adds years to your life?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I saw the headline. But if you read the actual study, it only found a correlation. Coffee drinkers lived longer, but that doesn't mean coffee was the cause."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What else could explain it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Lots of things. People who can afford to buy coffee every day might also be wealthier and have better healthcare. The journalists ignored all of that."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So the headline was misleading."
+    },
+    {
+     "speaker": "Man",
+     "text": "Let's say it was more exciting than the evidence justified."
+    }
+   ],
+   "question": "What is the man's criticism of the article?",
+   "options": [
+    "It said coffee was harmful.",
+    "It was too long.",
+    "It confused a correlation with a cause.",
+    "It used fake data."
+   ],
+   "answer": 2,
+   "explanation": "'…it only found a correlation… that doesn't mean coffee was the cause.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-026",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "b2-ls-13",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Did you read that article claiming that coffee adds years to your life?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I saw the headline. But if you read the actual study, it only found a correlation. Coffee drinkers lived longer, but that doesn't mean coffee was the cause."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What else could explain it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Lots of things. People who can afford to buy coffee every day might also be wealthier and have better healthcare. The journalists ignored all of that."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So the headline was misleading."
+    },
+    {
+     "speaker": "Man",
+     "text": "Let's say it was more exciting than the evidence justified."
+    }
+   ],
+   "question": "How does the man describe the headline at the end?",
+   "options": [
+    "As accurate",
+    "As completely false",
+    "As exaggerated",
+    "As boring"
+   ],
+   "answer": 2,
+   "explanation": "'…it was more exciting than the evidence justified.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-027",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-14",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I tell people I'm studying for a degree at the age of sixty-two, they often ask why I'm bothering. The truth is, I left school at sixteen to support my family, and I always felt I'd missed out."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "I won't pretend it's been easy. Some of the younger students were surprised to see me at first, and I'm much slower with technology than they are."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "But I bring something different to seminars. When we discuss history, I can sometimes say, 'Well, I remember that happening.' My classmates have told me that makes the subject come alive for them."
+    }
+   ],
+   "question": "Why did the speaker decide to study?",
+   "options": [
+    "Her children encouraged her.",
+    "She felt she had missed the chance when she was young.",
+    "She needed a qualification for a new job.",
+    "She was bored after retiring."
+   ],
+   "answer": 1,
+   "explanation": "'…I left school at sixteen to support my family, and I always felt I'd missed out.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-028",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-14",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I tell people I'm studying for a degree at the age of sixty-two, they often ask why I'm bothering. The truth is, I left school at sixteen to support my family, and I always felt I'd missed out."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "I won't pretend it's been easy. Some of the younger students were surprised to see me at first, and I'm much slower with technology than they are."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "But I bring something different to seminars. When we discuss history, I can sometimes say, 'Well, I remember that happening.' My classmates have told me that makes the subject come alive for them."
+    }
+   ],
+   "question": "What does the speaker feel she contributes to seminars?",
+   "options": [
+    "Help with homework",
+    "Technical skills",
+    "Personal experience of historical events",
+    "Strong exam technique"
+   ],
+   "answer": 2,
+   "explanation": "'I can sometimes say, Well, I remember that happening.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-029",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b2-ls-15",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your restaurant has no menu. Customers simply eat whatever you've cooked that day. Isn't that risky?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "It was at first. Some people walked out when they realised they couldn't choose. But it allows us to buy only what's in season and what the local farmers have available."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So it's partly about reducing waste?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "Very much so. Traditional restaurants throw away huge amounts of food because they have to stock ingredients for forty different dishes. We waste almost nothing."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "What about customers with allergies?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "They tell us when they book, and we adapt their meal. That's never been a problem."
+    }
+   ],
+   "question": "Why does the chef cook without a menu?",
+   "options": [
+    "To save money on printing",
+    "To use seasonal, locally available ingredients",
+    "To surprise famous customers",
+    "To cook faster"
+   ],
+   "answer": 1,
+   "explanation": "'…it allows us to buy only what's in season and what the local farmers have available.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-030",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b2-ls-15",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "Your restaurant has no menu. Customers simply eat whatever you've cooked that day. Isn't that risky?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "It was at first. Some people walked out when they realised they couldn't choose. But it allows us to buy only what's in season and what the local farmers have available."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "So it's partly about reducing waste?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "Very much so. Traditional restaurants throw away huge amounts of food because they have to stock ingredients for forty different dishes. We waste almost nothing."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "What about customers with allergies?"
+    },
+    {
+     "speaker": "Chef",
+     "text": "They tell us when they book, and we adapt their meal. That's never been a problem."
+    }
+   ],
+   "question": "How does the restaurant deal with allergies?",
+   "options": [
+    "It offers a separate menu.",
+    "It doesn't accept customers with allergies.",
+    "Customers mention them in advance.",
+    "It avoids all common allergens."
+   ],
+   "answer": 2,
+   "explanation": "'They tell us when they book, and we adapt their meal.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-031",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b2-ls-16",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you heard they're planning to turn the old train station into luxury flats?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, and I'm torn. On the one hand, the building's been empty for years and it's starting to fall apart."
+    },
+    {
+     "speaker": "Man",
+     "text": "Exactly. Something has to be done with it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "But luxury flats won't help the people who actually need housing round here. I'd much rather see it become affordable homes, or a community centre."
+    },
+    {
+     "speaker": "Man",
+     "text": "The developers say affordable housing wouldn't be profitable."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Then perhaps the council should be involved. It's public heritage, after all."
+    }
+   ],
+   "question": "How does the woman feel about the plan?",
+   "options": [
+    "She has mixed feelings.",
+    "She fully supports it.",
+    "She doesn't care.",
+    "She wants the building demolished."
+   ],
+   "answer": 0,
+   "explanation": "'…I'm torn. On the one hand…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-032",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b2-ls-16",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you heard they're planning to turn the old train station into luxury flats?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, and I'm torn. On the one hand, the building's been empty for years and it's starting to fall apart."
+    },
+    {
+     "speaker": "Man",
+     "text": "Exactly. Something has to be done with it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "But luxury flats won't help the people who actually need housing round here. I'd much rather see it become affordable homes, or a community centre."
+    },
+    {
+     "speaker": "Man",
+     "text": "The developers say affordable housing wouldn't be profitable."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Then perhaps the council should be involved. It's public heritage, after all."
+    }
+   ],
+   "question": "What does the woman suggest at the end?",
+   "options": [
+    "The developers should build more luxury flats.",
+    "The local council should play a role.",
+    "The building should stay empty.",
+    "Residents should buy the building."
+   ],
+   "answer": 1,
+   "explanation": "'Then perhaps the council should be involved.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-033",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "b2-ls-17",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "You've written a book about failure. Why that subject?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Because we're terrible at talking about it. On social media, everyone shares their successes, so we assume other people fail far less than we do."
+    },
+    {
+     "speaker": "Host",
+     "text": "And that has consequences?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Absolutely. If you believe failure is unusual, you see it as a sign that you're not good enough, so you stop taking risks. But almost every successful person I interviewed for the book had failed repeatedly before they succeeded."
+    },
+    {
+     "speaker": "Host",
+     "text": "So what's your advice?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Treat failure as information, not as a judgement. Ask what it tells you, rather than what it says about you."
+    }
+   ],
+   "question": "Why does the psychologist think people misunderstand failure?",
+   "options": [
+    "They only see other people's successes.",
+    "They fail more often than in the past.",
+    "Schools punish failure.",
+    "They read too many books about it."
+   ],
+   "answer": 0,
+   "explanation": "'…everyone shares their successes, so we assume other people fail far less than we do.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-034",
+   "type": "listening",
+   "topic": "psychology",
+   "scriptId": "b2-ls-17",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "You've written a book about failure. Why that subject?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Because we're terrible at talking about it. On social media, everyone shares their successes, so we assume other people fail far less than we do."
+    },
+    {
+     "speaker": "Host",
+     "text": "And that has consequences?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Absolutely. If you believe failure is unusual, you see it as a sign that you're not good enough, so you stop taking risks. But almost every successful person I interviewed for the book had failed repeatedly before they succeeded."
+    },
+    {
+     "speaker": "Host",
+     "text": "So what's your advice?"
+    },
+    {
+     "speaker": "Psychologist",
+     "text": "Treat failure as information, not as a judgement. Ask what it tells you, rather than what it says about you."
+    }
+   ],
+   "question": "What is the psychologist's advice?",
+   "options": [
+    "Avoid taking risks",
+    "Never post on social media",
+    "Hide your failures from others",
+    "Learn from failure instead of seeing it as a personal judgement"
+   ],
+   "answer": 3,
+   "explanation": "'Treat failure as information, not as a judgement.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-035",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "b2-ls-18",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Due to a signalling failure between Ashford and Dover, all services on this line are suspended until further notice. Passengers travelling to Dover are advised to take the replacement bus service, which departs from outside the main entrance every thirty minutes. Please be aware that journey times will be at least an hour longer than usual. Tickets for today's travel will be accepted on all alternative routes, and passengers delayed by more than an hour may be entitled to compensation, which can be claimed online."
+    }
+   ],
+   "question": "What should passengers to Dover do?",
+   "options": [
+    "Take a replacement bus",
+    "Buy a new ticket",
+    "Travel tomorrow instead",
+    "Wait on the platform"
+   ],
+   "answer": 0,
+   "explanation": "'…advised to take the replacement bus service…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-036",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "b2-ls-18",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "Due to a signalling failure between Ashford and Dover, all services on this line are suspended until further notice. Passengers travelling to Dover are advised to take the replacement bus service, which departs from outside the main entrance every thirty minutes. Please be aware that journey times will be at least an hour longer than usual. Tickets for today's travel will be accepted on all alternative routes, and passengers delayed by more than an hour may be entitled to compensation, which can be claimed online."
+    }
+   ],
+   "question": "Which passengers may receive compensation?",
+   "options": [
+    "Only passengers with return tickets",
+    "Those who travel by bus",
+    "Those delayed by over an hour",
+    "All passengers on the line"
+   ],
+   "answer": 2,
+   "explanation": "'…passengers delayed by more than an hour may be entitled to compensation.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-037",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "b2-ls-19",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "The figures for the new product line are disappointing. Sales are thirty percent below forecast."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is it the product or the marketing?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Customer feedback on the product itself is actually very positive. The people who buy it love it. The problem is that not enough people know it exists."
+    },
+    {
+     "speaker": "Man",
+     "text": "So we've been targeting the wrong audience?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Partly. We spent most of the budget on television, but our research shows the target customers are mainly under thirty and rarely watch TV."
+    },
+    {
+     "speaker": "Man",
+     "text": "Then let's shift the budget to social media and see what happens next quarter."
+    }
+   ],
+   "question": "What does customer feedback suggest?",
+   "options": [
+    "The product should be withdrawn.",
+    "The product is good, but awareness is low.",
+    "Customers are dissatisfied with quality.",
+    "The product is too expensive."
+   ],
+   "answer": 1,
+   "explanation": "'The people who buy it love it. The problem is that not enough people know it exists.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-038",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "b2-ls-19",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "The figures for the new product line are disappointing. Sales are thirty percent below forecast."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is it the product or the marketing?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Customer feedback on the product itself is actually very positive. The people who buy it love it. The problem is that not enough people know it exists."
+    },
+    {
+     "speaker": "Man",
+     "text": "So we've been targeting the wrong audience?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Partly. We spent most of the budget on television, but our research shows the target customers are mainly under thirty and rarely watch TV."
+    },
+    {
+     "speaker": "Man",
+     "text": "Then let's shift the budget to social media and see what happens next quarter."
+    }
+   ],
+   "question": "Why was the TV advertising ineffective?",
+   "options": [
+    "It was too cheap.",
+    "The adverts were too short.",
+    "The adverts were shown at night.",
+    "The target customers seldom watch television."
+   ],
+   "answer": 3,
+   "explanation": "'…the target customers are mainly under thirty and rarely watch TV.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-039",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-20",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Is it true that we need to walk ten thousand steps a day?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "It's a nice round number, but it actually began as a marketing slogan for a pedometer sold in Japan in the 1960s. It wasn't based on scientific research."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So is it meaningless?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Not meaningless, but misleading. Recent studies suggest that the health benefits level off at around seven or eight thousand steps for most adults. And for older people, even four thousand makes a significant difference compared with being inactive."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So people shouldn't feel guilty if they don't reach ten thousand."
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Precisely. Any increase is worthwhile."
+    }
+   ],
+   "question": "Where did the ten-thousand-step target come from?",
+   "options": [
+    "A medical study",
+    "An advertising campaign",
+    "A government guideline",
+    "A sports club"
+   ],
+   "answer": 1,
+   "explanation": "'…it actually began as a marketing slogan for a pedometer…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-040",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-20",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Is it true that we need to walk ten thousand steps a day?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "It's a nice round number, but it actually began as a marketing slogan for a pedometer sold in Japan in the 1960s. It wasn't based on scientific research."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So is it meaningless?"
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Not meaningless, but misleading. Recent studies suggest that the health benefits level off at around seven or eight thousand steps for most adults. And for older people, even four thousand makes a significant difference compared with being inactive."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "So people shouldn't feel guilty if they don't reach ten thousand."
+    },
+    {
+     "speaker": "Researcher",
+     "text": "Precisely. Any increase is worthwhile."
+    }
+   ],
+   "question": "What is the researcher's main message?",
+   "options": [
+    "Doing more activity is beneficial even below ten thousand steps.",
+    "Older people shouldn't walk much.",
+    "Walking has no health benefits.",
+    "Everyone must walk ten thousand steps."
+   ],
+   "answer": 0,
+   "explanation": "'Any increase is worthwhile.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-041",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-21",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My company has just introduced a policy banning emails after seven in the evening."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds great. Do people actually stick to it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Surprisingly, yes. The servers simply hold messages until the morning. At first, managers complained they couldn't get things done, but most of them have adjusted."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd worry about urgent situations, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "There's an exception for genuine emergencies – you can phone. But it turns out very few things are as urgent as we used to think."
+    }
+   ],
+   "question": "How is the policy enforced?",
+   "options": [
+    "Managers check employees' phones.",
+    "Emails are delayed until the next morning.",
+    "Staff are fined for sending emails.",
+    "Laptops are collected at seven."
+   ],
+   "answer": 1,
+   "explanation": "'The servers simply hold messages until the morning.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-042",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-21",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "My company has just introduced a policy banning emails after seven in the evening."
+    },
+    {
+     "speaker": "Man",
+     "text": "That sounds great. Do people actually stick to it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Surprisingly, yes. The servers simply hold messages until the morning. At first, managers complained they couldn't get things done, but most of them have adjusted."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd worry about urgent situations, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "There's an exception for genuine emergencies – you can phone. But it turns out very few things are as urgent as we used to think."
+    }
+   ],
+   "question": "What has the woman realised?",
+   "options": [
+    "The policy is unpopular.",
+    "Phoning is less efficient than email.",
+    "Few matters are truly urgent.",
+    "Managers work harder than other staff."
+   ],
+   "answer": 2,
+   "explanation": "'…it turns out very few things are as urgent as we used to think.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-043",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-22",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This telescope, completed last year, is powerful enough to detect light from galaxies more than thirteen billion light years away. In other words, we're seeing them as they were shortly after the universe began."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "So some of those galaxies might not exist any more?"
+    },
+    {
+     "speaker": "Guide",
+     "text": "That's quite possible. The light has taken so long to reach us that what we see is essentially a picture of the past."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "It's strange to think of looking at history through a telescope."
+    },
+    {
+     "speaker": "Guide",
+     "text": "That's exactly what astronomers do. The further away we look, the further back in time we go."
+    }
+   ],
+   "question": "What does the guide say about the galaxies we see?",
+   "options": [
+    "They are all still growing.",
+    "They are very close to Earth.",
+    "They were discovered thirteen years ago.",
+    "We see them as they were long ago."
+   ],
+   "answer": 3,
+   "explanation": "'…we're seeing them as they were shortly after the universe began.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-044",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-22",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "This telescope, completed last year, is powerful enough to detect light from galaxies more than thirteen billion light years away. In other words, we're seeing them as they were shortly after the universe began."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "So some of those galaxies might not exist any more?"
+    },
+    {
+     "speaker": "Guide",
+     "text": "That's quite possible. The light has taken so long to reach us that what we see is essentially a picture of the past."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "It's strange to think of looking at history through a telescope."
+    },
+    {
+     "speaker": "Guide",
+     "text": "That's exactly what astronomers do. The further away we look, the further back in time we go."
+    }
+   ],
+   "question": "What does the visitor find strange?",
+   "options": [
+    "That the telescope is so small",
+    "That galaxies move so quickly",
+    "That looking into space means looking into the past",
+    "That astronomers work at night"
+   ],
+   "answer": 2,
+   "explanation": "'It's strange to think of looking at history through a telescope.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-045",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-23",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've been offered the team leader role, but I'm not sure whether to accept it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why the hesitation? It's a promotion."
+    },
+    {
+     "speaker": "Man",
+     "text": "I love the technical side of my job. As team leader, I'd spend most of my time in meetings and dealing with people's problems."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Couldn't you ask whether there's a senior technical role instead? Some companies have separate career paths for specialists."
+    },
+    {
+     "speaker": "Man",
+     "text": "I hadn't thought of that. I just assumed management was the only way up."
+    }
+   ],
+   "question": "Why is the man hesitant about the promotion?",
+   "options": [
+    "He would lose the technical work he enjoys.",
+    "He would have to move abroad.",
+    "He dislikes his colleagues.",
+    "The salary is too low."
+   ],
+   "answer": 0,
+   "explanation": "'I love the technical side of my job. As team leader, I'd spend most of my time in meetings.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-046",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-23",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've been offered the team leader role, but I'm not sure whether to accept it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Why the hesitation? It's a promotion."
+    },
+    {
+     "speaker": "Man",
+     "text": "I love the technical side of my job. As team leader, I'd spend most of my time in meetings and dealing with people's problems."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Couldn't you ask whether there's a senior technical role instead? Some companies have separate career paths for specialists."
+    },
+    {
+     "speaker": "Man",
+     "text": "I hadn't thought of that. I just assumed management was the only way up."
+    }
+   ],
+   "question": "What had the man assumed?",
+   "options": [
+    "He would be rejected.",
+    "Specialist roles were better paid.",
+    "The woman wanted the job.",
+    "Becoming a manager was the only form of promotion."
+   ],
+   "answer": 3,
+   "explanation": "'I just assumed management was the only way up.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-047",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-24",
+   "script": [
+    {
+     "speaker": "Curator",
+     "text": "This exhibition brings together objects that were removed from West Africa during the colonial period. Some of them are being displayed in public for the first time in over a century."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "I read that several countries have asked for them to be returned."
+    },
+    {
+     "speaker": "Curator",
+     "text": "That's right, and it's a debate the museum takes seriously. Two of the bronzes you'll see today will be returned to Nigeria next year, under an agreement signed in March."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "Will the others stay here?"
+    },
+    {
+     "speaker": "Curator",
+     "text": "That's still being discussed. Our view is that these decisions should be made in partnership with the communities the objects came from."
+    }
+   ],
+   "question": "What is special about some of the objects in the exhibition?",
+   "options": [
+    "They belong to Nigeria's government.",
+    "They were made recently.",
+    "They have not been shown publicly for over a hundred years.",
+    "They were bought last year."
+   ],
+   "answer": 2,
+   "explanation": "'…being displayed in public for the first time in over a century.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-048",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-24",
+   "script": [
+    {
+     "speaker": "Curator",
+     "text": "This exhibition brings together objects that were removed from West Africa during the colonial period. Some of them are being displayed in public for the first time in over a century."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "I read that several countries have asked for them to be returned."
+    },
+    {
+     "speaker": "Curator",
+     "text": "That's right, and it's a debate the museum takes seriously. Two of the bronzes you'll see today will be returned to Nigeria next year, under an agreement signed in March."
+    },
+    {
+     "speaker": "Visitor",
+     "text": "Will the others stay here?"
+    },
+    {
+     "speaker": "Curator",
+     "text": "That's still being discussed. Our view is that these decisions should be made in partnership with the communities the objects came from."
+    }
+   ],
+   "question": "What is the museum's position on returning objects?",
+   "options": [
+    "Decisions should involve the communities of origin.",
+    "The museum refuses to discuss it.",
+    "All objects will be returned immediately.",
+    "All objects should stay in the museum."
+   ],
+   "answer": 0,
+   "explanation": "'…these decisions should be made in partnership with the communities the objects came from.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-049",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-25",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Smart speakers are now in millions of homes. Should we be worried about privacy?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I think people underestimate how much information these devices collect. They're designed to listen for a 'wake word', but studies have found they're accidentally activated several times a day."
+    },
+    {
+     "speaker": "Host",
+     "text": "And those recordings are stored?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "In many cases, yes, and some have been reviewed by human staff to improve the software. Most users have no idea."
+    },
+    {
+     "speaker": "Host",
+     "text": "So would you advise people not to buy them?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Not necessarily. But they should go into the settings, switch off recording storage and use the mute button when having private conversations."
+    }
+   ],
+   "question": "What problem with smart speakers does the expert mention?",
+   "options": [
+    "They are too expensive.",
+    "They are often switched on by mistake.",
+    "They break easily.",
+    "They don't understand accents."
+   ],
+   "answer": 1,
+   "explanation": "'…they're accidentally activated several times a day.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-050",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-25",
+   "script": [
+    {
+     "speaker": "Host",
+     "text": "Smart speakers are now in millions of homes. Should we be worried about privacy?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "I think people underestimate how much information these devices collect. They're designed to listen for a 'wake word', but studies have found they're accidentally activated several times a day."
+    },
+    {
+     "speaker": "Host",
+     "text": "And those recordings are stored?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "In many cases, yes, and some have been reviewed by human staff to improve the software. Most users have no idea."
+    },
+    {
+     "speaker": "Host",
+     "text": "So would you advise people not to buy them?"
+    },
+    {
+     "speaker": "Expert",
+     "text": "Not necessarily. But they should go into the settings, switch off recording storage and use the mute button when having private conversations."
+    }
+   ],
+   "question": "What does the expert recommend?",
+   "options": [
+    "Speaking more quietly",
+    "Never buying one",
+    "Changing the privacy settings",
+    "Throwing the devices away"
+   ],
+   "answer": 2,
+   "explanation": "'…go into the settings, switch off recording storage and use the mute button…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-051",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-26",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've decided to stop flying for a year to reduce my carbon footprint."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's admirable, but won't it make it hard to visit your family in Spain?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'll take the train. It takes about twenty hours, but I see it as part of the holiday rather than wasted time."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd love to do that, but I only get two weeks off a year. Spending two days travelling just isn't realistic for me."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the problem, isn't it? It shouldn't be up to individuals alone. Companies could offer extra leave for people who travel by train."
+    }
+   ],
+   "question": "How does the woman view the long train journey?",
+   "options": [
+    "As too expensive",
+    "As an enjoyable part of the trip",
+    "As a waste of time",
+    "As dangerous"
+   ],
+   "answer": 1,
+   "explanation": "'…I see it as part of the holiday rather than wasted time.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-052",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-26",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've decided to stop flying for a year to reduce my carbon footprint."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's admirable, but won't it make it hard to visit your family in Spain?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'll take the train. It takes about twenty hours, but I see it as part of the holiday rather than wasted time."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd love to do that, but I only get two weeks off a year. Spending two days travelling just isn't realistic for me."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's the problem, isn't it? It shouldn't be up to individuals alone. Companies could offer extra leave for people who travel by train."
+    }
+   ],
+   "question": "What compromise does the woman propose?",
+   "options": [
+    "Employers could support slower travel.",
+    "Flights should be banned.",
+    "The man should change jobs.",
+    "Everyone should stop flying."
+   ],
+   "answer": 0,
+   "explanation": "'Companies could offer extra leave for people who travel by train.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-053",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-27",
+   "script": [
+    {
+     "speaker": "Principal",
+     "text": "Starting next term, students won't be allowed to use their phones at all during the school day, including at break time. Phones must be switched off and kept in lockers."
+    },
+    {
+     "speaker": "Principal",
+     "text": "I know some parents are concerned about being unable to contact their children. In an emergency, you can always call the school office, and we will pass on the message immediately."
+    },
+    {
+     "speaker": "Principal",
+     "text": "We've made this decision after a trial with Year Nine last term. Teachers reported better concentration in lessons, and, perhaps more surprisingly, students themselves said they talked to each other more at lunchtime."
+    }
+   ],
+   "question": "How can parents contact children in an emergency?",
+   "options": [
+    "By calling the school office",
+    "By texting their child",
+    "By visiting the lockers",
+    "By emailing teachers"
+   ],
+   "answer": 0,
+   "explanation": "'In an emergency, you can always call the school office…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-054",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-27",
+   "script": [
+    {
+     "speaker": "Principal",
+     "text": "Starting next term, students won't be allowed to use their phones at all during the school day, including at break time. Phones must be switched off and kept in lockers."
+    },
+    {
+     "speaker": "Principal",
+     "text": "I know some parents are concerned about being unable to contact their children. In an emergency, you can always call the school office, and we will pass on the message immediately."
+    },
+    {
+     "speaker": "Principal",
+     "text": "We've made this decision after a trial with Year Nine last term. Teachers reported better concentration in lessons, and, perhaps more surprisingly, students themselves said they talked to each other more at lunchtime."
+    }
+   ],
+   "question": "What surprising result did the trial produce?",
+   "options": [
+    "Parents complained less.",
+    "Teachers used phones more.",
+    "Students' grades fell.",
+    "Students socialised more face to face."
+   ],
+   "answer": 3,
+   "explanation": "'…students themselves said they talked to each other more at lunchtime.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-055",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b2-ls-28",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've just retired after fifteen years as a professional tennis player. How are you finding it?"
+    },
+    {
+     "speaker": "Player",
+     "text": "Harder than I expected, to be honest. For fifteen years, every day was planned for me: training, matches, travel. Suddenly I have complete freedom, and I don't quite know what to do with it."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do you miss competing?"
+    },
+    {
+     "speaker": "Player",
+     "text": "Not the pressure, but I miss the sense of purpose. That's why I've started coaching juniors. It gives me a reason to get up in the morning."
+    }
+   ],
+   "question": "What has the player found difficult about retirement?",
+   "options": [
+    "Losing money",
+    "Physical injuries",
+    "Being recognised in public",
+    "Adjusting to unstructured time"
+   ],
+   "answer": 3,
+   "explanation": "'Suddenly I have complete freedom, and I don't quite know what to do with it.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-056",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "b2-ls-28",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You've just retired after fifteen years as a professional tennis player. How are you finding it?"
+    },
+    {
+     "speaker": "Player",
+     "text": "Harder than I expected, to be honest. For fifteen years, every day was planned for me: training, matches, travel. Suddenly I have complete freedom, and I don't quite know what to do with it."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "Do you miss competing?"
+    },
+    {
+     "speaker": "Player",
+     "text": "Not the pressure, but I miss the sense of purpose. That's why I've started coaching juniors. It gives me a reason to get up in the morning."
+    }
+   ],
+   "question": "Why has the player started coaching?",
+   "options": [
+    "She wants to compete again.",
+    "It gives her a sense of purpose.",
+    "Her coach asked her to.",
+    "She needs the money."
+   ],
+   "answer": 1,
+   "explanation": "'I miss the sense of purpose… It gives me a reason to get up in the morning.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-057",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-29",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How did the negotiation with the supplier go?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Better than expected. They wouldn't lower the price, which I'd anticipated, but they agreed to longer payment terms – ninety days instead of thirty."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's actually more useful for our cash flow."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's what I thought. I also managed to get free delivery included, which should save us about five percent."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great work. Did you have to give anything in return?"
+    },
+    {
+     "speaker": "Man",
+     "text": "We committed to a two-year contract rather than one. I think that's a reasonable trade."
+    }
+   ],
+   "question": "What did the supplier refuse to do?",
+   "options": [
+    "Offer longer payment terms",
+    "Sign a contract",
+    "Deliver for free",
+    "Reduce the price"
+   ],
+   "answer": 3,
+   "explanation": "'They wouldn't lower the price, which I'd anticipated…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-058",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-29",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How did the negotiation with the supplier go?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Better than expected. They wouldn't lower the price, which I'd anticipated, but they agreed to longer payment terms – ninety days instead of thirty."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's actually more useful for our cash flow."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's what I thought. I also managed to get free delivery included, which should save us about five percent."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great work. Did you have to give anything in return?"
+    },
+    {
+     "speaker": "Man",
+     "text": "We committed to a two-year contract rather than one. I think that's a reasonable trade."
+    }
+   ],
+   "question": "What did the company agree to in return?",
+   "options": [
+    "Faster payment",
+    "A longer contract",
+    "Collecting the goods themselves",
+    "Higher prices"
+   ],
+   "answer": 1,
+   "explanation": "'We committed to a two-year contract rather than one.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-059",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-30",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "When people imagine scientific breakthroughs, they often picture a lone genius having a sudden moment of inspiration. History suggests otherwise."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Take the discovery of the structure of DNA. It's usually credited to Watson and Crick, but their work depended heavily on X-ray images produced by Rosalind Franklin, whose contribution was largely overlooked during her lifetime."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Most major discoveries are the result of years of collaboration, failed experiments and incremental progress. The 'eureka moment', if it happens at all, is usually the final step of a very long process."
+    }
+   ],
+   "question": "What is the lecturer's main point?",
+   "options": [
+    "Most discoveries happen by accident.",
+    "Scientific progress is usually collaborative and gradual.",
+    "Watson and Crick deserved all the credit.",
+    "Science is mainly about inspiration."
+   ],
+   "answer": 1,
+   "explanation": "'Most major discoveries are the result of years of collaboration, failed experiments and incremental progress.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-060",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-30",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "When people imagine scientific breakthroughs, they often picture a lone genius having a sudden moment of inspiration. History suggests otherwise."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Take the discovery of the structure of DNA. It's usually credited to Watson and Crick, but their work depended heavily on X-ray images produced by Rosalind Franklin, whose contribution was largely overlooked during her lifetime."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Most major discoveries are the result of years of collaboration, failed experiments and incremental progress. The 'eureka moment', if it happens at all, is usually the final step of a very long process."
+    }
+   ],
+   "question": "Why does the lecturer mention Rosalind Franklin?",
+   "options": [
+    "To show that women dominated science",
+    "To explain how X-rays work",
+    "To show that important contributors can be forgotten",
+    "To criticise her methods"
+   ],
+   "answer": 2,
+   "explanation": "'…whose contribution was largely overlooked during her lifetime.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-061",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b2-ls-31",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "We need to decide whether to renovate this house or sell it and buy somewhere newer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm leaning towards renovating. We love the neighbourhood, and the children's school is five minutes away."
+    },
+    {
+     "speaker": "Man",
+     "text": "But the builder's quote was much higher than we expected, and these projects always go over budget."
+    },
+    {
+     "speaker": "Woman",
+     "text": "True, but moving isn't cheap either, once you add up the agency fees, taxes and removal costs."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair point. Let's get two more quotes before we decide anything."
+    }
+   ],
+   "question": "Why does the woman prefer to renovate?",
+   "options": [
+    "They like the area and its convenience.",
+    "She dislikes the children's school.",
+    "The house is very modern.",
+    "Renovation is always cheap."
+   ],
+   "answer": 0,
+   "explanation": "'We love the neighbourhood, and the children's school is five minutes away.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-062",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "b2-ls-31",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "We need to decide whether to renovate this house or sell it and buy somewhere newer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm leaning towards renovating. We love the neighbourhood, and the children's school is five minutes away."
+    },
+    {
+     "speaker": "Man",
+     "text": "But the builder's quote was much higher than we expected, and these projects always go over budget."
+    },
+    {
+     "speaker": "Woman",
+     "text": "True, but moving isn't cheap either, once you add up the agency fees, taxes and removal costs."
+    },
+    {
+     "speaker": "Man",
+     "text": "Fair point. Let's get two more quotes before we decide anything."
+    }
+   ],
+   "question": "What do they decide to do?",
+   "options": [
+    "Sell the house immediately",
+    "Find a new school",
+    "Start renovating next week",
+    "Get further estimates"
+   ],
+   "answer": 3,
+   "explanation": "'Let's get two more quotes before we decide anything.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-063",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "b2-ls-32",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Local newspapers are closing at an alarming rate. Why should people care?"
+    },
+    {
+     "speaker": "Journalist",
+     "text": "Because when a local paper disappears, nobody is left to attend council meetings or report on how public money is spent. Research in the United States found that in areas that lost their local paper, government borrowing costs actually rose, probably because there was less scrutiny."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But surely people can get news online?"
+    },
+    {
+     "speaker": "Journalist",
+     "text": "National news, yes. But national outlets won't send a reporter to a planning committee in a small town. That kind of journalism is expensive and unglamorous, but it's essential for democracy."
+    }
+   ],
+   "question": "What did the US research find?",
+   "options": [
+    "Council meetings became shorter.",
+    "Local papers were more popular than online news.",
+    "Areas without local papers had higher government borrowing costs.",
+    "Taxes were reduced."
+   ],
+   "answer": 2,
+   "explanation": "'…government borrowing costs actually rose, probably because there was less scrutiny.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-064",
+   "type": "listening",
+   "topic": "media",
+   "scriptId": "b2-ls-32",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Local newspapers are closing at an alarming rate. Why should people care?"
+    },
+    {
+     "speaker": "Journalist",
+     "text": "Because when a local paper disappears, nobody is left to attend council meetings or report on how public money is spent. Research in the United States found that in areas that lost their local paper, government borrowing costs actually rose, probably because there was less scrutiny."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "But surely people can get news online?"
+    },
+    {
+     "speaker": "Journalist",
+     "text": "National news, yes. But national outlets won't send a reporter to a planning committee in a small town. That kind of journalism is expensive and unglamorous, but it's essential for democracy."
+    }
+   ],
+   "question": "What is the journalist's attitude to local journalism?",
+   "options": [
+    "It is vital even if it isn't exciting.",
+    "It should be replaced by national news.",
+    "It is outdated and unnecessary.",
+    "It is too sensational."
+   ],
+   "answer": 0,
+   "explanation": "'That kind of journalism is expensive and unglamorous, but it's essential for democracy.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-065",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-33",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've started intermittent fasting – I only eat between twelve and eight."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is it working?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I've lost a bit of weight, and I definitely snack less in the evening. But I'm not convinced there's anything magical about the timing."
+    },
+    {
+     "speaker": "Man",
+     "text": "What do you mean?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Well, I read that most of the weight loss comes simply from eating fewer calories overall. Fasting just makes it easier for me to stick to that."
+    }
+   ],
+   "question": "What benefit has the woman noticed?",
+   "options": [
+    "She has more energy in the morning.",
+    "She eats fewer snacks in the evening.",
+    "She sleeps better.",
+    "She has stopped exercising."
+   ],
+   "answer": 1,
+   "explanation": "'…I definitely snack less in the evening.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-066",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-33",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've started intermittent fasting – I only eat between twelve and eight."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is it working?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I've lost a bit of weight, and I definitely snack less in the evening. But I'm not convinced there's anything magical about the timing."
+    },
+    {
+     "speaker": "Man",
+     "text": "What do you mean?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Well, I read that most of the weight loss comes simply from eating fewer calories overall. Fasting just makes it easier for me to stick to that."
+    }
+   ],
+   "question": "What does the woman believe about fasting?",
+   "options": [
+    "It is dangerous.",
+    "The timing itself has special effects.",
+    "It doesn't help at all.",
+    "It works mainly by reducing overall calories."
+   ],
+   "answer": 3,
+   "explanation": "'…most of the weight loss comes simply from eating fewer calories overall.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-067",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-34",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "I'm afraid there's been a problem with your booking. The hotel is overbooked tonight."
+    },
+    {
+     "speaker": "Guest",
+     "text": "You're joking. I booked this three months ago and paid in advance."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "I completely understand your frustration, and I apologise. We've arranged a room for you at our sister hotel, which is a higher category, at no extra cost. We'll also pay for a taxi there and back."
+    },
+    {
+     "speaker": "Guest",
+     "text": "Well, that's something. Will I be able to return here tomorrow?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Yes, your room will be ready from midday, and we'll waive the charge for tonight entirely."
+    }
+   ],
+   "question": "How does the guest react at first?",
+   "options": [
+    "He is relieved.",
+    "He is annoyed.",
+    "He is amused.",
+    "He is confused."
+   ],
+   "answer": 1,
+   "explanation": "'You're joking. I booked this three months ago and paid in advance.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-068",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-34",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "I'm afraid there's been a problem with your booking. The hotel is overbooked tonight."
+    },
+    {
+     "speaker": "Guest",
+     "text": "You're joking. I booked this three months ago and paid in advance."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "I completely understand your frustration, and I apologise. We've arranged a room for you at our sister hotel, which is a higher category, at no extra cost. We'll also pay for a taxi there and back."
+    },
+    {
+     "speaker": "Guest",
+     "text": "Well, that's something. Will I be able to return here tomorrow?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Yes, your room will be ready from midday, and we'll waive the charge for tonight entirely."
+    }
+   ],
+   "question": "What does the hotel offer to make up for the problem?",
+   "options": [
+    "An upgrade to a suite tomorrow",
+    "A full refund for the whole stay",
+    "A free dinner",
+    "A better hotel, free transport and no charge for the night"
+   ],
+   "answer": 3,
+   "explanation": "Sister hotel at a higher category, taxi paid, and the charge for tonight waived.",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-069",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-35",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Should we send our daughter to the international school or the local one?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The international school has better facilities, and she'd become fluent in English."
+    },
+    {
+     "speaker": "Woman",
+     "text": "But it's incredibly expensive, and most of her friends would be from wealthy families. I don't want her to lose touch with ordinary life."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a fair concern. What if she went to the local school and we paid for extra English lessons?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "That seems like a sensible compromise. Let's visit both schools before deciding, though."
+    }
+   ],
+   "question": "What is the woman's concern about the international school?",
+   "options": [
+    "The teachers are unqualified.",
+    "Her daughter wouldn't learn English.",
+    "It's too far away.",
+    "Her daughter might become disconnected from ordinary life."
+   ],
+   "answer": 3,
+   "explanation": "'I don't want her to lose touch with ordinary life.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-070",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-35",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Should we send our daughter to the international school or the local one?"
+    },
+    {
+     "speaker": "Man",
+     "text": "The international school has better facilities, and she'd become fluent in English."
+    },
+    {
+     "speaker": "Woman",
+     "text": "But it's incredibly expensive, and most of her friends would be from wealthy families. I don't want her to lose touch with ordinary life."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a fair concern. What if she went to the local school and we paid for extra English lessons?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "That seems like a sensible compromise. Let's visit both schools before deciding, though."
+    }
+   ],
+   "question": "What compromise does the man propose?",
+   "options": [
+    "Home schooling",
+    "Moving to another country",
+    "The international school for one year only",
+    "The local school plus extra English classes"
+   ],
+   "answer": 3,
+   "explanation": "'What if she went to the local school and we paid for extra English lessons?'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-071",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "b2-ls-36",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I started my company, I made the classic mistake of trying to appeal to everyone. Our app had dozens of features, and our marketing was aimed at people of all ages."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "The result was that nobody felt it was really for them. It was only when we focused on a very specific group – freelance designers – that things started to change."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "We removed most of the features and concentrated on doing three things brilliantly. Within a year, our user numbers had tripled. Paradoxically, by targeting fewer people, we reached many more."
+    }
+   ],
+   "question": "What mistake did the speaker make at first?",
+   "options": [
+    "Trying to attract every type of customer",
+    "Ignoring designers completely",
+    "Hiring too many staff",
+    "Charging too much"
+   ],
+   "answer": 0,
+   "explanation": "'…I made the classic mistake of trying to appeal to everyone.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-072",
+   "type": "listening",
+   "topic": "business",
+   "scriptId": "b2-ls-36",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I started my company, I made the classic mistake of trying to appeal to everyone. Our app had dozens of features, and our marketing was aimed at people of all ages."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "The result was that nobody felt it was really for them. It was only when we focused on a very specific group – freelance designers – that things started to change."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "We removed most of the features and concentrated on doing three things brilliantly. Within a year, our user numbers had tripled. Paradoxically, by targeting fewer people, we reached many more."
+    }
+   ],
+   "question": "What is the 'paradox' the speaker describes?",
+   "options": [
+    "Less marketing led to more staff.",
+    "Targeting a smaller group led to more users.",
+    "More features led to fewer complaints.",
+    "Lower prices led to lower profits."
+   ],
+   "answer": 1,
+   "explanation": "'…by targeting fewer people, we reached many more.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-073",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-37",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Did you enjoy the play last night?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "The acting was superb, particularly the lead actress. But I found the modern setting a bit distracting."
+    },
+    {
+     "speaker": "Man",
+     "text": "I thought putting Shakespeare in a modern office worked really well. It made the power struggles feel relevant."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe, but some of the language didn't fit. Characters were talking about swords while holding mobile phones."
+    },
+    {
+     "speaker": "Man",
+     "text": "I suppose that's the risk with that kind of production. You either love it or hate it."
+    }
+   ],
+   "question": "What did the woman think of the acting?",
+   "options": [
+    "It was disappointing.",
+    "It was excellent.",
+    "It was hard to hear.",
+    "It was too modern."
+   ],
+   "answer": 1,
+   "explanation": "'The acting was superb…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-074",
+   "type": "listening",
+   "topic": "culture",
+   "scriptId": "b2-ls-37",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Did you enjoy the play last night?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "The acting was superb, particularly the lead actress. But I found the modern setting a bit distracting."
+    },
+    {
+     "speaker": "Man",
+     "text": "I thought putting Shakespeare in a modern office worked really well. It made the power struggles feel relevant."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe, but some of the language didn't fit. Characters were talking about swords while holding mobile phones."
+    },
+    {
+     "speaker": "Man",
+     "text": "I suppose that's the risk with that kind of production. You either love it or hate it."
+    }
+   ],
+   "question": "Why did the woman dislike the modern setting?",
+   "options": [
+    "The play was too long.",
+    "The original language didn't match it.",
+    "The office looked unrealistic.",
+    "The tickets were expensive."
+   ],
+   "answer": 1,
+   "explanation": "'Characters were talking about swords while holding mobile phones.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-075",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-38",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Our city is considering making public transport completely free. Councillor Tran, why?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Several cities, such as Tallinn in Estonia, have already done it. Ticket sales only cover a small part of the cost of running buses anyway, so the loss of income is smaller than people think."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Critics say the money would be better spent improving the service."
+    },
+    {
+     "speaker": "Councillor",
+     "text": "I partly agree. Free transport is pointless if the buses are unreliable. That's why our proposal combines free fares with more frequent services on the busiest routes."
+    }
+   ],
+   "question": "Why does the councillor think the loss of income is manageable?",
+   "options": [
+    "The government will pay for everything.",
+    "Fares pay for only a small share of the costs.",
+    "Few people use the buses.",
+    "Fuel prices are falling."
+   ],
+   "answer": 1,
+   "explanation": "'Ticket sales only cover a small part of the cost of running buses anyway…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-076",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-38",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Our city is considering making public transport completely free. Councillor Tran, why?"
+    },
+    {
+     "speaker": "Councillor",
+     "text": "Several cities, such as Tallinn in Estonia, have already done it. Ticket sales only cover a small part of the cost of running buses anyway, so the loss of income is smaller than people think."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Critics say the money would be better spent improving the service."
+    },
+    {
+     "speaker": "Councillor",
+     "text": "I partly agree. Free transport is pointless if the buses are unreliable. That's why our proposal combines free fares with more frequent services on the busiest routes."
+    }
+   ],
+   "question": "How does the councillor respond to the critics?",
+   "options": [
+    "She cancels the plan.",
+    "She says reliability doesn't matter.",
+    "She rejects it completely.",
+    "She accepts their point and includes service improvements."
+   ],
+   "answer": 3,
+   "explanation": "'I partly agree… our proposal combines free fares with more frequent services.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-077",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-39",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been asked to give a presentation to the board next week, and I'm terrified."
+    },
+    {
+     "speaker": "Man",
+     "text": "You know the subject inside out, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's not the issue. It's standing up in front of senior people. My mind goes blank."
+    },
+    {
+     "speaker": "Man",
+     "text": "Something that helped me was rehearsing out loud, not just in my head, and recording myself. It's painful to watch, but you notice things you'd never realise otherwise."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Like what?"
+    },
+    {
+     "speaker": "Man",
+     "text": "In my case, I said 'basically' about forty times in ten minutes."
+    }
+   ],
+   "question": "What is the woman's problem?",
+   "options": [
+    "She dislikes the board members.",
+    "She gets very nervous speaking to senior people.",
+    "She doesn't understand the topic.",
+    "She has no time to prepare."
+   ],
+   "answer": 1,
+   "explanation": "'It's standing up in front of senior people. My mind goes blank.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-078",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-39",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been asked to give a presentation to the board next week, and I'm terrified."
+    },
+    {
+     "speaker": "Man",
+     "text": "You know the subject inside out, though."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's not the issue. It's standing up in front of senior people. My mind goes blank."
+    },
+    {
+     "speaker": "Man",
+     "text": "Something that helped me was rehearsing out loud, not just in my head, and recording myself. It's painful to watch, but you notice things you'd never realise otherwise."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Like what?"
+    },
+    {
+     "speaker": "Man",
+     "text": "In my case, I said 'basically' about forty times in ten minutes."
+    }
+   ],
+   "question": "What did recording himself help the man to notice?",
+   "options": [
+    "He talked for too long.",
+    "His slides were confusing.",
+    "He spoke too quietly.",
+    "He repeated a word too often."
+   ],
+   "answer": 3,
+   "explanation": "'I said basically about forty times in ten minutes.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-079",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-40",
+   "script": [
+    {
+     "speaker": "Scientist",
+     "text": "People often ask me whether planting trees can solve climate change. The honest answer is that it helps, but it isn't a substitute for cutting emissions."
+    },
+    {
+     "speaker": "Scientist",
+     "text": "For one thing, young trees absorb relatively little carbon; it takes decades before they make a significant difference. For another, planting the wrong species in the wrong place can actually harm local ecosystems, for example by using up scarce water."
+    },
+    {
+     "speaker": "Scientist",
+     "text": "Protecting existing forests is usually far more effective than planting new ones. An old-growth forest stores enormous amounts of carbon that would be released if it were cut down."
+    }
+   ],
+   "question": "What is the scientist's view of tree planting?",
+   "options": [
+    "It is the best solution to climate change.",
+    "It is harmful in every case.",
+    "It is useful but not enough on its own.",
+    "It is too expensive."
+   ],
+   "answer": 2,
+   "explanation": "'…it helps, but it isn't a substitute for cutting emissions.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-080",
+   "type": "listening",
+   "topic": "environment",
+   "scriptId": "b2-ls-40",
+   "script": [
+    {
+     "speaker": "Scientist",
+     "text": "People often ask me whether planting trees can solve climate change. The honest answer is that it helps, but it isn't a substitute for cutting emissions."
+    },
+    {
+     "speaker": "Scientist",
+     "text": "For one thing, young trees absorb relatively little carbon; it takes decades before they make a significant difference. For another, planting the wrong species in the wrong place can actually harm local ecosystems, for example by using up scarce water."
+    },
+    {
+     "speaker": "Scientist",
+     "text": "Protecting existing forests is usually far more effective than planting new ones. An old-growth forest stores enormous amounts of carbon that would be released if it were cut down."
+    }
+   ],
+   "question": "What does the scientist say is more effective?",
+   "options": [
+    "Planting trees in deserts",
+    "Protecting forests that already exist",
+    "Cutting down old trees",
+    "Planting fast-growing species"
+   ],
+   "answer": 1,
+   "explanation": "'Protecting existing forests is usually far more effective than planting new ones.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-081",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-41",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "My grandmother has just got her first smartphone, and she's really struggling."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What's she finding difficult?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Everything, really. The icons are tiny, and she's afraid she'll press the wrong thing and break it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you tried changing the settings? You can make the text much bigger and simplify the home screen so there are only a few apps."
+    },
+    {
+     "speaker": "Man",
+     "text": "I didn't know you could do that."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And honestly, the best thing is patience. Write down step-by-step instructions she can follow when you're not there."
+    }
+   ],
+   "question": "Why is the grandmother nervous about using the phone?",
+   "options": [
+    "She doesn't want to talk to people.",
+    "She thinks it's too expensive.",
+    "She has lost the instructions.",
+    "She fears damaging it."
+   ],
+   "answer": 3,
+   "explanation": "'…she's afraid she'll press the wrong thing and break it.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-082",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "b2-ls-41",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "My grandmother has just got her first smartphone, and she's really struggling."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What's she finding difficult?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Everything, really. The icons are tiny, and she's afraid she'll press the wrong thing and break it."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Have you tried changing the settings? You can make the text much bigger and simplify the home screen so there are only a few apps."
+    },
+    {
+     "speaker": "Man",
+     "text": "I didn't know you could do that."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And honestly, the best thing is patience. Write down step-by-step instructions she can follow when you're not there."
+    }
+   ],
+   "question": "What practical tip does the woman give?",
+   "options": [
+    "Doing everything for her",
+    "Taking her to a class",
+    "Writing down instructions for her to follow",
+    "Buying a simpler phone"
+   ],
+   "answer": 2,
+   "explanation": "'Write down step-by-step instructions she can follow when you're not there.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-083",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b2-ls-42",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Insects are being promoted as a sustainable source of protein. Would you eat them?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I tried cricket flour in some pasta last year. Honestly, I couldn't tell the difference."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Why aren't more people eating them, then?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's mostly psychological. In many parts of Asia, Africa and Latin America, insects have been eaten for centuries. In Europe, people associate them with dirt. I think if they're ground into flour rather than served whole, attitudes will change gradually."
+    }
+   ],
+   "question": "What did the woman think of the cricket pasta?",
+   "options": [
+    "It was disgusting.",
+    "It was very crunchy.",
+    "It was too expensive.",
+    "It tasted like normal pasta."
+   ],
+   "answer": 3,
+   "explanation": "'Honestly, I couldn't tell the difference.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-084",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "b2-ls-42",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Insects are being promoted as a sustainable source of protein. Would you eat them?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I tried cricket flour in some pasta last year. Honestly, I couldn't tell the difference."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Why aren't more people eating them, then?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's mostly psychological. In many parts of Asia, Africa and Latin America, insects have been eaten for centuries. In Europe, people associate them with dirt. I think if they're ground into flour rather than served whole, attitudes will change gradually."
+    }
+   ],
+   "question": "Why does she think Europeans avoid insects?",
+   "options": [
+    "They are less nutritious.",
+    "Cultural attitudes associate them with dirt.",
+    "They are too expensive to farm.",
+    "Insects are illegal in Europe."
+   ],
+   "answer": 1,
+   "explanation": "'It's mostly psychological… people associate them with dirt.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-085",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b2-ls-43",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you noticed how many street trees the council has planted recently?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, though I was annoyed at first because they removed parking spaces on our street."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And now?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've changed my mind, to be honest. Last summer was much cooler on our road than the main street, which has no trees at all. And it looks far nicer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I read that trees can reduce street temperatures by several degrees."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'm not surprised. I'd happily walk a bit further to my car for that."
+    }
+   ],
+   "question": "Why was the man originally unhappy?",
+   "options": [
+    "The trees attracted insects.",
+    "He lost parking near his home.",
+    "The trees blocked his view.",
+    "The trees were expensive."
+   ],
+   "answer": 1,
+   "explanation": "'…they removed parking spaces on our street.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-086",
+   "type": "listening",
+   "topic": "city life",
+   "scriptId": "b2-ls-43",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Have you noticed how many street trees the council has planted recently?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, though I was annoyed at first because they removed parking spaces on our street."
+    },
+    {
+     "speaker": "Woman",
+     "text": "And now?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I've changed my mind, to be honest. Last summer was much cooler on our road than the main street, which has no trees at all. And it looks far nicer."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I read that trees can reduce street temperatures by several degrees."
+    },
+    {
+     "speaker": "Man",
+     "text": "I'm not surprised. I'd happily walk a bit further to my car for that."
+    }
+   ],
+   "question": "How has the man's opinion changed?",
+   "options": [
+    "He has moved to the main street.",
+    "He now thinks the trees are worth it.",
+    "He wants them removed.",
+    "He still opposes the trees."
+   ],
+   "answer": 1,
+   "explanation": "'I've changed my mind… I'd happily walk a bit further to my car for that.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-087",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-44",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "A common piece of study advice is to highlight key points in your textbook. Unfortunately, research suggests this is one of the least effective techniques."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Highlighting feels productive because it's active, but it doesn't require you to process the information deeply. Often, students end up highlighting almost everything."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Far more effective is retrieval practice: closing the book and trying to recall what you've learned, for example by testing yourself with flashcards. It feels harder, and that's precisely why it works. The effort of remembering strengthens the memory."
+    }
+   ],
+   "question": "Why does highlighting seem useful even though it isn't?",
+   "options": [
+    "Teachers recommend it.",
+    "It saves time.",
+    "It feels active.",
+    "It improves reading speed."
+   ],
+   "answer": 2,
+   "explanation": "'Highlighting feels productive because it's active, but it doesn't require you to process the information deeply.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-088",
+   "type": "listening",
+   "topic": "education",
+   "scriptId": "b2-ls-44",
+   "script": [
+    {
+     "speaker": "Lecturer",
+     "text": "A common piece of study advice is to highlight key points in your textbook. Unfortunately, research suggests this is one of the least effective techniques."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Highlighting feels productive because it's active, but it doesn't require you to process the information deeply. Often, students end up highlighting almost everything."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Far more effective is retrieval practice: closing the book and trying to recall what you've learned, for example by testing yourself with flashcards. It feels harder, and that's precisely why it works. The effort of remembering strengthens the memory."
+    }
+   ],
+   "question": "Why does the lecturer say retrieval practice works?",
+   "options": [
+    "It takes less time.",
+    "The effort of remembering strengthens memory.",
+    "It is easier than reading.",
+    "It uses colourful materials."
+   ],
+   "answer": 1,
+   "explanation": "'It feels harder, and that's precisely why it works.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-089",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-45",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you heard? The company's going to start monitoring how long we spend on each task using software."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm not happy about that. It suggests they don't trust us."
+    },
+    {
+     "speaker": "Man",
+     "text": "Management says it's about identifying where processes are inefficient, not checking up on individuals."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe, but in my experience, once that data exists, it gets used to judge people. And some of the most valuable things we do, like helping a colleague, won't show up in any software."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a good point. Perhaps we should raise it at the staff meeting."
+    }
+   ],
+   "question": "What is the woman's main objection to the monitoring?",
+   "options": [
+    "It will slow down computers.",
+    "It is illegal.",
+    "It may be used to judge staff unfairly.",
+    "It is too expensive."
+   ],
+   "answer": 2,
+   "explanation": "'…once that data exists, it gets used to judge people.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-090",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "b2-ls-45",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Have you heard? The company's going to start monitoring how long we spend on each task using software."
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm not happy about that. It suggests they don't trust us."
+    },
+    {
+     "speaker": "Man",
+     "text": "Management says it's about identifying where processes are inefficient, not checking up on individuals."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe, but in my experience, once that data exists, it gets used to judge people. And some of the most valuable things we do, like helping a colleague, won't show up in any software."
+    },
+    {
+     "speaker": "Man",
+     "text": "That's a good point. Perhaps we should raise it at the staff meeting."
+    }
+   ],
+   "question": "What does the woman say the software will miss?",
+   "options": [
+    "Time spent in meetings",
+    "Valuable activities such as helping colleagues",
+    "Emails sent at night",
+    "Long lunch breaks"
+   ],
+   "answer": 1,
+   "explanation": "'…helping a colleague, won't show up in any software.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-091",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-46",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm going to Japan next month. Any tips?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Get a rail pass before you go – it's much cheaper than buying tickets there. And carry cash; a surprising number of small restaurants don't take cards."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Really? I assumed Japan would be completely cashless."
+    },
+    {
+     "speaker": "Man",
+     "text": "Everyone does. It's very high-tech in some ways and quite traditional in others. Also, don't tip. It can actually cause embarrassment."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Good to know. I'd have tipped automatically."
+    }
+   ],
+   "question": "What does the man say surprises many visitors to Japan?",
+   "options": [
+    "Trains are expensive.",
+    "Many places only accept cash.",
+    "Restaurants are always full.",
+    "People expect tips."
+   ],
+   "answer": 1,
+   "explanation": "'…a surprising number of small restaurants don't take cards.' 'Everyone does [assume it's cashless].'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-092",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "b2-ls-46",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'm going to Japan next month. Any tips?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Get a rail pass before you go – it's much cheaper than buying tickets there. And carry cash; a surprising number of small restaurants don't take cards."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Really? I assumed Japan would be completely cashless."
+    },
+    {
+     "speaker": "Man",
+     "text": "Everyone does. It's very high-tech in some ways and quite traditional in others. Also, don't tip. It can actually cause embarrassment."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Good to know. I'd have tipped automatically."
+    }
+   ],
+   "question": "Why does the man advise against tipping?",
+   "options": [
+    "Restaurants refuse cash.",
+    "Prices already include a large tip.",
+    "It can make people uncomfortable.",
+    "It is illegal."
+   ],
+   "answer": 2,
+   "explanation": "'It can actually cause embarrassment.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-093",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-47",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You study octopuses. What makes them so interesting?"
+    },
+    {
+     "speaker": "Biologist",
+     "text": "They're astonishingly intelligent for an animal so different from us. They can open jars, escape from tanks and even recognise individual humans."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "How is that possible?"
+    },
+    {
+     "speaker": "Biologist",
+     "text": "That's what fascinates me. Around two thirds of an octopus's neurons are in its arms rather than its brain, so each arm can, to some extent, make its own decisions. It's a completely different model of intelligence from ours."
+    }
+   ],
+   "question": "What example of octopus intelligence is mentioned?",
+   "options": [
+    "Building shelters",
+    "Using language",
+    "Recognising particular people",
+    "Counting to ten"
+   ],
+   "answer": 2,
+   "explanation": "'…even recognise individual humans.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-094",
+   "type": "listening",
+   "topic": "science",
+   "scriptId": "b2-ls-47",
+   "script": [
+    {
+     "speaker": "Interviewer",
+     "text": "You study octopuses. What makes them so interesting?"
+    },
+    {
+     "speaker": "Biologist",
+     "text": "They're astonishingly intelligent for an animal so different from us. They can open jars, escape from tanks and even recognise individual humans."
+    },
+    {
+     "speaker": "Interviewer",
+     "text": "How is that possible?"
+    },
+    {
+     "speaker": "Biologist",
+     "text": "That's what fascinates me. Around two thirds of an octopus's neurons are in its arms rather than its brain, so each arm can, to some extent, make its own decisions. It's a completely different model of intelligence from ours."
+    }
+   ],
+   "question": "What fascinates the biologist most?",
+   "options": [
+    "Their ability to change colour",
+    "Their similarity to humans",
+    "The way much of the octopus's nervous system is in its arms",
+    "Their long lifespan"
+   ],
+   "answer": 2,
+   "explanation": "'Around two thirds of an octopus's neurons are in its arms…'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-095",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-48",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've started volunteering at a food bank on Saturdays."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's great. Is demand high?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Much higher than I expected. And it isn't only unemployed people. Lots of the people who come in have jobs, but their wages simply don't cover rent and food."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's shocking."
+    },
+    {
+     "speaker": "Man",
+     "text": "It is. One woman told me she works two part-time jobs and still has to choose between heating and eating some weeks. It's really changed how I think about poverty."
+    }
+   ],
+   "question": "What surprised the man about food bank users?",
+   "options": [
+    "Most are students.",
+    "Many of them have jobs.",
+    "They are mostly elderly.",
+    "Few people use it."
+   ],
+   "answer": 1,
+   "explanation": "'Lots of the people who come in have jobs, but their wages simply don't cover rent and food.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-096",
+   "type": "listening",
+   "topic": "society",
+   "scriptId": "b2-ls-48",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I've started volunteering at a food bank on Saturdays."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's great. Is demand high?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Much higher than I expected. And it isn't only unemployed people. Lots of the people who come in have jobs, but their wages simply don't cover rent and food."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's shocking."
+    },
+    {
+     "speaker": "Man",
+     "text": "It is. One woman told me she works two part-time jobs and still has to choose between heating and eating some weeks. It's really changed how I think about poverty."
+    }
+   ],
+   "question": "What effect has volunteering had on the man?",
+   "options": [
+    "It has changed his understanding of poverty.",
+    "It has had no effect.",
+    "It has made him want to change jobs.",
+    "It has made him angry with the users."
+   ],
+   "answer": 0,
+   "explanation": "'It's really changed how I think about poverty.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-097",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-49",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I was diagnosed with anxiety, I felt embarrassed and told almost no one. I was afraid my employer would see me as weak."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "Eventually, a colleague noticed I was struggling and shared her own experience. That conversation was a turning point."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "Today, I run workshops in companies to encourage open discussion of mental health. The most common feedback I receive is relief: people realise they are far from alone. Talking doesn't solve everything, but silence definitely makes things worse."
+    }
+   ],
+   "question": "Why did the speaker keep her diagnosis secret?",
+   "options": [
+    "Her family disapproved.",
+    "She didn't believe the diagnosis.",
+    "Her doctor advised her to.",
+    "She feared being judged at work."
+   ],
+   "answer": 3,
+   "explanation": "'I was afraid my employer would see me as weak.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-098",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "b2-ls-49",
+   "script": [
+    {
+     "speaker": "Speaker",
+     "text": "When I was diagnosed with anxiety, I felt embarrassed and told almost no one. I was afraid my employer would see me as weak."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "Eventually, a colleague noticed I was struggling and shared her own experience. That conversation was a turning point."
+    },
+    {
+     "speaker": "Speaker",
+     "text": "Today, I run workshops in companies to encourage open discussion of mental health. The most common feedback I receive is relief: people realise they are far from alone. Talking doesn't solve everything, but silence definitely makes things worse."
+    }
+   ],
+   "question": "What reaction does the speaker most often get to her workshops?",
+   "options": [
+    "People feel relieved.",
+    "People feel embarrassed.",
+    "People disagree with her.",
+    "People ask for medication."
+   ],
+   "answer": 0,
+   "explanation": "'The most common feedback I receive is relief.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-099",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "b2-ls-50",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been offered a job in Berlin, but I don't speak any German."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is the job in English?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, the company works entirely in English. But I'm worried I'll feel isolated outside work."
+    },
+    {
+     "speaker": "Man",
+     "text": "I had the same worry when I moved to Lisbon. What made the difference was taking evening classes in my first month. Not because I became fluent quickly, but because I met other newcomers there."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So the classes were as much social as educational?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Exactly. Most of my closest friends there are people I met in that class."
+    }
+   ],
+   "question": "What is the woman's concern about moving?",
+   "options": [
+    "The cost of living",
+    "Feeling lonely outside work",
+    "Not being able to do the job",
+    "The weather in Berlin"
+   ],
+   "answer": 1,
+   "explanation": "'…I'm worried I'll feel isolated outside work.'",
+   "skill": "listening",
+   "level": "b2"
+  },
+  {
+   "id": "b2-listening-100",
+   "type": "listening",
+   "topic": "careers",
+   "scriptId": "b2-ls-50",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I've been offered a job in Berlin, but I don't speak any German."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is the job in English?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, the company works entirely in English. But I'm worried I'll feel isolated outside work."
+    },
+    {
+     "speaker": "Man",
+     "text": "I had the same worry when I moved to Lisbon. What made the difference was taking evening classes in my first month. Not because I became fluent quickly, but because I met other newcomers there."
+    },
+    {
+     "speaker": "Woman",
+     "text": "So the classes were as much social as educational?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Exactly. Most of my closest friends there are people I met in that class."
+    }
+   ],
+   "question": "What was the main benefit of the man's language classes?",
+   "options": [
+    "Making friends with other new arrivals",
+    "Finding a flat",
+    "Becoming fluent very quickly",
+    "Getting a promotion"
+   ],
+   "answer": 0,
+   "explanation": "'…because I met other newcomers there… Most of my closest friends there are people I met in that class.'",
+   "skill": "listening",
+   "level": "b2"
+  }
+ ]
+}

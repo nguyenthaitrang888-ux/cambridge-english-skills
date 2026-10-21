@@ -1,0 +1,2014 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "speaking",
+ "title": {
+  "en": "Speaking",
+  "vi": "Nói"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-speaking-001",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "career",
+   "prompt": "What would you say has been the most important decision of your life so far?",
+   "promptVi": "Bạn cho rằng quyết định quan trọng nhất trong đời bạn đến nay là gì?",
+   "modelAnswer": "I'd say it was choosing to study economics rather than medicine, which is what my parents wanted. At the time, it caused quite a lot of tension at home. Looking back, though, I'm convinced it was the right choice. Had I followed their advice, I'd probably be miserable now, whereas I genuinely enjoy what I do.",
+   "keywords": [
+    "I'd say",
+    "looking back",
+    "had I"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-002",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "learning",
+   "prompt": "How has the way you learn changed since you were at school?",
+   "promptVi": "Cách bạn học đã thay đổi thế nào so với hồi đi học?",
+   "modelAnswer": "At school, learning was mostly about memorising facts for exams, and I rarely questioned anything. Nowadays, I'm far more independent. I tend to learn through online courses and podcasts, and I choose topics I'm genuinely curious about. What's more, I've realised that I remember things much better when I have to explain them to someone else.",
+   "keywords": [
+    "nowadays",
+    "tend to",
+    "what's more"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-003",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "technology",
+   "prompt": "Do you think technology has made your life better or worse overall?",
+   "promptVi": "Nhìn chung bạn nghĩ công nghệ khiến cuộc sống của bạn tốt hơn hay tệ hơn?",
+   "modelAnswer": "On balance, I'd say better, although it's not entirely straightforward. Technology allows me to work flexibly and stay in touch with friends abroad, which I really value. On the downside, I find it increasingly hard to switch off. If I'm honest, I probably check my phone far more often than I need to.",
+   "keywords": [
+    "on balance",
+    "on the downside",
+    "if I'm honest"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-004",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "What qualities make someone a good leader?",
+   "promptVi": "Phẩm chất nào làm nên một người lãnh đạo giỏi?",
+   "modelAnswer": "In my view, the most important quality is the ability to listen. A good leader doesn't necessarily have all the answers, but they create an environment where people feel comfortable sharing ideas. They also need to be decisive when it matters and, crucially, take responsibility when things go wrong rather than blaming others.",
+   "keywords": [
+    "in my view",
+    "necessarily",
+    "crucially"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-005",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "travel",
+   "prompt": "Tell me about a place that has made a strong impression on you.",
+   "promptVi": "Hãy kể về một nơi đã để lại ấn tượng sâu sắc với bạn.",
+   "modelAnswer": "One place that left a lasting impression on me was a small fishing village in central Vietnam. What struck me most was how close the community was – neighbours shared meals and looked after each other's children. It made me realise how isolated many of us have become in big cities, despite being surrounded by people.",
+   "keywords": [
+    "impression",
+    "what struck me",
+    "made me realise"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-006",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "How do you usually spend your free time, and has that changed recently?",
+   "promptVi": "Bạn thường dùng thời gian rảnh thế nào, và gần đây có thay đổi không?",
+   "modelAnswer": "I used to spend most of my free time gaming, but over the past year I've got really into rock climbing. A colleague persuaded me to try it, and I was hooked almost immediately. It's not only great exercise but also surprisingly mental, because you have to plan each move. I've also met a whole new group of friends through it.",
+   "keywords": [
+    "used to",
+    "got really into",
+    "not only"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-007",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "education",
+   "prompt": "If you could change one thing about the education system in your country, what would it be?",
+   "promptVi": "Nếu có thể thay đổi một điều trong hệ thống giáo dục nước bạn, bạn sẽ thay đổi gì?",
+   "modelAnswer": "If I could change one thing, I'd reduce the emphasis on exams. At the moment, students spend years memorising information that they forget as soon as the test is over. I'd much rather see more project-based learning, where students develop practical skills such as teamwork and critical thinking, which are far more useful in the workplace.",
+   "keywords": [
+    "if I could",
+    "at the moment",
+    "I'd much rather"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-008",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "family",
+   "prompt": "How are families in your country different now compared with a generation ago?",
+   "promptVi": "Gia đình ở nước bạn ngày nay khác thế nào so với một thế hệ trước?",
+   "modelAnswer": "Families have changed considerably. A generation ago, it was normal for three generations to live under one roof, whereas now more young couples choose to live independently. People are also having fewer children and having them later. That said, family ties are still very strong, and most people visit their parents regularly.",
+   "keywords": [
+    "considerably",
+    "whereas",
+    "that said"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-009",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "environment",
+   "prompt": "What changes have you made to your lifestyle for environmental reasons?",
+   "promptVi": "Bạn đã thay đổi lối sống thế nào vì lý do môi trường?",
+   "modelAnswer": "I've made a few changes, though I wouldn't claim to be perfect. I've cut down on meat considerably and rarely buy new clothes – most of what I wear now is second-hand. I also try to avoid flying for short trips. Admittedly, these are small steps, but I believe that if enough people make them, they add up.",
+   "keywords": [
+    "cut down on",
+    "admittedly",
+    "add up"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-010",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "Would you rather have a job with a high salary or one with more free time?",
+   "promptVi": "Bạn muốn công việc lương cao hay công việc có nhiều thời gian rảnh hơn?",
+   "modelAnswer": "A few years ago, I'd have chosen the high salary without hesitation. However, having worked in a very demanding job, I now value free time much more. Money obviously matters, but beyond a certain point it doesn't make you happier. I'd rather earn a bit less and actually have time to enjoy my life.",
+   "keywords": [
+    "I'd have chosen",
+    "having worked",
+    "beyond a certain point"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-011",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "media",
+   "prompt": "Where do you usually get your news, and how much do you trust it?",
+   "promptVi": "Bạn thường đọc tin tức ở đâu, và bạn tin tưởng nó đến mức nào?",
+   "modelAnswer": "I mostly get my news from a couple of online newspapers and, I have to admit, social media. I'm fairly sceptical of what I see on social media, so I always try to check whether a story has been reported by reliable sources. Generally speaking, I trust established newspapers more, although I'm aware that they all have their own biases.",
+   "keywords": [
+    "I have to admit",
+    "sceptical",
+    "generally speaking"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-012",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "achievement",
+   "prompt": "What achievement are you most proud of?",
+   "promptVi": "Thành tích nào khiến bạn tự hào nhất?",
+   "modelAnswer": "I'm probably proudest of completing a half marathon last year. Two years ago, I could barely run for five minutes without stopping, so it took months of training. There were plenty of times when I felt like giving up, but I kept going. Crossing the finish line taught me that I'm capable of far more than I'd assumed.",
+   "keywords": [
+    "proudest",
+    "felt like giving up",
+    "capable of"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-013",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "city life",
+   "prompt": "What do you think will be the biggest challenge for cities in the future?",
+   "promptVi": "Bạn nghĩ thách thức lớn nhất với các thành phố trong tương lai là gì?",
+   "modelAnswer": "I suspect the biggest challenge will be housing. As more people move to cities, rents are rising far faster than wages, and young people are being priced out. Unless governments invest seriously in affordable housing and public transport, I think we'll see growing inequality and even more pressure on infrastructure.",
+   "keywords": [
+    "I suspect",
+    "priced out",
+    "unless"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-014",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "culture",
+   "prompt": "Is there a tradition in your culture that you think should be preserved?",
+   "promptVi": "Có truyền thống nào trong văn hóa của bạn mà bạn nghĩ nên được gìn giữ?",
+   "modelAnswer": "Definitely. In my family, we visit our ancestors' graves before Tet and share a meal together afterwards. It might seem old-fashioned to some people, but it gives us a strong sense of connection to the past. I'd hate to see traditions like this disappear simply because people are too busy.",
+   "keywords": [
+    "old-fashioned",
+    "sense of",
+    "I'd hate to"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-015",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "learning",
+   "prompt": "What is the most useful skill you have learned outside formal education?",
+   "promptVi": "Kỹ năng hữu ích nhất bạn học được ngoài trường lớp là gì?",
+   "modelAnswer": "Without a doubt, it's the ability to manage my time. I learned it the hard way when I was juggling a part-time job and university. I started breaking big tasks into smaller ones and setting myself realistic deadlines. It sounds simple, but it's made an enormous difference to both my productivity and my stress levels.",
+   "keywords": [
+    "without a doubt",
+    "juggling",
+    "made an enormous difference"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-016",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "health",
+   "prompt": "How do you deal with stress?",
+   "promptVi": "Bạn đối phó với căng thẳng như thế nào?",
+   "modelAnswer": "It depends on the situation. When I'm under a lot of pressure at work, I find that going for a long run helps me clear my head. I've also started meditating for ten minutes every morning, which I was sceptical about at first. Surprisingly, it's made me noticeably calmer and better at not overreacting.",
+   "keywords": [
+    "it depends",
+    "under a lot of pressure",
+    "surprisingly"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-017",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "friends",
+   "prompt": "Do you think it's easier or harder to make friends as an adult?",
+   "promptVi": "Bạn nghĩ kết bạn khi trưởng thành dễ hay khó hơn?",
+   "modelAnswer": "I'd say it's considerably harder. At school and university, you're surrounded by people your own age with plenty of free time. As an adult, everyone's busy with work and family, so friendships require much more effort. On the other hand, the friends you do make tend to share your genuine interests rather than just your timetable.",
+   "keywords": [
+    "considerably harder",
+    "require",
+    "tend to"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-018",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "money",
+   "prompt": "How do you decide whether something is worth spending money on?",
+   "promptVi": "Bạn quyết định thế nào xem một thứ có đáng chi tiền hay không?",
+   "modelAnswer": "I usually ask myself how often I'll actually use it. If it's something I'll use every day, like a good pair of shoes or a laptop, I'm willing to pay more for quality. On the other hand, I try to avoid impulse buys. A rule I follow is to wait a week before buying anything expensive – often I realise I don't need it.",
+   "keywords": [
+    "willing to",
+    "impulse",
+    "a rule I follow"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-019",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "future",
+   "prompt": "Where do you see yourself in ten years' time?",
+   "promptVi": "Bạn thấy mình ở đâu sau mười năm nữa?",
+   "modelAnswer": "Ideally, I'll be running my own small design studio. I'd like to have built up enough experience and contacts by then to work with clients I genuinely believe in. I'd also like to have lived abroad for a few years. Of course, life rarely goes according to plan, so I'm trying to stay open to unexpected opportunities.",
+   "keywords": [
+    "ideally",
+    "I'd like to have",
+    "according to plan"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-020",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "reading",
+   "prompt": "Tell me about a book or film that changed the way you think.",
+   "promptVi": "Hãy kể về một cuốn sách hoặc bộ phim đã thay đổi cách bạn suy nghĩ.",
+   "modelAnswer": "A book that really changed my perspective was a memoir by a doctor working in refugee camps. Before reading it, I'd seen refugees mainly as statistics on the news. Her stories made me appreciate the individual courage behind every journey. Since then, I've been far more critical of the way the media portrays migration.",
+   "keywords": [
+    "perspective",
+    "before reading it",
+    "since then"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-021",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "Have you ever had to deal with a difficult colleague or classmate? What happened?",
+   "promptVi": "Bạn đã bao giờ phải làm việc với một đồng nghiệp hay bạn học khó tính chưa? Chuyện gì đã xảy ra?",
+   "modelAnswer": "Yes, during a group project at university, one member constantly missed meetings and then criticised everyone else's work. Rather than complaining to the lecturer straight away, I suggested we meet for coffee. It turned out he was struggling with family problems. Once we understood that, we divided the work differently, and things improved considerably.",
+   "keywords": [
+    "rather than",
+    "it turned out",
+    "once we understood"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-022",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "technology",
+   "prompt": "How do you think artificial intelligence will affect your job or studies?",
+   "promptVi": "Bạn nghĩ trí tuệ nhân tạo sẽ ảnh hưởng thế nào đến công việc hoặc việc học của bạn?",
+   "modelAnswer": "I think AI will take over many of the routine parts of my work, such as summarising reports and drafting emails. In a way, that's positive, because it frees up time for more creative tasks. However, it also means I'll need to keep developing skills that machines can't easily replicate, like building relationships with clients.",
+   "keywords": [
+    "take over",
+    "in a way",
+    "replicate"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-023",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "habits",
+   "prompt": "Is there a habit you have successfully broken? How did you do it?",
+   "promptVi": "Có thói quen nào bạn đã bỏ được không? Bạn đã làm thế nào?",
+   "modelAnswer": "I used to be terrible at procrastinating, especially with university assignments. What finally worked was a technique where I'd commit to working on a task for just five minutes. Nine times out of ten, once I'd started, I'd carry on much longer. It made me realise that starting is usually the hardest part.",
+   "keywords": [
+    "used to",
+    "what finally worked",
+    "nine times out of ten"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-024",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "travel",
+   "prompt": "Do you prefer travelling independently or on organised tours? Why?",
+   "promptVi": "Bạn thích đi du lịch tự túc hay theo tour? Vì sao?",
+   "modelAnswer": "I much prefer travelling independently. I enjoy the freedom to change my plans if I discover somewhere interesting, and I think you get a more authentic experience when you're not surrounded by a large group. Having said that, organised tours can be really valuable in places where language or safety might be an issue.",
+   "keywords": [
+    "much prefer",
+    "authentic",
+    "having said that"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-025",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "sport",
+   "prompt": "What role does sport or exercise play in your life?",
+   "promptVi": "Thể thao hay tập luyện đóng vai trò gì trong cuộc sống của bạn?",
+   "modelAnswer": "Exercise plays a much bigger role in my life than it used to. I go swimming three mornings a week before work, and it's become essential to my mental health as well as my fitness. If I miss a session, I genuinely notice that I'm more irritable and less focused for the rest of the day.",
+   "keywords": [
+    "plays a",
+    "as well as",
+    "genuinely"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-026",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "home",
+   "prompt": "What makes a house feel like a home?",
+   "promptVi": "Điều gì khiến một ngôi nhà trở thành tổ ấm?",
+   "modelAnswer": "For me, it's less about the building itself and more about the people and the memories. A house becomes a home when you've filled it with things that mean something to you – photos, books, plants. Above all, though, it's somewhere you can completely relax and be yourself without worrying about what anyone thinks.",
+   "keywords": [
+    "less about",
+    "becomes a home",
+    "above all"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-027",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "volunteering",
+   "prompt": "Should young people be encouraged to volunteer? Why?",
+   "promptVi": "Có nên khuyến khích người trẻ làm tình nguyện không? Vì sao?",
+   "modelAnswer": "Absolutely. Volunteering not only benefits the community but also helps young people develop skills such as communication and responsibility. When I volunteered at a children's hospital, it made me far more aware of how lucky I was. That said, I don't think it should be compulsory, because forced volunteering rather misses the point.",
+   "keywords": [
+    "absolutely",
+    "not only",
+    "misses the point"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-028",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "language",
+   "prompt": "What have you found most challenging about learning English?",
+   "promptVi": "Điều gì khó nhất với bạn khi học tiếng Anh?",
+   "modelAnswer": "Without a doubt, it's been understanding native speakers in natural conversation. In class, people speak clearly and slowly, but in real life they use slang, speak quickly and drop sounds. What's helped me most is watching TV series with English subtitles and then gradually turning them off once I feel more confident.",
+   "keywords": [
+    "without a doubt",
+    "in real life",
+    "what's helped me most"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-029",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrations",
+   "prompt": "How have celebrations like weddings changed in your country?",
+   "promptVi": "Các lễ kỷ niệm như đám cưới đã thay đổi thế nào ở nước bạn?",
+   "modelAnswer": "Weddings have become much more elaborate and expensive, partly because of social media. A generation ago, they were mainly family events held at home. Nowadays, many couples feel under pressure to hire luxury venues and photographers so that everything looks perfect online. Personally, I'd prefer something smaller and more meaningful.",
+   "keywords": [
+    "elaborate",
+    "partly because of",
+    "under pressure"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-030",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "What do you think is the ideal working environment?",
+   "promptVi": "Bạn nghĩ môi trường làm việc lý tưởng là như thế nào?",
+   "modelAnswer": "The ideal environment, in my opinion, is one where people are trusted to manage their own time. I work best when I can choose between working from home for focused tasks and coming into the office for collaboration. Equally important is a culture where people feel safe admitting mistakes, because that's how teams learn.",
+   "keywords": [
+    "in my opinion",
+    "work best",
+    "equally important"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-031",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "advice",
+   "prompt": "What advice would you give to your younger self?",
+   "promptVi": "Bạn sẽ khuyên bản thân lúc nhỏ điều gì?",
+   "modelAnswer": "I'd tell myself to worry far less about what other people think. As a teenager, I avoided trying lots of things – drama, singing, even certain friendships – because I was afraid of looking foolish. If I'd been braver, I might have discovered talents I never developed. Fortunately, I've become much more confident with age.",
+   "keywords": [
+    "I'd tell myself",
+    "if I'd been",
+    "with age"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-032",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "shopping",
+   "prompt": "How have your shopping habits changed in recent years?",
+   "promptVi": "Thói quen mua sắm của bạn đã thay đổi thế nào trong những năm gần đây?",
+   "modelAnswer": "They've changed quite dramatically. I buy almost everything online now, including groceries, which I'd never have imagined five years ago. At the same time, I've become more conscious of where products come from. I'm increasingly willing to pay extra for things that are made locally or produced ethically.",
+   "keywords": [
+    "dramatically",
+    "I'd never have imagined",
+    "increasingly"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-033",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "science",
+   "prompt": "Which scientific development do you think has had the biggest impact on everyday life?",
+   "promptVi": "Theo bạn, thành tựu khoa học nào ảnh hưởng lớn nhất đến đời sống hằng ngày?",
+   "modelAnswer": "I'd argue that the internet has had the most profound impact. It has transformed almost every aspect of our lives, from how we work and study to how we form relationships. It's hard to imagine that just thirty years ago, most people had to visit a library to find information that we now get in seconds.",
+   "keywords": [
+    "I'd argue",
+    "profound",
+    "it's hard to imagine"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-034",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "How important is food in your culture?",
+   "promptVi": "Ẩm thực quan trọng thế nào trong văn hóa của bạn?",
+   "modelAnswer": "Food is absolutely central to Vietnamese culture. It's how we show hospitality – the first thing people ask when you visit is whether you've eaten. Family meals are when everyone catches up, and many festivals are associated with particular dishes. In fact, I'd say you can't really understand our culture without understanding our food.",
+   "keywords": [
+    "absolutely central",
+    "in fact",
+    "without understanding"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-035",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "change",
+   "prompt": "How do you usually react to change?",
+   "promptVi": "Bạn thường phản ứng thế nào trước sự thay đổi?",
+   "modelAnswer": "My first reaction is usually a bit of anxiety, if I'm honest. I like routine, so changes at work or in my personal life tend to unsettle me initially. However, I've noticed that once I've had time to adjust, I often end up appreciating the new situation. So I try to remind myself that the discomfort is temporary.",
+   "keywords": [
+    "if I'm honest",
+    "tend to",
+    "end up"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-036",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "responsibility",
+   "prompt": "What responsibilities did you have as a child, and do you think they were useful?",
+   "promptVi": "Khi nhỏ bạn có những trách nhiệm gì, và bạn nghĩ chúng có ích không?",
+   "modelAnswer": "As the eldest child, I was expected to look after my younger sisters and help with cooking from about the age of ten. At the time, I resented it because my friends had more freedom. Looking back, though, it taught me to be organised and independent, which has been invaluable in adult life.",
+   "keywords": [
+    "was expected to",
+    "at the time",
+    "invaluable"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-037",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "neighbourhood",
+   "prompt": "How has your neighbourhood changed since you first lived there?",
+   "promptVi": "Khu phố của bạn đã thay đổi thế nào kể từ khi bạn đến sống?",
+   "modelAnswer": "It's become unrecognisable. When we moved in, it was mostly small family-run shops and rice fields nearby. Since then, high-rise apartments and international chains have replaced many of them. While the area is certainly more convenient, I can't help feeling it's lost some of its character and sense of community.",
+   "keywords": [
+    "unrecognisable",
+    "since then",
+    "I can't help feeling"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-038",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "happiness",
+   "prompt": "What do you think is the key to a happy life?",
+   "promptVi": "Bạn nghĩ chìa khóa của hạnh phúc là gì?",
+   "modelAnswer": "I'm not sure there's a single key, but strong relationships seem to be at the heart of it. Research consistently shows that people with close friends and family tend to be happier and even live longer. Beyond that, I think having a sense of purpose, whether through work or hobbies, matters far more than wealth.",
+   "keywords": [
+    "at the heart of",
+    "consistently",
+    "beyond that"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-039",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "risk",
+   "prompt": "Would you describe yourself as someone who takes risks?",
+   "promptVi": "Bạn có tự nhận mình là người dám chấp nhận rủi ro không?",
+   "modelAnswer": "Generally, I'm quite cautious – I like to weigh up the pros and cons before making decisions. That said, when I moved to Ho Chi Minh City without a job, many people thought I was being reckless. It was the biggest risk I've taken, but it paid off, and I don't regret it at all.",
+   "keywords": [
+    "cautious",
+    "that said",
+    "paid off"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-040",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "decisions",
+   "prompt": "How do you usually make important decisions – with your head or your heart?",
+   "promptVi": "Bạn thường đưa ra quyết định quan trọng bằng lý trí hay cảm xúc?",
+   "modelAnswer": "I'd like to think I use my head, but in reality it's usually a mixture of both. I start by researching the options thoroughly and making a list of pros and cons. Ultimately, though, if something doesn't feel right, I tend to trust my instincts. Whenever I've ignored that feeling in the past, I've generally regretted it.",
+   "keywords": [
+    "I'd like to think",
+    "in reality",
+    "ultimately"
+   ],
+   "tip": {
+    "en": "Speak for about a minute. Develop your answer: opinion → reason → example → wider point. Try a mixed conditional or a cleft (What I enjoy most is…).",
+    "vi": "Nói khoảng 1 phút. Triển khai: ý kiến → lý do → ví dụ → mở rộng. Thử câu điều kiện hỗn hợp hoặc câu chẻ (What I enjoy most is…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-041",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: learning",
+   "prompt": "Compare two photos: a lecture hall full of students and a person learning alone online at night. What are the advantages of each way of learning?",
+   "promptVi": "So sánh hai bức ảnh: giảng đường đông sinh viên và một người tự học trực tuyến vào ban đêm. Mỗi cách học có ưu điểm gì?",
+   "modelAnswer": "Both photos show people learning, but in very different settings. In the first, a large group is listening to a lecturer, which probably allows them to ask questions and discuss ideas with classmates. The second shows someone studying alone late at night, presumably because online learning fits around their job. While online learning offers flexibility, it must require a great deal of self-discipline.",
+   "keywords": [
+    "both photos",
+    "presumably",
+    "must require"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-042",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: work",
+   "prompt": "Compare two photos: a farmer working in a rice field and an office worker in a skyscraper. How satisfying might each job be?",
+   "promptVi": "So sánh hai bức ảnh: một nông dân làm việc trên đồng lúa và một nhân viên văn phòng trong tòa nhà chọc trời. Mỗi công việc có thể mang lại sự hài lòng thế nào?",
+   "modelAnswer": "The first photo shows a farmer bent over in a rice field, whereas the second shows an office worker looking out of a skyscraper window. The farmer's job is clearly physically exhausting, but he might find it satisfying to see the results of his work directly. The office worker probably earns more, yet she may feel disconnected from what she produces.",
+   "keywords": [
+    "whereas",
+    "clearly",
+    "may feel"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-043",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: holidays",
+   "prompt": "Compare two photos: tourists crowding a famous landmark and a couple hiking in a remote area. Why might people choose each type of holiday?",
+   "promptVi": "So sánh hai bức ảnh: du khách chen chúc tại địa danh nổi tiếng và một cặp đôi leo núi ở vùng hẻo lánh. Vì sao người ta chọn mỗi kiểu kỳ nghỉ?",
+   "modelAnswer": "In the first picture, hundreds of tourists are crowding around a famous monument, all trying to take the same photo. By contrast, the second shows a couple hiking alone through mountains. People probably visit landmarks because they feel they have to see them at least once. The couple, on the other hand, seem to be looking for peace and a closer connection with nature.",
+   "keywords": [
+    "by contrast",
+    "at least once",
+    "seem to be"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-044",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: communication",
+   "prompt": "Compare two photos: friends chatting face to face in a café and a group of friends all looking at their phones. How has technology affected friendship?",
+   "promptVi": "So sánh hai bức ảnh: bạn bè trò chuyện trực tiếp ở quán cà phê và một nhóm bạn đều nhìn vào điện thoại. Công nghệ đã ảnh hưởng đến tình bạn thế nào?",
+   "modelAnswer": "Both photos show groups of friends together, but the atmosphere couldn't be more different. In the first, they're laughing and clearly engaged in conversation, whereas in the second, everyone is absorbed in their phone. It's ironic that technology designed to connect us can actually make us less present with the people right in front of us.",
+   "keywords": [
+    "couldn't be more different",
+    "absorbed in",
+    "ironic"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-045",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: housing",
+   "prompt": "Compare two photos: a modern high-rise apartment block and a traditional house with a garden. Which would be better for a young family?",
+   "promptVi": "So sánh hai bức ảnh: khu chung cư cao tầng hiện đại và ngôi nhà truyền thống có vườn. Nơi nào tốt hơn cho một gia đình trẻ?",
+   "modelAnswer": "The first photo shows a modern apartment block, which looks convenient and probably has facilities like a gym and security. The second shows a traditional house with a large garden. For a young family, I'd say the house would be preferable, since children would have space to play outdoors. However, it's likely to be further from schools and workplaces.",
+   "keywords": [
+    "preferable",
+    "since",
+    "likely to be"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-046",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: shopping",
+   "prompt": "Compare two photos: a busy shopping mall and a small local street market. What do they suggest about the way people shop?",
+   "promptVi": "So sánh hai bức ảnh: trung tâm thương mại đông đúc và chợ đường phố nhỏ. Chúng cho thấy điều gì về cách mọi người mua sắm?",
+   "modelAnswer": "The first image shows a huge, air-conditioned shopping mall full of international brands, while the second shows a small open-air market with local vendors. The mall suggests shopping as a leisure activity, whereas the market seems more about daily necessities and personal relationships. I imagine market sellers know many of their customers by name.",
+   "keywords": [
+    "while",
+    "whereas",
+    "I imagine"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-047",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: transport",
+   "prompt": "Compare two photos: a high-speed train and a crowded bus in a city. What are the challenges of public transport?",
+   "promptVi": "So sánh hai bức ảnh: tàu cao tốc và xe buýt đông đúc trong thành phố. Giao thông công cộng gặp những thách thức gì?",
+   "modelAnswer": "In the first photo, there's a sleek high-speed train, which looks fast and comfortable. The second shows an overcrowded city bus, with passengers squeezed together. This highlights one of the main challenges of public transport: investment. Unless governments fund modern infrastructure, people will understandably continue to prefer private vehicles.",
+   "keywords": [
+    "highlights",
+    "unless",
+    "understandably"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-048",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: food",
+   "prompt": "Compare two photos: a family preparing a traditional meal together and a person eating a ready meal alone at a desk. What do they show about modern lifestyles?",
+   "promptVi": "So sánh hai bức ảnh: gia đình cùng nấu bữa ăn truyền thống và một người ăn suất ăn sẵn một mình tại bàn làm việc. Chúng cho thấy gì về lối sống hiện đại?",
+   "modelAnswer": "The contrast between these photos is striking. In the first, a family is preparing a traditional meal together, which suggests food is a social occasion. In the second, someone is eating a ready meal alone at their desk, presumably because they're too busy to stop. It reflects how, for many people, work increasingly dominates daily life.",
+   "keywords": [
+    "striking",
+    "presumably",
+    "reflects"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-049",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: sport",
+   "prompt": "Compare two photos: professional athletes in a stadium and children playing football in the street. What different reasons do people have for playing sport?",
+   "promptVi": "So sánh hai bức ảnh: vận động viên chuyên nghiệp trong sân vận động và trẻ em đá bóng trên phố. Người ta chơi thể thao vì những lý do khác nhau nào?",
+   "modelAnswer": "The first photo shows professional athletes competing in front of a huge crowd, where the pressure to win must be intense. The children in the second photo, on the other hand, are playing in the street purely for fun. For professionals, sport is a career and a source of income, whereas for most people it's about enjoyment and staying healthy.",
+   "keywords": [
+    "must be",
+    "on the other hand",
+    "purely"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-050",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: technology",
+   "prompt": "Compare two photos: an elderly woman using a video call and a teenager playing a virtual reality game. How do different generations use technology?",
+   "promptVi": "So sánh hai bức ảnh: một bà cụ gọi video và một thiếu niên chơi trò chơi thực tế ảo. Các thế hệ dùng công nghệ khác nhau thế nào?",
+   "modelAnswer": "Both pictures show people using technology, but for quite different purposes. The elderly woman appears to be using a video call to stay in touch with family, which is probably how many older people use technology – for connection. The teenager, meanwhile, is completely immersed in a virtual reality game. It seems younger people use technology more for entertainment and exploration.",
+   "keywords": [
+    "appears to be",
+    "meanwhile",
+    "immersed"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-051",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: environment",
+   "prompt": "Compare two photos: a beach covered in plastic and volunteers planting trees. How can individuals help the environment?",
+   "promptVi": "So sánh hai bức ảnh: bãi biển phủ đầy rác nhựa và tình nguyện viên trồng cây. Cá nhân có thể giúp môi trường thế nào?",
+   "modelAnswer": "The first image is quite disturbing – it shows a beach almost completely covered in plastic waste. The second is much more hopeful, showing volunteers planting trees. Together, they illustrate both the problem and a possible response. Individuals can certainly make a difference by reducing waste and taking part in projects like this, although large-scale change requires government action.",
+   "keywords": [
+    "disturbing",
+    "illustrate",
+    "although"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-052",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: celebrations",
+   "prompt": "Compare two photos: a large, expensive wedding and a couple getting married in a simple ceremony. Why do people choose different kinds of weddings?",
+   "promptVi": "So sánh hai bức ảnh: đám cưới lớn và tốn kém và một cặp đôi kết hôn trong buổi lễ giản dị. Vì sao mọi người chọn những kiểu đám cưới khác nhau?",
+   "modelAnswer": "The first photo shows a lavish wedding with hundreds of guests, while the second shows a couple marrying in a simple ceremony with just a few people. Some couples may choose a big wedding because of family expectations or to celebrate with everyone they know. Others might prefer to save money, perhaps for a house, and focus on the commitment itself.",
+   "keywords": [
+    "lavish",
+    "may choose",
+    "perhaps"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-053",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: work",
+   "prompt": "Compare two photos: a doctor in a busy hospital and a person working from a beach with a laptop. How has the idea of work changed?",
+   "promptVi": "So sánh hai bức ảnh: bác sĩ trong bệnh viện đông đúc và một người làm việc bằng laptop trên bãi biển. Quan niệm về công việc đã thay đổi thế nào?",
+   "modelAnswer": "In the first photo, a doctor is rushing through a busy hospital – a job that obviously has to be done in person. The second shows someone working on a laptop on a beach, which would have been unthinkable a few decades ago. This shows how technology has made some jobs location-independent, although many essential jobs still aren't.",
+   "keywords": [
+    "obviously",
+    "would have been unthinkable",
+    "location-independent"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-054",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: childhood",
+   "prompt": "Compare two photos: children playing outside in a village and a child using a tablet indoors. How has childhood changed?",
+   "promptVi": "So sánh hai bức ảnh: trẻ em chơi ngoài trời ở làng quê và một đứa trẻ dùng máy tính bảng trong nhà. Tuổi thơ đã thay đổi thế nào?",
+   "modelAnswer": "Both photos show children at play, but the contrast is significant. In the first, a group of children are running around outdoors, inventing their own games. In the second, a child is alone indoors with a tablet. Many experts worry that children today spend far less time outside, which could affect their physical health and social skills.",
+   "keywords": [
+    "the contrast is significant",
+    "inventing",
+    "could affect"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-055",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: health",
+   "prompt": "Compare two photos: someone exercising in a gym and an elderly group doing tai chi in a park. What do these activities offer?",
+   "promptVi": "So sánh hai bức ảnh: một người tập gym và một nhóm người cao tuổi tập thái cực quyền trong công viên. Những hoạt động này mang lại điều gì?",
+   "modelAnswer": "The first photo shows a young man lifting weights in a gym, presumably to build strength. The second shows a group of elderly people practising tai chi in a park early in the morning. While the gym focuses on individual fitness, tai chi seems to offer social contact as well as gentle exercise, which might be just as important for older people.",
+   "keywords": [
+    "presumably",
+    "while",
+    "as well as"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-056",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: cities",
+   "prompt": "Compare two photos: a city street full of motorbikes and a pedestrianised square with cafés. What makes a city pleasant to live in?",
+   "promptVi": "So sánh hai bức ảnh: con phố đầy xe máy và quảng trường đi bộ có quán cà phê. Điều gì làm một thành phố dễ sống?",
+   "modelAnswer": "The first image shows a street packed with motorbikes, where the noise and pollution must be overwhelming. In contrast, the second shows a pedestrianised square where people are relaxing outside cafés. I think a pleasant city needs public spaces like this, where people can meet without being surrounded by traffic. Green areas and good public transport are also essential.",
+   "keywords": [
+    "must be",
+    "in contrast",
+    "essential"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-057",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: education",
+   "prompt": "Compare two photos: a traditional classroom with rows of desks and students working on a project outdoors. Which approach is more effective?",
+   "promptVi": "So sánh hai bức ảnh: lớp học truyền thống với các dãy bàn và học sinh làm dự án ngoài trời. Cách nào hiệu quả hơn?",
+   "modelAnswer": "The first photo shows a traditional classroom, with students sitting in rows facing the teacher, whereas the second shows students working on a project outdoors. The traditional approach may be efficient for teaching facts, but the project seems far more engaging. I suspect students remember more when they're actively involved, although both approaches have their place.",
+   "keywords": [
+    "whereas",
+    "I suspect",
+    "have their place"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-058",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: media",
+   "prompt": "Compare two photos: a man reading a printed newspaper and a young woman watching news on her phone. How are people's news habits changing?",
+   "promptVi": "So sánh hai bức ảnh: một người đàn ông đọc báo in và một cô gái xem tin tức trên điện thoại. Thói quen đọc tin đang thay đổi thế nào?",
+   "modelAnswer": "In the first photo, an older man is reading a printed newspaper, probably over breakfast, while in the second, a young woman is scrolling through news on her phone. This reflects a broader shift towards digital news. Online news is faster and often free, but it can be harder to judge how reliable it is.",
+   "keywords": [
+    "probably",
+    "reflects a broader shift",
+    "harder to judge"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-059",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: volunteering",
+   "prompt": "Compare two photos: people serving food at a homeless shelter and a person donating money online. Which form of help is more valuable?",
+   "promptVi": "So sánh hai bức ảnh: mọi người phục vụ đồ ăn tại nơi trú ẩn cho người vô gia cư và một người quyên góp tiền trực tuyến. Hình thức giúp đỡ nào giá trị hơn?",
+   "modelAnswer": "The first picture shows volunteers serving food at a shelter, while the second shows someone donating money online. Volunteering offers direct human contact, which can mean a great deal to people who feel ignored. However, donating money allows charities to decide how resources are best used. Ideally, I think both forms of help are needed.",
+   "keywords": [
+    "while",
+    "mean a great deal",
+    "ideally"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-060",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "compare: leisure",
+   "prompt": "Compare two photos: people at a crowded music festival and a person reading alone in a quiet library. Why do people relax in such different ways?",
+   "promptVi": "So sánh hai bức ảnh: đám đông tại lễ hội âm nhạc và một người đọc sách một mình trong thư viện yên tĩnh. Vì sao mọi người thư giãn theo những cách khác nhau?",
+   "modelAnswer": "The first photo captures the energy of a crowded music festival, while the second shows someone reading alone in a quiet library. It probably comes down to personality. Extroverts tend to recharge by being around others, whereas introverts often need solitude to relax. Personally, I'd find the festival exhausting after a few hours.",
+   "keywords": [
+    "comes down to",
+    "tend to",
+    "whereas"
+   ],
+   "tip": {
+    "en": "Compare, don't just describe: Both pictures show…, whereas…; speculate (They may have just…, It could well be that…) and answer the question in the task.",
+    "vi": "So sánh chứ không chỉ mô tả: Both pictures show…, whereas…; phỏng đoán (They may have just…, It could well be that…) và trả lời câu hỏi của đề."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-061",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "technology",
+   "prompt": "Some people argue that social media companies should be legally responsible for the content posted on their platforms. What do you think?",
+   "promptVi": "Có ý kiến cho rằng các công ty mạng xã hội phải chịu trách nhiệm pháp lý về nội dung trên nền tảng của họ. Bạn nghĩ sao?",
+   "modelAnswer": "I largely agree. These companies make enormous profits from user engagement, and harmful content often generates the most engagement. If they faced legal consequences, they would have a strong incentive to invest in better moderation. Nevertheless, the rules would need to be carefully designed, otherwise companies might start censoring legitimate opinions just to avoid risk.",
+   "keywords": [
+    "largely agree",
+    "incentive",
+    "nevertheless"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-062",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "work",
+   "prompt": "Is it realistic to expect people to stay in the same job for their whole career?",
+   "promptVi": "Có thực tế không khi kỳ vọng mọi người làm một công việc suốt sự nghiệp?",
+   "modelAnswer": "Not any more, I'd say. The job market is changing so rapidly that many roles which exist today won't exist in twenty years. Besides, younger people tend to value variety and personal growth more than security. That said, staying with one employer can bring benefits, such as deep expertise and loyalty, so it shouldn't be dismissed entirely.",
+   "keywords": [
+    "not any more",
+    "besides",
+    "that said"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-063",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "environment",
+   "prompt": "Should individuals or governments take the main responsibility for tackling climate change?",
+   "promptVi": "Cá nhân hay chính phủ nên chịu trách nhiệm chính trong việc ứng phó biến đổi khí hậu?",
+   "modelAnswer": "Both have a role, but I'd argue governments bear the greater responsibility. Individual actions like recycling are valuable, but they're relatively minor compared with decisions about energy, transport and industry. Only governments can introduce regulations and invest on the necessary scale. Having said that, public pressure from individuals is often what pushes governments to act.",
+   "keywords": [
+    "I'd argue",
+    "on the necessary scale",
+    "having said that"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-064",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "education",
+   "prompt": "Should university education be free for everyone?",
+   "promptVi": "Có nên miễn phí giáo dục đại học cho tất cả mọi người?",
+   "modelAnswer": "There's a strong case for it. Free university education would give talented students from poorer backgrounds the same opportunities as wealthier ones, which benefits society as a whole. On the other hand, someone has to pay, and it would mean higher taxes. Perhaps a compromise would be free tuition for subjects where the country has skills shortages.",
+   "keywords": [
+    "a strong case",
+    "as a whole",
+    "compromise"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-065",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "society",
+   "prompt": "Do celebrities have a responsibility to be good role models?",
+   "promptVi": "Người nổi tiếng có trách nhiệm làm tấm gương tốt không?",
+   "modelAnswer": "To some extent, yes. Whether they like it or not, celebrities have enormous influence, particularly over young people. If a famous footballer behaves aggressively, some fans will copy that behaviour. However, I think it's unfair to expect them to be perfect. Ultimately, parents and teachers are far more important role models than people children only see on screens.",
+   "keywords": [
+    "to some extent",
+    "whether they like it or not",
+    "ultimately"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-066",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "health",
+   "prompt": "Should unhealthy foods like sugary drinks be taxed more heavily?",
+   "promptVi": "Có nên đánh thuế cao hơn đối với thực phẩm không lành mạnh như đồ uống có đường?",
+   "modelAnswer": "I'm in favour, provided the money raised is spent on health education or subsidising healthy food. Evidence from countries such as Mexico suggests that sugar taxes do reduce consumption. Critics argue that such taxes hit poorer families hardest, which is a valid point. That's precisely why the revenue should be used to make healthy options more affordable.",
+   "keywords": [
+    "in favour",
+    "provided",
+    "precisely why"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-067",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "technology",
+   "prompt": "Will artificial intelligence create more jobs than it destroys?",
+   "promptVi": "Trí tuệ nhân tạo sẽ tạo ra nhiều việc làm hơn hay xóa bỏ nhiều hơn?",
+   "modelAnswer": "It's impossible to know for sure, but history offers some reassurance. Previous technological revolutions eliminated certain jobs while creating entirely new industries that nobody had predicted. The real concern is the transition. Workers whose jobs disappear won't automatically have the skills for new ones, so governments need to invest heavily in retraining.",
+   "keywords": [
+    "for sure",
+    "the real concern",
+    "invest heavily"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-068",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "culture",
+   "prompt": "Is globalisation a threat to local cultures?",
+   "promptVi": "Toàn cầu hóa có phải là mối đe dọa với văn hóa địa phương?",
+   "modelAnswer": "It can be, but I think the picture is more nuanced. Global brands and media certainly spread a fairly uniform culture, and some local traditions are disappearing. At the same time, globalisation allows local cultures to reach worldwide audiences – think of how Korean music has become hugely popular. So it's both a threat and an opportunity.",
+   "keywords": [
+    "nuanced",
+    "at the same time",
+    "both a threat and an opportunity"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-069",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "travel",
+   "prompt": "Should tourists be charged extra to visit popular destinations?",
+   "promptVi": "Có nên thu thêm phí du khách khi đến các điểm đến nổi tiếng?",
+   "modelAnswer": "I think it's a reasonable idea, as long as the money goes towards protecting the destination and supporting residents. Places like Venice are being overwhelmed, and a fee might discourage short day trips that bring little benefit to the local economy. The danger is that travel becomes something only wealthy people can afford, which would be unfortunate.",
+   "keywords": [
+    "as long as",
+    "overwhelmed",
+    "the danger is"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-070",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "work",
+   "prompt": "Should companies be required to publish how much they pay men and women?",
+   "promptVi": "Các công ty có nên bắt buộc công khai mức lương của nam và nữ?",
+   "modelAnswer": "I'm strongly in favour of this. Transparency is one of the most effective ways of exposing unfair pay gaps. When companies know their figures will be public, they're far more likely to address inequalities. Some argue it's an invasion of privacy, but publishing averages rather than individual salaries would solve that problem.",
+   "keywords": [
+    "strongly in favour",
+    "far more likely",
+    "rather than"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-071",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "education",
+   "prompt": "Is it better for children to start school early or to spend more time playing?",
+   "promptVi": "Trẻ em đi học sớm hay dành nhiều thời gian chơi hơn thì tốt hơn?",
+   "modelAnswer": "Research suggests that play is enormously important in early childhood, as it develops creativity, language and social skills. In countries like Finland, children don't start formal school until seven, yet they perform extremely well later on. So I'd argue there's little benefit in pushing academic learning too early, as long as children have rich opportunities to play and explore.",
+   "keywords": [
+    "research suggests",
+    "yet",
+    "I'd argue"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-072",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "society",
+   "prompt": "Should voting be compulsory?",
+   "promptVi": "Có nên bắt buộc đi bầu cử?",
+   "modelAnswer": "I'm in two minds about this. On the one hand, compulsory voting, as in Australia, ensures that governments represent the whole population rather than just those motivated enough to vote. On the other hand, forcing people to vote may result in uninformed choices. Perhaps a better approach would be making voting easier, for example through online voting.",
+   "keywords": [
+    "in two minds",
+    "on the one hand",
+    "perhaps a better approach"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-073",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "media",
+   "prompt": "Has the internet made people better informed or more confused?",
+   "promptVi": "Internet khiến mọi người hiểu biết hơn hay hoang mang hơn?",
+   "modelAnswer": "Paradoxically, I think it's done both. We have access to more information than any previous generation, which is undeniably positive. However, the sheer volume, combined with misinformation, means many people struggle to distinguish fact from opinion. Media literacy should therefore be taught in schools, so that young people can evaluate sources critically.",
+   "keywords": [
+    "paradoxically",
+    "undeniably",
+    "therefore"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-074",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "environment",
+   "prompt": "Should private cars be banned from city centres?",
+   "promptVi": "Có nên cấm ô tô cá nhân ở trung tâm thành phố?",
+   "modelAnswer": "In principle, I support it, as cities like Oslo have shown that car-free centres become cleaner, quieter and more attractive. However, a ban only works if there are genuine alternatives. Without reliable public transport and proper provision for disabled people and deliveries, it would simply cause chaos. So it needs to be introduced gradually.",
+   "keywords": [
+    "in principle",
+    "only works if",
+    "gradually"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-075",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "health",
+   "prompt": "Should employers be responsible for their employees' mental health?",
+   "promptVi": "Người sử dụng lao động có nên chịu trách nhiệm về sức khỏe tinh thần của nhân viên?",
+   "modelAnswer": "To a certain extent, yes. Since work is a major source of stress for many people, employers have a duty to avoid making things worse, for instance by setting unrealistic workloads. They can also offer support such as counselling. However, mental health is affected by many factors outside work, so employers can't be held entirely responsible.",
+   "keywords": [
+    "to a certain extent",
+    "for instance",
+    "can't be held"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-076",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "technology",
+   "prompt": "Should children be taught how to use AI tools at school?",
+   "promptVi": "Có nên dạy trẻ em cách sử dụng công cụ AI ở trường?",
+   "modelAnswer": "I believe they should, because these tools are going to be part of almost every job in the future. Banning them would leave students unprepared. What matters is teaching them to use AI critically – checking facts, understanding its limitations and not relying on it to think for them. Otherwise, there's a risk that students stop developing their own skills.",
+   "keywords": [
+    "I believe",
+    "what matters is",
+    "otherwise"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-077",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "society",
+   "prompt": "Are older people given enough respect in modern society?",
+   "promptVi": "Người cao tuổi có được tôn trọng đúng mức trong xã hội hiện đại?",
+   "modelAnswer": "I'd say less than they used to be, especially in urban areas. With technology changing so rapidly, older people's experience is sometimes seen as outdated. That's a real loss, because they often have valuable perspectives on how to handle life's challenges. Intergenerational projects, where young and old people work together, could help bridge that gap.",
+   "keywords": [
+    "less than they used to be",
+    "outdated",
+    "bridge that gap"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-078",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "work",
+   "prompt": "Is the traditional office going to disappear?",
+   "promptVi": "Văn phòng truyền thống có biến mất không?",
+   "modelAnswer": "I doubt it will disappear completely, but its purpose is likely to change. Rather than being a place where people sit at desks all day, offices will probably become spaces for meetings, training and building relationships. Many people discovered during the pandemic that they missed the social side of work, which suggests offices still have a valuable role.",
+   "keywords": [
+    "I doubt",
+    "rather than",
+    "which suggests"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-079",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "education",
+   "prompt": "Should students be allowed to choose all of their own subjects at school?",
+   "promptVi": "Học sinh có nên được tự chọn tất cả các môn học ở trường?",
+   "modelAnswer": "I think a balance is needed. Giving students more choice increases motivation, since they can focus on what interests them. However, teenagers don't always know what they'll need later, and dropping subjects like maths too early could limit their options. So I'd suggest a core curriculum combined with a wide range of optional subjects.",
+   "keywords": [
+    "a balance is needed",
+    "however",
+    "I'd suggest"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-080",
+   "type": "speaking",
+   "task": "discussion",
+   "topic": "culture",
+   "prompt": "Is it important for museums to return objects to their countries of origin?",
+   "promptVi": "Các bảo tàng có cần trả lại hiện vật cho quốc gia xuất xứ không?",
+   "modelAnswer": "In many cases, I think it is, especially when objects were taken by force during colonial times. Returning them can be an important act of justice and help communities reconnect with their heritage. That said, each case is different. Sometimes long-term loans or shared exhibitions might be a sensible compromise that benefits everyone.",
+   "keywords": [
+    "in many cases",
+    "act of justice",
+    "compromise"
+   ],
+   "tip": {
+    "en": "Weigh both sides and reach a conclusion: It could be argued that…, Admittedly…, That said…, On balance… Avoid repeating the same linkers.",
+    "vi": "Cân nhắc hai mặt rồi kết luận: It could be argued that…, Admittedly…, That said…, On balance… Tránh lặp lại cùng một từ nối."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-081",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "work",
+   "prompt": "Your manager has asked you to take on an extra project, but you are already overloaded. Respond politely but firmly.",
+   "promptVi": "Quản lý giao thêm dự án trong khi bạn đã quá tải. Hãy trả lời lịch sự nhưng kiên quyết.",
+   "modelAnswer": "Thank you for thinking of me – I'd genuinely like to be involved. However, I'm currently working on the quarterly report and the client presentation, both of which are due next week. If I take on another project now, I'm worried the quality of all three will suffer. Would it be possible to start after the 15th, or could we discuss which task should take priority?",
+   "keywords": [
+    "I'd genuinely like",
+    "I'm worried",
+    "take priority"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-082",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "customer service",
+   "prompt": "You are a hotel manager. A guest complains that their room was not cleaned. Respond professionally.",
+   "promptVi": "Bạn là quản lý khách sạn. Một khách phàn nàn phòng chưa được dọn. Hãy phản hồi chuyên nghiệp.",
+   "modelAnswer": "I'm very sorry to hear that, and I completely understand your frustration. That's certainly not the standard we aim for. I'll arrange for housekeeping to clean your room immediately. In the meantime, please feel free to relax in our lounge with a complimentary drink. I'll also make sure the issue is investigated so it doesn't happen again.",
+   "keywords": [
+    "completely understand",
+    "in the meantime",
+    "make sure"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-083",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "negotiation",
+   "prompt": "You want to buy a second-hand car, but you think the price is too high. Negotiate with the seller.",
+   "promptVi": "Bạn muốn mua một chiếc xe cũ nhưng thấy giá quá cao. Hãy thương lượng với người bán.",
+   "modelAnswer": "I really like the car, but to be honest, the price seems a bit high. I've looked at similar models online, and most are around ten percent cheaper. Also, the tyres will need replacing soon, which will cost me quite a bit. Would you consider reducing it to eighteen thousand? If so, I'd be happy to pay in full today.",
+   "keywords": [
+    "to be honest",
+    "would you consider",
+    "if so"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-084",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "landlord",
+   "prompt": "Your landlord wants to increase your rent by 20%. Discuss the increase.",
+   "promptVi": "Chủ nhà muốn tăng tiền thuê thêm 20%. Hãy trao đổi về việc tăng giá.",
+   "modelAnswer": "I understand that costs are rising, but a twenty percent increase is quite difficult for me to manage. I've always paid on time and looked after the flat carefully, and I'd like to stay long-term. Would you be willing to consider a smaller increase, perhaps eight percent? I'd also be prepared to sign a two-year contract in return.",
+   "keywords": [
+    "I understand that",
+    "would you be willing",
+    "in return"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-085",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "job interview",
+   "prompt": "At a job interview, you are asked about your greatest weakness. Answer honestly and positively.",
+   "promptVi": "Trong buổi phỏng vấn, bạn được hỏi về điểm yếu lớn nhất. Hãy trả lời trung thực và tích cực.",
+   "modelAnswer": "I'd say my greatest weakness has been finding it difficult to delegate. I used to take on too much myself because I wanted everything to be perfect. However, I've realised that this isn't efficient and doesn't help colleagues develop. Over the past year, I've made a conscious effort to trust my team more, and our results have actually improved.",
+   "keywords": [
+    "I'd say",
+    "I've realised",
+    "conscious effort"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-086",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friend",
+   "prompt": "A friend asks for your honest opinion about a business idea you think is unrealistic. Give tactful feedback.",
+   "promptVi": "Một người bạn hỏi ý kiến thật lòng về một ý tưởng kinh doanh bạn thấy thiếu thực tế. Hãy góp ý khéo léo.",
+   "modelAnswer": "I really admire your enthusiasm, and I can see why the idea appeals to you. My main concern is the cost of renting a shop in the city centre – it could take years before you made a profit. Have you thought about testing the idea online first? That way, you could see whether there's demand without taking such a big financial risk.",
+   "keywords": [
+    "I really admire",
+    "my main concern",
+    "that way"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-087",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "complaint",
+   "prompt": "You received a parking fine that you believe is unfair. Speak to the council officer.",
+   "promptVi": "Bạn bị phạt đỗ xe mà bạn cho là không công bằng. Hãy nói chuyện với cán bộ hội đồng.",
+   "modelAnswer": "I'd like to appeal against this parking fine. I parked on Lake Street on Tuesday, and there was no sign indicating that parking was restricted. I've taken photos showing that the sign had actually been removed for roadworks. Given this, I believe the fine should be cancelled. Could you tell me what the appeals process involves?",
+   "keywords": [
+    "appeal against",
+    "given this",
+    "what the appeals process involves"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-088",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "teamwork",
+   "prompt": "In a team meeting, a colleague keeps interrupting you. Address the situation politely.",
+   "promptVi": "Trong cuộc họp nhóm, một đồng nghiệp liên tục ngắt lời bạn. Hãy xử lý tình huống một cách lịch sự.",
+   "modelAnswer": "Sorry, Minh, could I just finish my point? I'll be really interested to hear your thoughts in a moment. As I was saying, the main problem with the current schedule is that it doesn't allow time for testing. Once I've explained my suggestion, it would be great to get everyone's feedback, including yours.",
+   "keywords": [
+    "could I just finish",
+    "as I was saying",
+    "it would be great"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-089",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "advice",
+   "prompt": "A younger colleague asks for advice on asking for a promotion. Give practical advice.",
+   "promptVi": "Một đồng nghiệp trẻ hỏi lời khuyên về việc xin thăng chức. Hãy đưa ra lời khuyên thực tế.",
+   "modelAnswer": "First of all, I'd prepare thoroughly. Make a list of your main achievements over the past year, ideally with figures to back them up. Then ask your manager for a meeting specifically to discuss your career, rather than mentioning it casually. And don't be discouraged if the answer isn't yes immediately – ask what you'd need to do to get there.",
+   "keywords": [
+    "first of all",
+    "back them up",
+    "don't be discouraged"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-090",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "neighbour",
+   "prompt": "Your neighbour's building work starts at 6 a.m. every day. Discuss the problem.",
+   "promptVi": "Công trình nhà hàng xóm bắt đầu lúc 6 giờ sáng mỗi ngày. Hãy trao đổi về vấn đề này.",
+   "modelAnswer": "Hi, I hope you don't mind me mentioning this. I appreciate that you need to get the work done, but the noise starting at six every morning is making it very hard for us to sleep, especially with a young baby. Would it be possible to ask the builders to start at eight instead? I'm sure the regulations actually require that anyway.",
+   "keywords": [
+    "I hope you don't mind",
+    "I appreciate that",
+    "would it be possible"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-091",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "customer service",
+   "prompt": "A customer wants a refund for a product they have clearly damaged. As the shop assistant, respond.",
+   "promptVi": "Một khách hàng muốn hoàn tiền cho sản phẩm rõ ràng do họ làm hỏng. Là nhân viên bán hàng, hãy phản hồi.",
+   "modelAnswer": "I'm sorry you're disappointed with the product. Unfortunately, our policy only covers manufacturing faults, and it looks as though this damage was caused by a fall. I'm afraid I'm not able to offer a refund in this case. However, I can arrange a repair at a reduced cost, or offer you a fifteen percent discount on a replacement.",
+   "keywords": [
+    "unfortunately",
+    "I'm afraid",
+    "however"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-092",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "presentation",
+   "prompt": "At the end of your presentation, someone asks a question you don't know the answer to. Respond.",
+   "promptVi": "Cuối bài thuyết trình, có người hỏi một câu bạn không biết câu trả lời. Hãy phản hồi.",
+   "modelAnswer": "That's a really good question, and to be honest, I don't have the exact figures with me right now. Rather than guess, I'd prefer to check and get back to you with accurate information. Could I take your email address after the session? I'll make sure to send you a detailed answer by the end of the week.",
+   "keywords": [
+    "to be honest",
+    "rather than guess",
+    "get back to you"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-093",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "travel",
+   "prompt": "Your flight has been cancelled and the airline offers you a flight in two days. Insist on a better solution.",
+   "promptVi": "Chuyến bay của bạn bị hủy và hãng chỉ đề nghị chuyến sau hai ngày. Hãy yêu cầu giải pháp tốt hơn.",
+   "modelAnswer": "I'm afraid two days simply isn't acceptable. I have an important meeting in Singapore tomorrow afternoon. Surely there must be a seat available on another airline today? Under passenger rights regulations, I understand you're obliged to offer re-routing at the earliest opportunity. If that's not possible, I'd like the hotel and meals covered, as well as compensation.",
+   "keywords": [
+    "isn't acceptable",
+    "surely",
+    "obliged to"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-094",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "university",
+   "prompt": "Persuade your tutor to let you change your dissertation topic at a late stage.",
+   "promptVi": "Thuyết phục giảng viên cho bạn đổi đề tài luận văn ở giai đoạn muộn.",
+   "modelAnswer": "I realise it's quite late to be asking this, but I'd like to change my dissertation topic. Having started my research, I've found that there's very little data available on my original question. The new topic is closely related, so most of my reading is still relevant. I've already drafted a revised outline, and I'm confident I can meet the deadline.",
+   "keywords": [
+    "I realise",
+    "having started",
+    "I'm confident"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-095",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "event",
+   "prompt": "You are organising a work event and need to persuade your manager to approve a bigger budget.",
+   "promptVi": "Bạn đang tổ chức sự kiện công ty và cần thuyết phục quản lý duyệt ngân sách lớn hơn.",
+   "modelAnswer": "I'd like to propose increasing the budget for the annual event by about fifteen percent. Last year, attendance was disappointing, and feedback suggested the venue was too far away. With the extra money, we could book a central location and invite a guest speaker. I genuinely believe the improved turnout would justify the investment, particularly for staff morale.",
+   "keywords": [
+    "I'd like to propose",
+    "feedback suggested",
+    "justify"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-096",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "flatmate",
+   "prompt": "Your flatmate has started inviting friends over almost every night. Discuss the situation and agree on rules.",
+   "promptVi": "Bạn cùng phòng bắt đầu mời bạn bè đến gần như mỗi tối. Hãy bàn bạc và thống nhất quy tắc.",
+   "modelAnswer": "Can we have a chat about something? I really like your friends, and I don't want you to feel you can't invite people over. It's just that with guests here most nights, I'm finding it hard to study and rest. How would you feel about limiting it to weekends, or letting each other know in advance? I'm happy to compromise.",
+   "keywords": [
+    "it's just that",
+    "how would you feel",
+    "compromise"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-097",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "community",
+   "prompt": "At a residents' meeting, argue for turning an empty lot into a community garden.",
+   "promptVi": "Tại cuộc họp cư dân, hãy đề xuất biến khu đất trống thành vườn cộng đồng.",
+   "modelAnswer": "I'd like to suggest that we turn the empty lot on Hoa Street into a community garden. At the moment, it attracts litter and nobody uses it. A garden would give families a place to grow vegetables, encourage children to spend time outdoors and bring neighbours together. Several residents have already offered to volunteer, so the costs would be minimal.",
+   "keywords": [
+    "I'd like to suggest",
+    "at the moment",
+    "minimal"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-098",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "health",
+   "prompt": "You want your doctor to refer you to a specialist, but they think it's unnecessary. Explain your concerns.",
+   "promptVi": "Bạn muốn bác sĩ giới thiệu bạn đến chuyên gia nhưng họ cho là không cần. Hãy giải thích mối lo của bạn.",
+   "modelAnswer": "I understand that the test results look normal, but I've had these headaches for over two months now, and they're getting worse rather than better. They're affecting my work and my sleep. Given that my mother had similar symptoms, I'd feel much more reassured if a specialist could take a look. Would you be willing to refer me?",
+   "keywords": [
+    "I understand that",
+    "rather than",
+    "reassured"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-099",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "mediation",
+   "prompt": "Two friends have fallen out and both ask for your support. Try to help them resolve it.",
+   "promptVi": "Hai người bạn bất hòa và đều muốn bạn đứng về phía mình. Hãy giúp họ hòa giải.",
+   "modelAnswer": "I care about both of you, so I don't want to take sides. From what I can tell, this started as a misunderstanding about the holiday plans, and it's grown into something bigger. Why don't the three of us meet for coffee? If you each explain how you felt, I think you'll find you're not as far apart as you think.",
+   "keywords": [
+    "take sides",
+    "from what I can tell",
+    "why don't"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  },
+  {
+   "id": "b2-speaking-100",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "feedback",
+   "prompt": "You need to give critical feedback to a team member whose work has been careless recently. Be constructive.",
+   "promptVi": "Bạn cần góp ý cho một thành viên trong nhóm gần đây làm việc cẩu thả. Hãy góp ý mang tính xây dựng.",
+   "modelAnswer": "Thanks for making time to talk. I've always valued your work, which is why I wanted to mention something. Over the past few weeks, there have been several errors in the reports, which isn't like you. Is everything okay? If there's something affecting your workload, I'd like to help. Perhaps we could set up a quick review before reports go out.",
+   "keywords": [
+    "I've always valued",
+    "isn't like you",
+    "perhaps we could"
+   ],
+   "tip": {
+    "en": "Handle the situation diplomatically: state the problem clearly, suggest a solution, and negotiate (Would you be willing to…?, I appreciate that…, but…).",
+    "vi": "Xử lý khéo léo: nêu rõ vấn đề, đề xuất giải pháp và thương lượng (Would you be willing to…?, I appreciate that…, but…)."
+   },
+   "skill": "speaking",
+   "level": "b2"
+  }
+ ]
+}

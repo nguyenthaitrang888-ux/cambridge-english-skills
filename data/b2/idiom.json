@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "idiom",
+ "title": {
+  "en": "Idioms",
+  "vi": "Thành ngữ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-idiom-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a double-edged sword",
+   "context": "Fame can be a double-edged sword: it brings money, but it also destroys your privacy.",
+   "question": "What does “a double-edged sword” mean in this sentence?",
+   "options": [
+    "to understand a meaning that is not stated directly",
+    "good enough; of an acceptable standard",
+    "to have a lot of work or problems to deal with",
+    "something that has both advantages and disadvantages"
+   ],
+   "answer": 3,
+   "meaningVi": "con dao hai lưỡi",
+   "explanation": "“a double-edged sword” means something that has both advantages and disadvantages. Example: Social media is a double-edged sword for small businesses – it's cheap advertising, but one bad review can spread instantly.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a far cry from",
+   "context": "The tiny flat was a far cry from the luxury apartment shown in the advert.",
+   "question": "What does “a far cry from” mean in this sentence?",
+   "options": [
+    "to be so involved in details that you miss the overall situation",
+    "to have a lot of work or problems to deal with",
+    "being planned or developed and likely to happen soon",
+    "very different from"
+   ],
+   "answer": 3,
+   "meaningVi": "khác xa, một trời một vực",
+   "explanation": "“a far cry from” means very different from. Example: Working seventy hours a week for a start-up is a far cry from the relaxed life I'd imagined.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "beat around the bush",
+   "context": "Stop beating around the bush and tell me what the problem is.",
+   "question": "What does “beat around the bush” mean in this sentence?",
+   "options": [
+    "to avoid talking about the main point directly",
+    "what you would expect to happen, usually something unpleasant",
+    "to understand the overall situation rather than just small details",
+    "to refuse to change your opinion or position when under pressure"
+   ],
+   "answer": 0,
+   "meaningVi": "nói vòng vo, không đi thẳng vào vấn đề",
+   "explanation": "“beat around the bush” means to avoid talking about the main point directly. Example: If you want a pay rise, don't beat around the bush – explain clearly why you deserve one.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "by the skin of your teeth",
+   "context": "We caught the last train by the skin of our teeth – the doors closed right behind us.",
+   "question": "What does “by the skin of your teeth” mean in this sentence?",
+   "options": [
+    "only just; by a very small margin",
+    "to be different from what is normal or expected",
+    "to refuse to change your opinion or position when under pressure",
+    "a situation in which one problem causes another, which makes the first worse"
+   ],
+   "answer": 0,
+   "meaningVi": "suýt soát, sát nút",
+   "explanation": "“by the skin of your teeth” means only just; by a very small margin. Example: If you don't start revising soon, you'll pass by the skin of your teeth at best – if you pass at all.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cut to the chase",
+   "context": "We've only got ten minutes, so let me cut to the chase: we need to reduce costs by twenty percent.",
+   "question": "What does “cut to the chase” mean in this sentence?",
+   "options": [
+    "to have a lot of work or problems to deal with",
+    "very successfully; with a very high score",
+    "to talk about the most important point immediately",
+    "to receive permission to start something"
+   ],
+   "answer": 2,
+   "meaningVi": "đi thẳng vào vấn đề",
+   "explanation": "“cut to the chase” means to talk about the most important point immediately. Example: I won't bore you with the background. Let me cut to the chase – the project is three months behind schedule.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get out of hand",
+   "context": "The party got out of hand when hundreds of strangers turned up.",
+   "question": "What does “get out of hand” mean in this sentence?",
+   "options": [
+    "to become impossible to control",
+    "very successfully; with a very high score",
+    "something good can come from every bad situation",
+    "an obvious problem that everyone is avoiding talking about"
+   ],
+   "answer": 0,
+   "meaningVi": "vượt khỏi tầm kiểm soát",
+   "explanation": "“get out of hand” means to become impossible to control. Example: If we don't deal with these complaints now, the situation could easily get out of hand.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the pipeline",
+   "context": "The company has several new products in the pipeline for next year.",
+   "question": "What does “in the pipeline” mean in this sentence?",
+   "options": [
+    "something that has both advantages and disadvantages",
+    "to understand the overall situation rather than just small details",
+    "being planned or developed and likely to happen soon",
+    "an obvious problem that everyone is avoiding talking about"
+   ],
+   "answer": 2,
+   "meaningVi": "đang được lên kế hoạch, sắp ra mắt",
+   "explanation": "“in the pipeline” means being planned or developed and likely to happen soon. Example: There are plans for a new metro line, but it's still in the pipeline and won't open for years.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep someone at arm's length",
+   "context": "She keeps her colleagues at arm's length and never talks about her private life.",
+   "question": "What does “keep someone at arm's length” mean in this sentence?",
+   "options": [
+    "to return to the original situation after a long series of changes",
+    "despite seeming very unlikely to succeed",
+    "to avoid becoming close or friendly with someone",
+    "to receive permission to start something"
+   ],
+   "answer": 2,
+   "meaningVi": "giữ khoảng cách với ai",
+   "explanation": "“keep someone at arm's length” means to avoid becoming close or friendly with someone. Example: Journalists meet politicians all the time, but they are trained to keep them at arm's length so that they stay objective.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "make ends meet",
+   "context": "With rents rising so fast, many young families are struggling to make ends meet.",
+   "question": "What does “make ends meet” mean in this sentence?",
+   "options": [
+    "good enough; of an acceptable standard",
+    "to learn something through an unpleasant experience",
+    "to have a lot of work or problems to deal with",
+    "to have just enough money to pay for the things you need"
+   ],
+   "answer": 3,
+   "meaningVi": "xoay xở đủ sống, kiếm đủ trang trải",
+   "explanation": "“make ends meet” means to have just enough money to pay for the things you need. Example: After she lost her job, she took on three part-time jobs just to make ends meet.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a level playing field",
+   "context": "Small companies want a level playing field so that they can compete with global giants.",
+   "question": "What does “a level playing field” mean in this sentence?",
+   "options": [
+    "to become impossible to control",
+    "there are clear signs that something bad is going to happen",
+    "what you would expect to happen, usually something unpleasant",
+    "a situation in which everyone has the same chance of success"
+   ],
+   "answer": 3,
+   "meaningVi": "sân chơi bình đẳng",
+   "explanation": "“a level playing field” means a situation in which everyone has the same chance of success. Example: Scholarships help to create a level playing field for students from poorer backgrounds.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "move the goalposts",
+   "context": "Every time we meet the sales target, management moves the goalposts.",
+   "question": "What does “move the goalposts” mean in this sentence?",
+   "options": [
+    "being planned or developed and likely to happen soon",
+    "in a risky situation where you could easily get into trouble",
+    "to change the rules or targets unfairly while something is happening",
+    "a situation that is unclear because rules do not cover it exactly"
+   ],
+   "answer": 2,
+   "meaningVi": "thay đổi luật chơi giữa chừng",
+   "explanation": "“move the goalposts” means to change the rules or targets unfairly while something is happening. Example: It's unfair to move the goalposts halfway through the competition by changing the judging criteria.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on the back burner",
+   "context": "Our plans to expand abroad have been put on the back burner until the economy improves.",
+   "question": "What does “on the back burner” mean in this sentence?",
+   "options": [
+    "delayed or given low priority for now",
+    "to refuse to change your opinion or position when under pressure",
+    "something that is very likely to lead to serious problems",
+    "to have a lot of work or problems to deal with"
+   ],
+   "answer": 0,
+   "meaningVi": "tạm gác lại",
+   "explanation": "“on the back burner” means delayed or given low priority for now. Example: With the baby arriving, I've had to put my master's degree on the back burner for a year.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a grey area",
+   "context": "Whether influencers must label paid posts is still a grey area in many countries.",
+   "question": "What does “a grey area” mean in this sentence?",
+   "options": [
+    "to think in a creative, original way",
+    "a situation that is unclear because rules do not cover it exactly",
+    "to have a lot of work or problems to deal with",
+    "to become impossible to control"
+   ],
+   "answer": 1,
+   "meaningVi": "vùng xám, chưa rõ ràng",
+   "explanation": "“a grey area” means a situation that is unclear because rules do not cover it exactly. Example: Using AI to write your homework is a grey area – some schools allow it, others don't.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "pay lip service to",
+   "context": "Many companies pay lip service to sustainability but change very little in practice.",
+   "question": "What does “pay lip service to” mean in this sentence?",
+   "options": [
+    "to say you support something without doing anything to help it",
+    "something good can come from every bad situation",
+    "a situation in which one problem causes another, which makes the first worse",
+    "losing money or owing money"
+   ],
+   "answer": 0,
+   "meaningVi": "ủng hộ ngoài miệng, nói suông",
+   "explanation": "“pay lip service to” means to say you support something without doing anything to help it. Example: Critics say the government is happy to pay lip service to mental health but refuses to fund proper services.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "read between the lines",
+   "context": "Her email sounded polite, but reading between the lines, I could tell she was furious.",
+   "question": "What does “read between the lines” mean in this sentence?",
+   "options": [
+    "a situation in which everyone has the same chance of success",
+    "to return to the original situation after a long series of changes",
+    "to say you support something without doing anything to help it",
+    "to understand a meaning that is not stated directly"
+   ],
+   "answer": 3,
+   "meaningVi": "đọc được ẩn ý",
+   "explanation": "“read between the lines” means to understand a meaning that is not stated directly. Example: The report doesn't say the company is in trouble, but if you read between the lines, it's obvious.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "stand your ground",
+   "context": "Despite strong criticism, the mayor stood her ground on the new parking rules.",
+   "question": "What does “stand your ground” mean in this sentence?",
+   "options": [
+    "a situation in which everyone has the same chance of success",
+    "to refuse to change your opinion or position when under pressure",
+    "something that takes attention away from the real issue",
+    "very uncertain, especially about whether something will succeed or someone will survive"
+   ],
+   "answer": 1,
+   "meaningVi": "giữ vững lập trường",
+   "explanation": "“stand your ground” means to refuse to change your opinion or position when under pressure. Example: If a customer starts shouting, you should calmly stand your ground and explain the refund policy again.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "take the plunge",
+   "context": "After years of renting, they finally took the plunge and bought a house.",
+   "question": "What does “take the plunge” mean in this sentence?",
+   "options": [
+    "more advanced or modern than others",
+    "to finally decide to do something important or risky",
+    "to be less strict or critical with someone",
+    "to make yourself do something unpleasant but necessary"
+   ],
+   "answer": 1,
+   "meaningVi": "quyết định liều, dám dấn thân",
+   "explanation": "“take the plunge” means to finally decide to do something important or risky. Example: She'd dreamed of opening a café for years, and last spring she decided to take the plunge.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the elephant in the room",
+   "context": "Nobody mentioned the budget cuts at the meeting, even though they were the elephant in the room.",
+   "question": "What does “the elephant in the room” mean in this sentence?",
+   "options": [
+    "an obvious problem that everyone is avoiding talking about",
+    "to change the rules or targets unfairly while something is happening",
+    "to refuse to change your opinion or position when under pressure",
+    "a situation that is unclear because rules do not cover it exactly"
+   ],
+   "answer": 0,
+   "meaningVi": "vấn đề hiển nhiên mà ai cũng né tránh",
+   "explanation": "“the elephant in the room” means an obvious problem that everyone is avoiding talking about. Example: We discussed everything except the CEO's resignation, which was clearly the elephant in the room.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "think outside the box",
+   "context": "To solve this problem, we need to think outside the box rather than repeat what failed before.",
+   "question": "What does “think outside the box” mean in this sentence?",
+   "options": [
+    "to think in a creative, original way",
+    "to understand a meaning that is not stated directly",
+    "more advanced or modern than others",
+    "good enough; of an acceptable standard"
+   ],
+   "answer": 0,
+   "meaningVi": "tư duy sáng tạo, phá cách",
+   "explanation": "“think outside the box” means to think in a creative, original way. Example: The competition encourages young engineers to think outside the box and propose unusual solutions.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a vicious circle",
+   "context": "Stress stops me sleeping, and lack of sleep makes me more stressed – it's a vicious circle.",
+   "question": "What does “a vicious circle” mean in this sentence?",
+   "options": [
+    "a situation in which one problem causes another, which makes the first worse",
+    "to refuse to change your opinion or position when under pressure",
+    "to think in a creative, original way",
+    "to annoy or upset someone"
+   ],
+   "answer": 0,
+   "meaningVi": "vòng luẩn quẩn",
+   "explanation": "“a vicious circle” means a situation in which one problem causes another, which makes the first worse. Example: Poor people can't afford education, so they stay poor. Breaking a vicious circle requires government support.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a tall order",
+   "context": "Finishing the whole report by Monday is a tall order, but we'll try.",
+   "question": "What does “a tall order” mean in this sentence?",
+   "options": [
+    "there are clear signs that something bad is going to happen",
+    "a situation in which everyone has the same chance of success",
+    "a task that is very difficult to achieve",
+    "what you would expect to happen, usually something unpleasant"
+   ],
+   "answer": 2,
+   "meaningVi": "nhiệm vụ rất khó",
+   "explanation": "“a tall order” means a task that is very difficult to achieve. Example: Learning a language fluently in three months is a tall order for most people.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "against all odds",
+   "context": "Against all odds, the small village team reached the national final.",
+   "question": "What does “against all odds” mean in this sentence?",
+   "options": [
+    "good enough; of an acceptable standard",
+    "despite seeming very unlikely to succeed",
+    "to do something that has never been done before",
+    "to avoid talking about the main point directly"
+   ],
+   "answer": 1,
+   "meaningVi": "bất chấp mọi khó khăn, ngoài mọi dự đoán",
+   "explanation": "“against all odds” means despite seeming very unlikely to succeed. Example: Doctors gave him little chance, but against all odds he made a full recovery.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "at a crossroads",
+   "context": "After graduating, I was at a crossroads: take a safe job or start my own business.",
+   "question": "What does “at a crossroads” mean in this sentence?",
+   "options": [
+    "to be so involved in details that you miss the overall situation",
+    "a task that is very difficult to achieve",
+    "to change the rules or targets unfairly while something is happening",
+    "at a point where you must make an important decision"
+   ],
+   "answer": 3,
+   "meaningVi": "đứng trước ngã rẽ quan trọng",
+   "explanation": "“at a crossroads” means at a point where you must make an important decision. Example: The company is at a crossroads – it must either modernise or risk closing within five years.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "ahead of the curve",
+   "context": "The school was ahead of the curve in teaching coding to young children.",
+   "question": "What does “ahead of the curve” mean in this sentence?",
+   "options": [
+    "to understand a meaning that is not stated directly",
+    "to have a lot of work or problems to deal with",
+    "more advanced or modern than others",
+    "to do something that has never been done before"
+   ],
+   "answer": 2,
+   "meaningVi": "đi trước, dẫn đầu xu hướng",
+   "explanation": "“ahead of the curve” means more advanced or modern than others. Example: By investing in solar power early, the town stayed ahead of the curve while others were still burning coal.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "behind the scenes",
+   "context": "Behind the scenes, dozens of volunteers worked for months to organise the festival.",
+   "question": "What does “behind the scenes” mean in this sentence?",
+   "options": [
+    "something good can come from every bad situation",
+    "more advanced or modern than others",
+    "in a way that the public does not see",
+    "to say you support something without doing anything to help it"
+   ],
+   "answer": 2,
+   "meaningVi": "phía sau hậu trường, âm thầm",
+   "explanation": "“behind the scenes” means in a way that the public does not see. Example: The actors get the applause, but a huge team works behind the scenes to make the show possible.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "bite the bullet",
+   "context": "I hate going to the dentist, but I finally bit the bullet and booked an appointment.",
+   "question": "What does “bite the bullet” mean in this sentence?",
+   "options": [
+    "to change the rules or targets unfairly while something is happening",
+    "to understand the overall situation rather than just small details",
+    "to make yourself do something unpleasant but necessary",
+    "to return to the original situation after a long series of changes"
+   ],
+   "answer": 2,
+   "meaningVi": "cắn răng làm điều khó chịu nhưng cần thiết",
+   "explanation": "“bite the bullet” means to make yourself do something unpleasant but necessary. Example: I hate speaking in public, but the presentation is compulsory, so I'll just have to bite the bullet.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "break new ground",
+   "context": "The research team broke new ground with its study of how plants communicate.",
+   "question": "What does “break new ground” mean in this sentence?",
+   "options": [
+    "in a way that the public does not see",
+    "only just; by a very small margin",
+    "to do something that has never been done before",
+    "a task that is very difficult to achieve"
+   ],
+   "answer": 2,
+   "meaningVi": "mở ra hướng đi mới, tiên phong",
+   "explanation": "“break new ground” means to do something that has never been done before. Example: The film is expected to break new ground as the first feature shot entirely on a mobile phone.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "come full circle",
+   "context": "Fashion has come full circle – the clothes my mother wore in the nineties are popular again.",
+   "question": "What does “come full circle” mean in this sentence?",
+   "options": [
+    "to return to the original situation after a long series of changes",
+    "to think in a creative, original way",
+    "something that has both advantages and disadvantages",
+    "to avoid talking about the main point directly"
+   ],
+   "answer": 0,
+   "meaningVi": "quay trở lại điểm khởi đầu (sau nhiều thay đổi)",
+   "explanation": "“come full circle” means to return to the original situation after a long series of changes. Example: He started as a waiter, became a chef and now owns the café where he first worked. His career has come full circle.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cut someone some slack",
+   "context": "She's new and still learning, so let's cut her some slack.",
+   "question": "What does “cut someone some slack” mean in this sentence?",
+   "options": [
+    "to be less strict or critical with someone",
+    "to become impossible to control",
+    "to do something that has never been done before",
+    "to be different from what is normal or expected"
+   ],
+   "answer": 0,
+   "meaningVi": "thông cảm, nới tay với ai",
+   "explanation": "“cut someone some slack” means to be less strict or critical with someone. Example: They've been looking after their sick mother all week, so please cut them some slack if their work is late.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get the green light",
+   "context": "The new hospital has finally got the green light from the government.",
+   "question": "What does “get the green light” mean in this sentence?",
+   "options": [
+    "a situation that is unclear because rules do not cover it exactly",
+    "at a point where you must make an important decision",
+    "to receive permission to start something",
+    "to be less strict or critical with someone"
+   ],
+   "answer": 2,
+   "meaningVi": "được bật đèn xanh, được cho phép",
+   "explanation": "“get the green light” means to receive permission to start something. Example: We can't start building until we get the green light from the planning department.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "go against the grain",
+   "context": "It goes against the grain for me to throw away food that's still edible.",
+   "question": "What does “go against the grain” mean in this sentence?",
+   "options": [
+    "to be different from what is normal or expected",
+    "to finally decide to do something important or risky",
+    "to make yourself do something unpleasant but necessary",
+    "in a way that the public does not see"
+   ],
+   "answer": 0,
+   "meaningVi": "đi ngược lại thông lệ/số đông",
+   "explanation": "“go against the grain” means to be different from what is normal or expected. Example: Choosing a career in farming rather than finance may go against the grain, but it made her happy.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "have a lot on your plate",
+   "context": "I'd love to help, but I have a lot on my plate at the moment.",
+   "question": "What does “have a lot on your plate” mean in this sentence?",
+   "options": [
+    "to have a lot of work or problems to deal with",
+    "to have just enough money to pay for the things you need",
+    "to understand a meaning that is not stated directly",
+    "in a risky situation where you could easily get into trouble"
+   ],
+   "answer": 0,
+   "meaningVi": "bận tối mắt, ôm nhiều việc",
+   "explanation": "“have a lot on your plate” means to have a lot of work or problems to deal with. Example: You look exhausted. With the house move and the new job, you seem to have a lot on your plate at the moment.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the red",
+   "context": "The airline has been in the red for three years and may soon go bankrupt.",
+   "question": "What does “in the red” mean in this sentence?",
+   "options": [
+    "to become impossible to control",
+    "delayed or given low priority for now",
+    "a situation in which everyone has the same chance of success",
+    "losing money or owing money"
+   ],
+   "answer": 3,
+   "meaningVi": "thua lỗ, nợ nần",
+   "explanation": "“in the red” means losing money or owing money. Example: If we keep spending like this, our account will be in the red by the end of the month.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "jump through hoops",
+   "context": "We had to jump through hoops to get a visa, including three separate interviews.",
+   "question": "What does “jump through hoops” mean in this sentence?",
+   "options": [
+    "to complete many difficult or unnecessary steps to get something",
+    "what you would expect to happen, usually something unpleasant",
+    "to receive permission to start something",
+    "very uncertain, especially about whether something will succeed or someone will survive"
+   ],
+   "answer": 0,
+   "meaningVi": "phải qua nhiều thủ tục rắc rối",
+   "explanation": "“jump through hoops” means to complete many difficult or unnecessary steps to get something. Example: Small businesses often have to jump through hoops just to get a simple licence.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "learn something the hard way",
+   "context": "I learned that lesson the hard way when I lost a whole essay because I hadn't saved it.",
+   "question": "What does “learn something the hard way” mean in this sentence?",
+   "options": [
+    "to have a lot of work or problems to deal with",
+    "to learn something through an unpleasant experience",
+    "good enough; of an acceptable standard",
+    "a situation in which one problem causes another, which makes the first worse"
+   ],
+   "answer": 1,
+   "meaningVi": "học được bài học đắt giá",
+   "explanation": "“learn something the hard way” means to learn something through an unpleasant experience. Example: Many travellers learn the hard way that they should always keep a copy of their passport.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a steep learning curve",
+   "context": "Moving from teaching into management was a steep learning curve for her.",
+   "question": "What does “a steep learning curve” mean in this sentence?",
+   "options": [
+    "a situation where you have to learn a lot very quickly",
+    "something that has both advantages and disadvantages",
+    "to avoid becoming close or friendly with someone",
+    "a situation in which one problem causes another, which makes the first worse"
+   ],
+   "answer": 0,
+   "meaningVi": "phải học hỏi rất nhiều trong thời gian ngắn",
+   "explanation": "“a steep learning curve” means a situation where you have to learn a lot very quickly. Example: The new software is powerful, but there's a steep learning curve for anyone who hasn't used it before.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "make or break",
+   "context": "The next six months will be make or break for the company.",
+   "question": "What does “make or break” mean in this sentence?",
+   "options": [
+    "to think in a creative, original way",
+    "very successfully; with a very high score",
+    "very different from",
+    "deciding whether something will succeed or fail"
+   ],
+   "answer": 3,
+   "meaningVi": "quyết định thành bại",
+   "explanation": "“make or break” means deciding whether something will succeed or fail. Example: For a new restaurant, the first reviews can be make or break.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "not see the wood for the trees",
+   "context": "The team was so focused on small details that they could not see the wood for the trees.",
+   "question": "What does “not see the wood for the trees” mean in this sentence?",
+   "options": [
+    "to be so involved in details that you miss the overall situation",
+    "being planned or developed and likely to happen soon",
+    "a situation that is unclear because rules do not cover it exactly",
+    "to finally decide to do something important or risky"
+   ],
+   "answer": 0,
+   "meaningVi": "thấy cây mà không thấy rừng",
+   "explanation": "“not see the wood for the trees” means to be so involved in details that you miss the overall situation. Example: Step back from the spreadsheets for a moment, or you'll not see the wood for the trees.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on thin ice",
+   "context": "After arriving late three times this week, Tom is on thin ice with his manager.",
+   "question": "What does “on thin ice” mean in this sentence?",
+   "options": [
+    "to have a lot of work or problems to deal with",
+    "in a risky situation where you could easily get into trouble",
+    "good enough; of an acceptable standard",
+    "at a point where you must make an important decision"
+   ],
+   "answer": 1,
+   "meaningVi": "đang ở thế nguy hiểm, dễ gặp rắc rối",
+   "explanation": "“on thin ice” means in a risky situation where you could easily get into trouble. Example: You're already on thin ice with the teacher, so don't forget your homework again.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "par for the course",
+   "context": "Delays are par for the course when you travel by train in winter.",
+   "question": "What does “par for the course” mean in this sentence?",
+   "options": [
+    "an obvious problem that everyone is avoiding talking about",
+    "what you would expect to happen, usually something unpleasant",
+    "to understand a meaning that is not stated directly",
+    "to annoy or upset someone"
+   ],
+   "answer": 1,
+   "meaningVi": "chuyện thường tình, chuyện đương nhiên",
+   "explanation": "“par for the course” means what you would expect to happen, usually something unpleasant. Example: Long hours are par for the course in the first year of working as a junior doctor.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a red herring",
+   "context": "The detective realised the missing key was a red herring that had nothing to do with the crime.",
+   "question": "What does “a red herring” mean in this sentence?",
+   "options": [
+    "something that takes attention away from the real issue",
+    "to return to the original situation after a long series of changes",
+    "to avoid talking about the main point directly",
+    "deciding whether something will succeed or fail"
+   ],
+   "answer": 0,
+   "meaningVi": "thông tin đánh lạc hướng",
+   "explanation": "“a red herring” means something that takes attention away from the real issue. Example: The argument about uniforms is a red herring – the real problem is the school's poor teaching.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "see the bigger picture",
+   "context": "A good manager can see the bigger picture and doesn't panic over small mistakes.",
+   "question": "What does “see the bigger picture” mean in this sentence?",
+   "options": [
+    "very uncertain, especially about whether something will succeed or someone will survive",
+    "to learn something through an unpleasant experience",
+    "to say you support something without doing anything to help it",
+    "to understand the overall situation rather than just small details"
+   ],
+   "answer": 3,
+   "meaningVi": "nhìn bức tranh toàn cảnh",
+   "explanation": "“see the bigger picture” means to understand the overall situation rather than just small details. Example: Try to see the bigger picture: losing one client is disappointing, but overall the business is growing.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "ruffle someone's feathers",
+   "context": "His blunt comments ruffled his manager's feathers.",
+   "question": "What does “ruffle someone's feathers” mean in this sentence?",
+   "options": [
+    "to be different from what is normal or expected",
+    "to annoy or upset someone",
+    "very uncertain, especially about whether something will succeed or someone will survive",
+    "something that has both advantages and disadvantages"
+   ],
+   "answer": 1,
+   "meaningVi": "làm ai phật ý",
+   "explanation": "“ruffle someone's feathers” means to annoy or upset someone. Example: Her honest feedback can ruffle a few feathers, so she tries to be tactful in meetings.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a recipe for disaster",
+   "context": "Combining tired drivers and icy roads is a recipe for disaster.",
+   "question": "What does “a recipe for disaster” mean in this sentence?",
+   "options": [
+    "very uncertain, especially about whether something will succeed or someone will survive",
+    "to complete many difficult or unnecessary steps to get something",
+    "to return to the original situation after a long series of changes",
+    "something that is very likely to lead to serious problems"
+   ],
+   "answer": 3,
+   "meaningVi": "công thức dẫn đến thảm họa",
+   "explanation": "“a recipe for disaster” means something that is very likely to lead to serious problems. Example: Starting a business with no plan and borrowed money is a recipe for disaster.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "touch and go",
+   "context": "After the accident, it was touch and go whether she would survive.",
+   "question": "What does “touch and go” mean in this sentence?",
+   "options": [
+    "very uncertain, especially about whether something will succeed or someone will survive",
+    "more advanced or modern than others",
+    "a situation in which everyone has the same chance of success",
+    "something that is very likely to lead to serious problems"
+   ],
+   "answer": 0,
+   "meaningVi": "ngàn cân treo sợi tóc, chưa biết ra sao",
+   "explanation": "“touch and go” means very uncertain, especially about whether something will succeed or someone will survive. Example: It was touch and go whether we'd finish on time, but we just made it.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "up to scratch",
+   "context": "If your work isn't up to scratch, you'll be asked to redo it.",
+   "question": "What does “up to scratch” mean in this sentence?",
+   "options": [
+    "to avoid becoming close or friendly with someone",
+    "to be so involved in details that you miss the overall situation",
+    "to have a lot of work or problems to deal with",
+    "good enough; of an acceptable standard"
+   ],
+   "answer": 3,
+   "meaningVi": "đạt yêu cầu, đạt chuẩn",
+   "explanation": "“up to scratch” means good enough; of an acceptable standard. Example: The hotel looked nice online, but the service wasn't up to scratch.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "weigh up the pros and cons",
+   "context": "Before accepting the job abroad, she weighed up the pros and cons for weeks.",
+   "question": "What does “weigh up the pros and cons” mean in this sentence?",
+   "options": [
+    "to think in a creative, original way",
+    "to consider the advantages and disadvantages carefully",
+    "very successfully; with a very high score",
+    "to avoid talking about the main point directly"
+   ],
+   "answer": 1,
+   "meaningVi": "cân nhắc lợi hại",
+   "explanation": "“weigh up the pros and cons” means to consider the advantages and disadvantages carefully. Example: Buying a house is a huge decision, so take time to weigh up the pros and cons.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "with flying colours",
+   "context": "She passed her driving test with flying colours, making no mistakes at all.",
+   "question": "What does “with flying colours” mean in this sentence?",
+   "options": [
+    "a situation that is unclear because rules do not cover it exactly",
+    "good enough; of an acceptable standard",
+    "very successfully; with a very high score",
+    "to make yourself do something unpleasant but necessary"
+   ],
+   "answer": 2,
+   "meaningVi": "xuất sắc, thành công rực rỡ",
+   "explanation": "“with flying colours” means very successfully; with a very high score. Example: All the students passed the final exam with flying colours, so the teacher was delighted.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the writing is on the wall",
+   "context": "With sales falling every month, the writing is on the wall for the old bookshop.",
+   "question": "What does “the writing is on the wall” mean in this sentence?",
+   "options": [
+    "very different from",
+    "something that is very likely to lead to serious problems",
+    "there are clear signs that something bad is going to happen",
+    "very uncertain, especially about whether something will succeed or someone will survive"
+   ],
+   "answer": 2,
+   "meaningVi": "điềm báo đã rõ ràng",
+   "explanation": "“the writing is on the wall” means there are clear signs that something bad is going to happen. Example: Three managers have already resigned. The writing is on the wall – the company is in serious trouble.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "every cloud has a silver lining",
+   "context": "I lost my job, but every cloud has a silver lining – I finally had time to write my novel.",
+   "question": "What does “every cloud has a silver lining” mean in this sentence?",
+   "options": [
+    "good enough; of an acceptable standard",
+    "to become impossible to control",
+    "in a way that the public does not see",
+    "something good can come from every bad situation"
+   ],
+   "answer": 3,
+   "meaningVi": "trong cái rủi có cái may, mọi chuyện xấu đều có mặt tốt",
+   "explanation": "“every cloud has a silver lining” means something good can come from every bad situation. Example: Our flight was cancelled, but we got an extra day at the beach. Every cloud has a silver lining!",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "break new ground",
+   "question": "Choose the idiom that best completes the sentence:\nThe film is expected to ___ as the first feature shot entirely on a mobile phone.",
+   "options": [
+    "learn it the hard way",
+    "break new ground",
+    "stand your ground",
+    "ruffle your feathers"
+   ],
+   "answer": 1,
+   "meaningVi": "mở ra hướng đi mới, tiên phong",
+   "explanation": "“break new ground” = to do something that has never been done before. Full sentence: The film is expected to break new ground as the first feature shot entirely on a mobile phone.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "at a crossroads",
+   "question": "Choose the idiom that best completes the sentence:\nThe company is ___ – it must either modernise or risk closing within five years.",
+   "options": [
+    "on the back burner",
+    "at a crossroads",
+    "up to scratch",
+    "touch and go"
+   ],
+   "answer": 1,
+   "meaningVi": "đứng trước ngã rẽ quan trọng",
+   "explanation": "“at a crossroads” = at a point where you must make an important decision. Full sentence: The company is at a crossroads – it must either modernise or risk closing within five years.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "bite the bullet",
+   "question": "Choose the idiom that best completes the sentence:\nI hate speaking in public, but the presentation is compulsory, so I'll just have to ___.",
+   "options": [
+    "take the plunge",
+    "bite the bullet",
+    "move the goalposts",
+    "weigh up the pros and cons"
+   ],
+   "answer": 1,
+   "meaningVi": "cắn răng làm điều khó chịu nhưng cần thiết",
+   "explanation": "“bite the bullet” = to make yourself do something unpleasant but necessary. Full sentence: I hate speaking in public, but the presentation is compulsory, so I'll just have to bite the bullet.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "not see the wood for the trees",
+   "question": "Choose the idiom that best completes the sentence:\nStep back from the spreadsheets for a moment, or you'll ___.",
+   "options": [
+    "not see the wood for the trees",
+    "think outside the box",
+    "cut to the chase",
+    "go against the grain"
+   ],
+   "answer": 0,
+   "meaningVi": "thấy cây mà không thấy rừng",
+   "explanation": "“not see the wood for the trees” = to be so involved in details that you miss the overall situation. Full sentence: Step back from the spreadsheets for a moment, or you'll not see the wood for the trees.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "read between the lines",
+   "question": "Choose the idiom that best completes the sentence:\nThe report doesn't say the company is in trouble, but if you ___, it's obvious.",
+   "options": [
+    "cut them some slack",
+    "bite the bullet",
+    "get the green light",
+    "read between the lines"
+   ],
+   "answer": 3,
+   "meaningVi": "đọc được ẩn ý",
+   "explanation": "“read between the lines” = to understand a meaning that is not stated directly. Full sentence: The report doesn't say the company is in trouble, but if you read between the lines, it's obvious.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a tall order",
+   "question": "Choose the idiom that best completes the sentence:\nLearning a language fluently in three months is ___ for most people.",
+   "options": [
+    "a steep learning curve",
+    "a recipe for disaster",
+    "the elephant in the room",
+    "a tall order"
+   ],
+   "answer": 3,
+   "meaningVi": "nhiệm vụ rất khó",
+   "explanation": "“a tall order” = a task that is very difficult to achieve. Full sentence: Learning a language fluently in three months is a tall order for most people.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "see the bigger picture",
+   "question": "Choose the idiom that best completes the sentence:\nTry to ___: losing one client is disappointing, but overall the business is growing.",
+   "options": [
+    "see the bigger picture",
+    "pay lip service to",
+    "make ends meet",
+    "get out of hand"
+   ],
+   "answer": 0,
+   "meaningVi": "nhìn bức tranh toàn cảnh",
+   "explanation": "“see the bigger picture” = to understand the overall situation rather than just small details. Full sentence: Try to see the bigger picture: losing one client is disappointing, but overall the business is growing.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on the back burner",
+   "question": "Choose the idiom that best completes the sentence:\nWith the baby arriving, I've had to put my master's degree ___ for a year.",
+   "options": [
+    "on the back burner",
+    "in the red",
+    "at a crossroads",
+    "ahead of the curve"
+   ],
+   "answer": 0,
+   "meaningVi": "tạm gác lại",
+   "explanation": "“on the back burner” = delayed or given low priority for now. Full sentence: With the baby arriving, I've had to put my master's degree on the back burner for a year.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "ahead of the curve",
+   "question": "Choose the idiom that best completes the sentence:\nBy investing in solar power early, the town stayed ___ while others were still burning coal.",
+   "options": [
+    "make or break",
+    "ahead of the curve",
+    "on thin ice",
+    "in the red"
+   ],
+   "answer": 1,
+   "meaningVi": "đi trước, dẫn đầu xu hướng",
+   "explanation": "“ahead of the curve” = more advanced or modern than others. Full sentence: By investing in solar power early, the town stayed ahead of the curve while others were still burning coal.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "pay lip service to",
+   "question": "Choose the idiom that best completes the sentence:\nCritics say the government is happy to ___ mental health but refuses to fund proper services.",
+   "options": [
+    "pay lip service to",
+    "learn it the hard way",
+    "move the goalposts",
+    "cut to the chase"
+   ],
+   "answer": 0,
+   "meaningVi": "ủng hộ ngoài miệng, nói suông",
+   "explanation": "“pay lip service to” = to say you support something without doing anything to help it. Full sentence: Critics say the government is happy to pay lip service to mental health but refuses to fund proper services.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a vicious circle",
+   "question": "Choose the idiom that best completes the sentence:\nPoor people can't afford education, so they stay poor. Breaking ___ requires government support.",
+   "options": [
+    "a double-edged sword",
+    "a level playing field",
+    "a tall order",
+    "a vicious circle"
+   ],
+   "answer": 3,
+   "meaningVi": "vòng luẩn quẩn",
+   "explanation": "“a vicious circle” = a situation in which one problem causes another, which makes the first worse. Full sentence: Poor people can't afford education, so they stay poor. Breaking a vicious circle requires government support.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "stand your ground",
+   "question": "Choose the idiom that best completes the sentence:\nIf a customer starts shouting, you should calmly ___ and explain the refund policy again.",
+   "options": [
+    "pay lip service to",
+    "stand your ground",
+    "keep them at arm's length",
+    "get the green light"
+   ],
+   "answer": 1,
+   "meaningVi": "giữ vững lập trường",
+   "explanation": "“stand your ground” = to refuse to change your opinion or position when under pressure. Full sentence: If a customer starts shouting, you should calmly stand your ground and explain the refund policy again.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a grey area",
+   "question": "Choose the idiom that best completes the sentence:\nUsing AI to write your homework is ___ – some schools allow it, others don't.",
+   "options": [
+    "a level playing field",
+    "a steep learning curve",
+    "par for the course",
+    "a grey area"
+   ],
+   "answer": 3,
+   "meaningVi": "vùng xám, chưa rõ ràng",
+   "explanation": "“a grey area” = a situation that is unclear because rules do not cover it exactly. Full sentence: Using AI to write your homework is a grey area – some schools allow it, others don't.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cut someone some slack",
+   "question": "Choose the idiom that best completes the sentence:\nThey've been looking after their sick mother all week, so please ___ if their work is late.",
+   "options": [
+    "cut them some slack",
+    "get out of hand",
+    "make ends meet",
+    "see the bigger picture"
+   ],
+   "answer": 0,
+   "meaningVi": "thông cảm, nới tay với ai",
+   "explanation": "“cut someone some slack” = to be less strict or critical with someone. Full sentence: They've been looking after their sick mother all week, so please cut them some slack if their work is late.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "learn something the hard way",
+   "question": "Choose the idiom that best completes the sentence:\nMany travellers ___ that they should always keep a copy of their passport.",
+   "options": [
+    "come full circle",
+    "learn the hard way",
+    "weigh up the pros and cons",
+    "cut them some slack"
+   ],
+   "answer": 1,
+   "meaningVi": "học được bài học đắt giá",
+   "explanation": "“learn something the hard way” = to learn something through an unpleasant experience. Full sentence: Many travellers learn the hard way that they should always keep a copy of their passport.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a level playing field",
+   "question": "Choose the idiom that best completes the sentence:\nScholarships help to create ___ for students from poorer backgrounds.",
+   "options": [
+    "par for the course",
+    "the elephant in the room",
+    "a tall order",
+    "a level playing field"
+   ],
+   "answer": 3,
+   "meaningVi": "sân chơi bình đẳng",
+   "explanation": "“a level playing field” = a situation in which everyone has the same chance of success. Full sentence: Scholarships help to create a level playing field for students from poorer backgrounds.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the elephant in the room",
+   "question": "Choose the idiom that best completes the sentence:\nWe discussed everything except the CEO's resignation, which was clearly ___.",
+   "options": [
+    "the elephant in the room",
+    "a grey area",
+    "a far cry from",
+    "a recipe for disaster"
+   ],
+   "answer": 0,
+   "meaningVi": "vấn đề hiển nhiên mà ai cũng né tránh",
+   "explanation": "“the elephant in the room” = an obvious problem that everyone is avoiding talking about. Full sentence: We discussed everything except the CEO's resignation, which was clearly the elephant in the room.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "go against the grain",
+   "question": "Choose the idiom that best completes the sentence:\nChoosing a career in farming rather than finance may ___, but it made her happy.",
+   "options": [
+    "read between the lines",
+    "stand your ground",
+    "cut to the chase",
+    "go against the grain"
+   ],
+   "answer": 3,
+   "meaningVi": "đi ngược lại thông lệ/số đông",
+   "explanation": "“go against the grain” = to be different from what is normal or expected. Full sentence: Choosing a career in farming rather than finance may go against the grain, but it made her happy.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on thin ice",
+   "question": "Choose the idiom that best completes the sentence:\nYou're already ___ with the teacher, so don't forget your homework again.",
+   "options": [
+    "on thin ice",
+    "in the red",
+    "in the pipeline",
+    "on the back burner"
+   ],
+   "answer": 0,
+   "meaningVi": "đang ở thế nguy hiểm, dễ gặp rắc rối",
+   "explanation": "“on thin ice” = in a risky situation where you could easily get into trouble. Full sentence: You're already on thin ice with the teacher, so don't forget your homework again.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a far cry from",
+   "question": "Choose the idiom that best completes the sentence:\nWorking seventy hours a week for a start-up is ___ the relaxed life I'd imagined.",
+   "options": [
+    "a double-edged sword",
+    "a far cry from",
+    "par for the course",
+    "a red herring"
+   ],
+   "answer": 1,
+   "meaningVi": "khác xa, một trời một vực",
+   "explanation": "“a far cry from” = very different from. Full sentence: Working seventy hours a week for a start-up is a far cry from the relaxed life I'd imagined.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cut to the chase",
+   "question": "Choose the idiom that best completes the sentence:\nI won't bore you with the background. Let me ___ – the project is three months behind schedule.",
+   "options": [
+    "have a lot on your plate",
+    "think outside the box",
+    "learn it the hard way",
+    "cut to the chase"
+   ],
+   "answer": 3,
+   "meaningVi": "đi thẳng vào vấn đề",
+   "explanation": "“cut to the chase” = to talk about the most important point immediately. Full sentence: I won't bore you with the background. Let me cut to the chase – the project is three months behind schedule.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "by the skin of your teeth",
+   "question": "Choose the idiom that best completes the sentence:\nIf you don't start revising soon, you'll pass ___ at best – if you pass at all.",
+   "options": [
+    "by the skin of your teeth",
+    "against all odds",
+    "behind the scenes",
+    "with flying colours"
+   ],
+   "answer": 0,
+   "meaningVi": "suýt soát, sát nút",
+   "explanation": "“by the skin of your teeth” = only just; by a very small margin. Full sentence: If you don't start revising soon, you'll pass by the skin of your teeth at best – if you pass at all.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "make ends meet",
+   "question": "Choose the idiom that best completes the sentence:\nAfter she lost her job, she took on three part-time jobs just to ___.",
+   "options": [
+    "make ends meet",
+    "jump through hoops",
+    "bite the bullet",
+    "stand your ground"
+   ],
+   "answer": 0,
+   "meaningVi": "xoay xở đủ sống, kiếm đủ trang trải",
+   "explanation": "“make ends meet” = to have just enough money to pay for the things you need. Full sentence: After she lost her job, she took on three part-time jobs just to make ends meet.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get out of hand",
+   "question": "Choose the idiom that best completes the sentence:\nIf we don't deal with these complaints now, the situation could easily ___.",
+   "options": [
+    "get the green light",
+    "take the plunge",
+    "jump through hoops",
+    "get out of hand"
+   ],
+   "answer": 3,
+   "meaningVi": "vượt khỏi tầm kiểm soát",
+   "explanation": "“get out of hand” = to become impossible to control. Full sentence: If we don't deal with these complaints now, the situation could easily get out of hand.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a red herring",
+   "question": "Choose the idiom that best completes the sentence:\nThe argument about uniforms is ___ – the real problem is the school's poor teaching.",
+   "options": [
+    "a red herring",
+    "a double-edged sword",
+    "a far cry from",
+    "a steep learning curve"
+   ],
+   "answer": 0,
+   "meaningVi": "thông tin đánh lạc hướng",
+   "explanation": "“a red herring” = something that takes attention away from the real issue. Full sentence: The argument about uniforms is a red herring – the real problem is the school's poor teaching.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "have a lot on your plate",
+   "question": "Choose the idiom that best completes the sentence:\nYou look exhausted. With the house move and the new job, you seem to ___ at the moment.",
+   "options": [
+    "learn it the hard way",
+    "cut them some slack",
+    "have a lot on your plate",
+    "break new ground"
+   ],
+   "answer": 2,
+   "meaningVi": "bận tối mắt, ôm nhiều việc",
+   "explanation": "“have a lot on your plate” = to have a lot of work or problems to deal with. Full sentence: You look exhausted. With the house move and the new job, you seem to have a lot on your plate at the moment.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "against all odds",
+   "question": "Choose the idiom that best completes the sentence:\nDoctors gave him little chance, but ___ he made a full recovery.",
+   "options": [
+    "by the skin of your teeth",
+    "against all odds",
+    "ahead of the curve",
+    "behind the scenes"
+   ],
+   "answer": 1,
+   "meaningVi": "bất chấp mọi khó khăn, ngoài mọi dự đoán",
+   "explanation": "“against all odds” = despite seeming very unlikely to succeed. Full sentence: Doctors gave him little chance, but against all odds he made a full recovery.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the pipeline",
+   "question": "Choose the idiom that best completes the sentence:\nThere are plans for a new metro line, but it's still ___ and won't open for years.",
+   "options": [
+    "make or break",
+    "in the pipeline",
+    "in the red",
+    "touch and go"
+   ],
+   "answer": 1,
+   "meaningVi": "đang được lên kế hoạch, sắp ra mắt",
+   "explanation": "“in the pipeline” = being planned or developed and likely to happen soon. Full sentence: There are plans for a new metro line, but it's still in the pipeline and won't open for years.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "par for the course",
+   "question": "Choose the idiom that best completes the sentence:\nLong hours are ___ in the first year of working as a junior doctor.",
+   "options": [
+    "a grey area",
+    "a recipe for disaster",
+    "par for the course",
+    "a level playing field"
+   ],
+   "answer": 2,
+   "meaningVi": "chuyện thường tình, chuyện đương nhiên",
+   "explanation": "“par for the course” = what you would expect to happen, usually something unpleasant. Full sentence: Long hours are par for the course in the first year of working as a junior doctor.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep someone at arm's length",
+   "question": "Choose the idiom that best completes the sentence:\nJournalists meet politicians all the time, but they are trained to ___ so that they stay objective.",
+   "options": [
+    "keep them at arm's length",
+    "pay lip service to",
+    "jump through hoops",
+    "get out of hand"
+   ],
+   "answer": 0,
+   "meaningVi": "giữ khoảng cách với ai",
+   "explanation": "“keep someone at arm's length” = to avoid becoming close or friendly with someone. Full sentence: Journalists meet politicians all the time, but they are trained to keep them at arm's length so that they stay objective.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a recipe for disaster",
+   "question": "Choose the idiom that best completes the sentence:\nStarting a business with no plan and borrowed money is ___.",
+   "options": [
+    "a recipe for disaster",
+    "a tall order",
+    "a far cry from",
+    "a steep learning curve"
+   ],
+   "answer": 0,
+   "meaningVi": "công thức dẫn đến thảm họa",
+   "explanation": "“a recipe for disaster” = something that is very likely to lead to serious problems. Full sentence: Starting a business with no plan and borrowed money is a recipe for disaster.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a double-edged sword",
+   "question": "Choose the idiom that best completes the sentence:\nSocial media is ___ for small businesses – it's cheap advertising, but one bad review can spread instantly.",
+   "options": [
+    "a far cry from",
+    "a vicious circle",
+    "a double-edged sword",
+    "par for the course"
+   ],
+   "answer": 2,
+   "meaningVi": "con dao hai lưỡi",
+   "explanation": "“a double-edged sword” = something that has both advantages and disadvantages. Full sentence: Social media is a double-edged sword for small businesses – it's cheap advertising, but one bad review can spread instantly.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "up to scratch",
+   "question": "Choose the idiom that best completes the sentence:\nThe hotel looked nice online, but the service wasn't ___.",
+   "options": [
+    "touch and go",
+    "in the red",
+    "up to scratch",
+    "on thin ice"
+   ],
+   "answer": 2,
+   "meaningVi": "đạt yêu cầu, đạt chuẩn",
+   "explanation": "“up to scratch” = good enough; of an acceptable standard. Full sentence: The hotel looked nice online, but the service wasn't up to scratch.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "come full circle",
+   "question": "Choose the idiom that best completes the sentence:\nHe started as a waiter, became a chef and now owns the café where he first worked. His career has ___.",
+   "options": [
+    "come full circle",
+    "not see the wood for the trees",
+    "beat around the bush",
+    "learn it the hard way"
+   ],
+   "answer": 0,
+   "meaningVi": "quay trở lại điểm khởi đầu (sau nhiều thay đổi)",
+   "explanation": "“come full circle” = to return to the original situation after a long series of changes. Full sentence: He started as a waiter, became a chef and now owns the café where he first worked. His career has come full circle.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the red",
+   "question": "Choose the idiom that best completes the sentence:\nIf we keep spending like this, our account will be ___ by the end of the month.",
+   "options": [
+    "at a crossroads",
+    "up to scratch",
+    "on thin ice",
+    "in the red"
+   ],
+   "answer": 3,
+   "meaningVi": "thua lỗ, nợ nần",
+   "explanation": "“in the red” = losing money or owing money. Full sentence: If we keep spending like this, our account will be in the red by the end of the month.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "weigh up the pros and cons",
+   "question": "Choose the idiom that best completes the sentence:\nBuying a house is a huge decision, so take time to ___.",
+   "options": [
+    "jump through hoops",
+    "weigh up the pros and cons",
+    "come full circle",
+    "go against the grain"
+   ],
+   "answer": 1,
+   "meaningVi": "cân nhắc lợi hại",
+   "explanation": "“weigh up the pros and cons” = to consider the advantages and disadvantages carefully. Full sentence: Buying a house is a huge decision, so take time to weigh up the pros and cons.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "behind the scenes",
+   "question": "Choose the idiom that best completes the sentence:\nThe actors get the applause, but a huge team works ___ to make the show possible.",
+   "options": [
+    "by the skin of your teeth",
+    "against all odds",
+    "with flying colours",
+    "behind the scenes"
+   ],
+   "answer": 3,
+   "meaningVi": "phía sau hậu trường, âm thầm",
+   "explanation": "“behind the scenes” = in a way that the public does not see. Full sentence: The actors get the applause, but a huge team works behind the scenes to make the show possible.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a steep learning curve",
+   "question": "Choose the idiom that best completes the sentence:\nThe new software is powerful, but there's ___ for anyone who hasn't used it before.",
+   "options": [
+    "par for the course",
+    "a steep learning curve",
+    "a grey area",
+    "a red herring"
+   ],
+   "answer": 1,
+   "meaningVi": "phải học hỏi rất nhiều trong thời gian ngắn",
+   "explanation": "“a steep learning curve” = a situation where you have to learn a lot very quickly. Full sentence: The new software is powerful, but there's a steep learning curve for anyone who hasn't used it before.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "make or break",
+   "question": "Choose the idiom that best completes the sentence:\nFor a new restaurant, the first reviews can be ___.",
+   "options": [
+    "make or break",
+    "on the back burner",
+    "in the pipeline",
+    "touch and go"
+   ],
+   "answer": 0,
+   "meaningVi": "quyết định thành bại",
+   "explanation": "“make or break” = deciding whether something will succeed or fail. Full sentence: For a new restaurant, the first reviews can be make or break.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the writing is on the wall",
+   "question": "Choose the idiom that best completes the sentence:\nThree managers have already resigned. ___ – the company is in serious trouble.",
+   "options": [
+    "In the red",
+    "At a crossroads",
+    "Every cloud has a silver lining",
+    "The writing is on the wall"
+   ],
+   "answer": 3,
+   "meaningVi": "điềm báo đã rõ ràng",
+   "explanation": "“the writing is on the wall” = there are clear signs that something bad is going to happen. Full sentence: Three managers have already resigned. The writing is on the wall – the company is in serious trouble.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "take the plunge",
+   "question": "Choose the idiom that best completes the sentence:\nShe'd dreamed of opening a café for years, and last spring she decided to ___.",
+   "options": [
+    "take the plunge",
+    "read between the lines",
+    "learn it the hard way",
+    "go against the grain"
+   ],
+   "answer": 0,
+   "meaningVi": "quyết định liều, dám dấn thân",
+   "explanation": "“take the plunge” = to finally decide to do something important or risky. Full sentence: She'd dreamed of opening a café for years, and last spring she decided to take the plunge.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "jump through hoops",
+   "question": "Choose the idiom that best completes the sentence:\nSmall businesses often have to ___ just to get a simple licence.",
+   "options": [
+    "jump through hoops",
+    "come full circle",
+    "beat around the bush",
+    "get the green light"
+   ],
+   "answer": 0,
+   "meaningVi": "phải qua nhiều thủ tục rắc rối",
+   "explanation": "“jump through hoops” = to complete many difficult or unnecessary steps to get something. Full sentence: Small businesses often have to jump through hoops just to get a simple licence.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "touch and go",
+   "question": "Choose the idiom that best completes the sentence:\nIt was ___ whether we'd finish on time, but we just made it.",
+   "options": [
+    "at a crossroads",
+    "touch and go",
+    "make or break",
+    "in the pipeline"
+   ],
+   "answer": 1,
+   "meaningVi": "ngàn cân treo sợi tóc, chưa biết ra sao",
+   "explanation": "“touch and go” = very uncertain, especially about whether something will succeed or someone will survive. Full sentence: It was touch and go whether we'd finish on time, but we just made it.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "think outside the box",
+   "question": "Choose the idiom that best completes the sentence:\nThe competition encourages young engineers to ___ and propose unusual solutions.",
+   "options": [
+    "bite the bullet",
+    "jump through hoops",
+    "weigh up the pros and cons",
+    "think outside the box"
+   ],
+   "answer": 3,
+   "meaningVi": "tư duy sáng tạo, phá cách",
+   "explanation": "“think outside the box” = to think in a creative, original way. Full sentence: The competition encourages young engineers to think outside the box and propose unusual solutions.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "move the goalposts",
+   "question": "Choose the idiom that best completes the sentence:\nIt's unfair to ___ halfway through the competition by changing the judging criteria.",
+   "options": [
+    "stand your ground",
+    "think outside the box",
+    "move the goalposts",
+    "get the green light"
+   ],
+   "answer": 2,
+   "meaningVi": "thay đổi luật chơi giữa chừng",
+   "explanation": "“move the goalposts” = to change the rules or targets unfairly while something is happening. Full sentence: It's unfair to move the goalposts halfway through the competition by changing the judging criteria.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "every cloud has a silver lining",
+   "question": "Choose the idiom that best completes the sentence:\nOur flight was cancelled, but we got an extra day at the beach. ___!",
+   "options": [
+    "Ruffle your feathers",
+    "The writing is on the wall",
+    "Ahead of the curve",
+    "Every cloud has a silver lining"
+   ],
+   "answer": 3,
+   "meaningVi": "trong cái rủi có cái may, mọi chuyện xấu đều có mặt tốt",
+   "explanation": "“every cloud has a silver lining” = something good can come from every bad situation. Full sentence: Our flight was cancelled, but we got an extra day at the beach. Every cloud has a silver lining!",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get the green light",
+   "question": "Choose the idiom that best completes the sentence:\nWe can't start building until we ___ from the planning department.",
+   "options": [
+    "stand your ground",
+    "get the green light",
+    "jump through hoops",
+    "beat around the bush"
+   ],
+   "answer": 1,
+   "meaningVi": "được bật đèn xanh, được cho phép",
+   "explanation": "“get the green light” = to receive permission to start something. Full sentence: We can't start building until we get the green light from the planning department.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "ruffle someone's feathers",
+   "question": "Choose the idiom that best completes the sentence:\nHer honest feedback can ___, so she tries to be tactful in meetings.",
+   "options": [
+    "ruffle a few feathers",
+    "cut them some slack",
+    "stand your ground",
+    "jump through hoops"
+   ],
+   "answer": 0,
+   "meaningVi": "làm ai phật ý",
+   "explanation": "“ruffle someone's feathers” = to annoy or upset someone. Full sentence: Her honest feedback can ruffle a few feathers, so she tries to be tactful in meetings.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "with flying colours",
+   "question": "Choose the idiom that best completes the sentence:\nAll the students passed the final exam ___, so the teacher was delighted.",
+   "options": [
+    "by the skin of your teeth",
+    "with flying colours",
+    "behind the scenes",
+    "in the pipeline"
+   ],
+   "answer": 1,
+   "meaningVi": "xuất sắc, thành công rực rỡ",
+   "explanation": "“with flying colours” = very successfully; with a very high score. Full sentence: All the students passed the final exam with flying colours, so the teacher was delighted.",
+   "skill": "idiom",
+   "level": "b2"
+  },
+  {
+   "id": "b2-idiom-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "beat around the bush",
+   "question": "Choose the idiom that best completes the sentence:\nIf you want a pay rise, don't ___ – explain clearly why you deserve one.",
+   "options": [
+    "read between the lines",
+    "beat around the bush",
+    "get out of hand",
+    "ruffle your feathers"
+   ],
+   "answer": 1,
+   "meaningVi": "nói vòng vo, không đi thẳng vào vấn đề",
+   "explanation": "“beat around the bush” = to avoid talking about the main point directly. Full sentence: If you want a pay rise, don't beat around the bush – explain clearly why you deserve one.",
+   "skill": "idiom",
+   "level": "b2"
+  }
+ ]
+}

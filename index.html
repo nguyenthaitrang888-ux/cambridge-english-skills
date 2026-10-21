@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <script>/* opened as …/cambridge (no trailing slash)? add it so relative asset paths resolve under the sub-path */
+    if (/^https?:$/.test(location.protocol) && !/(\/|\.html)$/.test(location.pathname)) location.replace(location.pathname + '/' + location.search + location.hash);</script>
+  <title>English Skills Practice · A2–C1</title>
+  <meta name="description" content="Original CEFR-aligned English practice (A2–C1): listening, speaking, reading, writing, idioms, collocations and phrasal verbs." />
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="application-name" content="English Skills CEFR" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="English Skills" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="manifest" href="manifest.webmanifest" crossorigin="use-credentials" />
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="icon" href="assets/icons/icon-32.png" type="image/png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" />
+  <link rel="stylesheet" href="assets/fonts/fonts.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Home">
+      <img src="assets/icon.svg" alt="" width="32" height="32" />
+      <span class="brand-text"><strong>English Skills</strong><small data-i18n="brandSub">Luyện 4 kỹ năng · A2–C1</small></span>
+    </a>
+    <div class="top-actions">
+      <button class="chip-btn" id="langBtn" type="button" aria-label="Language">VI</button>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="Theme">🌙</button>
+    </div>
+  </header>
+  <main id="app" class="container" tabindex="-1">
+    <div class="loading"><div class="spinner"></div><p>Loading…</p></div>
+  </main>
+  <footer class="footer">
+    <p data-i18n="disclaimer">Original CEFR-aligned practice; not affiliated with Cambridge University Press.</p>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="js/data-bundle.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2023 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "reading",
+ "title": {
+  "en": "Reading",
+  "vi": "Đọc"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-reading-001",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-01",
+    "title": "Lan's Morning",
+    "text": "Lan gets up at six o'clock every weekday. First, she has a shower and then she makes breakfast for her little brother, Minh. They usually eat bread and eggs. Lan takes the bus to school at seven, but Minh walks because his school is near their house. On Saturdays, Lan gets up late, at about nine, and helps her mother at the family's flower shop."
+   },
+   "question": "What time does Lan get up on weekdays?",
+   "options": [
+    "At seven o'clock",
+    "At six o'clock",
+    "At nine o'clock",
+    "At half past six"
+   ],
+   "answer": 1,
+   "explanation": "The text says: 'Lan gets up at six o'clock every weekday.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-002",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-01",
+    "title": "Lan's Morning",
+    "text": "Lan gets up at six o'clock every weekday. First, she has a shower and then she makes breakfast for her little brother, Minh. They usually eat bread and eggs. Lan takes the bus to school at seven, but Minh walks because his school is near their house. On Saturdays, Lan gets up late, at about nine, and helps her mother at the family's flower shop."
+   },
+   "question": "How does Minh go to school?",
+   "options": [
+    "He walks.",
+    "He goes by bike.",
+    "He takes the bus.",
+    "His mother drives him."
+   ],
+   "answer": 0,
+   "explanation": "'Minh walks because his school is near their house.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-003",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-01",
+    "title": "Lan's Morning",
+    "text": "Lan gets up at six o'clock every weekday. First, she has a shower and then she makes breakfast for her little brother, Minh. They usually eat bread and eggs. Lan takes the bus to school at seven, but Minh walks because his school is near their house. On Saturdays, Lan gets up late, at about nine, and helps her mother at the family's flower shop."
+   },
+   "question": "What does Lan do on Saturdays?",
+   "options": [
+    "She makes breakfast at six.",
+    "She visits her brother's school.",
+    "She helps at a flower shop.",
+    "She goes to school."
+   ],
+   "answer": 2,
+   "explanation": "'On Saturdays… helps her mother at the family's flower shop.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-004",
+   "type": "fill",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-01",
+    "title": "Lan's Morning",
+    "text": "Lan gets up at six o'clock every weekday. First, she has a shower and then she makes breakfast for her little brother, Minh. They usually eat bread and eggs. Lan takes the bus to school at seven, but Minh walks because his school is near their house. On Saturdays, Lan gets up late, at about nine, and helps her mother at the family's flower shop."
+   },
+   "question": "Lan and Minh usually eat bread and ___ for breakfast.",
+   "answers": [
+    "eggs"
+   ],
+   "explanation": "'They usually eat bread and eggs.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-005",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-02",
+    "title": "A New Student",
+    "text": "Hi, I'm Carlos and I'm from Mexico. I started at Greenhill School last month. My favourite subject is science because the teacher, Mr Patel, does lots of experiments with us. I don't like maths very much, but my friend Jade helps me with my homework. At lunchtime we play football on the school field. The school has a big library, and I go there every Thursday after class to borrow comics."
+   },
+   "question": "When did Carlos start at Greenhill School?",
+   "options": [
+    "Yesterday",
+    "Last month",
+    "Last year",
+    "Last week"
+   ],
+   "answer": 1,
+   "explanation": "'I started at Greenhill School last month.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-006",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-02",
+    "title": "A New Student",
+    "text": "Hi, I'm Carlos and I'm from Mexico. I started at Greenhill School last month. My favourite subject is science because the teacher, Mr Patel, does lots of experiments with us. I don't like maths very much, but my friend Jade helps me with my homework. At lunchtime we play football on the school field. The school has a big library, and I go there every Thursday after class to borrow comics."
+   },
+   "question": "Why does Carlos like science?",
+   "options": [
+    "His friend Jade is in the class.",
+    "It is easy for him.",
+    "There is no homework.",
+    "The teacher does lots of experiments."
+   ],
+   "answer": 3,
+   "explanation": "'…because the teacher, Mr Patel, does lots of experiments with us.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-007",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-02",
+    "title": "A New Student",
+    "text": "Hi, I'm Carlos and I'm from Mexico. I started at Greenhill School last month. My favourite subject is science because the teacher, Mr Patel, does lots of experiments with us. I don't like maths very much, but my friend Jade helps me with my homework. At lunchtime we play football on the school field. The school has a big library, and I go there every Thursday after class to borrow comics."
+   },
+   "question": "What does Jade do?",
+   "options": [
+    "She teaches science.",
+    "She helps Carlos with his homework.",
+    "She works in the library.",
+    "She plays football on Thursdays."
+   ],
+   "answer": 1,
+   "explanation": "'My friend Jade helps me with my homework.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-008",
+   "type": "fill",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-02",
+    "title": "A New Student",
+    "text": "Hi, I'm Carlos and I'm from Mexico. I started at Greenhill School last month. My favourite subject is science because the teacher, Mr Patel, does lots of experiments with us. I don't like maths very much, but my friend Jade helps me with my homework. At lunchtime we play football on the school field. The school has a big library, and I go there every Thursday after class to borrow comics."
+   },
+   "question": "Carlos goes to the library every ___ to borrow comics.",
+   "answers": [
+    "Thursday"
+   ],
+   "explanation": "'I go there every Thursday after class to borrow comics.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-009",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-03",
+    "title": "Tom's Job",
+    "text": "Tom is a nurse at a hospital in the city centre. He works three nights a week, from eight in the evening to eight in the morning. The work is hard, but he loves helping people. When he finishes, he goes home, eats a small breakfast and sleeps until two in the afternoon. On his days off, he likes cooking and going to the cinema with his wife, Sara, who is a teacher."
+   },
+   "question": "How many nights a week does Tom work?",
+   "options": [
+    "Two",
+    "Five",
+    "Three",
+    "Seven"
+   ],
+   "answer": 2,
+   "explanation": "'He works three nights a week.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-010",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-03",
+    "title": "Tom's Job",
+    "text": "Tom is a nurse at a hospital in the city centre. He works three nights a week, from eight in the evening to eight in the morning. The work is hard, but he loves helping people. When he finishes, he goes home, eats a small breakfast and sleeps until two in the afternoon. On his days off, he likes cooking and going to the cinema with his wife, Sara, who is a teacher."
+   },
+   "question": "What does Tom do after work?",
+   "options": [
+    "He eats breakfast and goes to sleep.",
+    "He goes to the cinema.",
+    "He teaches at a school.",
+    "He cooks dinner for Sara."
+   ],
+   "answer": 0,
+   "explanation": "'He goes home, eats a small breakfast and sleeps until two in the afternoon.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-011",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-03",
+    "title": "Tom's Job",
+    "text": "Tom is a nurse at a hospital in the city centre. He works three nights a week, from eight in the evening to eight in the morning. The work is hard, but he loves helping people. When he finishes, he goes home, eats a small breakfast and sleeps until two in the afternoon. On his days off, he likes cooking and going to the cinema with his wife, Sara, who is a teacher."
+   },
+   "question": "What is Sara's job?",
+   "options": [
+    "She is a teacher.",
+    "She works at a cinema.",
+    "She is a nurse.",
+    "She is a cook."
+   ],
+   "answer": 0,
+   "explanation": "'…his wife, Sara, who is a teacher.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-012",
+   "type": "fill",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-03",
+    "title": "Tom's Job",
+    "text": "Tom is a nurse at a hospital in the city centre. He works three nights a week, from eight in the evening to eight in the morning. The work is hard, but he loves helping people. When he finishes, he goes home, eats a small breakfast and sleeps until two in the afternoon. On his days off, he likes cooking and going to the cinema with his wife, Sara, who is a teacher."
+   },
+   "question": "Tom sleeps until two in the ___.",
+   "answers": [
+    "afternoon"
+   ],
+   "explanation": "'…sleeps until two in the afternoon.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-013",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-04",
+    "title": "A Postcard from Da Nang",
+    "text": "Dear Grandma, We're having a great time in Da Nang! The weather is hot and sunny, so we go to the beach every morning. Yesterday we took a cable car up the mountain at Ba Na Hills – the view was amazing. The hotel is small but clean, and the staff are very friendly. Tomorrow we're going to Hoi An by taxi to see the old town and its lanterns. See you on Sunday! Love, Mai"
+   },
+   "question": "What is the weather like in Da Nang?",
+   "options": [
+    "Cold and rainy",
+    "Warm but rainy",
+    "Hot and sunny",
+    "Cloudy and windy"
+   ],
+   "answer": 2,
+   "explanation": "'The weather is hot and sunny.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-014",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-04",
+    "title": "A Postcard from Da Nang",
+    "text": "Dear Grandma, We're having a great time in Da Nang! The weather is hot and sunny, so we go to the beach every morning. Yesterday we took a cable car up the mountain at Ba Na Hills – the view was amazing. The hotel is small but clean, and the staff are very friendly. Tomorrow we're going to Hoi An by taxi to see the old town and its lanterns. See you on Sunday! Love, Mai"
+   },
+   "question": "What did Mai do yesterday?",
+   "options": [
+    "She stayed at the beach all day.",
+    "She went to Hoi An.",
+    "She went up a mountain by cable car.",
+    "She visited her grandma."
+   ],
+   "answer": 2,
+   "explanation": "'Yesterday we took a cable car up the mountain.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-015",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-04",
+    "title": "A Postcard from Da Nang",
+    "text": "Dear Grandma, We're having a great time in Da Nang! The weather is hot and sunny, so we go to the beach every morning. Yesterday we took a cable car up the mountain at Ba Na Hills – the view was amazing. The hotel is small but clean, and the staff are very friendly. Tomorrow we're going to Hoi An by taxi to see the old town and its lanterns. See you on Sunday! Love, Mai"
+   },
+   "question": "How will they travel to Hoi An?",
+   "options": [
+    "By cable car",
+    "By bus",
+    "By train",
+    "By taxi"
+   ],
+   "answer": 3,
+   "explanation": "'Tomorrow we're going to Hoi An by taxi.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-016",
+   "type": "fill",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-04",
+    "title": "A Postcard from Da Nang",
+    "text": "Dear Grandma, We're having a great time in Da Nang! The weather is hot and sunny, so we go to the beach every morning. Yesterday we took a cable car up the mountain at Ba Na Hills – the view was amazing. The hotel is small but clean, and the staff are very friendly. Tomorrow we're going to Hoi An by taxi to see the old town and its lanterns. See you on Sunday! Love, Mai"
+   },
+   "question": "Mai says the hotel staff are very ___.",
+   "answers": [
+    "friendly"
+   ],
+   "explanation": "'…the staff are very friendly.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-017",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-05",
+    "title": "The Corner Café",
+    "text": "The Corner Café opened two years ago on Station Road. It is open every day from 7 a.m. to 6 p.m., except Mondays, when it is closed. The café is famous for its homemade cakes, especially the chocolate cake. You can also get sandwiches, soup and fresh fruit juice. Coffee costs £2.50 and a slice of cake costs £3. Students get a 10% discount if they show their student card."
+   },
+   "question": "When is the café closed?",
+   "options": [
+    "On Sundays",
+    "At weekends",
+    "On Mondays",
+    "Every afternoon after 4 p.m."
+   ],
+   "answer": 2,
+   "explanation": "'…except Mondays, when it is closed.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-018",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-05",
+    "title": "The Corner Café",
+    "text": "The Corner Café opened two years ago on Station Road. It is open every day from 7 a.m. to 6 p.m., except Mondays, when it is closed. The café is famous for its homemade cakes, especially the chocolate cake. You can also get sandwiches, soup and fresh fruit juice. Coffee costs £2.50 and a slice of cake costs £3. Students get a 10% discount if they show their student card."
+   },
+   "question": "What is the café famous for?",
+   "options": [
+    "Its chocolate cake",
+    "Its soup",
+    "Its fruit juice",
+    "Its coffee"
+   ],
+   "answer": 0,
+   "explanation": "'famous for its homemade cakes, especially the chocolate cake.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-019",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-05",
+    "title": "The Corner Café",
+    "text": "The Corner Café opened two years ago on Station Road. It is open every day from 7 a.m. to 6 p.m., except Mondays, when it is closed. The café is famous for its homemade cakes, especially the chocolate cake. You can also get sandwiches, soup and fresh fruit juice. Coffee costs £2.50 and a slice of cake costs £3. Students get a 10% discount if they show their student card."
+   },
+   "question": "How can students pay less?",
+   "options": [
+    "By eating there on Mondays",
+    "By showing a student card",
+    "By buying two coffees",
+    "By coming before 7 a.m."
+   ],
+   "answer": 1,
+   "explanation": "'Students get a 10% discount if they show their student card.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-020",
+   "type": "fill",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-05",
+    "title": "The Corner Café",
+    "text": "The Corner Café opened two years ago on Station Road. It is open every day from 7 a.m. to 6 p.m., except Mondays, when it is closed. The café is famous for its homemade cakes, especially the chocolate cake. You can also get sandwiches, soup and fresh fruit juice. Coffee costs £2.50 and a slice of cake costs £3. Students get a 10% discount if they show their student card."
+   },
+   "question": "A slice of cake costs £___.",
+   "answers": [
+    "3",
+    "three",
+    "3.00"
+   ],
+   "explanation": "'…a slice of cake costs £3.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-021",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-06",
+    "title": "The Lost Bag",
+    "text": "Last Saturday, Emma went shopping at the City Mall with her sister. They bought new shoes and a birthday present for their dad. At about four o'clock, they stopped for ice cream. When they stood up to leave, Emma's bag wasn't on her chair! She felt very worried because her phone and keys were in it. They went to the information desk, and a kind man there had her bag. A cleaner found it and brought it to him."
+   },
+   "question": "Why did Emma and her sister buy a present?",
+   "options": [
+    "They wanted to thank the cleaner.",
+    "It was their mum's birthday.",
+    "It was their dad's birthday.",
+    "It was Emma's birthday."
+   ],
+   "answer": 2,
+   "explanation": "'…a birthday present for their dad.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-022",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-06",
+    "title": "The Lost Bag",
+    "text": "Last Saturday, Emma went shopping at the City Mall with her sister. They bought new shoes and a birthday present for their dad. At about four o'clock, they stopped for ice cream. When they stood up to leave, Emma's bag wasn't on her chair! She felt very worried because her phone and keys were in it. They went to the information desk, and a kind man there had her bag. A cleaner found it and brought it to him."
+   },
+   "question": "Where did Emma lose her bag?",
+   "options": [
+    "Where they had ice cream",
+    "At the information desk",
+    "On the bus",
+    "In the shoe shop"
+   ],
+   "answer": 0,
+   "explanation": "They stopped for ice cream, and when they stood up, the bag wasn't on her chair.",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-023",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-06",
+    "title": "The Lost Bag",
+    "text": "Last Saturday, Emma went shopping at the City Mall with her sister. They bought new shoes and a birthday present for their dad. At about four o'clock, they stopped for ice cream. When they stood up to leave, Emma's bag wasn't on her chair! She felt very worried because her phone and keys were in it. They went to the information desk, and a kind man there had her bag. A cleaner found it and brought it to him."
+   },
+   "question": "Who found the bag?",
+   "options": [
+    "A cleaner",
+    "A police officer",
+    "Emma's sister",
+    "A shop assistant"
+   ],
+   "answer": 0,
+   "explanation": "'A cleaner found it and brought it to him.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-024",
+   "type": "fill",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-06",
+    "title": "The Lost Bag",
+    "text": "Last Saturday, Emma went shopping at the City Mall with her sister. They bought new shoes and a birthday present for their dad. At about four o'clock, they stopped for ice cream. When they stood up to leave, Emma's bag wasn't on her chair! She felt very worried because her phone and keys were in it. They went to the information desk, and a kind man there had her bag. A cleaner found it and brought it to him."
+   },
+   "question": "Emma's phone and ___ were in her bag.",
+   "answers": [
+    "keys"
+   ],
+   "explanation": "'…her phone and keys were in it.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-025",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-07",
+    "title": "Feeling Better",
+    "text": "Last week, Ben had a bad cold. He had a sore throat and a headache, and he felt tired all the time. His mother took him to the doctor on Tuesday. The doctor told him to stay at home for three days, drink lots of water and sleep a lot. Ben was bored at home, so he read two books and watched some films. Now he feels much better, and he went back to school this morning."
+   },
+   "question": "What was wrong with Ben?",
+   "options": [
+    "He had a stomach ache.",
+    "He had a toothache.",
+    "He had a cold.",
+    "He broke his leg."
+   ],
+   "answer": 2,
+   "explanation": "'Last week, Ben had a bad cold.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-026",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-07",
+    "title": "Feeling Better",
+    "text": "Last week, Ben had a bad cold. He had a sore throat and a headache, and he felt tired all the time. His mother took him to the doctor on Tuesday. The doctor told him to stay at home for three days, drink lots of water and sleep a lot. Ben was bored at home, so he read two books and watched some films. Now he feels much better, and he went back to school this morning."
+   },
+   "question": "What did the doctor tell Ben to do?",
+   "options": [
+    "Take a long trip",
+    "Go to school",
+    "Play sport every day",
+    "Rest at home and drink water"
+   ],
+   "answer": 3,
+   "explanation": "'…stay at home for three days, drink lots of water and sleep a lot.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-027",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-07",
+    "title": "Feeling Better",
+    "text": "Last week, Ben had a bad cold. He had a sore throat and a headache, and he felt tired all the time. His mother took him to the doctor on Tuesday. The doctor told him to stay at home for three days, drink lots of water and sleep a lot. Ben was bored at home, so he read two books and watched some films. Now he feels much better, and he went back to school this morning."
+   },
+   "question": "How did Ben feel at home?",
+   "options": [
+    "Excited",
+    "Angry",
+    "Hungry",
+    "Bored"
+   ],
+   "answer": 3,
+   "explanation": "'Ben was bored at home.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-028",
+   "type": "fill",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-07",
+    "title": "Feeling Better",
+    "text": "Last week, Ben had a bad cold. He had a sore throat and a headache, and he felt tired all the time. His mother took him to the doctor on Tuesday. The doctor told him to stay at home for three days, drink lots of water and sleep a lot. Ben was bored at home, so he read two books and watched some films. Now he feels much better, and he went back to school this morning."
+   },
+   "question": "Ben went back to school this ___.",
+   "answers": [
+    "morning"
+   ],
+   "explanation": "'…he went back to school this morning.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-029",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-08",
+    "title": "Photography Club",
+    "text": "Do you like taking photos? Join the Riverside Photography Club! We meet every Wednesday evening from 6:30 to 8:00 in Room 12 at the community centre. Beginners are welcome, and you can use your phone – you don't need an expensive camera. Every month we go on a photo walk around town. The club costs £5 a month. To join, email Kate at riversidephoto@mail.com."
+   },
+   "question": "When does the club meet?",
+   "options": [
+    "Every weekend",
+    "Every Wednesday evening",
+    "Once a month",
+    "Every Monday morning"
+   ],
+   "answer": 1,
+   "explanation": "'We meet every Wednesday evening from 6:30 to 8:00.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-030",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-08",
+    "title": "Photography Club",
+    "text": "Do you like taking photos? Join the Riverside Photography Club! We meet every Wednesday evening from 6:30 to 8:00 in Room 12 at the community centre. Beginners are welcome, and you can use your phone – you don't need an expensive camera. Every month we go on a photo walk around town. The club costs £5 a month. To join, email Kate at riversidephoto@mail.com."
+   },
+   "question": "What does the notice say about cameras?",
+   "options": [
+    "You can use a phone.",
+    "The club gives you a camera.",
+    "You must buy an expensive camera.",
+    "Cameras are not allowed."
+   ],
+   "answer": 0,
+   "explanation": "'…you can use your phone – you don't need an expensive camera.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-031",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-08",
+    "title": "Photography Club",
+    "text": "Do you like taking photos? Join the Riverside Photography Club! We meet every Wednesday evening from 6:30 to 8:00 in Room 12 at the community centre. Beginners are welcome, and you can use your phone – you don't need an expensive camera. Every month we go on a photo walk around town. The club costs £5 a month. To join, email Kate at riversidephoto@mail.com."
+   },
+   "question": "What does the club do every month?",
+   "options": [
+    "It sells photos.",
+    "It goes on a photo walk.",
+    "It has a party.",
+    "It visits another club."
+   ],
+   "answer": 1,
+   "explanation": "'Every month we go on a photo walk around town.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-032",
+   "type": "fill",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-08",
+    "title": "Photography Club",
+    "text": "Do you like taking photos? Join the Riverside Photography Club! We meet every Wednesday evening from 6:30 to 8:00 in Room 12 at the community centre. Beginners are welcome, and you can use your phone – you don't need an expensive camera. Every month we go on a photo walk around town. The club costs £5 a month. To join, email Kate at riversidephoto@mail.com."
+   },
+   "question": "The club costs £5 a ___.",
+   "answers": [
+    "month"
+   ],
+   "explanation": "'The club costs £5 a month.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-033",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "a2-rp-09",
+    "title": "My Grandfather",
+    "text": "My grandfather, Hung, is seventy-five years old. He lives with my family in a house near the river. Every morning, he does exercise in the park with his friends. He was a farmer when he was young, and he still grows vegetables in our garden. In the evening, he tells me stories about his childhood. He doesn't use a smartphone, but he loves listening to the radio, especially the news and old songs."
+   },
+   "question": "Where does the grandfather live?",
+   "options": [
+    "With his friends near the park",
+    "With the writer's family",
+    "Alone in the countryside",
+    "In a flat in the city"
+   ],
+   "answer": 1,
+   "explanation": "'He lives with my family in a house near the river.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-034",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "a2-rp-09",
+    "title": "My Grandfather",
+    "text": "My grandfather, Hung, is seventy-five years old. He lives with my family in a house near the river. Every morning, he does exercise in the park with his friends. He was a farmer when he was young, and he still grows vegetables in our garden. In the evening, he tells me stories about his childhood. He doesn't use a smartphone, but he loves listening to the radio, especially the news and old songs."
+   },
+   "question": "What was his job when he was young?",
+   "options": [
+    "A farmer",
+    "A radio presenter",
+    "A teacher",
+    "A gardener in a park"
+   ],
+   "answer": 0,
+   "explanation": "'He was a farmer when he was young.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-035",
+   "type": "mcq",
+   "topic": "family",
+   "passage": {
+    "id": "a2-rp-09",
+    "title": "My Grandfather",
+    "text": "My grandfather, Hung, is seventy-five years old. He lives with my family in a house near the river. Every morning, he does exercise in the park with his friends. He was a farmer when he was young, and he still grows vegetables in our garden. In the evening, he tells me stories about his childhood. He doesn't use a smartphone, but he loves listening to the radio, especially the news and old songs."
+   },
+   "question": "What does he love listening to?",
+   "options": [
+    "His friends' stories",
+    "Podcasts on his smartphone",
+    "Music on TV",
+    "The radio"
+   ],
+   "answer": 3,
+   "explanation": "'He doesn't use a smartphone, but he loves listening to the radio.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-036",
+   "type": "fill",
+   "topic": "family",
+   "passage": {
+    "id": "a2-rp-09",
+    "title": "My Grandfather",
+    "text": "My grandfather, Hung, is seventy-five years old. He lives with my family in a house near the river. Every morning, he does exercise in the park with his friends. He was a farmer when he was young, and he still grows vegetables in our garden. In the evening, he tells me stories about his childhood. He doesn't use a smartphone, but he loves listening to the radio, especially the news and old songs."
+   },
+   "question": "He still grows ___ in the garden.",
+   "answers": [
+    "vegetables"
+   ],
+   "explanation": "'…he still grows vegetables in our garden.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-037",
+   "type": "mcq",
+   "topic": "weather",
+   "passage": {
+    "id": "a2-rp-10",
+    "title": "Weekend Weather",
+    "text": "Here is the weather for the weekend. On Saturday morning, it will be cloudy in the north, with some rain in the afternoon. Take an umbrella if you go out! In the south, it will be sunny and warm all day, with temperatures around 28 degrees. On Sunday, the rain will stop and the whole country will be dry and bright. It will be a little windy by the sea, so it's a great day for sailing."
+   },
+   "question": "What will the weather be like in the north on Saturday afternoon?",
+   "options": [
+    "Rainy",
+    "Sunny and hot",
+    "Dry and bright",
+    "Snowy"
+   ],
+   "answer": 0,
+   "explanation": "'…cloudy in the north, with some rain in the afternoon.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-038",
+   "type": "mcq",
+   "topic": "weather",
+   "passage": {
+    "id": "a2-rp-10",
+    "title": "Weekend Weather",
+    "text": "Here is the weather for the weekend. On Saturday morning, it will be cloudy in the north, with some rain in the afternoon. Take an umbrella if you go out! In the south, it will be sunny and warm all day, with temperatures around 28 degrees. On Sunday, the rain will stop and the whole country will be dry and bright. It will be a little windy by the sea, so it's a great day for sailing."
+   },
+   "question": "What will the temperature be in the south on Saturday?",
+   "options": [
+    "About 18 degrees",
+    "About 28 degrees",
+    "About 38 degrees",
+    "About 8 degrees"
+   ],
+   "answer": 1,
+   "explanation": "'…with temperatures around 28 degrees.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-039",
+   "type": "mcq",
+   "topic": "weather",
+   "passage": {
+    "id": "a2-rp-10",
+    "title": "Weekend Weather",
+    "text": "Here is the weather for the weekend. On Saturday morning, it will be cloudy in the north, with some rain in the afternoon. Take an umbrella if you go out! In the south, it will be sunny and warm all day, with temperatures around 28 degrees. On Sunday, the rain will stop and the whole country will be dry and bright. It will be a little windy by the sea, so it's a great day for sailing."
+   },
+   "question": "Why is Sunday good for sailing?",
+   "options": [
+    "It will rain all day.",
+    "There will be no wind.",
+    "It will be very hot.",
+    "It will be a little windy by the sea."
+   ],
+   "answer": 3,
+   "explanation": "'It will be a little windy by the sea, so it's a great day for sailing.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-040",
+   "type": "fill",
+   "topic": "weather",
+   "passage": {
+    "id": "a2-rp-10",
+    "title": "Weekend Weather",
+    "text": "Here is the weather for the weekend. On Saturday morning, it will be cloudy in the north, with some rain in the afternoon. Take an umbrella if you go out! In the south, it will be sunny and warm all day, with temperatures around 28 degrees. On Sunday, the rain will stop and the whole country will be dry and bright. It will be a little windy by the sea, so it's a great day for sailing."
+   },
+   "question": "If you go out on Saturday in the north, take an ___.",
+   "answers": [
+    "umbrella"
+   ],
+   "explanation": "'Take an umbrella if you go out!'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-041",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-11",
+    "title": "Nam's New Phone",
+    "text": "Nam saved money for six months to buy a new phone. He worked in his uncle's shop at weekends and didn't spend money on snacks. Last Friday, he finally bought it. The phone has a great camera, and Nam uses it to make short videos about cooking. His parents are happy, but they have one rule: no phone at the dinner table and no phone after ten o'clock at night."
+   },
+   "question": "How did Nam get the money?",
+   "options": [
+    "He sold his old bike.",
+    "His parents gave it to him.",
+    "He worked at weekends.",
+    "He won a competition."
+   ],
+   "answer": 2,
+   "explanation": "'He worked in his uncle's shop at weekends.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-042",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-11",
+    "title": "Nam's New Phone",
+    "text": "Nam saved money for six months to buy a new phone. He worked in his uncle's shop at weekends and didn't spend money on snacks. Last Friday, he finally bought it. The phone has a great camera, and Nam uses it to make short videos about cooking. His parents are happy, but they have one rule: no phone at the dinner table and no phone after ten o'clock at night."
+   },
+   "question": "What does Nam use the camera for?",
+   "options": [
+    "Making cooking videos",
+    "Photos of snacks",
+    "Taking photos of the shop",
+    "Video calls with friends"
+   ],
+   "answer": 0,
+   "explanation": "'Nam uses it to make short videos about cooking.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-043",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-11",
+    "title": "Nam's New Phone",
+    "text": "Nam saved money for six months to buy a new phone. He worked in his uncle's shop at weekends and didn't spend money on snacks. Last Friday, he finally bought it. The phone has a great camera, and Nam uses it to make short videos about cooking. His parents are happy, but they have one rule: no phone at the dinner table and no phone after ten o'clock at night."
+   },
+   "question": "Which is one of his parents' rules?",
+   "options": [
+    "Only one hour of phone a day",
+    "No phone at school",
+    "No videos at weekends",
+    "No phone after 10 p.m."
+   ],
+   "answer": 3,
+   "explanation": "'…no phone after ten o'clock at night.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-044",
+   "type": "fill",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-11",
+    "title": "Nam's New Phone",
+    "text": "Nam saved money for six months to buy a new phone. He worked in his uncle's shop at weekends and didn't spend money on snacks. Last Friday, he finally bought it. The phone has a great camera, and Nam uses it to make short videos about cooking. His parents are happy, but they have one rule: no phone at the dinner table and no phone after ten o'clock at night."
+   },
+   "question": "Nam saved money for six ___.",
+   "answers": [
+    "months"
+   ],
+   "explanation": "'Nam saved money for six months.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-045",
+   "type": "mcq",
+   "topic": "sport",
+   "passage": {
+    "id": "a2-rp-12",
+    "title": "Swimming Lessons",
+    "text": "Greenpark Pool has swimming lessons for children aged 5 to 12. Lessons are on Tuesday and Thursday afternoons and Saturday mornings. Each lesson is 45 minutes long. Children must bring a swimming cap and a towel. Parents can watch from the café on the first floor. A course of ten lessons costs 800,000 dong. Book at the reception desk or call 0901 234 567."
+   },
+   "question": "Who are the lessons for?",
+   "options": [
+    "Children aged 5 to 12",
+    "Adults",
+    "Babies",
+    "Teenagers aged 13 to 18"
+   ],
+   "answer": 0,
+   "explanation": "'…swimming lessons for children aged 5 to 12.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-046",
+   "type": "mcq",
+   "topic": "sport",
+   "passage": {
+    "id": "a2-rp-12",
+    "title": "Swimming Lessons",
+    "text": "Greenpark Pool has swimming lessons for children aged 5 to 12. Lessons are on Tuesday and Thursday afternoons and Saturday mornings. Each lesson is 45 minutes long. Children must bring a swimming cap and a towel. Parents can watch from the café on the first floor. A course of ten lessons costs 800,000 dong. Book at the reception desk or call 0901 234 567."
+   },
+   "question": "How long is each lesson?",
+   "options": [
+    "30 minutes",
+    "One hour",
+    "Ten minutes",
+    "45 minutes"
+   ],
+   "answer": 3,
+   "explanation": "'Each lesson is 45 minutes long.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-047",
+   "type": "mcq",
+   "topic": "sport",
+   "passage": {
+    "id": "a2-rp-12",
+    "title": "Swimming Lessons",
+    "text": "Greenpark Pool has swimming lessons for children aged 5 to 12. Lessons are on Tuesday and Thursday afternoons and Saturday mornings. Each lesson is 45 minutes long. Children must bring a swimming cap and a towel. Parents can watch from the café on the first floor. A course of ten lessons costs 800,000 dong. Book at the reception desk or call 0901 234 567."
+   },
+   "question": "Where can parents watch the lessons?",
+   "options": [
+    "They can't watch.",
+    "From the café",
+    "Next to the pool",
+    "From the reception desk"
+   ],
+   "answer": 1,
+   "explanation": "'Parents can watch from the café on the first floor.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-048",
+   "type": "fill",
+   "topic": "sport",
+   "passage": {
+    "id": "a2-rp-12",
+    "title": "Swimming Lessons",
+    "text": "Greenpark Pool has swimming lessons for children aged 5 to 12. Lessons are on Tuesday and Thursday afternoons and Saturday mornings. Each lesson is 45 minutes long. Children must bring a swimming cap and a towel. Parents can watch from the café on the first floor. A course of ten lessons costs 800,000 dong. Book at the reception desk or call 0901 234 567."
+   },
+   "question": "Children must bring a swimming cap and a ___.",
+   "answers": [
+    "towel"
+   ],
+   "explanation": "'Children must bring a swimming cap and a towel.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-049",
+   "type": "mcq",
+   "topic": "home",
+   "passage": {
+    "id": "a2-rp-13",
+    "title": "Moving House",
+    "text": "Last month, the Brown family moved from a small flat in the city to a house in a village. The new house has three bedrooms, so the two children don't have to share a room any more. There is also a big garden where they can play and grow flowers. The only problem is that the village is far from Mr Brown's office, so he now leaves home at 6:30 to drive to work."
+   },
+   "question": "Where did the family live before?",
+   "options": [
+    "In a big house in a village",
+    "In a hotel",
+    "With their grandparents",
+    "In a small flat in the city"
+   ],
+   "answer": 3,
+   "explanation": "'…moved from a small flat in the city.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-050",
+   "type": "mcq",
+   "topic": "home",
+   "passage": {
+    "id": "a2-rp-13",
+    "title": "Moving House",
+    "text": "Last month, the Brown family moved from a small flat in the city to a house in a village. The new house has three bedrooms, so the two children don't have to share a room any more. There is also a big garden where they can play and grow flowers. The only problem is that the village is far from Mr Brown's office, so he now leaves home at 6:30 to drive to work."
+   },
+   "question": "What is good about the new house for the children?",
+   "options": [
+    "It has a swimming pool.",
+    "They have their own bedrooms.",
+    "It's near their school.",
+    "It's in the city."
+   ],
+   "answer": 1,
+   "explanation": "'…the two children don't have to share a room any more.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-051",
+   "type": "mcq",
+   "topic": "home",
+   "passage": {
+    "id": "a2-rp-13",
+    "title": "Moving House",
+    "text": "Last month, the Brown family moved from a small flat in the city to a house in a village. The new house has three bedrooms, so the two children don't have to share a room any more. There is also a big garden where they can play and grow flowers. The only problem is that the village is far from Mr Brown's office, so he now leaves home at 6:30 to drive to work."
+   },
+   "question": "What is the problem with the new house?",
+   "options": [
+    "It is too small.",
+    "It has no garden.",
+    "It is noisy.",
+    "It is far from Mr Brown's office."
+   ],
+   "answer": 3,
+   "explanation": "'The only problem is that the village is far from Mr Brown's office.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-052",
+   "type": "fill",
+   "topic": "home",
+   "passage": {
+    "id": "a2-rp-13",
+    "title": "Moving House",
+    "text": "Last month, the Brown family moved from a small flat in the city to a house in a village. The new house has three bedrooms, so the two children don't have to share a room any more. There is also a big garden where they can play and grow flowers. The only problem is that the village is far from Mr Brown's office, so he now leaves home at 6:30 to drive to work."
+   },
+   "question": "Mr Brown now leaves home at ___ to drive to work.",
+   "answers": [
+    "6:30",
+    "6.30",
+    "half past six",
+    "six thirty"
+   ],
+   "explanation": "'…he now leaves home at 6:30 to drive to work.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-053",
+   "type": "mcq",
+   "topic": "town",
+   "passage": {
+    "id": "a2-rp-14",
+    "title": "Directions to the Museum",
+    "text": "To get to the City Museum from the train station, turn left when you come out of the station and walk along King Street. Go past the post office and the bank. At the traffic lights, turn right into Park Road. The museum is on your left, opposite the big park. It takes about ten minutes to walk. The museum is free on Sundays, and there's a nice café on the top floor."
+   },
+   "question": "Which way do you turn when you leave the station?",
+   "options": [
+    "Back",
+    "Right",
+    "Left",
+    "Straight on"
+   ],
+   "answer": 2,
+   "explanation": "'…turn left when you come out of the station.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-054",
+   "type": "mcq",
+   "topic": "town",
+   "passage": {
+    "id": "a2-rp-14",
+    "title": "Directions to the Museum",
+    "text": "To get to the City Museum from the train station, turn left when you come out of the station and walk along King Street. Go past the post office and the bank. At the traffic lights, turn right into Park Road. The museum is on your left, opposite the big park. It takes about ten minutes to walk. The museum is free on Sundays, and there's a nice café on the top floor."
+   },
+   "question": "What is opposite the museum?",
+   "options": [
+    "The train station",
+    "A park",
+    "The post office",
+    "The bank"
+   ],
+   "answer": 1,
+   "explanation": "'The museum is on your left, opposite the big park.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-055",
+   "type": "mcq",
+   "topic": "town",
+   "passage": {
+    "id": "a2-rp-14",
+    "title": "Directions to the Museum",
+    "text": "To get to the City Museum from the train station, turn left when you come out of the station and walk along King Street. Go past the post office and the bank. At the traffic lights, turn right into Park Road. The museum is on your left, opposite the big park. It takes about ten minutes to walk. The museum is free on Sundays, and there's a nice café on the top floor."
+   },
+   "question": "When can you visit the museum for free?",
+   "options": [
+    "On Mondays",
+    "Every day",
+    "On Sundays",
+    "In the evening"
+   ],
+   "answer": 2,
+   "explanation": "'The museum is free on Sundays.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-056",
+   "type": "fill",
+   "topic": "town",
+   "passage": {
+    "id": "a2-rp-14",
+    "title": "Directions to the Museum",
+    "text": "To get to the City Museum from the train station, turn left when you come out of the station and walk along King Street. Go past the post office and the bank. At the traffic lights, turn right into Park Road. The museum is on your left, opposite the big park. It takes about ten minutes to walk. The museum is free on Sundays, and there's a nice café on the top floor."
+   },
+   "question": "There is a café on the ___ floor of the museum.",
+   "answers": [
+    "top"
+   ],
+   "explanation": "'…there's a nice café on the top floor.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-057",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-15",
+    "title": "School Trip Letter",
+    "text": "Dear Parents, On Friday 14th, Class 6B will visit the Science Centre. The bus will leave school at 8:30 a.m. and return at 3:30 p.m. Students should wear school uniform and comfortable shoes. Please give your child a packed lunch and a bottle of water – there is no café at the centre. The trip costs 150,000 dong. Please pay Ms Thu by Wednesday. Thank you."
+   },
+   "question": "What time will the bus come back?",
+   "options": [
+    "12:00 p.m.",
+    "5:30 p.m.",
+    "8:30 a.m.",
+    "3:30 p.m."
+   ],
+   "answer": 3,
+   "explanation": "'The bus will leave school at 8:30 a.m. and return at 3:30 p.m.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-058",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-15",
+    "title": "School Trip Letter",
+    "text": "Dear Parents, On Friday 14th, Class 6B will visit the Science Centre. The bus will leave school at 8:30 a.m. and return at 3:30 p.m. Students should wear school uniform and comfortable shoes. Please give your child a packed lunch and a bottle of water – there is no café at the centre. The trip costs 150,000 dong. Please pay Ms Thu by Wednesday. Thank you."
+   },
+   "question": "Why do students need a packed lunch?",
+   "options": [
+    "There is no café at the centre.",
+    "The food at the centre is expensive.",
+    "They will eat on the bus.",
+    "They will have a picnic in the park."
+   ],
+   "answer": 0,
+   "explanation": "'…there is no café at the centre.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-059",
+   "type": "mcq",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-15",
+    "title": "School Trip Letter",
+    "text": "Dear Parents, On Friday 14th, Class 6B will visit the Science Centre. The bus will leave school at 8:30 a.m. and return at 3:30 p.m. Students should wear school uniform and comfortable shoes. Please give your child a packed lunch and a bottle of water – there is no café at the centre. The trip costs 150,000 dong. Please pay Ms Thu by Wednesday. Thank you."
+   },
+   "question": "Who should parents pay?",
+   "options": [
+    "Ms Thu",
+    "The bus driver",
+    "Class 6B",
+    "The Science Centre"
+   ],
+   "answer": 0,
+   "explanation": "'Please pay Ms Thu by Wednesday.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-060",
+   "type": "fill",
+   "topic": "school",
+   "passage": {
+    "id": "a2-rp-15",
+    "title": "School Trip Letter",
+    "text": "Dear Parents, On Friday 14th, Class 6B will visit the Science Centre. The bus will leave school at 8:30 a.m. and return at 3:30 p.m. Students should wear school uniform and comfortable shoes. Please give your child a packed lunch and a bottle of water – there is no café at the centre. The trip costs 150,000 dong. Please pay Ms Thu by Wednesday. Thank you."
+   },
+   "question": "Students should wear school uniform and comfortable ___.",
+   "answers": [
+    "shoes"
+   ],
+   "explanation": "'…wear school uniform and comfortable shoes.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-061",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-16",
+    "title": "Summer Job",
+    "text": "This summer, Linh is working at an ice cream shop by the beach. She works five hours a day, from 2 p.m. to 7 p.m. Her job is to serve customers and clean the tables. The shop is very busy, especially on hot days, but her manager is kind and the other workers are fun. Linh wants to save money for a trip to Japan next year. She also practises her English because many customers are tourists."
+   },
+   "question": "Where is the shop?",
+   "options": [
+    "In a shopping mall",
+    "Near Linh's school",
+    "By the beach",
+    "In Japan"
+   ],
+   "answer": 2,
+   "explanation": "'…an ice cream shop by the beach.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-062",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-16",
+    "title": "Summer Job",
+    "text": "This summer, Linh is working at an ice cream shop by the beach. She works five hours a day, from 2 p.m. to 7 p.m. Her job is to serve customers and clean the tables. The shop is very busy, especially on hot days, but her manager is kind and the other workers are fun. Linh wants to save money for a trip to Japan next year. She also practises her English because many customers are tourists."
+   },
+   "question": "How many hours a day does Linh work?",
+   "options": [
+    "Five",
+    "Two",
+    "Eight",
+    "Seven"
+   ],
+   "answer": 0,
+   "explanation": "'She works five hours a day.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-063",
+   "type": "mcq",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-16",
+    "title": "Summer Job",
+    "text": "This summer, Linh is working at an ice cream shop by the beach. She works five hours a day, from 2 p.m. to 7 p.m. Her job is to serve customers and clean the tables. The shop is very busy, especially on hot days, but her manager is kind and the other workers are fun. Linh wants to save money for a trip to Japan next year. She also practises her English because many customers are tourists."
+   },
+   "question": "Why does Linh practise English at work?",
+   "options": [
+    "She is going to study in the UK.",
+    "The menu is only in English.",
+    "Many customers are tourists.",
+    "Her manager is from England."
+   ],
+   "answer": 2,
+   "explanation": "'…because many customers are tourists.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-064",
+   "type": "fill",
+   "topic": "work",
+   "passage": {
+    "id": "a2-rp-16",
+    "title": "Summer Job",
+    "text": "This summer, Linh is working at an ice cream shop by the beach. She works five hours a day, from 2 p.m. to 7 p.m. Her job is to serve customers and clean the tables. The shop is very busy, especially on hot days, but her manager is kind and the other workers are fun. Linh wants to save money for a trip to Japan next year. She also practises her English because many customers are tourists."
+   },
+   "question": "Linh wants to save money for a trip to ___.",
+   "answers": [
+    "Japan"
+   ],
+   "explanation": "'Linh wants to save money for a trip to Japan next year.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-065",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-17",
+    "title": "Recipe: Banana Pancakes",
+    "text": "These pancakes are easy and healthy. You need two bananas, two eggs and a little oil. First, put the bananas in a bowl and make them soft with a fork. Then add the eggs and mix well. Next, heat a little oil in a pan. Put two spoons of the mixture in the pan and cook for one minute on each side. Serve the pancakes with honey or fresh fruit. This makes about eight small pancakes."
+   },
+   "question": "How many eggs do you need?",
+   "options": [
+    "Eight",
+    "One",
+    "Three",
+    "Two"
+   ],
+   "answer": 3,
+   "explanation": "'You need two bananas, two eggs and a little oil.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-066",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-17",
+    "title": "Recipe: Banana Pancakes",
+    "text": "These pancakes are easy and healthy. You need two bananas, two eggs and a little oil. First, put the bananas in a bowl and make them soft with a fork. Then add the eggs and mix well. Next, heat a little oil in a pan. Put two spoons of the mixture in the pan and cook for one minute on each side. Serve the pancakes with honey or fresh fruit. This makes about eight small pancakes."
+   },
+   "question": "What do you do first?",
+   "options": [
+    "Make the bananas soft with a fork",
+    "Heat the oil",
+    "Mix the eggs",
+    "Add honey"
+   ],
+   "answer": 0,
+   "explanation": "'First, put the bananas in a bowl and make them soft with a fork.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-067",
+   "type": "mcq",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-17",
+    "title": "Recipe: Banana Pancakes",
+    "text": "These pancakes are easy and healthy. You need two bananas, two eggs and a little oil. First, put the bananas in a bowl and make them soft with a fork. Then add the eggs and mix well. Next, heat a little oil in a pan. Put two spoons of the mixture in the pan and cook for one minute on each side. Serve the pancakes with honey or fresh fruit. This makes about eight small pancakes."
+   },
+   "question": "How long do you cook each side?",
+   "options": [
+    "Ten seconds",
+    "One minute",
+    "Five minutes",
+    "Two minutes"
+   ],
+   "answer": 1,
+   "explanation": "'…cook for one minute on each side.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-068",
+   "type": "fill",
+   "topic": "food",
+   "passage": {
+    "id": "a2-rp-17",
+    "title": "Recipe: Banana Pancakes",
+    "text": "These pancakes are easy and healthy. You need two bananas, two eggs and a little oil. First, put the bananas in a bowl and make them soft with a fork. Then add the eggs and mix well. Next, heat a little oil in a pan. Put two spoons of the mixture in the pan and cook for one minute on each side. Serve the pancakes with honey or fresh fruit. This makes about eight small pancakes."
+   },
+   "question": "You can serve the pancakes with honey or fresh ___.",
+   "answers": [
+    "fruit"
+   ],
+   "explanation": "'Serve the pancakes with honey or fresh fruit.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-069",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-18",
+    "title": "At the Airport",
+    "text": "Mr and Mrs Kim arrived at the airport two hours before their flight to Bangkok. First, they checked in their two suitcases. Then they went through security, where Mrs Kim had to throw away a big bottle of water. Their flight was delayed by one hour because of bad weather, so they had lunch at a noodle restaurant and bought some magazines. Finally, they got on the plane at 2:15."
+   },
+   "question": "Where were Mr and Mrs Kim flying to?",
+   "options": [
+    "Tokyo",
+    "Hanoi",
+    "Bangkok",
+    "Seoul"
+   ],
+   "answer": 2,
+   "explanation": "'…their flight to Bangkok.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-070",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-18",
+    "title": "At the Airport",
+    "text": "Mr and Mrs Kim arrived at the airport two hours before their flight to Bangkok. First, they checked in their two suitcases. Then they went through security, where Mrs Kim had to throw away a big bottle of water. Their flight was delayed by one hour because of bad weather, so they had lunch at a noodle restaurant and bought some magazines. Finally, they got on the plane at 2:15."
+   },
+   "question": "What happened at security?",
+   "options": [
+    "Mr Kim lost his passport.",
+    "Mrs Kim threw away a bottle of water.",
+    "They checked in their suitcases.",
+    "They bought magazines."
+   ],
+   "answer": 1,
+   "explanation": "'…where Mrs Kim had to throw away a big bottle of water.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-071",
+   "type": "mcq",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-18",
+    "title": "At the Airport",
+    "text": "Mr and Mrs Kim arrived at the airport two hours before their flight to Bangkok. First, they checked in their two suitcases. Then they went through security, where Mrs Kim had to throw away a big bottle of water. Their flight was delayed by one hour because of bad weather, so they had lunch at a noodle restaurant and bought some magazines. Finally, they got on the plane at 2:15."
+   },
+   "question": "Why was the flight delayed?",
+   "options": [
+    "Because many passengers were late",
+    "Because of a problem with the plane",
+    "Because of bad weather",
+    "Because the pilot was late"
+   ],
+   "answer": 2,
+   "explanation": "'Their flight was delayed by one hour because of bad weather.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-072",
+   "type": "fill",
+   "topic": "travel",
+   "passage": {
+    "id": "a2-rp-18",
+    "title": "At the Airport",
+    "text": "Mr and Mrs Kim arrived at the airport two hours before their flight to Bangkok. First, they checked in their two suitcases. Then they went through security, where Mrs Kim had to throw away a big bottle of water. Their flight was delayed by one hour because of bad weather, so they had lunch at a noodle restaurant and bought some magazines. Finally, they got on the plane at 2:15."
+   },
+   "question": "The flight was delayed by one ___.",
+   "answers": [
+    "hour"
+   ],
+   "explanation": "'…delayed by one hour.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-073",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-19",
+    "title": "Summer Sounds Festival",
+    "text": "The Summer Sounds Festival is back in Riverside Park on 20th and 21st July. More than thirty bands will play pop, rock and traditional music on three stages. There will also be food stalls, face painting for children and a dance workshop. Tickets are £25 for one day or £40 for the weekend. Children under 10 get in free. Remember: no glass bottles are allowed in the park."
+   },
+   "question": "How many days is the festival?",
+   "options": [
+    "Three",
+    "One",
+    "Two",
+    "Thirty"
+   ],
+   "answer": 2,
+   "explanation": "It is on 20th and 21st July – two days.",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-074",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-19",
+    "title": "Summer Sounds Festival",
+    "text": "The Summer Sounds Festival is back in Riverside Park on 20th and 21st July. More than thirty bands will play pop, rock and traditional music on three stages. There will also be food stalls, face painting for children and a dance workshop. Tickets are £25 for one day or £40 for the weekend. Children under 10 get in free. Remember: no glass bottles are allowed in the park."
+   },
+   "question": "How much is a weekend ticket?",
+   "options": [
+    "£50",
+    "£40",
+    "£10",
+    "£25"
+   ],
+   "answer": 1,
+   "explanation": "'Tickets are £25 for one day or £40 for the weekend.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-075",
+   "type": "mcq",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-19",
+    "title": "Summer Sounds Festival",
+    "text": "The Summer Sounds Festival is back in Riverside Park on 20th and 21st July. More than thirty bands will play pop, rock and traditional music on three stages. There will also be food stalls, face painting for children and a dance workshop. Tickets are £25 for one day or £40 for the weekend. Children under 10 get in free. Remember: no glass bottles are allowed in the park."
+   },
+   "question": "What can't you bring into the park?",
+   "options": [
+    "Food",
+    "Glass bottles",
+    "Cameras",
+    "Children"
+   ],
+   "answer": 1,
+   "explanation": "'No glass bottles are allowed in the park.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-076",
+   "type": "fill",
+   "topic": "hobbies",
+   "passage": {
+    "id": "a2-rp-19",
+    "title": "Summer Sounds Festival",
+    "text": "The Summer Sounds Festival is back in Riverside Park on 20th and 21st July. More than thirty bands will play pop, rock and traditional music on three stages. There will also be food stalls, face painting for children and a dance workshop. Tickets are £25 for one day or £40 for the weekend. Children under 10 get in free. Remember: no glass bottles are allowed in the park."
+   },
+   "question": "Children under ___ get in free.",
+   "answers": [
+    "10",
+    "ten"
+   ],
+   "explanation": "'Children under 10 get in free.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-077",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-20",
+    "title": "Sleep Tips for Teenagers",
+    "text": "Doctors say that teenagers need eight to ten hours of sleep every night. But many young people go to bed late because they use their phones. Here are some tips. Turn off your phone thirty minutes before bed. Don't drink coffee or cola in the evening. Try to go to bed at the same time every night, even at weekends. And do some exercise during the day – it helps you sleep better."
+   },
+   "question": "How many hours of sleep do teenagers need?",
+   "options": [
+    "Ten to twelve",
+    "Eight to ten",
+    "Five to six",
+    "Six to seven"
+   ],
+   "answer": 1,
+   "explanation": "'…teenagers need eight to ten hours of sleep every night.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-078",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-20",
+    "title": "Sleep Tips for Teenagers",
+    "text": "Doctors say that teenagers need eight to ten hours of sleep every night. But many young people go to bed late because they use their phones. Here are some tips. Turn off your phone thirty minutes before bed. Don't drink coffee or cola in the evening. Try to go to bed at the same time every night, even at weekends. And do some exercise during the day – it helps you sleep better."
+   },
+   "question": "Why do many young people go to bed late?",
+   "options": [
+    "They do too much homework.",
+    "They drink too much water.",
+    "They use their phones.",
+    "They exercise in the evening."
+   ],
+   "answer": 2,
+   "explanation": "'…many young people go to bed late because they use their phones.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-079",
+   "type": "mcq",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-20",
+    "title": "Sleep Tips for Teenagers",
+    "text": "Doctors say that teenagers need eight to ten hours of sleep every night. But many young people go to bed late because they use their phones. Here are some tips. Turn off your phone thirty minutes before bed. Don't drink coffee or cola in the evening. Try to go to bed at the same time every night, even at weekends. And do some exercise during the day – it helps you sleep better."
+   },
+   "question": "What should you do thirty minutes before bed?",
+   "options": [
+    "Eat a big meal",
+    "Do exercise",
+    "Drink cola",
+    "Turn off your phone"
+   ],
+   "answer": 3,
+   "explanation": "'Turn off your phone thirty minutes before bed.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-080",
+   "type": "fill",
+   "topic": "health",
+   "passage": {
+    "id": "a2-rp-20",
+    "title": "Sleep Tips for Teenagers",
+    "text": "Doctors say that teenagers need eight to ten hours of sleep every night. But many young people go to bed late because they use their phones. Here are some tips. Turn off your phone thirty minutes before bed. Don't drink coffee or cola in the evening. Try to go to bed at the same time every night, even at weekends. And do some exercise during the day – it helps you sleep better."
+   },
+   "question": "Exercise during the day helps you ___ better.",
+   "answers": [
+    "sleep"
+   ],
+   "explanation": "'…it helps you sleep better.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-081",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-21",
+    "title": "A Message from Rob",
+    "text": "Hi Jack, Thanks for your message. Yes, I bought the jacket online last week, but it was too small, so I sent it back. The website was very good – returning it was free and I got my money back in three days. Now I'm going to buy the same jacket in a bigger size, but in blue this time, not black. Do you want to come to the shopping centre with me on Saturday? We can have lunch there. Rob"
+   },
+   "question": "Why did Rob send the jacket back?",
+   "options": [
+    "It was too small.",
+    "It was the wrong colour.",
+    "It arrived late.",
+    "It was too expensive."
+   ],
+   "answer": 0,
+   "explanation": "'…it was too small, so I sent it back.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-082",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-21",
+    "title": "A Message from Rob",
+    "text": "Hi Jack, Thanks for your message. Yes, I bought the jacket online last week, but it was too small, so I sent it back. The website was very good – returning it was free and I got my money back in three days. Now I'm going to buy the same jacket in a bigger size, but in blue this time, not black. Do you want to come to the shopping centre with me on Saturday? We can have lunch there. Rob"
+   },
+   "question": "What colour jacket does Rob want now?",
+   "options": [
+    "Grey",
+    "Black",
+    "Blue",
+    "Red"
+   ],
+   "answer": 2,
+   "explanation": "'…but in blue this time, not black.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-083",
+   "type": "mcq",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-21",
+    "title": "A Message from Rob",
+    "text": "Hi Jack, Thanks for your message. Yes, I bought the jacket online last week, but it was too small, so I sent it back. The website was very good – returning it was free and I got my money back in three days. Now I'm going to buy the same jacket in a bigger size, but in blue this time, not black. Do you want to come to the shopping centre with me on Saturday? We can have lunch there. Rob"
+   },
+   "question": "What does Rob invite Jack to do?",
+   "options": [
+    "Go to the shopping centre on Saturday",
+    "Visit the website",
+    "Buy a jacket online",
+    "Have dinner at his house"
+   ],
+   "answer": 0,
+   "explanation": "'Do you want to come to the shopping centre with me on Saturday?'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-084",
+   "type": "fill",
+   "topic": "shopping",
+   "passage": {
+    "id": "a2-rp-21",
+    "title": "A Message from Rob",
+    "text": "Hi Jack, Thanks for your message. Yes, I bought the jacket online last week, but it was too small, so I sent it back. The website was very good – returning it was free and I got my money back in three days. Now I'm going to buy the same jacket in a bigger size, but in blue this time, not black. Do you want to come to the shopping centre with me on Saturday? We can have lunch there. Rob"
+   },
+   "question": "Rob got his money back in three ___.",
+   "answers": [
+    "days"
+   ],
+   "explanation": "'…I got my money back in three days.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-085",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "a2-rp-22",
+    "title": "Clean-up Day",
+    "text": "Join us for Clean-up Day at Lotus Lake on Sunday 5th May from 7 to 10 a.m.! We want to collect rubbish around the lake and plant fifty new trees. Bring a hat, sun cream and a water bottle. We will give everyone gloves and bags. After the work, there will be free drinks and snacks for all volunteers. Families and children over 8 are welcome."
+   },
+   "question": "What will the volunteers do?",
+   "options": [
+    "Collect rubbish and plant trees",
+    "Build a new park",
+    "Swim in the lake",
+    "Sell snacks"
+   ],
+   "answer": 0,
+   "explanation": "'We want to collect rubbish around the lake and plant fifty new trees.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-086",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "a2-rp-22",
+    "title": "Clean-up Day",
+    "text": "Join us for Clean-up Day at Lotus Lake on Sunday 5th May from 7 to 10 a.m.! We want to collect rubbish around the lake and plant fifty new trees. Bring a hat, sun cream and a water bottle. We will give everyone gloves and bags. After the work, there will be free drinks and snacks for all volunteers. Families and children over 8 are welcome."
+   },
+   "question": "What will the organisers give volunteers?",
+   "options": [
+    "Gloves and bags",
+    "Water bottles",
+    "Trees to take home",
+    "Hats and sun cream"
+   ],
+   "answer": 0,
+   "explanation": "'We will give everyone gloves and bags.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-087",
+   "type": "mcq",
+   "topic": "community",
+   "passage": {
+    "id": "a2-rp-22",
+    "title": "Clean-up Day",
+    "text": "Join us for Clean-up Day at Lotus Lake on Sunday 5th May from 7 to 10 a.m.! We want to collect rubbish around the lake and plant fifty new trees. Bring a hat, sun cream and a water bottle. We will give everyone gloves and bags. After the work, there will be free drinks and snacks for all volunteers. Families and children over 8 are welcome."
+   },
+   "question": "Who can join?",
+   "options": [
+    "Children under 8",
+    "Only adults",
+    "Only students",
+    "Families and children over 8"
+   ],
+   "answer": 3,
+   "explanation": "'Families and children over 8 are welcome.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-088",
+   "type": "fill",
+   "topic": "community",
+   "passage": {
+    "id": "a2-rp-22",
+    "title": "Clean-up Day",
+    "text": "Join us for Clean-up Day at Lotus Lake on Sunday 5th May from 7 to 10 a.m.! We want to collect rubbish around the lake and plant fifty new trees. Bring a hat, sun cream and a water bottle. We will give everyone gloves and bags. After the work, there will be free drinks and snacks for all volunteers. Families and children over 8 are welcome."
+   },
+   "question": "They want to plant ___ new trees.",
+   "answers": [
+    "fifty",
+    "50"
+   ],
+   "explanation": "'…plant fifty new trees.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-089",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-23",
+    "title": "Mum's Busy Monday",
+    "text": "My mum is a dentist, and Monday is her busiest day. She starts work at 8 a.m. and sees about twenty patients. She has a short lunch break at 12:30 – usually just a sandwich at her desk. After work, she picks up my sister from dance class at 6 p.m. When she gets home, Dad cooks dinner and Mum relaxes on the sofa. She always says, 'Mondays are long, but I love my job!'"
+   },
+   "question": "What is the mum's job?",
+   "options": [
+    "A hospital doctor",
+    "A cook",
+    "A dancer",
+    "A dentist"
+   ],
+   "answer": 3,
+   "explanation": "'My mum is a dentist.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-090",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-23",
+    "title": "Mum's Busy Monday",
+    "text": "My mum is a dentist, and Monday is her busiest day. She starts work at 8 a.m. and sees about twenty patients. She has a short lunch break at 12:30 – usually just a sandwich at her desk. After work, she picks up my sister from dance class at 6 p.m. When she gets home, Dad cooks dinner and Mum relaxes on the sofa. She always says, 'Mondays are long, but I love my job!'"
+   },
+   "question": "What does she usually have for lunch on Mondays?",
+   "options": [
+    "A sandwich",
+    "Rice and soup",
+    "Dinner from Dad",
+    "Nothing"
+   ],
+   "answer": 0,
+   "explanation": "'…usually just a sandwich at her desk.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-091",
+   "type": "mcq",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-23",
+    "title": "Mum's Busy Monday",
+    "text": "My mum is a dentist, and Monday is her busiest day. She starts work at 8 a.m. and sees about twenty patients. She has a short lunch break at 12:30 – usually just a sandwich at her desk. After work, she picks up my sister from dance class at 6 p.m. When she gets home, Dad cooks dinner and Mum relaxes on the sofa. She always says, 'Mondays are long, but I love my job!'"
+   },
+   "question": "Who cooks dinner?",
+   "options": [
+    "The sister",
+    "Mum",
+    "The writer",
+    "Dad"
+   ],
+   "answer": 3,
+   "explanation": "'When she gets home, Dad cooks dinner.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-092",
+   "type": "fill",
+   "topic": "daily life",
+   "passage": {
+    "id": "a2-rp-23",
+    "title": "Mum's Busy Monday",
+    "text": "My mum is a dentist, and Monday is her busiest day. She starts work at 8 a.m. and sees about twenty patients. She has a short lunch break at 12:30 – usually just a sandwich at her desk. After work, she picks up my sister from dance class at 6 p.m. When she gets home, Dad cooks dinner and Mum relaxes on the sofa. She always says, 'Mondays are long, but I love my job!'"
+   },
+   "question": "She sees about ___ patients on Mondays.",
+   "answers": [
+    "twenty",
+    "20"
+   ],
+   "explanation": "'…sees about twenty patients.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-093",
+   "type": "mcq",
+   "topic": "animals",
+   "passage": {
+    "id": "a2-rp-24",
+    "title": "Our Dog, Lucky",
+    "text": "We got our dog, Lucky, from an animal centre two years ago. He is brown and white, and he has very short legs. Lucky loves going for walks, but he hates the rain – when it rains, he hides under my bed! He eats twice a day, in the morning and in the evening. My job is to give him water and take him for a walk after school. My brother washes him every Sunday."
+   },
+   "question": "Where did the family get Lucky?",
+   "options": [
+    "From an animal centre",
+    "From a farm",
+    "From a pet shop",
+    "From a friend"
+   ],
+   "answer": 0,
+   "explanation": "'We got our dog, Lucky, from an animal centre.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-094",
+   "type": "mcq",
+   "topic": "animals",
+   "passage": {
+    "id": "a2-rp-24",
+    "title": "Our Dog, Lucky",
+    "text": "We got our dog, Lucky, from an animal centre two years ago. He is brown and white, and he has very short legs. Lucky loves going for walks, but he hates the rain – when it rains, he hides under my bed! He eats twice a day, in the morning and in the evening. My job is to give him water and take him for a walk after school. My brother washes him every Sunday."
+   },
+   "question": "What does Lucky do when it rains?",
+   "options": [
+    "He goes for a long walk.",
+    "He sleeps in the bathroom.",
+    "He hides under a bed.",
+    "He plays in the garden."
+   ],
+   "answer": 2,
+   "explanation": "'…when it rains, he hides under my bed!'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-095",
+   "type": "mcq",
+   "topic": "animals",
+   "passage": {
+    "id": "a2-rp-24",
+    "title": "Our Dog, Lucky",
+    "text": "We got our dog, Lucky, from an animal centre two years ago. He is brown and white, and he has very short legs. Lucky loves going for walks, but he hates the rain – when it rains, he hides under my bed! He eats twice a day, in the morning and in the evening. My job is to give him water and take him for a walk after school. My brother washes him every Sunday."
+   },
+   "question": "Who washes Lucky?",
+   "options": [
+    "The writer's brother",
+    "The writer",
+    "Someone at the animal centre",
+    "The writer's mother"
+   ],
+   "answer": 0,
+   "explanation": "'My brother washes him every Sunday.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-096",
+   "type": "fill",
+   "topic": "animals",
+   "passage": {
+    "id": "a2-rp-24",
+    "title": "Our Dog, Lucky",
+    "text": "We got our dog, Lucky, from an animal centre two years ago. He is brown and white, and he has very short legs. Lucky loves going for walks, but he hates the rain – when it rains, he hides under my bed! He eats twice a day, in the morning and in the evening. My job is to give him water and take him for a walk after school. My brother washes him every Sunday."
+   },
+   "question": "Lucky eats ___ a day.",
+   "answers": [
+    "twice",
+    "two times"
+   ],
+   "explanation": "'He eats twice a day.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-097",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-25",
+    "title": "An Online Class",
+    "text": "Because of a big storm, there was no school on Thursday, so our English class was online. The teacher sent us a link at 8 a.m. At first, my internet connection was slow and I couldn't hear anything. Then I moved closer to the router and it was fine. We read a story together and then worked in small groups in different 'rooms'. I prefer real classes because I miss my friends, but online lessons are OK sometimes."
+   },
+   "question": "Why was the class online?",
+   "options": [
+    "Because it was a holiday",
+    "Because the school was being painted",
+    "Because of a storm",
+    "Because the teacher was ill"
+   ],
+   "answer": 2,
+   "explanation": "'Because of a big storm, there was no school on Thursday.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-098",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-25",
+    "title": "An Online Class",
+    "text": "Because of a big storm, there was no school on Thursday, so our English class was online. The teacher sent us a link at 8 a.m. At first, my internet connection was slow and I couldn't hear anything. Then I moved closer to the router and it was fine. We read a story together and then worked in small groups in different 'rooms'. I prefer real classes because I miss my friends, but online lessons are OK sometimes."
+   },
+   "question": "What was the writer's problem at first?",
+   "options": [
+    "The computer was broken.",
+    "The link didn't work.",
+    "The teacher was late.",
+    "The internet was slow."
+   ],
+   "answer": 3,
+   "explanation": "'At first, my internet connection was slow.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-099",
+   "type": "mcq",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-25",
+    "title": "An Online Class",
+    "text": "Because of a big storm, there was no school on Thursday, so our English class was online. The teacher sent us a link at 8 a.m. At first, my internet connection was slow and I couldn't hear anything. Then I moved closer to the router and it was fine. We read a story together and then worked in small groups in different 'rooms'. I prefer real classes because I miss my friends, but online lessons are OK sometimes."
+   },
+   "question": "Which does the writer prefer?",
+   "options": [
+    "Both are the same.",
+    "Group work at home",
+    "Real classes",
+    "Online classes"
+   ],
+   "answer": 2,
+   "explanation": "'I prefer real classes because I miss my friends.'",
+   "skill": "reading",
+   "level": "a2"
+  },
+  {
+   "id": "a2-reading-100",
+   "type": "fill",
+   "topic": "technology",
+   "passage": {
+    "id": "a2-rp-25",
+    "title": "An Online Class",
+    "text": "Because of a big storm, there was no school on Thursday, so our English class was online. The teacher sent us a link at 8 a.m. At first, my internet connection was slow and I couldn't hear anything. Then I moved closer to the router and it was fine. We read a story together and then worked in small groups in different 'rooms'. I prefer real classes because I miss my friends, but online lessons are OK sometimes."
+   },
+   "question": "The teacher sent a ___ at 8 a.m.",
+   "answers": [
+    "link"
+   ],
+   "explanation": "'The teacher sent us a link at 8 a.m.'",
+   "skill": "reading",
+   "level": "a2"
+  }
+ ]
+}

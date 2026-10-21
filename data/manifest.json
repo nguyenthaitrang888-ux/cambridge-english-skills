@@ -1,0 +1,156 @@
+{
+ "schemaVersion": 1,
+ "app": {
+  "name": "English Skills Practice – CEFR A2–C1",
+  "disclaimer": "Original CEFR-aligned practice; not affiliated with Cambridge University Press."
+ },
+ "skills": [
+  {
+   "id": "listening",
+   "title": {
+    "en": "Listening",
+    "vi": "Nghe"
+   }
+  },
+  {
+   "id": "speaking",
+   "title": {
+    "en": "Speaking",
+    "vi": "Nói"
+   }
+  },
+  {
+   "id": "reading",
+   "title": {
+    "en": "Reading",
+    "vi": "Đọc"
+   }
+  },
+  {
+   "id": "writing",
+   "title": {
+    "en": "Writing",
+    "vi": "Viết"
+   }
+  },
+  {
+   "id": "idiom",
+   "title": {
+    "en": "Idioms",
+    "vi": "Thành ngữ"
+   }
+  },
+  {
+   "id": "collocation",
+   "title": {
+    "en": "Collocations",
+    "vi": "Cụm từ cố định"
+   }
+  },
+  {
+   "id": "phrasalVerb",
+   "title": {
+    "en": "Phrasal Verbs",
+    "vi": "Cụm động từ"
+   }
+  }
+ ],
+ "levels": [
+  {
+   "id": "a2",
+   "book": 1,
+   "cefr": "A2",
+   "name": {
+    "en": "Elementary",
+    "vi": "Sơ cấp"
+   },
+   "status": "available",
+   "counts": {
+    "listening": 100,
+    "speaking": 100,
+    "reading": 100,
+    "writing": 100,
+    "idiom": 100,
+    "collocation": 100,
+    "phrasalVerb": 100
+   },
+   "total": 700
+  },
+  {
+   "id": "b1",
+   "book": 2,
+   "cefr": "B1",
+   "name": {
+    "en": "Pre-intermediate",
+    "vi": "Tiền trung cấp"
+   },
+   "status": "available",
+   "counts": {
+    "listening": 100,
+    "speaking": 100,
+    "reading": 100,
+    "writing": 100,
+    "idiom": 100,
+    "collocation": 100,
+    "phrasalVerb": 100
+   },
+   "total": 700
+  },
+  {
+   "id": "b2",
+   "book": 3,
+   "cefr": "B2",
+   "name": {
+    "en": "Intermediate",
+    "vi": "Trung cấp"
+   },
+   "status": "available",
+   "counts": {
+    "listening": 100,
+    "speaking": 100,
+    "reading": 100,
+    "writing": 100,
+    "idiom": 100,
+    "collocation": 100,
+    "phrasalVerb": 100
+   },
+   "total": 700
+  },
+  {
+   "id": "c1",
+   "book": 4,
+   "cefr": "C1",
+   "name": {
+    "en": "Upper-intermediate to Advanced",
+    "vi": "Trung cao cấp – Nâng cao"
+   },
+   "status": "available",
+   "counts": {
+    "listening": 100,
+    "speaking": 100,
+    "reading": 100,
+    "writing": 100,
+    "idiom": 100,
+    "collocation": 100,
+    "phrasalVerb": 100
+   },
+   "total": 700
+  }
+ ],
+ "quiz": {
+  "size": 20,
+  "distribution": {
+   "listening": 3,
+   "reading": 3,
+   "idiom": 3,
+   "collocation": 3,
+   "phrasalVerb": 3,
+   "writing": 3,
+   "speaking": 2
+  },
+  "writingTypes": [
+   "order",
+   "fix"
+  ]
+ }
+}

@@ -1,0 +1,1914 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "collocation",
+ "title": {
+  "en": "Collocations",
+  "vi": "Cụm từ cố định"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-collocation-001",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do homework",
+   "question": "Complete the collocation:\nI always ___ my homework before dinner.",
+   "options": [
+    "do",
+    "make",
+    "have",
+    "take"
+   ],
+   "answer": 0,
+   "meaningVi": "làm bài tập về nhà",
+   "explanation": "We say “do homework”. Full sentence: I always do my homework before dinner.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-002",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a noise",
+   "question": "Complete the collocation:\nPlease don't ___ a noise – the baby is sleeping.",
+   "options": [
+    "make",
+    "take",
+    "give",
+    "do"
+   ],
+   "answer": 0,
+   "meaningVi": "làm ồn",
+   "explanation": "We say “make a noise”. Full sentence: Please don't make a noise – the baby is sleeping.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-003",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "take a break",
+   "question": "Complete the collocation:\nLet's ___ a break and get some coffee.",
+   "options": [
+    "do",
+    "go",
+    "take",
+    "make"
+   ],
+   "answer": 2,
+   "meaningVi": "nghỉ giải lao",
+   "explanation": "We say “take a break”. Full sentence: Let's take a break and get some coffee.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-004",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have a great time",
+   "question": "Complete the collocation:\nWe ___ a great time at the party last night.",
+   "options": [
+    "had",
+    "made",
+    "did",
+    "took"
+   ],
+   "answer": 0,
+   "meaningVi": "có khoảng thời gian vui vẻ",
+   "explanation": "We say “have a great time”. Full sentence: We had a great time at the party last night.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-005",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "go shopping",
+   "question": "Complete the collocation:\nMy mum and I ___ shopping at the mall every Saturday.",
+   "options": [
+    "take",
+    "make",
+    "play",
+    "go"
+   ],
+   "answer": 3,
+   "meaningVi": "đi mua sắm",
+   "explanation": "We say “go shopping”. Full sentence: My mum and I go shopping at the mall every Saturday.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-006",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do someone a favour",
+   "question": "Complete the collocation:\nCan you ___ me a favour and carry this bag?",
+   "options": [
+    "take",
+    "do",
+    "give",
+    "make"
+   ],
+   "answer": 1,
+   "meaningVi": "giúp ai một việc",
+   "explanation": "We say “do someone a favour”. Full sentence: Can you do me a favour and carry this bag?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-007",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a phone call",
+   "question": "Complete the collocation:\nI need to ___ a phone call to my boss.",
+   "options": [
+    "make",
+    "do",
+    "say",
+    "go"
+   ],
+   "answer": 0,
+   "meaningVi": "gọi điện thoại",
+   "explanation": "We say “make a phone call”. Full sentence: I need to make a phone call to my boss.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-008",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have a shower",
+   "question": "Complete the collocation:\nIt's late. I'm going to ___ a shower and go to bed.",
+   "options": [
+    "have",
+    "do",
+    "go",
+    "make"
+   ],
+   "answer": 0,
+   "meaningVi": "tắm vòi sen",
+   "explanation": "We say “have a shower”. Full sentence: It's late. I'm going to have a shower and go to bed.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-009",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "daily routine",
+   "focus": "brush your teeth",
+   "question": "Complete the collocation:\nDon't forget to ___ your teeth before bed.",
+   "options": [
+    "comb",
+    "brush",
+    "cut",
+    "wash"
+   ],
+   "answer": 1,
+   "meaningVi": "đánh răng",
+   "explanation": "We say “brush your teeth”. Full sentence: Don't forget to brush your teeth before bed.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-010",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "heavy rain",
+   "question": "Complete the collocation:\nThere was ___ rain all night, so the roads were flooded.",
+   "options": [
+    "heavy",
+    "thick",
+    "strong",
+    "big"
+   ],
+   "answer": 0,
+   "meaningVi": "mưa lớn",
+   "explanation": "We say “heavy rain”. Full sentence: There was heavy rain all night, so the roads were flooded.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-011",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "strong coffee",
+   "question": "Complete the collocation:\nI like ___ coffee with no milk or sugar.",
+   "options": [
+    "heavy",
+    "hard",
+    "powerful",
+    "strong"
+   ],
+   "answer": 3,
+   "meaningVi": "cà phê đậm",
+   "explanation": "We say “strong coffee”. Full sentence: I like strong coffee with no milk or sugar.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-012",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "pay attention",
+   "question": "Complete the collocation:\nOur teacher asked us to ___ attention in class.",
+   "options": [
+    "make",
+    "give",
+    "take",
+    "pay"
+   ],
+   "answer": 3,
+   "meaningVi": "chú ý",
+   "explanation": "We say “pay attention”. Full sentence: Our teacher asked us to pay attention in class.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-013",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "miss the bus",
+   "question": "Complete the collocation:\nHurry up! We don't want to ___ the bus.",
+   "options": [
+    "fail",
+    "miss",
+    "lose",
+    "leave"
+   ],
+   "answer": 1,
+   "meaningVi": "lỡ chuyến xe buýt",
+   "explanation": "We say “miss the bus”. Full sentence: Hurry up! We don't want to miss the bus.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-014",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "health",
+   "focus": "catch a cold",
+   "question": "Complete the collocation:\nI ___ a cold last week and stayed in bed.",
+   "options": [
+    "made",
+    "took",
+    "kept",
+    "caught"
+   ],
+   "answer": 3,
+   "meaningVi": "bị cảm lạnh",
+   "explanation": "We say “catch a cold”. Full sentence: I caught a cold last week and stayed in bed.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-015",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make money",
+   "question": "Complete the collocation:\nMy brother wants to ___ a lot of money as a businessman.",
+   "options": [
+    "do",
+    "take",
+    "make",
+    "pay"
+   ],
+   "answer": 2,
+   "meaningVi": "kiếm tiền",
+   "explanation": "We say “make money”. Full sentence: My brother wants to make a lot of money as a businessman.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-016",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "keep a secret",
+   "question": "Complete the collocation:\nCan you ___ a secret? Don't tell anyone.",
+   "options": [
+    "hold",
+    "save",
+    "keep",
+    "make"
+   ],
+   "answer": 2,
+   "meaningVi": "giữ bí mật",
+   "explanation": "We say “keep a secret”. Full sentence: Can you keep a secret? Don't tell anyone.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-017",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a mistake",
+   "question": "Complete the collocation:\nI'm sorry, I ___ a mistake with your name.",
+   "options": [
+    "did",
+    "took",
+    "made",
+    "had"
+   ],
+   "answer": 2,
+   "meaningVi": "mắc lỗi",
+   "explanation": "We say “make a mistake”. Full sentence: I'm sorry, I made a mistake with your name.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-018",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have dinner",
+   "question": "Complete the collocation:\nWe ___ dinner at seven o'clock every evening.",
+   "options": [
+    "go",
+    "take",
+    "have",
+    "do"
+   ],
+   "answer": 2,
+   "meaningVi": "ăn tối",
+   "explanation": "We say “have dinner”. Full sentence: We have dinner at seven o'clock every evening.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-019",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "transport",
+   "focus": "take a taxi",
+   "question": "Complete the collocation:\nLet's ___ a taxi to the station – it's raining.",
+   "options": [
+    "drive",
+    "take",
+    "do",
+    "make"
+   ],
+   "answer": 1,
+   "meaningVi": "đi taxi",
+   "explanation": "We say “take a taxi”. Full sentence: Let's take a taxi to the station – it's raining.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-020",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "take a photo",
+   "question": "Complete the collocation:\nCan I ___ a photo of you and your friends?",
+   "options": [
+    "make",
+    "catch",
+    "take",
+    "do"
+   ],
+   "answer": 2,
+   "meaningVi": "chụp ảnh",
+   "explanation": "We say “take a photo”. Full sentence: Can I take a photo of you and your friends?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-021",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do your best",
+   "question": "Complete the collocation:\nShe ___ her best in the exam.",
+   "options": [
+    "had",
+    "took",
+    "made",
+    "did"
+   ],
+   "answer": 3,
+   "meaningVi": "cố gắng hết sức",
+   "explanation": "We say “do your best”. Full sentence: She did her best in the exam.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-022",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make the bed",
+   "question": "Complete the collocation:\nI always ___ my bed in the morning.",
+   "options": [
+    "make",
+    "do",
+    "put",
+    "take"
+   ],
+   "answer": 0,
+   "meaningVi": "dọn giường",
+   "explanation": "We say “make the bed”. Full sentence: I always make my bed in the morning.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-023",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "ask a question",
+   "question": "Complete the collocation:\nExcuse me, can I ___ a question?",
+   "options": [
+    "say",
+    "tell",
+    "ask",
+    "make"
+   ],
+   "answer": 2,
+   "meaningVi": "đặt câu hỏi",
+   "explanation": "We say “ask a question”. Full sentence: Excuse me, can I ask a question?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-024",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "tell the truth",
+   "question": "Complete the collocation:\nPlease ___ the truth. Did you eat my chocolate?",
+   "options": [
+    "talk",
+    "tell",
+    "say",
+    "speak"
+   ],
+   "answer": 1,
+   "meaningVi": "nói sự thật",
+   "explanation": "We say “tell the truth”. Full sentence: Please tell the truth. Did you eat my chocolate?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-025",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "speak a language",
+   "question": "Complete the collocation:\nMy dad ___ English and French.",
+   "options": [
+    "tells",
+    "says",
+    "speaks",
+    "talks"
+   ],
+   "answer": 2,
+   "meaningVi": "nói một ngôn ngữ",
+   "explanation": "We say “speak a language”. Full sentence: My dad speaks English and French.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-026",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a decision",
+   "question": "Complete the collocation:\nWe need to ___ a decision today.",
+   "options": [
+    "make",
+    "have",
+    "do",
+    "go"
+   ],
+   "answer": 0,
+   "meaningVi": "đưa ra quyết định",
+   "explanation": "We say “make a decision”. Full sentence: We need to make a decision today.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-027",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "daily routine",
+   "focus": "go to bed",
+   "question": "Complete the collocation:\nI usually ___ to bed at 10 p.m.",
+   "options": [
+    "go",
+    "do",
+    "take",
+    "make"
+   ],
+   "answer": 0,
+   "meaningVi": "đi ngủ",
+   "explanation": "We say “go to bed”. Full sentence: I usually go to bed at 10 p.m.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-028",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do the housework",
+   "question": "Complete the collocation:\nLan ___ the housework every Sunday.",
+   "options": [
+    "does",
+    "makes",
+    "takes",
+    "has"
+   ],
+   "answer": 0,
+   "meaningVi": "làm việc nhà",
+   "explanation": "We say “do the housework”. Full sentence: Lan does the housework every Sunday.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-029",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a wish",
+   "question": "Complete the collocation:\nIt's your birthday! ___ a wish and blow out the candles.",
+   "options": [
+    "Have",
+    "Make",
+    "Do",
+    "Take"
+   ],
+   "answer": 1,
+   "meaningVi": "ước một điều",
+   "explanation": "We say “make a wish”. Full sentence: It's your birthday! Make a wish and blow out the candles.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-030",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "go for a walk",
+   "question": "Complete the collocation:\nLet's ___ for a walk in the park after lunch.",
+   "options": [
+    "play",
+    "make",
+    "go",
+    "do"
+   ],
+   "answer": 2,
+   "meaningVi": "đi dạo",
+   "explanation": "We say “go for a walk”. Full sentence: Let's go for a walk in the park after lunch.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-031",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "tell the time",
+   "question": "Complete the collocation:\nCan you ___ me the time, please?",
+   "options": [
+    "speak",
+    "tell",
+    "ask",
+    "say"
+   ],
+   "answer": 1,
+   "meaningVi": "cho biết giờ",
+   "explanation": "We say “tell the time”. Full sentence: Can you tell me the time, please?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-032",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "money",
+   "focus": "save money",
+   "question": "Complete the collocation:\nI want to ___ money for a new bike.",
+   "options": [
+    "do",
+    "save",
+    "pay",
+    "keep"
+   ],
+   "answer": 1,
+   "meaningVi": "tiết kiệm tiền",
+   "explanation": "We say “save money”. Full sentence: I want to save money for a new bike.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-033",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "money",
+   "focus": "spend money on",
+   "question": "Complete the collocation:\nDon't ___ too much money on clothes.",
+   "options": [
+    "buy",
+    "spend",
+    "pay",
+    "take"
+   ],
+   "answer": 1,
+   "meaningVi": "tiêu tiền vào",
+   "explanation": "We say “spend money on”. Full sentence: Don't spend too much money on clothes.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-034",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "fast food",
+   "question": "Complete the collocation:\nI don't eat ___ food like burgers and fries very often.",
+   "options": [
+    "rapid",
+    "speedy",
+    "quick",
+    "fast"
+   ],
+   "answer": 3,
+   "meaningVi": "đồ ăn nhanh",
+   "explanation": "We say “fast food”. Full sentence: I don't eat fast food like burgers and fries very often.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-035",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "quantities",
+   "focus": "a cup of tea",
+   "question": "Complete the collocation:\nCan I have a ___ of tea, please?",
+   "options": [
+    "piece",
+    "bar",
+    "slice",
+    "cup"
+   ],
+   "answer": 3,
+   "meaningVi": "một tách trà",
+   "explanation": "We say “a cup of tea”. Full sentence: Can I have a cup of tea, please?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-036",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "quantities",
+   "focus": "a slice of cake",
+   "question": "Complete the collocation:\nI'd like a ___ of cake, please.",
+   "options": [
+    "bottle",
+    "cup",
+    "slice",
+    "bar"
+   ],
+   "answer": 2,
+   "meaningVi": "một lát bánh",
+   "explanation": "We say “a slice of cake”. Full sentence: I'd like a slice of cake, please.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-037",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "quantities",
+   "focus": "a loaf of bread",
+   "question": "Complete the collocation:\nMum bought a ___ of bread at the bakery.",
+   "options": [
+    "cup",
+    "glass",
+    "bar",
+    "loaf"
+   ],
+   "answer": 3,
+   "meaningVi": "một ổ bánh mì",
+   "explanation": "We say “a loaf of bread”. Full sentence: Mum bought a loaf of bread at the bakery.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-038",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "quantities",
+   "focus": "a bar of chocolate",
+   "question": "Complete the collocation:\nI ate a whole ___ of chocolate!",
+   "options": [
+    "bar",
+    "loaf",
+    "slice",
+    "cup"
+   ],
+   "answer": 0,
+   "meaningVi": "một thanh sô-cô-la",
+   "explanation": "We say “a bar of chocolate”. Full sentence: I ate a whole bar of chocolate!",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-039",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "transport",
+   "focus": "catch a train",
+   "question": "Complete the collocation:\nWe ___ the 8 a.m. train to Hanoi.",
+   "options": [
+    "did",
+    "caught",
+    "made",
+    "kept"
+   ],
+   "answer": 1,
+   "meaningVi": "bắt kịp chuyến tàu",
+   "explanation": "We say “catch a train”. Full sentence: We caught the 8 a.m. train to Hanoi.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-040",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have a party",
+   "question": "Complete the collocation:\nI'm ___ a party for my birthday next Saturday.",
+   "options": [
+    "doing",
+    "making",
+    "having",
+    "taking"
+   ],
+   "answer": 2,
+   "meaningVi": "tổ chức tiệc",
+   "explanation": "We say “have a party”. Full sentence: I'm having a party for my birthday next Saturday.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-041",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "free time",
+   "question": "Complete the collocation:\nWhat do you do in your ___ time?",
+   "options": [
+    "open",
+    "empty",
+    "clear",
+    "free"
+   ],
+   "answer": 3,
+   "meaningVi": "thời gian rảnh",
+   "explanation": "We say “free time”. Full sentence: What do you do in your free time?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-042",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "get",
+   "focus": "get married",
+   "question": "Complete the collocation:\nMy sister ___ married last year.",
+   "options": [
+    "did",
+    "got",
+    "took",
+    "made"
+   ],
+   "answer": 1,
+   "meaningVi": "kết hôn",
+   "explanation": "We say “get married”. Full sentence: My sister got married last year.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-043",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "noun + noun",
+   "focus": "traffic lights",
+   "question": "Complete the collocation:\nTurn left at the ___ lights.",
+   "options": [
+    "street",
+    "road",
+    "car",
+    "traffic"
+   ],
+   "answer": 3,
+   "meaningVi": "đèn giao thông",
+   "explanation": "We say “traffic lights”. Full sentence: Turn left at the traffic lights.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-044",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "send a message",
+   "question": "Complete the collocation:\nI left my phone at home, so I couldn't ___ you a message.",
+   "options": [
+    "do",
+    "post",
+    "say",
+    "send"
+   ],
+   "answer": 3,
+   "meaningVi": "gửi tin nhắn",
+   "explanation": "We say “send a message”. Full sentence: I left my phone at home, so I couldn't send you a message.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-045",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have a look",
+   "question": "Complete the collocation:\nLet's ___ a look at the map.",
+   "options": [
+    "do",
+    "see",
+    "make",
+    "have"
+   ],
+   "answer": 3,
+   "meaningVi": "xem qua, nhìn qua",
+   "explanation": "We say “have a look”. Full sentence: Let's have a look at the map.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-046",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "school",
+   "focus": "pass an exam",
+   "question": "Complete the collocation:\nHe studies hard because he wants to ___ the exam.",
+   "options": [
+    "pass",
+    "win",
+    "succeed",
+    "reach"
+   ],
+   "answer": 0,
+   "meaningVi": "thi đỗ",
+   "explanation": "We say “pass an exam”. Full sentence: He studies hard because he wants to pass the exam.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-047",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "sport",
+   "focus": "win a match",
+   "question": "Complete the collocation:\nOur team ___ the match 3–1!",
+   "options": [
+    "passed",
+    "won",
+    "earned",
+    "beat"
+   ],
+   "answer": 1,
+   "meaningVi": "thắng trận đấu",
+   "explanation": "We say “win a match”. Full sentence: Our team won the match 3–1!",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-048",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "school",
+   "focus": "give homework",
+   "question": "Complete the collocation:\nThe teacher ___ us a lot of homework today.",
+   "options": [
+    "gave",
+    "took",
+    "did",
+    "made"
+   ],
+   "answer": 0,
+   "meaningVi": "giao bài tập",
+   "explanation": "We say “give homework”. Full sentence: The teacher gave us a lot of homework today.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-049",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "give someone a call",
+   "question": "Complete the collocation:\nI'll ___ you a call tonight.",
+   "options": [
+    "give",
+    "take",
+    "do",
+    "make"
+   ],
+   "answer": 0,
+   "meaningVi": "gọi điện cho ai",
+   "explanation": "We say “give someone a call”. Full sentence: I'll give you a call tonight.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-050",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "play the piano",
+   "question": "Complete the collocation:\nShe ___ the piano very well.",
+   "options": [
+    "does",
+    "makes",
+    "plays",
+    "goes"
+   ],
+   "answer": 2,
+   "meaningVi": "chơi đàn piano",
+   "explanation": "We say “play the piano”. Full sentence: She plays the piano very well.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "play football",
+   "question": "Complete the collocation:\nMy friends and I ___ football after school.",
+   "options": [
+    "make",
+    "do",
+    "play",
+    "go"
+   ],
+   "answer": 2,
+   "meaningVi": "chơi bóng đá",
+   "explanation": "We say “play football”. Full sentence: My friends and I play football after school.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "do yoga",
+   "question": "Complete the collocation:\nI ___ yoga twice a week.",
+   "options": [
+    "make",
+    "go",
+    "play",
+    "do"
+   ],
+   "answer": 3,
+   "meaningVi": "tập yoga",
+   "explanation": "We say “do yoga”. Full sentence: I do yoga twice a week.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "go swimming",
+   "question": "Complete the collocation:\nWe ___ swimming at the weekend.",
+   "options": [
+    "do",
+    "make",
+    "play",
+    "go"
+   ],
+   "answer": 3,
+   "meaningVi": "đi bơi",
+   "explanation": "We say “go swimming”. Full sentence: We go swimming at the weekend.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "take a seat",
+   "question": "Complete the collocation:\nPlease ___ a seat. The doctor will see you soon.",
+   "options": [
+    "do",
+    "make",
+    "take",
+    "sit"
+   ],
+   "answer": 2,
+   "meaningVi": "mời ngồi",
+   "explanation": "We say “take a seat”. Full sentence: Please take a seat. The doctor will see you soon.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have a dream",
+   "question": "Complete the collocation:\nI ___ a terrible dream last night.",
+   "options": [
+    "made",
+    "had",
+    "did",
+    "took"
+   ],
+   "answer": 1,
+   "meaningVi": "nằm mơ",
+   "explanation": "We say “have a dream”. Full sentence: I had a terrible dream last night.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "get",
+   "focus": "get your hair cut",
+   "question": "Complete the collocation:\nI'm going to ___ my hair cut tomorrow.",
+   "options": [
+    "cut",
+    "make",
+    "do",
+    "get"
+   ],
+   "answer": 3,
+   "meaningVi": "đi cắt tóc",
+   "explanation": "We say “get your hair cut”. Full sentence: I'm going to get my hair cut tomorrow.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do the dishes",
+   "question": "Complete the collocation:\nCan you ___ the dishes, please? I cooked dinner.",
+   "options": [
+    "make",
+    "take",
+    "do",
+    "have"
+   ],
+   "answer": 2,
+   "meaningVi": "rửa bát",
+   "explanation": "We say “do the dishes”. Full sentence: Can you do the dishes, please? I cooked dinner.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "tell a joke",
+   "question": "Complete the collocation:\nMy dad ___ a lot of jokes – he's really funny.",
+   "options": [
+    "speaks",
+    "says",
+    "tells",
+    "talks"
+   ],
+   "answer": 2,
+   "meaningVi": "kể chuyện cười",
+   "explanation": "We say “tell a joke”. Full sentence: My dad tells a lot of jokes – he's really funny.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "take the time",
+   "question": "Complete the collocation:\nThank you for ___ the time to help me.",
+   "options": [
+    "having",
+    "doing",
+    "taking",
+    "making"
+   ],
+   "answer": 2,
+   "meaningVi": "dành thời gian",
+   "explanation": "We say “take the time”. Full sentence: Thank you for taking the time to help me.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "transport",
+   "focus": "take the wrong bus",
+   "question": "Complete the collocation:\nI'm sorry I'm late. I ___ the wrong bus.",
+   "options": [
+    "took",
+    "made",
+    "did",
+    "went"
+   ],
+   "answer": 0,
+   "meaningVi": "đi nhầm xe buýt",
+   "explanation": "We say “take the wrong bus”. Full sentence: I'm sorry I'm late. I took the wrong bus.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "strong wind",
+   "question": "Complete the collocation:\nThere's a ___ wind today, so hold on to your hat!",
+   "options": [
+    "fast",
+    "heavy",
+    "strong",
+    "big"
+   ],
+   "answer": 2,
+   "meaningVi": "gió mạnh",
+   "explanation": "We say “strong wind”. Full sentence: There's a strong wind today, so hold on to your hat!",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "health",
+   "focus": "keep fit",
+   "question": "Complete the collocation:\nI go running every morning to ___ fit.",
+   "options": [
+    "do",
+    "have",
+    "make",
+    "keep"
+   ],
+   "answer": 3,
+   "meaningVi": "giữ dáng, giữ sức khỏe",
+   "explanation": "We say “keep fit”. Full sentence: I go running every morning to keep fit.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "keep a promise",
+   "question": "Complete the collocation:\nDon't worry, I'll ___ my promise.",
+   "options": [
+    "do",
+    "save",
+    "hold",
+    "keep"
+   ],
+   "answer": 3,
+   "meaningVi": "giữ lời hứa",
+   "explanation": "We say “keep a promise”. Full sentence: Don't worry, I'll keep my promise.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "give someone a hand",
+   "question": "Complete the collocation:\nCan you ___ me a hand with this heavy box?",
+   "options": [
+    "do",
+    "give",
+    "make",
+    "take"
+   ],
+   "answer": 1,
+   "meaningVi": "giúp ai một tay",
+   "explanation": "We say “give someone a hand”. Full sentence: Can you give me a hand with this heavy box?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "have breakfast",
+   "question": "Complete the collocation:\nI usually ___ breakfast at 7 a.m.",
+   "options": [
+    "play",
+    "go",
+    "have",
+    "do"
+   ],
+   "answer": 2,
+   "meaningVi": "ăn sáng",
+   "explanation": "We say “have breakfast”. Full sentence: I usually have breakfast at 7 a.m.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "go/play/do",
+   "focus": "go on a trip",
+   "question": "Complete the collocation:\nLast month our class ___ on a school trip to the zoo.",
+   "options": [
+    "played",
+    "did",
+    "went",
+    "made"
+   ],
+   "answer": 2,
+   "meaningVi": "đi chuyến dã ngoại",
+   "explanation": "We say “go on a trip”. Full sentence: Last month our class went on a school trip to the zoo.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "in trouble",
+   "question": "Complete the collocation:\nIf you're late again, you'll be ___ trouble.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "with"
+   ],
+   "answer": 0,
+   "meaningVi": "gặp rắc rối",
+   "explanation": "We say “in trouble”. Full sentence: If you're late again, you'll be in trouble.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "on a diet",
+   "question": "Complete the collocation:\nI'm ___ a diet, so no cake for me, thanks.",
+   "options": [
+    "with",
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 2,
+   "meaningVi": "đang ăn kiêng",
+   "explanation": "We say “on a diet”. Full sentence: I'm on a diet, so no cake for me, thanks.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "on holiday",
+   "question": "Complete the collocation:\nShe's ___ holiday in Thailand this week.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "for"
+   ],
+   "answer": 0,
+   "meaningVi": "đang đi nghỉ",
+   "explanation": "We say “on holiday”. Full sentence: She's on holiday in Thailand this week.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "by chance",
+   "question": "Complete the collocation:\nI met my best friend ___ chance at the library.",
+   "options": [
+    "with",
+    "by",
+    "in",
+    "on"
+   ],
+   "answer": 1,
+   "meaningVi": "tình cờ",
+   "explanation": "We say “by chance”. Full sentence: I met my best friend by chance at the library.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "in pencil",
+   "question": "Complete the collocation:\nPlease write your answers ___ pencil.",
+   "options": [
+    "on",
+    "by",
+    "at",
+    "in"
+   ],
+   "answer": 3,
+   "meaningVi": "bằng bút chì",
+   "explanation": "We say “in pencil”. Full sentence: Please write your answers in pencil.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "by train",
+   "question": "Complete the collocation:\nWe travelled to Hue ___ train.",
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "answer": 0,
+   "meaningVi": "bằng tàu hỏa",
+   "explanation": "We say “by train”. Full sentence: We travelled to Hue by train.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "good at",
+   "question": "Complete the collocation:\nI'm really good ___ maths.",
+   "options": [
+    "at",
+    "on",
+    "for",
+    "in"
+   ],
+   "answer": 0,
+   "meaningVi": "giỏi về",
+   "explanation": "We say “good at”. Full sentence: I'm really good at maths.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "afraid of",
+   "question": "Complete the collocation:\nMy sister is afraid ___ spiders.",
+   "options": [
+    "from",
+    "with",
+    "about",
+    "of"
+   ],
+   "answer": 3,
+   "meaningVi": "sợ",
+   "explanation": "We say “afraid of”. Full sentence: My sister is afraid of spiders.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "interested in",
+   "question": "Complete the collocation:\nI'm interested ___ learning Japanese.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "about"
+   ],
+   "answer": 1,
+   "meaningVi": "quan tâm, thích",
+   "explanation": "We say “interested in”. Full sentence: I'm interested in learning Japanese.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "wait for",
+   "question": "Complete the collocation:\nWe're waiting ___ the bus.",
+   "options": [
+    "for",
+    "at",
+    "to",
+    "on"
+   ],
+   "answer": 0,
+   "meaningVi": "chờ đợi",
+   "explanation": "We say “wait for”. Full sentence: We're waiting for the bus.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "listen to",
+   "question": "Complete the collocation:\nListen ___ the teacher carefully.",
+   "options": [
+    "on",
+    "at",
+    "to",
+    "for"
+   ],
+   "answer": 2,
+   "meaningVi": "lắng nghe",
+   "explanation": "We say “listen to”. Full sentence: Listen to the teacher carefully.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "kind to",
+   "question": "Complete the collocation:\nHoa is very kind ___ animals.",
+   "options": [
+    "for",
+    "at",
+    "to",
+    "on"
+   ],
+   "answer": 2,
+   "meaningVi": "tốt bụng với",
+   "explanation": "We say “kind to”. Full sentence: Hoa is very kind to animals.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "tired of",
+   "question": "Complete the collocation:\nI'm tired ___ eating the same food every day.",
+   "options": [
+    "with",
+    "from",
+    "about",
+    "of"
+   ],
+   "answer": 3,
+   "meaningVi": "chán, mệt mỏi vì",
+   "explanation": "We say “tired of”. Full sentence: I'm tired of eating the same food every day.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "different from",
+   "question": "Complete the collocation:\nThis bag is different ___ mine.",
+   "options": [
+    "at",
+    "from",
+    "of",
+    "with"
+   ],
+   "answer": 1,
+   "meaningVi": "khác với",
+   "explanation": "We say “different from”. Full sentence: This bag is different from mine.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do exercise",
+   "question": "Complete the collocation:\nYou should ___ more exercise.",
+   "options": [
+    "do",
+    "go",
+    "make",
+    "play"
+   ],
+   "answer": 0,
+   "meaningVi": "tập thể dục",
+   "explanation": "We say “do exercise”. Full sentence: You should do more exercise.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "run a business",
+   "question": "Complete the collocation:\nMy parents ___ a small business.",
+   "options": [
+    "run",
+    "make",
+    "do",
+    "drive"
+   ],
+   "answer": 0,
+   "meaningVi": "điều hành công việc kinh doanh",
+   "explanation": "We say “run a business”. Full sentence: My parents run a small business.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make friends",
+   "question": "Complete the collocation:\nIt's easy to ___ friends at this school.",
+   "options": [
+    "do",
+    "get",
+    "make",
+    "take"
+   ],
+   "answer": 2,
+   "meaningVi": "kết bạn",
+   "explanation": "We say “make friends”. Full sentence: It's easy to make friends at this school.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "borrow something",
+   "question": "Complete the collocation:\nCan I ___ your pen? I forgot mine.",
+   "options": [
+    "give",
+    "lend",
+    "keep",
+    "borrow"
+   ],
+   "answer": 3,
+   "meaningVi": "mượn",
+   "explanation": "We say “borrow something”. Full sentence: Can I borrow your pen? I forgot mine.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "lend someone something",
+   "question": "Complete the collocation:\nCould you ___ me your dictionary until tomorrow?",
+   "options": [
+    "lend",
+    "keep",
+    "borrow",
+    "take"
+   ],
+   "answer": 0,
+   "meaningVi": "cho mượn",
+   "explanation": "We say “lend someone something”. Full sentence: Could you lend me your dictionary until tomorrow?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "lose your keys",
+   "question": "Complete the collocation:\nI've ___ my keys! I can't find them anywhere.",
+   "options": [
+    "failed",
+    "missed",
+    "lost",
+    "spent"
+   ],
+   "answer": 2,
+   "meaningVi": "làm mất chìa khóa",
+   "explanation": "We say “lose your keys”. Full sentence: I've lost my keys! I can't find them anywhere.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "it takes (time)",
+   "question": "Complete the collocation:\nIt's a long way. It ___ about two hours by car.",
+   "options": [
+    "makes",
+    "does",
+    "takes",
+    "has"
+   ],
+   "answer": 2,
+   "meaningVi": "mất (bao lâu)",
+   "explanation": "We say “it takes (time)”. Full sentence: It's a long way. It takes about two hours by car.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "time expressions",
+   "focus": "next week",
+   "question": "Complete the collocation:\nBye! See you ___ week!",
+   "options": [
+    "after",
+    "next",
+    "other",
+    "last"
+   ],
+   "answer": 1,
+   "meaningVi": "tuần sau",
+   "explanation": "We say “next week”. Full sentence: Bye! See you next week!",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "book a table",
+   "question": "Complete the collocation:\nI'd like to ___ a table for four, please.",
+   "options": [
+    "make",
+    "do",
+    "take",
+    "book"
+   ],
+   "answer": 3,
+   "meaningVi": "đặt bàn",
+   "explanation": "We say “book a table”. Full sentence: I'd like to book a table for four, please.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "prepositions",
+   "focus": "on time",
+   "question": "Complete the collocation:\nThe train arrived exactly ___ time.",
+   "options": [
+    "in",
+    "at",
+    "by",
+    "on"
+   ],
+   "answer": 3,
+   "meaningVi": "đúng giờ",
+   "explanation": "We say “on time”. Full sentence: The train arrived exactly on time.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "get",
+   "focus": "get cold",
+   "question": "Complete the collocation:\nWear a coat or you'll ___ cold.",
+   "options": [
+    "get",
+    "have",
+    "do",
+    "make"
+   ],
+   "answer": 0,
+   "meaningVi": "bị lạnh",
+   "explanation": "We say “get cold”. Full sentence: Wear a coat or you'll get cold.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "make a list",
+   "question": "Complete the collocation:\nBefore I go shopping, I always ___ a list.",
+   "options": [
+    "make",
+    "do",
+    "take",
+    "have"
+   ],
+   "answer": 0,
+   "meaningVi": "lập danh sách",
+   "explanation": "We say “make a list”. Full sentence: Before I go shopping, I always make a list.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + adjective",
+   "focus": "fall asleep",
+   "question": "Complete the collocation:\nI was so tired that I ___ asleep on the sofa.",
+   "options": [
+    "went",
+    "made",
+    "fell",
+    "got"
+   ],
+   "answer": 2,
+   "meaningVi": "ngủ thiếp đi",
+   "explanation": "We say “fall asleep”. Full sentence: I was so tired that I fell asleep on the sofa.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "food",
+   "focus": "bake a cake",
+   "question": "Complete the collocation:\nLet's ___ a cake for Dad's birthday.",
+   "options": [
+    "do",
+    "bake",
+    "cook",
+    "boil"
+   ],
+   "answer": 1,
+   "meaningVi": "nướng bánh",
+   "explanation": "We say “bake a cake”. Full sentence: Let's bake a cake for Dad's birthday.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "home",
+   "focus": "set the table",
+   "question": "Complete the collocation:\nCan you ___ the table? Dinner is ready.",
+   "options": [
+    "set",
+    "make",
+    "do",
+    "put"
+   ],
+   "answer": 0,
+   "meaningVi": "dọn bàn ăn",
+   "explanation": "We say “set the table”. Full sentence: Can you set the table? Dinner is ready.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "make/do",
+   "focus": "do the cooking",
+   "question": "Complete the collocation:\nMy mum ___ the cooking and my dad does the washing-up.",
+   "options": [
+    "does",
+    "makes",
+    "takes",
+    "cooks"
+   ],
+   "answer": 0,
+   "meaningVi": "nấu nướng",
+   "explanation": "We say “do the cooking”. Full sentence: My mum does the cooking and my dad does the washing-up.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "school",
+   "focus": "pass a test",
+   "question": "Complete the collocation:\nI ___ my driving test on my first try!",
+   "options": [
+    "passed",
+    "got",
+    "succeeded",
+    "won"
+   ],
+   "answer": 0,
+   "meaningVi": "vượt qua bài kiểm tra",
+   "explanation": "We say “pass a test”. Full sentence: I passed my driving test on my first try!",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "say/tell/speak",
+   "focus": "tell someone the way",
+   "question": "Complete the collocation:\nExcuse me, can you ___ me the way to the station?",
+   "options": [
+    "tell",
+    "speak",
+    "say",
+    "explain"
+   ],
+   "answer": 0,
+   "meaningVi": "chỉ đường",
+   "explanation": "We say “tell someone the way”. Full sentence: Excuse me, can you tell me the way to the station?",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + adjective",
+   "focus": "keep quiet",
+   "question": "Complete the collocation:\nPlease ___ quiet in the library – people are studying.",
+   "options": [
+    "make",
+    "do",
+    "hold",
+    "keep"
+   ],
+   "answer": 3,
+   "meaningVi": "giữ im lặng",
+   "explanation": "We say “keep quiet”. Full sentence: Please keep quiet in the library – people are studying.",
+   "skill": "collocation",
+   "level": "a2"
+  },
+  {
+   "id": "a2-collocation-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "take/have",
+   "focus": "take notes",
+   "question": "Complete the collocation:\nIt's a good idea to ___ notes during the lesson.",
+   "options": [
+    "take",
+    "give",
+    "do",
+    "get"
+   ],
+   "answer": 0,
+   "meaningVi": "ghi chép",
+   "explanation": "We say “take notes”. Full sentence: It's a good idea to take notes during the lesson.",
+   "skill": "collocation",
+   "level": "a2"
+  }
+ ]
+}

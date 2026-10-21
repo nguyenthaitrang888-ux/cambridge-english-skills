@@ -1,0 +1,3010 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "listening",
+ "title": {
+  "en": "Listening",
+  "vi": "Nghe"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-listening-001",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-01",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "What time is the film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It starts at quarter to eight, so let's meet at half past seven outside the cinema."
+    },
+    {
+     "speaker": "Woman",
+     "text": "OK. Can we get a pizza afterwards?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Good idea."
+    }
+   ],
+   "question": "What time does the film start?",
+   "options": [
+    "8:15",
+    "7:45",
+    "8:00",
+    "7:30"
+   ],
+   "answer": 1,
+   "explanation": "'Quarter to eight' = 7:45. They meet at 7:30.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-002",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-01",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "What time is the film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It starts at quarter to eight, so let's meet at half past seven outside the cinema."
+    },
+    {
+     "speaker": "Woman",
+     "text": "OK. Can we get a pizza afterwards?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Good idea."
+    }
+   ],
+   "question": "What will they do after the film?",
+   "options": [
+    "Go home",
+    "Watch another film",
+    "Eat pizza",
+    "Meet outside the cinema"
+   ],
+   "answer": 2,
+   "explanation": "'Can we get a pizza afterwards?' – 'Good idea.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-003",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-02",
+   "script": [
+    {
+     "speaker": "Customer",
+     "text": "Excuse me, how much are these sunglasses?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "The black ones are twelve pounds, and the brown ones are fifteen."
+    },
+    {
+     "speaker": "Customer",
+     "text": "I'll take the black ones, please. Can I pay by card?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Of course."
+    }
+   ],
+   "question": "How much are the black sunglasses?",
+   "options": [
+    "£12",
+    "£50",
+    "£20",
+    "£15"
+   ],
+   "answer": 0,
+   "explanation": "'The black ones are twelve pounds.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-004",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-02",
+   "script": [
+    {
+     "speaker": "Customer",
+     "text": "Excuse me, how much are these sunglasses?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "The black ones are twelve pounds, and the brown ones are fifteen."
+    },
+    {
+     "speaker": "Customer",
+     "text": "I'll take the black ones, please. Can I pay by card?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Of course."
+    }
+   ],
+   "question": "How will the customer pay?",
+   "options": [
+    "Later",
+    "In cash",
+    "By phone",
+    "By card"
+   ],
+   "answer": 3,
+   "explanation": "'Can I pay by card?' – 'Of course.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-005",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-03",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Did you finish the history homework?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Not yet. I need to read chapter four first. It's due on Wednesday, isn't it?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "No, Mr Green changed it. It's due tomorrow!"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Oh no! I'd better start now."
+    }
+   ],
+   "question": "What does the girl need to read?",
+   "options": [
+    "Chapter two",
+    "Chapter four",
+    "Chapter fourteen",
+    "A history magazine"
+   ],
+   "answer": 1,
+   "explanation": "'I need to read chapter four first.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-006",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-03",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Did you finish the history homework?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Not yet. I need to read chapter four first. It's due on Wednesday, isn't it?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "No, Mr Green changed it. It's due tomorrow!"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Oh no! I'd better start now."
+    }
+   ],
+   "question": "When is the homework due?",
+   "options": [
+    "Today",
+    "Tomorrow",
+    "Next week",
+    "Wednesday"
+   ],
+   "answer": 1,
+   "explanation": "Mr Green changed it: 'It's due tomorrow!'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-007",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-04",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "The ten twenty train to Hue is now leaving from platform three, not platform five. We are sorry, but the train is about fifteen minutes late today."
+    }
+   ],
+   "question": "Which platform is the train to Hue leaving from?",
+   "options": [
+    "Platform 3",
+    "Platform 15",
+    "Platform 10",
+    "Platform 5"
+   ],
+   "answer": 0,
+   "explanation": "'…now leaving from platform three, not platform five.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-008",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-04",
+   "script": [
+    {
+     "speaker": "Announcer",
+     "text": "The ten twenty train to Hue is now leaving from platform three, not platform five. We are sorry, but the train is about fifteen minutes late today."
+    }
+   ],
+   "question": "How late is the train?",
+   "options": [
+    "About twenty minutes",
+    "About five minutes",
+    "About fifteen minutes",
+    "About an hour"
+   ],
+   "answer": 2,
+   "explanation": "'The train is about fifteen minutes late today.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-009",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-05",
+   "script": [
+    {
+     "speaker": "Waiter",
+     "text": "Are you ready to order?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes. I'd like the chicken soup, and my son wants the fish with rice."
+    },
+    {
+     "speaker": "Waiter",
+     "text": "Anything to drink?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "An orange juice for him, and just water for me, please."
+    }
+   ],
+   "question": "What does the son want to eat?",
+   "options": [
+    "Fish soup",
+    "Fish with rice",
+    "Chicken soup",
+    "Chicken with rice"
+   ],
+   "answer": 1,
+   "explanation": "'…my son wants the fish with rice.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-010",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-05",
+   "script": [
+    {
+     "speaker": "Waiter",
+     "text": "Are you ready to order?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes. I'd like the chicken soup, and my son wants the fish with rice."
+    },
+    {
+     "speaker": "Waiter",
+     "text": "Anything to drink?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "An orange juice for him, and just water for me, please."
+    }
+   ],
+   "question": "What will the woman drink?",
+   "options": [
+    "Water",
+    "Coffee",
+    "Orange juice",
+    "Tea"
+   ],
+   "answer": 0,
+   "explanation": "'…just water for me, please.' The juice is for her son.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-011",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "a2-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Shall we go to the beach on Saturday?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "The forecast says it'll rain on Saturday. Sunday will be sunny, though."
+    },
+    {
+     "speaker": "Man",
+     "text": "Then let's go on Sunday. I'll bring the sandwiches."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great, and I'll bring the drinks."
+    }
+   ],
+   "question": "Why don't they go on Saturday?",
+   "options": [
+    "The beach is closed.",
+    "It will be too hot.",
+    "It will rain.",
+    "The man is busy."
+   ],
+   "answer": 2,
+   "explanation": "'The forecast says it'll rain on Saturday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-012",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "a2-ls-06",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Shall we go to the beach on Saturday?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "The forecast says it'll rain on Saturday. Sunday will be sunny, though."
+    },
+    {
+     "speaker": "Man",
+     "text": "Then let's go on Sunday. I'll bring the sandwiches."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Great, and I'll bring the drinks."
+    }
+   ],
+   "question": "What will the woman bring?",
+   "options": [
+    "Towels",
+    "Sandwiches",
+    "Drinks",
+    "An umbrella"
+   ],
+   "answer": 2,
+   "explanation": "'I'll bring the drinks.' The man brings sandwiches.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-013",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "a2-ls-07",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Hello, I'm calling about the job at your bookshop."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ah yes. Can you come for an interview on Tuesday at ten?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm sorry, I have a class then. Is Thursday possible?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, Thursday at ten is fine."
+    }
+   ],
+   "question": "What job is the woman calling about?",
+   "options": [
+    "A job at a bookshop",
+    "A job at a café",
+    "A job at a bank",
+    "A job at a school"
+   ],
+   "answer": 0,
+   "explanation": "'I'm calling about the job at your bookshop.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-014",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "a2-ls-07",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Hello, I'm calling about the job at your bookshop."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ah yes. Can you come for an interview on Tuesday at ten?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "I'm sorry, I have a class then. Is Thursday possible?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, Thursday at ten is fine."
+    }
+   ],
+   "question": "When is the interview?",
+   "options": [
+    "Thursday at two",
+    "Tuesday at two",
+    "Thursday at ten",
+    "Tuesday at ten"
+   ],
+   "answer": 2,
+   "explanation": "She can't come on Tuesday, so: 'Thursday at ten is fine.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-015",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "a2-ls-08",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "So, what's the problem?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "My ankle hurts. I fell over playing basketball yesterday."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Let me see... It's not broken. Put some ice on it and don't play sport for a week."
+    }
+   ],
+   "question": "How did the boy hurt his ankle?",
+   "options": [
+    "Running to school",
+    "Playing basketball",
+    "Playing football",
+    "Riding a bike"
+   ],
+   "answer": 1,
+   "explanation": "'I fell over playing basketball yesterday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-016",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "a2-ls-08",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "So, what's the problem?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "My ankle hurts. I fell over playing basketball yesterday."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Let me see... It's not broken. Put some ice on it and don't play sport for a week."
+    }
+   ],
+   "question": "What does the doctor say?",
+   "options": [
+    "The ankle is broken.",
+    "Don't play sport for a week.",
+    "Play gently tomorrow.",
+    "Go to the hospital."
+   ],
+   "answer": 1,
+   "explanation": "'…don't play sport for a week.' It's not broken.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-017",
+   "type": "listening",
+   "topic": "hobbies",
+   "scriptId": "a2-ls-09",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "What do you do in your free time, Duc?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "I play the guitar. I have lessons every Friday. And you?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "I love drawing. I draw animals mostly, especially cats."
+    }
+   ],
+   "question": "When does Duc have guitar lessons?",
+   "options": [
+    "At the weekend",
+    "Every Monday",
+    "Every day",
+    "Every Friday"
+   ],
+   "answer": 3,
+   "explanation": "'I have lessons every Friday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-018",
+   "type": "listening",
+   "topic": "hobbies",
+   "scriptId": "a2-ls-09",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "What do you do in your free time, Duc?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "I play the guitar. I have lessons every Friday. And you?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "I love drawing. I draw animals mostly, especially cats."
+    }
+   ],
+   "question": "What does the girl like drawing?",
+   "options": [
+    "Buildings",
+    "People",
+    "Animals",
+    "Flowers"
+   ],
+   "answer": 2,
+   "explanation": "'I draw animals mostly, especially cats.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-019",
+   "type": "listening",
+   "topic": "town",
+   "scriptId": "a2-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Excuse me, is there a pharmacy near here?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes. Go straight on and take the second street on the right. It's next to the supermarket."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Thanks a lot!"
+    }
+   ],
+   "question": "What is the woman looking for?",
+   "options": [
+    "A pharmacy",
+    "A supermarket",
+    "A bank",
+    "A hospital"
+   ],
+   "answer": 0,
+   "explanation": "'Is there a pharmacy near here?'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-020",
+   "type": "listening",
+   "topic": "town",
+   "scriptId": "a2-ls-10",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Excuse me, is there a pharmacy near here?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes. Go straight on and take the second street on the right. It's next to the supermarket."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Thanks a lot!"
+    }
+   ],
+   "question": "Where is it?",
+   "options": [
+    "Next to the supermarket",
+    "On the first street on the left",
+    "Behind the bank",
+    "Opposite the supermarket"
+   ],
+   "answer": 0,
+   "explanation": "'It's next to the supermarket.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-021",
+   "type": "listening",
+   "topic": "family",
+   "scriptId": "a2-ls-11",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Who's that in the photo?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's my aunt Hoa. She's my mum's younger sister. She lives in Canada now and works as an engineer."
+    }
+   ],
+   "question": "Who is Hoa?",
+   "options": [
+    "The girl's sister",
+    "The girl's mother",
+    "The girl's cousin",
+    "The girl's aunt"
+   ],
+   "answer": 3,
+   "explanation": "'That's my aunt Hoa.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-022",
+   "type": "listening",
+   "topic": "family",
+   "scriptId": "a2-ls-11",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Who's that in the photo?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "That's my aunt Hoa. She's my mum's younger sister. She lives in Canada now and works as an engineer."
+    }
+   ],
+   "question": "What is Hoa's job?",
+   "options": [
+    "Engineer",
+    "Teacher",
+    "Photographer",
+    "Doctor"
+   ],
+   "answer": 0,
+   "explanation": "'…works as an engineer.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-023",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-12",
+   "script": [
+    {
+     "speaker": "Peter",
+     "text": "Hi Anna, it's Peter. I can't meet you at the library at four today because I have to take my little brother to the dentist. Can we meet at five thirty instead? Text me. Bye!"
+    }
+   ],
+   "question": "Why can't Peter meet at four?",
+   "options": [
+    "He is at the dentist himself.",
+    "The library is closed.",
+    "He must take his brother to the dentist.",
+    "He has a lesson."
+   ],
+   "answer": 2,
+   "explanation": "'I have to take my little brother to the dentist.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-024",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-12",
+   "script": [
+    {
+     "speaker": "Peter",
+     "text": "Hi Anna, it's Peter. I can't meet you at the library at four today because I have to take my little brother to the dentist. Can we meet at five thirty instead? Text me. Bye!"
+    }
+   ],
+   "question": "What time does Peter suggest?",
+   "options": [
+    "4:00",
+    "5:00",
+    "4:30",
+    "5:30"
+   ],
+   "answer": 3,
+   "explanation": "'Can we meet at five thirty instead?'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-025",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-13",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'd like to buy a T-shirt for my husband. Do you have this one in large?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Sorry, we only have small and medium in green. But we have large in white."
+    },
+    {
+     "speaker": "Woman",
+     "text": "White is fine. Thank you."
+    }
+   ],
+   "question": "What size does the woman want?",
+   "options": [
+    "Small",
+    "Medium",
+    "Extra small",
+    "Large"
+   ],
+   "answer": 3,
+   "explanation": "'Do you have this one in large?'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-026",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-13",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "I'd like to buy a T-shirt for my husband. Do you have this one in large?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Sorry, we only have small and medium in green. But we have large in white."
+    },
+    {
+     "speaker": "Woman",
+     "text": "White is fine. Thank you."
+    }
+   ],
+   "question": "What colour T-shirt does she buy?",
+   "options": [
+    "White",
+    "Green",
+    "Black",
+    "Blue"
+   ],
+   "answer": 0,
+   "explanation": "'We have large in white.' – 'White is fine.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-027",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-14",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "Good morning, everyone. Today we're going to the computer room for our lesson. Please take your notebooks and a pen, but leave your bags here in the classroom."
+    }
+   ],
+   "question": "Where is the lesson today?",
+   "options": [
+    "In the library",
+    "In the computer room",
+    "In the classroom",
+    "In the hall"
+   ],
+   "answer": 1,
+   "explanation": "'Today we're going to the computer room for our lesson.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-028",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-14",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "Good morning, everyone. Today we're going to the computer room for our lesson. Please take your notebooks and a pen, but leave your bags here in the classroom."
+    }
+   ],
+   "question": "What should students leave in the classroom?",
+   "options": [
+    "Their phones",
+    "Their pens",
+    "Their bags",
+    "Their notebooks"
+   ],
+   "answer": 2,
+   "explanation": "'…leave your bags here in the classroom.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-029",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-15",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Good evening. Can I help you?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, I have a reservation. My name is David Lee. A single room for two nights."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Ah yes, Mr Lee. You're in room two one four. Breakfast is from six thirty to nine."
+    }
+   ],
+   "question": "How many nights is the man staying?",
+   "options": [
+    "Two",
+    "One",
+    "Three",
+    "Four"
+   ],
+   "answer": 0,
+   "explanation": "'A single room for two nights.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-030",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-15",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Good evening. Can I help you?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, I have a reservation. My name is David Lee. A single room for two nights."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Ah yes, Mr Lee. You're in room two one four. Breakfast is from six thirty to nine."
+    }
+   ],
+   "question": "What is his room number?",
+   "options": [
+    "412",
+    "204",
+    "214",
+    "240"
+   ],
+   "answer": 2,
+   "explanation": "'You're in room two one four.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-031",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-16",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Mum, what's for dinner?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "I'm making spaghetti. Can you go to the shop and get some tomatoes and cheese?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Sure. Do we need bread too?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "No, we've got bread."
+    }
+   ],
+   "question": "What is Mum making?",
+   "options": [
+    "Soup",
+    "Spaghetti",
+    "Sandwiches",
+    "Pizza"
+   ],
+   "answer": 1,
+   "explanation": "'I'm making spaghetti.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-032",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-16",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Mum, what's for dinner?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "I'm making spaghetti. Can you go to the shop and get some tomatoes and cheese?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Sure. Do we need bread too?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "No, we've got bread."
+    }
+   ],
+   "question": "What doesn't the girl need to buy?",
+   "options": [
+    "Tomatoes and cheese",
+    "Cheese",
+    "Tomatoes",
+    "Bread"
+   ],
+   "answer": 3,
+   "explanation": "'No, we've got bread.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-033",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-17",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "What did you do last weekend, Mai?"
+    },
+    {
+     "speaker": "Mai",
+     "text": "On Saturday I visited my grandparents in the countryside. On Sunday I just stayed at home and cleaned my room."
+    }
+   ],
+   "question": "Where did Mai go on Saturday?",
+   "options": [
+    "To a friend's party",
+    "To her grandparents' house",
+    "To the city centre",
+    "To the beach"
+   ],
+   "answer": 1,
+   "explanation": "'On Saturday I visited my grandparents in the countryside.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-034",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-17",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "What did you do last weekend, Mai?"
+    },
+    {
+     "speaker": "Mai",
+     "text": "On Saturday I visited my grandparents in the countryside. On Sunday I just stayed at home and cleaned my room."
+    }
+   ],
+   "question": "What did she do on Sunday?",
+   "options": [
+    "She cleaned her room.",
+    "She visited her grandparents.",
+    "She played tennis.",
+    "She went shopping."
+   ],
+   "answer": 0,
+   "explanation": "'On Sunday I just stayed at home and cleaned my room.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-035",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-18",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How do you get to work, Tuan?"
+    },
+    {
+     "speaker": "Tuan",
+     "text": "I usually ride my motorbike, but when it rains, I take the bus. It takes about thirty minutes."
+    }
+   ],
+   "question": "How does Tuan usually get to work?",
+   "options": [
+    "On foot",
+    "By car",
+    "By motorbike",
+    "By bus"
+   ],
+   "answer": 2,
+   "explanation": "'I usually ride my motorbike.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-036",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-18",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How do you get to work, Tuan?"
+    },
+    {
+     "speaker": "Tuan",
+     "text": "I usually ride my motorbike, but when it rains, I take the bus. It takes about thirty minutes."
+    }
+   ],
+   "question": "How long does the bus take?",
+   "options": [
+    "About ten minutes",
+    "About an hour",
+    "About thirty minutes",
+    "About thirteen minutes"
+   ],
+   "answer": 2,
+   "explanation": "'It takes about thirty minutes.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-037",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "a2-ls-19",
+   "script": [
+    {
+     "speaker": "Coach",
+     "text": "Great game today, team! Remember, next Saturday's match starts at nine o'clock, so please arrive at eight thirty. And don't forget your blue shirts!"
+    }
+   ],
+   "question": "What time should players arrive next Saturday?",
+   "options": [
+    "8:00",
+    "9:00",
+    "9:30",
+    "8:30"
+   ],
+   "answer": 3,
+   "explanation": "'…please arrive at eight thirty.' The match starts at nine.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-038",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "a2-ls-19",
+   "script": [
+    {
+     "speaker": "Coach",
+     "text": "Great game today, team! Remember, next Saturday's match starts at nine o'clock, so please arrive at eight thirty. And don't forget your blue shirts!"
+    }
+   ],
+   "question": "What must the players remember?",
+   "options": [
+    "Their football boots",
+    "Their red shirts",
+    "Their water bottles",
+    "Their blue shirts"
+   ],
+   "answer": 3,
+   "explanation": "'Don't forget your blue shirts!'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-039",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-20",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "It's Linh's birthday on Friday. What should we buy her?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "She loves reading. How about a book?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "She has lots of books. What about a nice notebook and some pens?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "OK, good idea."
+    }
+   ],
+   "question": "When is Linh's birthday?",
+   "options": [
+    "On Friday",
+    "On Saturday",
+    "On Thursday",
+    "On Sunday"
+   ],
+   "answer": 0,
+   "explanation": "'It's Linh's birthday on Friday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-040",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-20",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "It's Linh's birthday on Friday. What should we buy her?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "She loves reading. How about a book?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "She has lots of books. What about a nice notebook and some pens?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "OK, good idea."
+    }
+   ],
+   "question": "What will they buy?",
+   "options": [
+    "A book",
+    "A notebook and pens",
+    "A cake",
+    "Flowers"
+   ],
+   "answer": 1,
+   "explanation": "She has lots of books, so: 'What about a nice notebook and some pens?' – 'OK.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-041",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-21",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I left my umbrella on the number twelve bus this morning."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What colour is it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's red with white spots."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, we have it here. You can collect it before six."
+    }
+   ],
+   "question": "Where did the man leave his umbrella?",
+   "options": [
+    "In a shop",
+    "On a bus",
+    "In a taxi",
+    "On a train"
+   ],
+   "answer": 1,
+   "explanation": "'I left my umbrella on the number twelve bus.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-042",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-21",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I left my umbrella on the number twelve bus this morning."
+    },
+    {
+     "speaker": "Woman",
+     "text": "What colour is it?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's red with white spots."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, we have it here. You can collect it before six."
+    }
+   ],
+   "question": "What does the umbrella look like?",
+   "options": [
+    "Red with white spots",
+    "White with red spots",
+    "Plain red",
+    "Black and white"
+   ],
+   "answer": 0,
+   "explanation": "'It's red with white spots.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-043",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-22",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Do you want to see the new animated film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd love to, but I have to finish a report for work. How about tomorrow evening?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Tomorrow's fine."
+    }
+   ],
+   "question": "Why can't the man go tonight?",
+   "options": [
+    "He has to finish a report.",
+    "He is ill.",
+    "He doesn't like animated films.",
+    "He has seen the film."
+   ],
+   "answer": 0,
+   "explanation": "'I have to finish a report for work.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-044",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-22",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Do you want to see the new animated film tonight?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I'd love to, but I have to finish a report for work. How about tomorrow evening?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Tomorrow's fine."
+    }
+   ],
+   "question": "When will they go?",
+   "options": [
+    "Tonight",
+    "Tomorrow morning",
+    "Tomorrow evening",
+    "At the weekend"
+   ],
+   "answer": 2,
+   "explanation": "'How about tomorrow evening?' – 'Tomorrow's fine.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-045",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-23",
+   "script": [
+    {
+     "speaker": "Librarian",
+     "text": "You can borrow up to five books for three weeks. If you're late returning them, you pay two thousand dong a day."
+    }
+   ],
+   "question": "How many books can you borrow?",
+   "options": [
+    "Up to five",
+    "Up to ten",
+    "Up to three",
+    "Up to two"
+   ],
+   "answer": 0,
+   "explanation": "'You can borrow up to five books.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-046",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-23",
+   "script": [
+    {
+     "speaker": "Librarian",
+     "text": "You can borrow up to five books for three weeks. If you're late returning them, you pay two thousand dong a day."
+    }
+   ],
+   "question": "How long can you keep the books?",
+   "options": [
+    "One month",
+    "Three weeks",
+    "Two weeks",
+    "Five weeks"
+   ],
+   "answer": 1,
+   "explanation": "'…for three weeks.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-047",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "a2-ls-24",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "What's your new flat like?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's small, but it's really bright. It's on the eighth floor, so I have a great view of the city. The only problem is the lift is often broken!"
+    }
+   ],
+   "question": "Which floor is the flat on?",
+   "options": [
+    "The first",
+    "The eighth",
+    "The fourth",
+    "The eighteenth"
+   ],
+   "answer": 1,
+   "explanation": "'It's on the eighth floor.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-048",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "a2-ls-24",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "What's your new flat like?"
+    },
+    {
+     "speaker": "Man",
+     "text": "It's small, but it's really bright. It's on the eighth floor, so I have a great view of the city. The only problem is the lift is often broken!"
+    }
+   ],
+   "question": "What is the problem?",
+   "options": [
+    "It's too dark.",
+    "There is no view.",
+    "The lift often doesn't work.",
+    "It's very big."
+   ],
+   "answer": 2,
+   "explanation": "'The only problem is the lift is often broken!'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-049",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-25",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hello, I'd like to book a table for Saturday evening."
+    },
+    {
+     "speaker": "Woman",
+     "text": "For how many people?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Six, at seven o'clock, please."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Sorry, we're full at seven. We have a table at eight."
+    },
+    {
+     "speaker": "Man",
+     "text": "OK, eight is fine."
+    }
+   ],
+   "question": "How many people is the table for?",
+   "options": [
+    "Seven",
+    "Eight",
+    "Two",
+    "Six"
+   ],
+   "answer": 3,
+   "explanation": "'Six, at seven o'clock, please.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-050",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-25",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hello, I'd like to book a table for Saturday evening."
+    },
+    {
+     "speaker": "Woman",
+     "text": "For how many people?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Six, at seven o'clock, please."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Sorry, we're full at seven. We have a table at eight."
+    },
+    {
+     "speaker": "Man",
+     "text": "OK, eight is fine."
+    }
+   ],
+   "question": "What time is the booking?",
+   "options": [
+    "7:30",
+    "8:00",
+    "6:00",
+    "7:00"
+   ],
+   "answer": 1,
+   "explanation": "They are full at seven, so: 'OK, eight is fine.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-051",
+   "type": "listening",
+   "topic": "clothes",
+   "scriptId": "a2-ls-26",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I'm going to a party tonight. Should I wear my yellow dress or my jeans?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "It's a garden party, and it's quite cold outside. Wear the jeans and your warm jumper."
+    }
+   ],
+   "question": "Where is the party?",
+   "options": [
+    "At school",
+    "In a garden",
+    "At a restaurant",
+    "At the beach"
+   ],
+   "answer": 1,
+   "explanation": "'It's a garden party.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-052",
+   "type": "listening",
+   "topic": "clothes",
+   "scriptId": "a2-ls-26",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "I'm going to a party tonight. Should I wear my yellow dress or my jeans?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "It's a garden party, and it's quite cold outside. Wear the jeans and your warm jumper."
+    }
+   ],
+   "question": "What does Mum suggest?",
+   "options": [
+    "Shorts and a T-shirt",
+    "A coat and a dress",
+    "The yellow dress",
+    "Jeans and a warm jumper"
+   ],
+   "answer": 3,
+   "explanation": "'Wear the jeans and your warm jumper.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-053",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "a2-ls-27",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "What does your sister do?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "She's a chef in a hotel restaurant. She works very long hours, but she loves cooking."
+    },
+    {
+     "speaker": "Man",
+     "text": "Does she cook at home too?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Never! I cook at home."
+    }
+   ],
+   "question": "Where does the sister work?",
+   "options": [
+    "In a hospital",
+    "In a hotel restaurant",
+    "At home",
+    "In a school"
+   ],
+   "answer": 1,
+   "explanation": "'She's a chef in a hotel restaurant.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-054",
+   "type": "listening",
+   "topic": "work",
+   "scriptId": "a2-ls-27",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "What does your sister do?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "She's a chef in a hotel restaurant. She works very long hours, but she loves cooking."
+    },
+    {
+     "speaker": "Man",
+     "text": "Does she cook at home too?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Never! I cook at home."
+    }
+   ],
+   "question": "Who cooks at home?",
+   "options": [
+    "The sister",
+    "The man",
+    "Nobody",
+    "The woman"
+   ],
+   "answer": 3,
+   "explanation": "'Never! I cook at home.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-055",
+   "type": "listening",
+   "topic": "animals",
+   "scriptId": "a2-ls-28",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "Welcome to the zoo! The elephants are near the main gate. The lions are at the end of this path, and you can watch the penguins having lunch at three o'clock."
+    }
+   ],
+   "question": "Where are the elephants?",
+   "options": [
+    "Behind the café",
+    "Next to the penguins",
+    "At the end of the path",
+    "Near the main gate"
+   ],
+   "answer": 3,
+   "explanation": "'The elephants are near the main gate.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-056",
+   "type": "listening",
+   "topic": "animals",
+   "scriptId": "a2-ls-28",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "Welcome to the zoo! The elephants are near the main gate. The lions are at the end of this path, and you can watch the penguins having lunch at three o'clock."
+    }
+   ],
+   "question": "What happens at three o'clock?",
+   "options": [
+    "The zoo closes.",
+    "There is an elephant show.",
+    "The lions have lunch.",
+    "The penguins have lunch."
+   ],
+   "answer": 3,
+   "explanation": "'…watch the penguins having lunch at three o'clock.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-057",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-29",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "How was your English exam?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "The reading part was easy, but the listening was difficult. The speakers talked really fast."
+    }
+   ],
+   "question": "Which part was easy?",
+   "options": [
+    "Writing",
+    "Listening",
+    "Reading",
+    "Speaking"
+   ],
+   "answer": 2,
+   "explanation": "'The reading part was easy.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-058",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-29",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "How was your English exam?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "The reading part was easy, but the listening was difficult. The speakers talked really fast."
+    }
+   ],
+   "question": "Why was the listening difficult?",
+   "options": [
+    "The sound was quiet.",
+    "It was very long.",
+    "The speakers talked fast.",
+    "She didn't sleep well."
+   ],
+   "answer": 2,
+   "explanation": "'The speakers talked really fast.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-059",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-30",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "We need milk, eggs and apples. Oh, and some rice."
+    },
+    {
+     "speaker": "Man",
+     "text": "We've got rice. I bought a big bag yesterday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "OK, so just milk, eggs and apples."
+    }
+   ],
+   "question": "Why don't they need rice?",
+   "options": [
+    "They will buy it next week.",
+    "They don't like rice.",
+    "The man bought some yesterday.",
+    "The shop has no rice."
+   ],
+   "answer": 2,
+   "explanation": "'We've got rice. I bought a big bag yesterday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-060",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-30",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "We need milk, eggs and apples. Oh, and some rice."
+    },
+    {
+     "speaker": "Man",
+     "text": "We've got rice. I bought a big bag yesterday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "OK, so just milk, eggs and apples."
+    }
+   ],
+   "question": "How many things will they buy?",
+   "options": [
+    "Four",
+    "Two",
+    "Three",
+    "Five"
+   ],
+   "answer": 2,
+   "explanation": "Milk, eggs and apples = three things.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-061",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "a2-ls-31",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hi, how much does it cost to join the gym?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's three hundred thousand dong a month, or three million for a year. The gym is open from five a.m. to ten p.m."
+    }
+   ],
+   "question": "How much is one month?",
+   "options": [
+    "300,000 dong",
+    "500,000 dong",
+    "30,000 dong",
+    "3,000,000 dong"
+   ],
+   "answer": 0,
+   "explanation": "'It's three hundred thousand dong a month.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-062",
+   "type": "listening",
+   "topic": "sport",
+   "scriptId": "a2-ls-31",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Hi, how much does it cost to join the gym?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It's three hundred thousand dong a month, or three million for a year. The gym is open from five a.m. to ten p.m."
+    }
+   ],
+   "question": "What time does the gym close?",
+   "options": [
+    "9 p.m.",
+    "10 p.m.",
+    "5 p.m.",
+    "11 p.m."
+   ],
+   "answer": 1,
+   "explanation": "'…open from five a.m. to ten p.m.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-063",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-32",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Hello, can I speak to Minh, please?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Sorry, he's playing football in the park. He'll be back at about six. Can I take a message?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Yes, please tell him Thu called."
+    }
+   ],
+   "question": "Where is Minh?",
+   "options": [
+    "At school",
+    "At home",
+    "In the park",
+    "At the shop"
+   ],
+   "answer": 2,
+   "explanation": "'He's playing football in the park.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-064",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-32",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Hello, can I speak to Minh, please?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Sorry, he's playing football in the park. He'll be back at about six. Can I take a message?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Yes, please tell him Thu called."
+    }
+   ],
+   "question": "When will he come back?",
+   "options": [
+    "At about five",
+    "At about six",
+    "Tomorrow",
+    "At about seven"
+   ],
+   "answer": 1,
+   "explanation": "'He'll be back at about six.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-065",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-33",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Two tickets to Da Lat, please."
+    },
+    {
+     "speaker": "Woman",
+     "text": "One-way or return?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Return. We're coming back on Sunday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's five hundred thousand dong, please. The bus leaves at nine fifteen."
+    }
+   ],
+   "question": "What kind of tickets does the man buy?",
+   "options": [
+    "Return",
+    "First class",
+    "Student",
+    "One-way"
+   ],
+   "answer": 0,
+   "explanation": "'Return. We're coming back on Sunday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-066",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-33",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Two tickets to Da Lat, please."
+    },
+    {
+     "speaker": "Woman",
+     "text": "One-way or return?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Return. We're coming back on Sunday."
+    },
+    {
+     "speaker": "Woman",
+     "text": "That's five hundred thousand dong, please. The bus leaves at nine fifteen."
+    }
+   ],
+   "question": "When does the bus leave?",
+   "options": [
+    "9:15",
+    "Sunday morning",
+    "9:50",
+    "5:15"
+   ],
+   "answer": 0,
+   "explanation": "'The bus leaves at nine fifteen.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-067",
+   "type": "listening",
+   "topic": "animals",
+   "scriptId": "a2-ls-34",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "My cat is ill. She doesn't want to eat."
+    },
+    {
+     "speaker": "Vet",
+     "text": "How old is she?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "She's eleven."
+    },
+    {
+     "speaker": "Vet",
+     "text": "OK, I'll check her now. Can you bring her back on Monday too?"
+    }
+   ],
+   "question": "What is wrong with the cat?",
+   "options": [
+    "She is too fat.",
+    "She can't sleep.",
+    "She doesn't want to eat.",
+    "She hurt her leg."
+   ],
+   "answer": 2,
+   "explanation": "'She doesn't want to eat.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-068",
+   "type": "listening",
+   "topic": "animals",
+   "scriptId": "a2-ls-34",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "My cat is ill. She doesn't want to eat."
+    },
+    {
+     "speaker": "Vet",
+     "text": "How old is she?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "She's eleven."
+    },
+    {
+     "speaker": "Vet",
+     "text": "OK, I'll check her now. Can you bring her back on Monday too?"
+    }
+   ],
+   "question": "How old is the cat?",
+   "options": [
+    "Eleven",
+    "Seven",
+    "One",
+    "Twelve"
+   ],
+   "answer": 0,
+   "explanation": "'She's eleven.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-069",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "a2-ls-35",
+   "script": [
+    {
+     "speaker": "Mum",
+     "text": "Can you help me, Nam? Please take out the rubbish and wash the dishes."
+    },
+    {
+     "speaker": "Nam",
+     "text": "I'll take out the rubbish now, but can I wash the dishes after my game finishes?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "OK, but only ten more minutes."
+    }
+   ],
+   "question": "What will Nam do now?",
+   "options": [
+    "Wash the dishes",
+    "Finish his homework",
+    "Take out the rubbish",
+    "Cook dinner"
+   ],
+   "answer": 2,
+   "explanation": "'I'll take out the rubbish now.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-070",
+   "type": "listening",
+   "topic": "home",
+   "scriptId": "a2-ls-35",
+   "script": [
+    {
+     "speaker": "Mum",
+     "text": "Can you help me, Nam? Please take out the rubbish and wash the dishes."
+    },
+    {
+     "speaker": "Nam",
+     "text": "I'll take out the rubbish now, but can I wash the dishes after my game finishes?"
+    },
+    {
+     "speaker": "Mum",
+     "text": "OK, but only ten more minutes."
+    }
+   ],
+   "question": "How long can Nam play?",
+   "options": [
+    "One more hour",
+    "Ten more minutes",
+    "Twenty more minutes",
+    "Five more minutes"
+   ],
+   "answer": 1,
+   "explanation": "'OK, but only ten more minutes.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-071",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-36",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Hi, are you new here?"
+    },
+    {
+     "speaker": "Kenji",
+     "text": "Yes, I'm Kenji. I'm from Osaka in Japan. My family moved here two weeks ago."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Welcome! I'm Lan. Do you want to sit with us at lunch?"
+    }
+   ],
+   "question": "Where is Kenji from?",
+   "options": [
+    "Korea",
+    "Vietnam",
+    "China",
+    "Japan"
+   ],
+   "answer": 3,
+   "explanation": "'I'm from Osaka in Japan.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-072",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-36",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Hi, are you new here?"
+    },
+    {
+     "speaker": "Kenji",
+     "text": "Yes, I'm Kenji. I'm from Osaka in Japan. My family moved here two weeks ago."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Welcome! I'm Lan. Do you want to sit with us at lunch?"
+    }
+   ],
+   "question": "When did his family move?",
+   "options": [
+    "Last weekend",
+    "Two months ago",
+    "Two years ago",
+    "Two weeks ago"
+   ],
+   "answer": 3,
+   "explanation": "'My family moved here two weeks ago.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-073",
+   "type": "listening",
+   "topic": "town",
+   "scriptId": "a2-ls-37",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "The museum opens at nine and closes at five, but on Fridays it stays open until eight. Tickets are half price for students."
+    }
+   ],
+   "question": "When does the museum close on Fridays?",
+   "options": [
+    "8 p.m.",
+    "6 p.m.",
+    "5 p.m.",
+    "9 p.m."
+   ],
+   "answer": 0,
+   "explanation": "'…on Fridays it stays open until eight.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-074",
+   "type": "listening",
+   "topic": "town",
+   "scriptId": "a2-ls-37",
+   "script": [
+    {
+     "speaker": "Guide",
+     "text": "The museum opens at nine and closes at five, but on Fridays it stays open until eight. Tickets are half price for students."
+    }
+   ],
+   "question": "Who gets cheaper tickets?",
+   "options": [
+    "Everyone on Fridays",
+    "Students",
+    "Teachers",
+    "Children under five"
+   ],
+   "answer": 1,
+   "explanation": "'Tickets are half price for students.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-075",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-38",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "This soup is delicious! What's in it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Carrots, potatoes and onions. And a little ginger."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ginger? I didn't know. It's really good."
+    }
+   ],
+   "question": "What does the man think of the soup?",
+   "options": [
+    "It's too salty.",
+    "It's too hot.",
+    "It's boring.",
+    "It's delicious."
+   ],
+   "answer": 3,
+   "explanation": "'This soup is delicious!'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-076",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-38",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "This soup is delicious! What's in it?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Carrots, potatoes and onions. And a little ginger."
+    },
+    {
+     "speaker": "Man",
+     "text": "Ginger? I didn't know. It's really good."
+    }
+   ],
+   "question": "Which vegetable is NOT in the soup?",
+   "options": [
+    "Carrots",
+    "Onions",
+    "Potatoes",
+    "Tomatoes"
+   ],
+   "answer": 3,
+   "explanation": "Carrots, potatoes, onions and ginger – no tomatoes.",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-077",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-39",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "Sports Day is next Friday. Students in Year 7 will run races in the morning, and Year 8 will play games in the afternoon. If it rains, we'll have it on Monday."
+    }
+   ],
+   "question": "What will Year 8 do?",
+   "options": [
+    "Have normal lessons",
+    "Play games in the afternoon",
+    "Run races in the morning",
+    "Swim in the afternoon"
+   ],
+   "answer": 1,
+   "explanation": "'…Year 8 will play games in the afternoon.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-078",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-39",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "Sports Day is next Friday. Students in Year 7 will run races in the morning, and Year 8 will play games in the afternoon. If it rains, we'll have it on Monday."
+    }
+   ],
+   "question": "What happens if it rains?",
+   "options": [
+    "It will be indoors on Friday.",
+    "Students go home early.",
+    "Sports Day will be cancelled.",
+    "Sports Day will be on Monday."
+   ],
+   "answer": 3,
+   "explanation": "'If it rains, we'll have it on Monday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-079",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-40",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Where are you going on holiday this year?"
+    },
+    {
+     "speaker": "Man",
+     "text": "We're going to Phu Quoc for a week. We want to swim, eat seafood and relax."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Lovely! Are you flying?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, it's only an hour from Ho Chi Minh City."
+    }
+   ],
+   "question": "How long is the holiday?",
+   "options": [
+    "A weekend",
+    "Two weeks",
+    "A month",
+    "A week"
+   ],
+   "answer": 3,
+   "explanation": "'We're going to Phu Quoc for a week.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-080",
+   "type": "listening",
+   "topic": "travel",
+   "scriptId": "a2-ls-40",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "Where are you going on holiday this year?"
+    },
+    {
+     "speaker": "Man",
+     "text": "We're going to Phu Quoc for a week. We want to swim, eat seafood and relax."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Lovely! Are you flying?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, it's only an hour from Ho Chi Minh City."
+    }
+   ],
+   "question": "How will they travel?",
+   "options": [
+    "By plane",
+    "By boat",
+    "By bus",
+    "By car"
+   ],
+   "answer": 0,
+   "explanation": "'Are you flying?' – 'Yes…'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-081",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-41",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Can I borrow your bike this afternoon?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Sorry, the back tyre has a hole. My dad's going to fix it tonight."
+    },
+    {
+     "speaker": "Boy",
+     "text": "No problem. I'll walk."
+    }
+   ],
+   "question": "What is wrong with the bike?",
+   "options": [
+    "The tyre has a hole.",
+    "The chain is broken.",
+    "The brakes don't work.",
+    "The bike is too small."
+   ],
+   "answer": 0,
+   "explanation": "'The back tyre has a hole.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-082",
+   "type": "listening",
+   "topic": "transport",
+   "scriptId": "a2-ls-41",
+   "script": [
+    {
+     "speaker": "Boy",
+     "text": "Can I borrow your bike this afternoon?"
+    },
+    {
+     "speaker": "Girl",
+     "text": "Sorry, the back tyre has a hole. My dad's going to fix it tonight."
+    },
+    {
+     "speaker": "Boy",
+     "text": "No problem. I'll walk."
+    }
+   ],
+   "question": "Who will fix it?",
+   "options": [
+    "A bike shop",
+    "The girl's dad",
+    "The girl",
+    "The boy"
+   ],
+   "answer": 1,
+   "explanation": "'My dad's going to fix it tonight.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-083",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-42",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How was the concert last night?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Fantastic! But it started late – at nine instead of eight – so I didn't get home until midnight."
+    }
+   ],
+   "question": "What time did the concert start?",
+   "options": [
+    "Seven o'clock",
+    "Nine o'clock",
+    "Midnight",
+    "Eight o'clock"
+   ],
+   "answer": 1,
+   "explanation": "'…at nine instead of eight.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-084",
+   "type": "listening",
+   "topic": "free time",
+   "scriptId": "a2-ls-42",
+   "script": [
+    {
+     "speaker": "Woman",
+     "text": "How was the concert last night?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Fantastic! But it started late – at nine instead of eight – so I didn't get home until midnight."
+    }
+   ],
+   "question": "How did the man feel about the concert?",
+   "options": [
+    "He didn't go.",
+    "He loved it.",
+    "He was bored.",
+    "He was angry."
+   ],
+   "answer": 1,
+   "explanation": "'Fantastic!'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-085",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "a2-ls-43",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "My phone battery is always dead by lunchtime."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe your phone is old. Or you use too many apps. Try closing them when you finish."
+    }
+   ],
+   "question": "What is the man's problem?",
+   "options": [
+    "His phone is broken.",
+    "He lost his phone.",
+    "His screen is cracked.",
+    "His battery runs out quickly."
+   ],
+   "answer": 3,
+   "explanation": "'My phone battery is always dead by lunchtime.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-086",
+   "type": "listening",
+   "topic": "technology",
+   "scriptId": "a2-ls-43",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "My phone battery is always dead by lunchtime."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Maybe your phone is old. Or you use too many apps. Try closing them when you finish."
+    }
+   ],
+   "question": "What does the woman suggest?",
+   "options": [
+    "Close apps after using them",
+    "Charge it at lunchtime",
+    "Buy a new phone today",
+    "Turn it off at night"
+   ],
+   "answer": 0,
+   "explanation": "'Try closing them when you finish.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-087",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "a2-ls-44",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Good morning. Today will be cold and cloudy, with a high of twelve degrees. Snow is possible in the mountains this evening."
+    }
+   ],
+   "question": "What is the highest temperature today?",
+   "options": [
+    "12 degrees",
+    "2 degrees",
+    "20 degrees",
+    "15 degrees"
+   ],
+   "answer": 0,
+   "explanation": "'…with a high of twelve degrees.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-088",
+   "type": "listening",
+   "topic": "weather",
+   "scriptId": "a2-ls-44",
+   "script": [
+    {
+     "speaker": "Presenter",
+     "text": "Good morning. Today will be cold and cloudy, with a high of twelve degrees. Snow is possible in the mountains this evening."
+    }
+   ],
+   "question": "Where might it snow?",
+   "options": [
+    "By the sea",
+    "Everywhere",
+    "In the mountains",
+    "In the city"
+   ],
+   "answer": 2,
+   "explanation": "'Snow is possible in the mountains this evening.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-089",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "a2-ls-45",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Doctor Lan can see you on Wednesday at three forty."
+    },
+    {
+     "speaker": "Patient",
+     "text": "Is there anything in the morning?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "No, sorry. The mornings are all full this week."
+    },
+    {
+     "speaker": "Patient",
+     "text": "OK, I'll take Wednesday, then."
+    }
+   ],
+   "question": "When is the appointment?",
+   "options": [
+    "Wednesday morning",
+    "Wednesday at 3:40",
+    "Thursday at 3:40",
+    "Wednesday at 3:00"
+   ],
+   "answer": 1,
+   "explanation": "'…on Wednesday at three forty.' – 'OK, I'll take Wednesday.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-090",
+   "type": "listening",
+   "topic": "health",
+   "scriptId": "a2-ls-45",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Doctor Lan can see you on Wednesday at three forty."
+    },
+    {
+     "speaker": "Patient",
+     "text": "Is there anything in the morning?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "No, sorry. The mornings are all full this week."
+    },
+    {
+     "speaker": "Patient",
+     "text": "OK, I'll take Wednesday, then."
+    }
+   ],
+   "question": "Why can't the patient have a morning appointment?",
+   "options": [
+    "The clinic is closed in the morning.",
+    "The doctor is on holiday.",
+    "The mornings are full.",
+    "The patient works in the morning."
+   ],
+   "answer": 2,
+   "explanation": "'The mornings are all full this week.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-091",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-46",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Can I have a large coffee with milk, please?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Sure. Anything else?"
+    },
+    {
+     "speaker": "Man",
+     "text": "A piece of carrot cake. How much is that?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Eighty-five thousand dong."
+    }
+   ],
+   "question": "What does the man order to eat?",
+   "options": [
+    "Nothing",
+    "A sandwich",
+    "Carrot cake",
+    "Chocolate cake"
+   ],
+   "answer": 2,
+   "explanation": "'A piece of carrot cake.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-092",
+   "type": "listening",
+   "topic": "food",
+   "scriptId": "a2-ls-46",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "Can I have a large coffee with milk, please?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Sure. Anything else?"
+    },
+    {
+     "speaker": "Man",
+     "text": "A piece of carrot cake. How much is that?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Eighty-five thousand dong."
+    }
+   ],
+   "question": "How much does he pay?",
+   "options": [
+    "95,000 dong",
+    "85,000 dong",
+    "80,000 dong",
+    "58,000 dong"
+   ],
+   "answer": 1,
+   "explanation": "'Eighty-five thousand dong.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-093",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-47",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "The drama club meets on Tuesdays after school in the hall. This term we're doing a play about pirates. Anyone can join – you don't need to be a good actor!"
+    }
+   ],
+   "question": "Where does the drama club meet?",
+   "options": [
+    "In classroom 5",
+    "In the gym",
+    "In the library",
+    "In the hall"
+   ],
+   "answer": 3,
+   "explanation": "'The drama club meets on Tuesdays after school in the hall.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-094",
+   "type": "listening",
+   "topic": "school",
+   "scriptId": "a2-ls-47",
+   "script": [
+    {
+     "speaker": "Teacher",
+     "text": "The drama club meets on Tuesdays after school in the hall. This term we're doing a play about pirates. Anyone can join – you don't need to be a good actor!"
+    }
+   ],
+   "question": "What is the play about?",
+   "options": [
+    "Pilots",
+    "Princes",
+    "Painters",
+    "Pirates"
+   ],
+   "answer": 3,
+   "explanation": "'…a play about pirates.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-095",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-48",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Are you free tomorrow morning?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "No, I'm going swimming with my dad at seven. But I'm free in the afternoon."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Great, let's study together at the library at two."
+    }
+   ],
+   "question": "What is the boy doing tomorrow morning?",
+   "options": [
+    "Playing football",
+    "Sleeping late",
+    "Swimming with his dad",
+    "Studying at the library"
+   ],
+   "answer": 2,
+   "explanation": "'I'm going swimming with my dad at seven.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-096",
+   "type": "listening",
+   "topic": "friends",
+   "scriptId": "a2-ls-48",
+   "script": [
+    {
+     "speaker": "Girl",
+     "text": "Are you free tomorrow morning?"
+    },
+    {
+     "speaker": "Boy",
+     "text": "No, I'm going swimming with my dad at seven. But I'm free in the afternoon."
+    },
+    {
+     "speaker": "Girl",
+     "text": "Great, let's study together at the library at two."
+    }
+   ],
+   "question": "Where will they study?",
+   "options": [
+    "At the library",
+    "At the boy's house",
+    "At a café",
+    "At school"
+   ],
+   "answer": 0,
+   "explanation": "'Let's study together at the library at two.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-097",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-49",
+   "script": [
+    {
+     "speaker": "Recording",
+     "text": "Thank you for calling Fresh Market. We are open Monday to Saturday from eight a.m. to nine p.m., and on Sundays from ten a.m. to six p.m."
+    }
+   ],
+   "question": "What time does the shop open on Sundays?",
+   "options": [
+    "6 a.m.",
+    "8 a.m.",
+    "9 a.m.",
+    "10 a.m."
+   ],
+   "answer": 3,
+   "explanation": "'…on Sundays from ten a.m. to six p.m.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-098",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-49",
+   "script": [
+    {
+     "speaker": "Recording",
+     "text": "Thank you for calling Fresh Market. We are open Monday to Saturday from eight a.m. to nine p.m., and on Sundays from ten a.m. to six p.m."
+    }
+   ],
+   "question": "When does it close on weekdays?",
+   "options": [
+    "10 p.m.",
+    "9 p.m.",
+    "8 p.m.",
+    "6 p.m."
+   ],
+   "answer": 1,
+   "explanation": "'Monday to Saturday from eight a.m. to nine p.m.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-099",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-50",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I bought this watch for my wife, but she doesn't like the colour. Can I change it?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Of course. Do you have the receipt?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, here it is."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Great. We have it in silver and gold."
+    }
+   ],
+   "question": "Why does the man want to change the watch?",
+   "options": [
+    "His wife doesn't like the colour.",
+    "It is too big.",
+    "It is too expensive.",
+    "It is broken."
+   ],
+   "answer": 0,
+   "explanation": "'…she doesn't like the colour.'",
+   "skill": "listening",
+   "level": "a2"
+  },
+  {
+   "id": "a2-listening-100",
+   "type": "listening",
+   "topic": "shopping",
+   "scriptId": "a2-ls-50",
+   "script": [
+    {
+     "speaker": "Man",
+     "text": "I bought this watch for my wife, but she doesn't like the colour. Can I change it?"
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Of course. Do you have the receipt?"
+    },
+    {
+     "speaker": "Man",
+     "text": "Yes, here it is."
+    },
+    {
+     "speaker": "Assistant",
+     "text": "Great. We have it in silver and gold."
+    }
+   ],
+   "question": "What does the assistant ask for?",
+   "options": [
+    "More money",
+    "His wife's name",
+    "His phone number",
+    "The receipt"
+   ],
+   "answer": 3,
+   "explanation": "'Do you have the receipt?'",
+   "skill": "listening",
+   "level": "a2"
+  }
+ ]
+}

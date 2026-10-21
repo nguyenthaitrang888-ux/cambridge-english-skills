@@ -1,0 +1,2550 @@
+{
+ "schemaVersion": 1,
+ "level": "b1",
+ "skill": "writing",
+ "title": {
+  "en": "Writing",
+  "vi": "Viết"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b1-writing-001",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "If I had more free time, I would learn to play the guitar.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Second conditional: If + past simple, would + verb (imaginary situation).",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-002",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "If I will see him tomorrow, I'll give him your message.",
+   "answers": [
+    "If I see him tomorrow, I'll give him your message.",
+    "If I see him tomorrow, I will give him your message."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "First conditional: if + present simple (not 'will').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-003",
+   "type": "guided",
+   "kind": "email",
+   "topic": "travel",
+   "prompt": "Your English friend Alex is coming to visit your country next month. Write an email to Alex.",
+   "promptVi": "Bạn người Anh tên Alex sẽ đến thăm đất nước bạn vào tháng tới. Hãy viết email cho Alex.",
+   "points": [
+    "suggest the best places to visit and why",
+    "give advice about the weather and what to pack",
+    "offer to meet and show Alex around"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Alex,\n\nI'm so excited that you're coming next month! If I were you, I'd spend a few days in Hoi An, because the old town is beautiful at night, and then go to Da Nang for the beaches.\n\nThe weather will probably be hot and humid, so pack light clothes, sun cream and a hat. It might rain in the afternoon, so an umbrella would be useful too.\n\nI'd love to show you around Hue, where I live. Let me know which dates work for you.\n\nSee you soon,\nMinh",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-004",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The book that you lent me was really interesting.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Relative clause: 'that you lent me' describes 'the book'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-005",
+   "type": "guided",
+   "kind": "email",
+   "topic": "complaint",
+   "prompt": "You bought a pair of trainers online, but they arrived late and damaged. Write an email to the company.",
+   "promptVi": "Bạn mua giày thể thao trực tuyến nhưng hàng giao muộn và bị hỏng. Hãy viết email cho công ty.",
+   "points": [
+    "explain what you ordered and when",
+    "describe the problems",
+    "say what you want the company to do"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Dear Sir or Madam,\n\nI am writing to complain about an order I placed on your website on 3rd May (order number 7730). I ordered a pair of white running trainers, which were supposed to arrive within three days.\n\nUnfortunately, they arrived two weeks late, and the box had been badly damaged. One of the trainers also has a long scratch on the side.\n\nI would like a full refund, including the delivery charge. I would be grateful if you could reply as soon as possible.\n\nYours faithfully,\nLan Nguyen",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-006",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'm looking forward to meet you.",
+   "answers": [
+    "I'm looking forward to meeting you.",
+    "I am looking forward to meeting you."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "look forward to + -ing: 'to' is a preposition here.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-007",
+   "type": "guided",
+   "kind": "email",
+   "topic": "invitation",
+   "prompt": "Write an email to your friend Sam inviting them to a weekend at your family's house in the countryside.",
+   "promptVi": "Viết email mời bạn Sam đến nghỉ cuối tuần tại nhà quê của gia đình bạn.",
+   "points": [
+    "say when and where it is",
+    "describe what you can do there",
+    "tell Sam how to get there"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Sam,\n\nWould you like to come and spend a weekend at my family's house in the countryside? We're going on the 14th and 15th of June. It's a small wooden house near a lake, about three hours from the city.\n\nThere's lots to do. We can go fishing, cycle through the rice fields or just relax in the garden. My grandmother is an amazing cook, so you'll eat really well!\n\nThe easiest way to get there is by coach, and I'll meet you at the bus station.\n\nHope you can come!\nHoa",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-008",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She has been working here since she left university.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Present perfect continuous + since + past event.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-009",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She suggested me to take a taxi.",
+   "answers": [
+    "She suggested that I take a taxi.",
+    "She suggested that I should take a taxi.",
+    "She suggested I take a taxi.",
+    "She suggested taking a taxi."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "suggest + (that) + subject + verb, or suggest + -ing. Not 'suggest someone to'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-010",
+   "type": "guided",
+   "kind": "email",
+   "topic": "advice",
+   "prompt": "Your friend Jamie has written to you saying they feel stressed about their final exams. Write a reply.",
+   "promptVi": "Bạn Jamie viết thư nói rằng họ căng thẳng vì kỳ thi cuối kỳ. Hãy viết thư trả lời.",
+   "points": [
+    "show that you understand how Jamie feels",
+    "give some practical advice about studying",
+    "suggest something relaxing to do"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Jamie,\n\nThanks for your email. I'm sorry you're feeling stressed – I felt exactly the same before my exams last year, so I know how hard it is.\n\nMy advice is to make a realistic timetable and study in short sessions of about forty minutes, with breaks in between. Also, try not to stay up late, because you'll remember much more if you get enough sleep.\n\nWhy don't you go for a swim or a walk every afternoon? Exercise really helps you clear your mind.\n\nGood luck – I know you'll do well!\nNam",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-011",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I wish I had studied harder for the exam.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "wish + past perfect = regret about the past.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-012",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I have seen that film last week.",
+   "answers": [
+    "I saw that film last week."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "With a finished past time (last week), use the past simple.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-013",
+   "type": "guided",
+   "kind": "email",
+   "topic": "work",
+   "prompt": "You need to miss an important team meeting. Write an email to your manager.",
+   "promptVi": "Bạn phải vắng mặt trong một cuộc họp nhóm quan trọng. Hãy viết email cho quản lý.",
+   "points": [
+    "apologise and explain why you can't attend",
+    "suggest how you can catch up",
+    "offer to help in another way"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Dear Ms Tran,\n\nI'm afraid I won't be able to attend Thursday's team meeting. I have a hospital appointment for my father that morning, which was arranged several weeks ago and can't be changed.\n\nI'd be grateful if someone could share the notes with me afterwards, and I'll make sure I read them the same day. I could also have a quick call with you on Friday morning to discuss anything important.\n\nIn the meantime, I'll send you my report on the sales figures so that the team can still discuss it.\n\nKind regards,\nDuc",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-014",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The museum was built more than two hundred years ago.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Passive (past simple): was/were + past participle.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-015",
+   "type": "guided",
+   "kind": "email",
+   "topic": "recommendation",
+   "prompt": "An English-speaking colleague wants to try Vietnamese food. Write an email recommending a restaurant.",
+   "promptVi": "Một đồng nghiệp nói tiếng Anh muốn thử món Việt. Hãy viết email giới thiệu một nhà hàng.",
+   "points": [
+    "say where the restaurant is and what it's like",
+    "recommend some dishes",
+    "give advice about booking and prices"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Chris,\n\nYou asked about Vietnamese food, so I'd definitely recommend Bep Me, a small family restaurant near the river. It isn't fancy, but it's always busy, which is a good sign!\n\nYou should try the grilled pork with rice noodles, which is their speciality, and the fresh spring rolls. If you like spicy food, the beef salad is excellent too.\n\nIt's quite cheap – about ten dollars per person – but it gets very crowded at weekends, so I'd book a table in advance or go early.\n\nEnjoy!\nLinh",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-016",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "My father use to work in a bank.",
+   "answers": [
+    "My father used to work in a bank."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Past habit: used to (with -d) + verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-017",
+   "type": "guided",
+   "kind": "email",
+   "topic": "course",
+   "prompt": "You want to join an evening photography course. Write an email to the course organiser.",
+   "promptVi": "Bạn muốn tham gia khóa học nhiếp ảnh buổi tối. Hãy viết email cho người tổ chức.",
+   "points": [
+    "say why you are interested",
+    "describe your experience",
+    "ask two questions about the course"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Dear Mr Wilson,\n\nI saw your advertisement for the evening photography course, and I would be very interested in joining. I've been taking photos on my phone for a few years, and I've recently bought my first proper camera, so I'd like to learn how to use it properly.\n\nI have no formal training, but I've had some photos published on a local travel website.\n\nCould you tell me how many students there are in each group? I'd also like to know whether we need to bring our own equipment.\n\nBest regards,\nThu Ha",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-018",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He asked me where I had bought my jacket.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Reported question: no question word order (where I had bought), and the tense moves back.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-019",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The man which helped me was very kind.",
+   "answers": [
+    "The man who helped me was very kind.",
+    "The man that helped me was very kind."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use 'who' or 'that' for people, not 'which'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-020",
+   "type": "guided",
+   "kind": "email",
+   "topic": "thanks",
+   "prompt": "You stayed with an English family for two weeks. Write an email to thank them.",
+   "promptVi": "Bạn đã ở cùng một gia đình người Anh trong hai tuần. Hãy viết email cảm ơn họ.",
+   "points": [
+    "thank them and say what you enjoyed most",
+    "describe something you learned",
+    "invite them to visit you"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Dear Mr and Mrs Brown,\n\nI'm writing to thank you for looking after me so well during my stay. I really enjoyed the trip to the seaside, and I'll never forget the fish and chips we ate on the beach!\n\nI learned so much while I was with you. My English has improved a lot, and I now understand why British people talk about the weather all the time.\n\nIf you ever visit Vietnam, you'd be very welcome to stay with my family. My parents would love to meet you.\n\nWith best wishes,\nKhanh",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-021",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Although it was raining, we decided to go for a walk.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Although' + clause shows contrast.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-022",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "We have lived in this house for 2018.",
+   "answers": [
+    "We have lived in this house since 2018."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "since + a point in time; for + a period of time.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-023",
+   "type": "guided",
+   "kind": "email",
+   "topic": "neighbour",
+   "prompt": "Your neighbour's tree is blocking light into your garden. Write a polite email to them.",
+   "promptVi": "Cây của nhà hàng xóm che mất ánh sáng vườn bạn. Hãy viết email lịch sự cho họ.",
+   "points": [
+    "explain the problem politely",
+    "say how it affects you",
+    "suggest a solution"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Dear Mrs Lee,\n\nI hope you're well. I wanted to mention something about the large tree between our gardens. It has grown a lot this year, and its branches now hang over our fence.\n\nUnfortunately, it blocks most of the sunlight in the afternoon, so my vegetables aren't growing well, and the garden feels quite dark.\n\nWould you mind if we arranged for a gardener to cut back some of the branches? I'd be happy to share the cost. Perhaps we could talk about it at the weekend?\n\nBest wishes,\nPeter",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-024",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "You'd better take an umbrella in case it rains.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "had better + verb (advice); in case + present simple.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-025",
+   "type": "guided",
+   "kind": "email",
+   "topic": "holiday",
+   "prompt": "Write an email to a friend telling them about a disappointing holiday.",
+   "promptVi": "Viết email kể cho bạn về một kỳ nghỉ đáng thất vọng.",
+   "points": [
+    "say where you went and what you expected",
+    "describe what went wrong",
+    "say what you learned from the experience"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Mai,\n\nI've just got back from Phu Quoc, and to be honest, it was a bit of a disaster. I'd seen photos of empty beaches and expected a quiet, relaxing week.\n\nInstead, it rained for five days, and our hotel was next to a building site, so we were woken up by drilling every morning. On the last day, my sister lost her phone on a boat trip!\n\nNext time, I'll read reviews more carefully and check the weather forecast before I book anything.\n\nHope your summer is going better than mine!\nTrang",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-026",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Despite of the rain, we played football.",
+   "answers": [
+    "Despite the rain, we played football.",
+    "In spite of the rain, we played football."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'despite' has no 'of'; 'in spite of' does.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-027",
+   "type": "guided",
+   "kind": "email",
+   "topic": "club",
+   "prompt": "You want to start an English conversation club at your school or workplace. Write an email to your colleagues.",
+   "promptVi": "Bạn muốn lập câu lạc bộ nói tiếng Anh ở trường/cơ quan. Hãy viết email cho đồng nghiệp.",
+   "points": [
+    "explain your idea and why it would be useful",
+    "say when and where the club would meet",
+    "ask people to reply if they're interested"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi everyone,\n\nI'm thinking of starting an English conversation club, and I'd love to know if anyone would like to join. Many of us use English with clients, but we don't get much chance to practise speaking in a relaxed way.\n\nThe idea is to meet every Wednesday from 5.30 to 6.30 in the small meeting room. Each week, someone would choose a topic, and we'd chat over tea and snacks. All levels are welcome.\n\nIf you're interested, please reply by Friday so I can plan the first session.\n\nThanks,\nAnh",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-028",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I'm not used to getting up so early in the morning.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "be used to + -ing = be accustomed to.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-029",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Can you tell me where does she live?",
+   "answers": [
+    "Can you tell me where she lives?"
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Indirect questions use normal word order: where she lives.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-030",
+   "type": "guided",
+   "kind": "email",
+   "topic": "apology",
+   "prompt": "You forgot to return a book you borrowed from a friend, and they need it. Write an email.",
+   "promptVi": "Bạn quên trả cuốn sách mượn của bạn, và họ đang cần nó. Hãy viết email.",
+   "points": [
+    "apologise and explain what happened",
+    "say when and how you will return it",
+    "offer something to make up for it"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Ben,\n\nI'm really sorry – I completely forgot to bring your book back last week. I'd put it in my bag, but then I changed bags and left it at home. I know you need it for your essay, so I feel terrible.\n\nI'll drop it off at your flat tomorrow morning on my way to work, at about eight o'clock. If you're not in, I'll leave it with the security guard.\n\nTo make up for it, let me buy you a coffee this weekend. Again, sorry!\n\nTom",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-031",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "By the time we arrived, the film had already started.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Past perfect for the earlier of two past actions.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-032",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "This phone is the more expensive in the shop.",
+   "answers": [
+    "This phone is the most expensive in the shop.",
+    "This phone is the most expensive one in the shop."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Superlative with three or more things: the most + adjective.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-033",
+   "type": "guided",
+   "kind": "note",
+   "topic": "flatmate",
+   "prompt": "Write a note to your flatmate explaining that you'll be away for the weekend and asking them to do some things.",
+   "promptVi": "Viết lời nhắn cho bạn cùng phòng rằng bạn đi vắng cuối tuần và nhờ họ làm vài việc.",
+   "points": [
+    "say where you're going and when you'll be back",
+    "ask them to do two things for you",
+    "thank them"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Jess,\n\nJust to let you know, I'm going to my parents' house in Vung Tau this weekend. I'm leaving straight after work on Friday, and I'll be back on Sunday evening, probably around nine.\n\nCould you possibly water the plants on the balcony on Saturday? They dry out really quickly in this heat. Also, a parcel should arrive for me on Saturday morning – would you mind signing for it?\n\nThanks so much. I'll bring you back some of my mum's famous cakes!\n\nVy",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-034",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "This is the best meal I have ever eaten.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Superlative + present perfect + ever.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-035",
+   "type": "guided",
+   "kind": "note",
+   "topic": "colleague",
+   "prompt": "You are going on holiday. Write a note for the colleague who will cover your work.",
+   "promptVi": "Bạn sắp đi nghỉ. Hãy viết lời nhắn cho đồng nghiệp sẽ làm thay việc của bạn.",
+   "points": [
+    "explain the most important tasks",
+    "say where to find files and information",
+    "say who to contact if there's a problem"
+   ],
+   "minWords": 70,
+   "sampleAnswer": "Hi Quang,\n\nThanks again for covering for me while I'm away. The most important thing is to reply to customer emails every morning and send the weekly sales report to Mr Hung by Friday afternoon.\n\nAll the files you'll need are in the shared folder called 'Sales 2026'. The password for the report system is on the yellow note in my top drawer.\n\nIf there's a serious problem, please contact Ms Hien in the finance department, as she knows the clients well. I'll be back on the 20th.\n\nCheers,\nPhuong",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I used a suitable greeting, ending and style (formal: Dear Sir or Madam… Yours faithfully; informal: Hi… Best wishes).",
+     "vi": "Mình dùng lời chào, lời kết và văn phong phù hợp (trang trọng: Dear Sir or Madam… Yours faithfully; thân mật: Hi… Best wishes)."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-036",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'm very interesting in photography.",
+   "answers": [
+    "I'm very interested in photography.",
+    "I am very interested in photography."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "-ed adjectives describe feelings (interested); -ing adjectives describe the thing (interesting).",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-037",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story that begins: 'As soon as I opened the door, I knew something was wrong.'",
+   "promptVi": "Viết một câu chuyện bắt đầu bằng: 'Ngay khi mở cửa, tôi biết có chuyện gì đó không ổn.'",
+   "points": [
+    "describe what you saw or heard",
+    "explain what happened next",
+    "give the story a surprising ending"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "As soon as I opened the door, I knew something was wrong. The living room was completely dark, although I was sure I had left a light on that morning. Then I heard a strange noise coming from the kitchen.\n\nMy heart was beating fast as I picked up an umbrella and walked slowly towards the sound. I pushed the kitchen door open and switched on the light.\n\nSuddenly, about twenty people jumped out and shouted, 'Happy birthday!' My best friend had borrowed my spare key and organised a surprise party. I had completely forgotten that it was my birthday!",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-038",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The man who lives next door is a famous chef.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Relative pronoun 'who' for people.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-039",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The news are very bad today.",
+   "answers": [
+    "The news is very bad today."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'News' is uncountable and takes a singular verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-040",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story that ends: '…and that was the last time I ever trusted a map.'",
+   "promptVi": "Viết một câu chuyện kết thúc bằng: '…và đó là lần cuối cùng tôi tin vào bản đồ.'",
+   "points": [
+    "say where you were and who you were with",
+    "describe how things went wrong",
+    "use the ending sentence"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Last summer, my cousin and I decided to walk to a waterfall that we had seen on a tourist map. According to the map, it was only five kilometres from our hotel, so we didn't bother taking much water.\n\nAfter two hours, we were still walking through thick forest, and the path had disappeared. My phone had no signal, and it was getting dark. We were starting to panic when we met an old farmer, who laughed when he saw our map. The waterfall, he explained, was on the other side of the mountain.\n\nHe kindly drove us back to the hotel on his motorbike, and that was the last time I ever trusted a map.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-041",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I'm looking forward to seeing you next weekend.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "look forward to + -ing.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-042",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She gave me an useful advice.",
+   "answers": [
+    "She gave me a useful piece of advice.",
+    "She gave me some useful advice.",
+    "She gave me useful advice."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Advice' is uncountable (no a/an); also 'useful' starts with a /j/ sound, so 'a'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-043",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story about a day when everything went wrong.",
+   "promptVi": "Viết một câu chuyện về một ngày mà mọi thứ đều trục trặc.",
+   "points": [
+    "describe how the day started",
+    "describe at least two problems",
+    "explain how the day ended"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "It was the day of my first job interview, and I had planned everything carefully. Unfortunately, my alarm didn't go off, so I woke up forty minutes late.\n\nI got dressed quickly and ran out of the house, but as I was crossing the road, a motorbike drove through a huge puddle and splashed my white shirt. Then my bus broke down halfway into town, and I had to run the last kilometre in the rain.\n\nWhen I finally arrived, wet and out of breath, the manager smiled and said she had been caught in the same traffic. She had only just arrived herself. The interview went well, and I got the job!",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-044",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Do you know what time the last train leaves?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Indirect question: what time + subject + verb (not 'does the train leave').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-045",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story with the title 'The Lost Wallet'.",
+   "promptVi": "Viết một câu chuyện với tiêu đề 'Chiếc ví bị mất'.",
+   "points": [
+    "describe how the wallet was found or lost",
+    "explain the main character's decision",
+    "say what happened in the end"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Linh was walking home from school when she noticed a brown leather wallet lying on the pavement. When she opened it, she saw a large amount of cash and an ID card belonging to an elderly man called Mr Tuan.\n\nFor a moment, Linh thought about how much she could buy with the money. However, she knew it would be wrong to keep it, so she decided to find the owner. The address on the card was only two streets away.\n\nWhen Mr Tuan opened the door, he almost cried. The money was for his granddaughter's operation. The next week, a newspaper published a story about Linh's honesty, and her school gave her a special award.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-046",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I wish I can speak French.",
+   "answers": [
+    "I wish I could speak French."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "wish + past form (could) for present wishes.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-047",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story that begins: 'I had never felt so nervous in my life.'",
+   "promptVi": "Viết một câu chuyện bắt đầu bằng: 'Tôi chưa bao giờ hồi hộp đến thế trong đời.'",
+   "points": [
+    "explain why you were nervous",
+    "describe what happened",
+    "say how you felt afterwards"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "I had never felt so nervous in my life. In five minutes, I would have to walk onto the stage and sing in front of the whole school. I had practised the song a hundred times, but now my hands were shaking and my mouth was completely dry.\n\nWhen my name was called, I walked slowly to the microphone. For the first few seconds, my voice was very quiet, but then I saw my best friend smiling in the front row. I relaxed and sang the rest of the song with confidence.\n\nAt the end, everyone stood up and clapped. I felt incredibly proud, and I realised that sometimes fear is just excitement in disguise.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-048",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "We might go to the beach if the weather is nice.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "might = possibility; first conditional with 'if' + present simple.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-049",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He's very good in fixing computers.",
+   "answers": [
+    "He's very good at fixing computers.",
+    "He is very good at fixing computers."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "good at + -ing.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-050",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story about meeting someone unexpected while travelling.",
+   "promptVi": "Viết một câu chuyện về việc gặp một người bất ngờ khi đi du lịch.",
+   "points": [
+    "describe where you were",
+    "explain who you met and how",
+    "say why the meeting was important"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Last year, I was waiting for a delayed train in a small station in northern Thailand. It was late at night, and the only other passenger was an old woman with a huge bag of mangoes.\n\nWe started chatting, and I discovered that she had lived in Vietnam fifty years ago and still spoke a little Vietnamese. She told me amazing stories about her life as a teacher in Hanoi. When the train finally arrived, we had been talking for three hours.\n\nBefore she got off, she gave me her address and half of her mangoes. We still write to each other, and she has become like a second grandmother to me.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-051",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She told me that she was moving to Canada.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Reported speech: present continuous → past continuous.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-052",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "When we got to the station, the train already left.",
+   "answers": [
+    "When we got to the station, the train had already left."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Past perfect for the earlier past action: had already left.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-053",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story with the title 'The Storm'.",
+   "promptVi": "Viết một câu chuyện với tiêu đề 'Cơn bão'.",
+   "points": [
+    "describe the place and the weather",
+    "explain what the characters did",
+    "describe how the story ended"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "The sky had been grey all afternoon, but nobody in our village expected such a terrible storm. By eight o'clock, the wind was so strong that trees were falling across the roads, and the electricity had gone off.\n\nMy father and I were checking the windows when we heard someone shouting outside. Our elderly neighbour's roof had started to collapse. We ran next door, helped her out and brought her to our house, where we all sat together by candlelight.\n\nThe next morning, the village was a mess, but nobody had been seriously hurt. Everyone spent the following week helping each other repair their homes, and our street has never felt so close.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-054",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "My phone needs to be charged before we leave.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Passive infinitive: need to be + past participle.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-055",
+   "type": "guided",
+   "kind": "story",
+   "topic": "story",
+   "prompt": "Write a story that ends: 'From that day on, I always checked my bag twice.'",
+   "promptVi": "Viết một câu chuyện kết thúc bằng: 'Từ hôm đó trở đi, tôi luôn kiểm tra túi hai lần.'",
+   "points": [
+    "describe where you were going",
+    "explain what you forgot and why it mattered",
+    "use the ending sentence"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "I was so excited about my first trip abroad that I hardly slept the night before. I packed my suitcase three times and arrived at the airport two hours early, feeling very proud of myself.\n\nHowever, when I reached the check-in desk, I opened my bag and realised that my passport was not there. I had taken it out the night before to check the photo and left it on the kitchen table! I called my brother, who rushed to the airport on his motorbike. He arrived just ten minutes before the desk closed.\n\nI made the flight, but I'd never felt so stressed. From that day on, I always checked my bag twice.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-056",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "You should to see a doctor.",
+   "answers": [
+    "You should see a doctor."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Modal verbs (should, must, can) are followed by the base verb without 'to'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-057",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "An English website is asking readers: 'What is the best way to spend a free weekend in your city?' Write an article.",
+   "promptVi": "Một trang web tiếng Anh hỏi độc giả: 'Cách tốt nhất để tận hưởng một cuối tuần rảnh rỗi ở thành phố của bạn là gì?' Hãy viết bài.",
+   "points": [
+    "suggest activities for daytime",
+    "suggest activities for the evening",
+    "explain why visitors would enjoy them"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "A Perfect Weekend in Saigon\n\nSaigon is a city that never sleeps, so there's always something to do. On Saturday morning, start with a strong iced coffee at a pavement café and watch the motorbikes go by. Then visit the War Remnants Museum, which is moving and very informative.\n\nIn the evening, take a walk along Nguyen Hue walking street, where families and street performers gather. After that, head to District 4 for some of the best seafood in the city.\n\nWhat makes a weekend here special is the energy. Although it can be noisy, the friendly people and delicious food will make you want to come back.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-058",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It's the first time I've ever been on a plane.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "It's the first time + present perfect.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-059",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Everybody have a mobile phone these days.",
+   "answers": [
+    "Everybody has a mobile phone these days."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Everybody/everyone takes a singular verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-060",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "Write an article for a student magazine with the title 'Why everyone should learn to cook'.",
+   "promptVi": "Viết một bài báo cho tạp chí sinh viên với tiêu đề 'Vì sao ai cũng nên học nấu ăn'.",
+   "points": [
+    "explain the health benefits",
+    "explain the financial benefits",
+    "give some tips for beginners"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Why Everyone Should Learn to Cook\n\nMany students live on instant noodles and takeaways, but learning to cook is one of the most useful skills you can have.\n\nFirstly, cooking at home is much healthier. You know exactly what is in your food, so you can use less salt, sugar and oil. Secondly, it saves a lot of money. A home-cooked meal often costs less than half the price of a takeaway.\n\nIf you're a beginner, start with simple dishes like fried rice or omelettes. Watch online videos, and don't worry about mistakes – everyone burns something at first! Soon you'll be inviting friends round for dinner.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-061",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He is not only talented but also very modest.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "not only … but also … joins two ideas.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-062",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "My mum made me to clean my room.",
+   "answers": [
+    "My mum made me clean my room."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "make + person + base verb (no 'to').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-063",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "Write an article about a person who has had a big influence on your life.",
+   "promptVi": "Viết một bài báo về người có ảnh hưởng lớn đến cuộc đời bạn.",
+   "points": [
+    "say who the person is",
+    "describe what they did",
+    "explain how they changed your life"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "The Teacher Who Believed in Me\n\nWhen I was fourteen, I was failing almost every subject, and I had completely lost interest in school. Then Mr Long became my form teacher.\n\nInstead of punishing me for my bad results, he asked me what I was interested in. When I told him I loved drawing, he encouraged me to design posters for school events. For the first time, I felt that I was good at something.\n\nSlowly, my confidence grew, and my grades improved too. Today I work as a graphic designer, and I often think that without Mr Long, I would never have found my passion.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-064",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I used to live in a small village near the sea.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "used to + verb = past habit or state that is no longer true.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-065",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "Write an article for a travel blog about a place in your country that tourists don't usually visit.",
+   "promptVi": "Viết bài cho blog du lịch về một địa điểm ở nước bạn mà du khách ít đến.",
+   "points": [
+    "describe the place",
+    "say what visitors can do there",
+    "give practical advice about getting there"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Ba Be: Vietnam's Hidden Lake\n\nMost tourists heading north go straight to Ha Long Bay or Sapa, but if you want peace and quiet, you should visit Ba Be National Park instead.\n\nThe park is home to a beautiful lake surrounded by forested mountains and small villages. Visitors can take a boat trip through caves, kayak on the calm water or stay overnight in a traditional wooden house with a local family.\n\nThe park is about six hours by bus from Hanoi, so it's best to stay for at least two nights. Bring warm clothes in winter, as the evenings can be surprisingly cold.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-066",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'm agree with you.",
+   "answers": [
+    "I agree with you."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Agree' is a verb; don't use 'am' before it.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-067",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "Write an article with the title 'Are we too dependent on our phones?'",
+   "promptVi": "Viết bài báo với tiêu đề 'Chúng ta có quá phụ thuộc vào điện thoại không?'",
+   "points": [
+    "describe how people use phones today",
+    "give your opinion with reasons",
+    "suggest how people could use them less"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Are We Too Dependent on Our Phones?\n\nLook around any café or bus and you'll see the same thing: almost everyone is staring at a screen. We use our phones to work, shop, chat and even find our way home.\n\nIn my opinion, we have become too dependent on them. Many people feel anxious if they leave their phone at home, and constant notifications make it hard to concentrate. We also spend less time talking face to face.\n\nThere are some simple solutions, though. Try turning off notifications, keeping your phone out of the bedroom and having phone-free meals with your family. You might be surprised how much better you feel.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-068",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The more you practise, the more confident you will become.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "The + comparative …, the + comparative … .",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-069",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "This is the town where I was born in.",
+   "answers": [
+    "This is the town where I was born.",
+    "This is the town I was born in.",
+    "This is the town that I was born in."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Don't use both 'where' and 'in'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-070",
+   "type": "guided",
+   "kind": "article",
+   "topic": "article",
+   "prompt": "Write an article for a school website about a festival or celebration in your country.",
+   "promptVi": "Viết bài cho website trường về một lễ hội ở đất nước bạn.",
+   "points": [
+    "explain when and why it is celebrated",
+    "describe what people do",
+    "say why it is important to you"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "The Mid-Autumn Festival\n\nThe Mid-Autumn Festival takes place on the fifteenth day of the eighth lunar month, when the moon is at its brightest. Traditionally, it was a time for farmers to celebrate the end of the harvest, but today it is mostly a festival for children.\n\nIn the weeks before, shops are full of colourful lanterns and mooncakes filled with lotus seeds or egg yolk. On the night itself, children carry lanterns through the streets, and there are lion dances everywhere.\n\nFor me, it is a special time because my whole family sits together, eats mooncakes and watches the moon, just as we did when I was small.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-071",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Unless you hurry, you will miss the bus.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "unless = if … not.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-072",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The exam was easier than I thought it is.",
+   "answers": [
+    "The exam was easier than I thought it was.",
+    "The exam was easier than I thought."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Keep the tenses consistent: thought … was.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-073",
+   "type": "guided",
+   "kind": "review",
+   "topic": "review",
+   "prompt": "Write a review of a film you have seen recently for an English-language website.",
+   "promptVi": "Viết bài đánh giá một bộ phim bạn mới xem cho trang web tiếng Anh.",
+   "points": [
+    "say what the film is about without giving away the ending",
+    "describe what you liked and didn't like",
+    "say who you would recommend it to"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "The Last Lighthouse – Review\n\nThe Last Lighthouse tells the story of a young woman who moves to a remote island to look after a lighthouse after her father's death. While she is there, she discovers letters that reveal a family secret.\n\nThe photography is stunning, and the main actress gives a powerful performance. However, the film is rather slow in the middle, and a few scenes could have been cut.\n\nOverall, I'd recommend it to anyone who enjoys emotional dramas and beautiful scenery. If you prefer action films, though, you might find it a little boring. I'd give it four stars out of five.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-074",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I would rather stay at home than go to the party.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "would rather + verb + than + verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-075",
+   "type": "guided",
+   "kind": "review",
+   "topic": "review",
+   "prompt": "Write a review of a café or restaurant you know well.",
+   "promptVi": "Viết bài đánh giá một quán cà phê hoặc nhà hàng mà bạn biết rõ.",
+   "points": [
+    "describe the place and atmosphere",
+    "comment on the food, service and prices",
+    "say whether you would recommend it"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "The Green Corner Café – Review\n\nTucked away in a quiet lane, The Green Corner is a small café full of plants and old wooden furniture. It's the perfect place to read a book or work on your laptop, as the atmosphere is calm and the Wi-Fi is fast.\n\nThe coconut coffee is the best I've ever tasted, and the homemade banana cake is delicious. The staff are friendly, although service can be slow when it's busy. Prices are slightly higher than average, but the quality makes it worth it.\n\nI'd highly recommend it to students and anyone looking for a peaceful escape from the noisy city.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-076",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "We discussed about the problem for hours.",
+   "answers": [
+    "We discussed the problem for hours."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Discuss' takes a direct object (no 'about').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-077",
+   "type": "guided",
+   "kind": "review",
+   "topic": "review",
+   "prompt": "Write a review of a book that you would recommend to other students.",
+   "promptVi": "Viết bài đánh giá một cuốn sách bạn muốn giới thiệu cho các bạn học sinh khác.",
+   "points": [
+    "say what kind of book it is and what it's about",
+    "explain what makes it special",
+    "say who would enjoy it"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Book Review: The Boy Who Planted Trees\n\nThis short novel is about a teenager who decides to plant a tree every day for a year in his polluted hometown. At first, his neighbours laugh at him, but gradually the whole town joins in.\n\nWhat makes the book special is the main character. He isn't a superhero; he's a shy, ordinary boy who changes things through patience and hard work. The writing is simple but very moving, and I finished it in one weekend.\n\nI would recommend it to anyone who cares about the environment, and especially to teenagers who think one person can't make a difference.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-078",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "They have just been told about the changes.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Present perfect passive: have been + past participle; 'just' goes after have.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-079",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I've lost my keys yesterday.",
+   "answers": [
+    "I lost my keys yesterday."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Yesterday' is a finished time, so use the past simple.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-080",
+   "type": "guided",
+   "kind": "review",
+   "topic": "review",
+   "prompt": "Write a review of a mobile app that you use regularly.",
+   "promptVi": "Viết bài đánh giá một ứng dụng điện thoại mà bạn thường xuyên dùng.",
+   "points": [
+    "describe what the app does",
+    "explain its good and bad points",
+    "say whether you think others should download it"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "App Review: StepUp\n\nStepUp is a fitness app that counts your daily steps and sets you small challenges, like walking an extra kilometre or taking the stairs instead of the lift. You can also compete with friends, which makes it more motivating.\n\nThe best thing about it is how simple it is to use, and the basic version is free. On the other hand, it uses a lot of battery, and the free version shows quite a few adverts, which can be annoying.\n\nOverall, it's a great app for anyone who wants to be more active without joining a gym. I'd definitely recommend giving it a try.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-081",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Could you tell me how to get to the station?",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Polite indirect question: Could you tell me + how to + verb?",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-082",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She works as a nurse since five years.",
+   "answers": [
+    "She has worked as a nurse for five years.",
+    "She has been working as a nurse for five years."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use the present perfect + for + period for something that started in the past and continues.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-083",
+   "type": "guided",
+   "kind": "review",
+   "topic": "review",
+   "prompt": "Write a review of a concert, show or sports event you attended.",
+   "promptVi": "Viết bài đánh giá một buổi hòa nhạc, chương trình hoặc sự kiện thể thao bạn đã tham dự.",
+   "points": [
+    "describe the event and the venue",
+    "say what the highlights were",
+    "mention anything that could have been better"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Concert Review: Sunset Sounds Festival\n\nLast Saturday, I went to the Sunset Sounds Festival, which was held on the beach for the first time this year. Around five thousand people came to watch eight bands perform as the sun went down over the sea.\n\nThe highlight was definitely the final band, who played all their famous songs while fireworks lit up the sky. The atmosphere was fantastic, and everyone was singing along.\n\nHowever, the organisation could have been better. The queues for food and drinks were extremely long, and there weren't enough toilets. If they fix these problems, next year's festival will be even better.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-084",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Despite feeling tired, she finished her report on time.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "despite + -ing / noun (no 'of').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-085",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "education",
+   "prompt": "Write an essay: 'Students should be allowed to use their phones in class.' Do you agree?",
+   "promptVi": "Viết bài luận: 'Học sinh nên được phép dùng điện thoại trong lớp.' Bạn có đồng ý không?",
+   "points": [
+    "give at least one advantage",
+    "give at least one disadvantage",
+    "give your own opinion with a reason"
+   ],
+   "minWords": 90,
+   "sampleAnswer": "Nowadays, almost every student owns a smartphone, so many schools are discussing whether phones should be allowed in class.\n\nOn the one hand, phones can be useful learning tools. Students can look up words, do online quizzes and research topics quickly. Teachers can also use apps to make lessons more interactive.\n\nOn the other hand, phones are a big distraction. Many students are tempted to check social media or play games instead of listening. Phones can also make it easier to cheat in tests.\n\nIn my opinion, phones should only be allowed when the teacher asks students to use them for a specific activity. This way, students get the benefits without the distractions.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-086",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The film was so bored that I fell asleep.",
+   "answers": [
+    "The film was so boring that I fell asleep."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "The film causes the feeling, so use 'boring'.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-087",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "environment",
+   "prompt": "Write an essay: 'Cars should be banned from city centres.' Do you agree?",
+   "promptVi": "Viết bài luận: 'Nên cấm ô tô ở trung tâm thành phố.' Bạn có đồng ý không?",
+   "points": [
+    "explain the benefits of a ban",
+    "explain the problems a ban might cause",
+    "give your own opinion"
+   ],
+   "minWords": 90,
+   "sampleAnswer": "Traffic jams and air pollution are serious problems in many big cities, and some people believe the solution is to ban cars from city centres completely.\n\nThere are clear benefits to this idea. The air would be cleaner, the streets would be quieter and safer for pedestrians, and there would be more space for parks and cafés. People might also walk or cycle more, which is good for their health.\n\nHowever, a ban could cause problems for elderly or disabled people, as well as for businesses that need to deliver goods. Public transport would also need to improve a lot.\n\nOverall, I agree with the idea, but only if cities first provide cheap, reliable buses and trains for everyone.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-088",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The children were too excited to fall asleep.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "too + adjective + to + verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-089",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "If I were you, I will apply for that job.",
+   "answers": [
+    "If I were you, I would apply for that job.",
+    "If I were you, I'd apply for that job."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Second conditional: If I were you, I would …",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-090",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "work",
+   "prompt": "Write an essay: 'It is better to work for yourself than for a company.' Do you agree?",
+   "promptVi": "Viết bài luận: 'Tự kinh doanh tốt hơn làm cho công ty.' Bạn có đồng ý không?",
+   "points": [
+    "discuss the advantages of being self-employed",
+    "discuss the advantages of working for a company",
+    "give your opinion"
+   ],
+   "minWords": 90,
+   "sampleAnswer": "More and more young people dream of running their own business instead of working for a company. But is it really the better choice?\n\nBeing self-employed has many advantages. You can choose your own hours, make your own decisions and keep all the profits. For creative people, this freedom can be very motivating.\n\nOn the other hand, working for a company offers security. Employees receive a regular salary, paid holidays and health insurance. They can also learn from experienced colleagues and don't have to worry about finding customers.\n\nIn my view, neither option is better for everyone. It depends on a person's personality and situation. I think it is wise to gain experience in a company first and then start a business later.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-091",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He suggested going to the new Thai restaurant.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "suggest + -ing.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-092",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I look forward to hear from you.",
+   "answers": [
+    "I look forward to hearing from you."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "look forward to + -ing.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-093",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "technology",
+   "prompt": "Write an essay: 'Online learning is as good as learning in a classroom.' Do you agree?",
+   "promptVi": "Viết bài luận: 'Học trực tuyến tốt ngang học trên lớp.' Bạn có đồng ý không?",
+   "points": [
+    "give arguments for online learning",
+    "give arguments for classroom learning",
+    "give your own opinion"
+   ],
+   "minWords": 90,
+   "sampleAnswer": "Since the pandemic, online learning has become a normal part of education. Some people now claim that it is just as effective as learning in a classroom.\n\nOnline learning certainly has advantages. Students can study at their own speed, watch lessons again and save time travelling. It also allows people in remote areas to take courses from the best universities.\n\nHowever, classroom learning offers things that are difficult to replace. Students can ask questions immediately, work in groups and build friendships. Many learners also find it hard to stay motivated when they study alone at home.\n\nPersonally, I believe a mix of both is ideal. Online materials are great for practice, but face-to-face lessons are still essential for motivation and communication.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-094",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I can't afford to buy a new laptop at the moment.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "afford + to + verb.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-095",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "health",
+   "prompt": "Write an essay: 'Young people today are less healthy than their parents were.' Do you agree?",
+   "promptVi": "Viết bài luận: 'Giới trẻ ngày nay kém khỏe mạnh hơn thế hệ cha mẹ.' Bạn có đồng ý không?",
+   "points": [
+    "give reasons why young people may be less healthy",
+    "give reasons why they may be healthier",
+    "give your opinion"
+   ],
+   "minWords": 90,
+   "sampleAnswer": "It is often said that young people today are less healthy than their parents were at the same age. There is some truth in this, but the situation is more complicated.\n\nOn the one hand, many teenagers spend hours sitting in front of screens instead of playing outside. Fast food and sugary drinks are also cheaper and easier to find than they used to be, which has led to more obesity.\n\nOn the other hand, young people today know much more about health. Many go to the gym, follow fitness accounts online and smoke far less than previous generations did.\n\nIn conclusion, I think young people are not necessarily less healthy, but they face different risks. Schools and families should encourage them to stay active.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-096",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "There were less people at the concert than we expected.",
+   "answers": [
+    "There were fewer people at the concert than we expected."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Use 'fewer' with countable nouns (people) and 'less' with uncountable nouns.",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-097",
+   "type": "guided",
+   "kind": "report",
+   "topic": "report",
+   "prompt": "Your manager wants to improve the staff canteen. Write a short report.",
+   "promptVi": "Quản lý muốn cải thiện căng tin cho nhân viên. Hãy viết một báo cáo ngắn.",
+   "points": [
+    "describe what staff like about the canteen now",
+    "describe the main problems",
+    "make recommendations"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Report on the Staff Canteen\n\nIntroduction\nThe aim of this report is to describe staff opinions of the canteen and suggest improvements. I spoke to twenty colleagues.\n\nPositive points\nMost staff think the food is reasonably priced and that the canteen is clean. The rice dishes are particularly popular.\n\nProblems\nHowever, many people complained that the menu rarely changes and that there are few vegetarian options. The canteen is also very crowded between 12 and 1.\n\nRecommendations\nI recommend introducing a weekly menu with at least two vegetarian dishes. Staggered lunch breaks would also reduce queues.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-098",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "While I was waiting for the bus, I met an old friend.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Past continuous (background) + past simple (short action).",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-099",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He explained me the rules of the game.",
+   "answers": [
+    "He explained the rules of the game to me.",
+    "He explained to me the rules of the game."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "explain something to someone (not 'explain someone something').",
+   "skill": "writing",
+   "level": "b1"
+  },
+  {
+   "id": "b1-writing-100",
+   "type": "guided",
+   "kind": "report",
+   "topic": "report",
+   "prompt": "Your English teacher has asked you to write a report about sports facilities for young people in your area.",
+   "promptVi": "Giáo viên yêu cầu bạn viết báo cáo về cơ sở thể thao cho giới trẻ ở khu vực bạn sống.",
+   "points": [
+    "describe the facilities that are available",
+    "explain what is missing or could be better",
+    "suggest improvements"
+   ],
+   "minWords": 80,
+   "sampleAnswer": "Report on Sports Facilities for Young People\n\nIntroduction\nThis report looks at the sports facilities available to teenagers in Thanh Xuan district and suggests some improvements.\n\nCurrent facilities\nThere is a public swimming pool, two football pitches and several outdoor gyms in the parks. The pool is popular, but it is quite expensive for students.\n\nProblems\nThere are no basketball courts or indoor sports halls, so young people have nowhere to exercise when it rains. Many of the outdoor gyms are also old and damaged.\n\nRecommendations\nI suggest that the council offers student discounts at the pool, repairs the outdoor equipment and builds an indoor sports hall.",
+   "checklist": [
+    {
+     "en": "I covered all three points in enough detail.",
+     "vi": "Mình đã viết đủ 3 ý và triển khai đủ chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words.",
+     "vi": "Mình viết đủ số từ tối thiểu."
+    },
+    {
+     "en": "I organised my text into clear paragraphs.",
+     "vi": "Mình chia bài thành các đoạn rõ ràng."
+    },
+    {
+     "en": "I used linking words (however, although, firstly, as a result…).",
+     "vi": "Mình dùng từ nối (however, although, firstly, as a result…)."
+    },
+    {
+     "en": "I used a range of B1 grammar (present perfect, past perfect, conditionals, relative clauses, passive).",
+     "vi": "Mình dùng đa dạng ngữ pháp B1 (hiện tại hoàn thành, quá khứ hoàn thành, câu điều kiện, mệnh đề quan hệ, bị động)."
+    },
+    {
+     "en": "I checked spelling and punctuation.",
+     "vi": "Mình đã kiểm tra chính tả và dấu câu."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b1"
+  }
+ ]
+}

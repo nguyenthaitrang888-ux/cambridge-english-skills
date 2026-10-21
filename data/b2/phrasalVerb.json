@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "phrasalVerb",
+ "title": {
+  "en": "Phrasal Verbs",
+  "vi": "Cụm động từ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-phrasalVerb-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "account for",
+   "context": "Tourism accounts for almost a third of the island's income.",
+   "question": "What does “account for” mean in this sentence?",
+   "options": [
+    "to be fully understood or realised",
+    "to get rid of something or stop using it",
+    "to delay someone or something",
+    "to form a particular amount or part of something"
+   ],
+   "answer": 3,
+   "meaningVi": "chiếm (tỉ lệ)",
+   "explanation": "“account for” = to form a particular amount or part of something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "back up",
+   "context": "Can you back up your claims with any data?",
+   "question": "What does “back up” mean in this sentence?",
+   "options": [
+    "to explain something clearly and in detail",
+    "to provide evidence that shows something is true",
+    "to disapprove of something",
+    "to make something seem less important or serious than it is"
+   ],
+   "answer": 1,
+   "meaningVi": "chứng minh, củng cố (bằng chứng cứ)",
+   "explanation": "“back up” = to provide evidence that shows something is true.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "bring about",
+   "context": "The internet has brought about huge changes in the way we shop.",
+   "question": "What does “bring about” mean in this sentence?",
+   "options": [
+    "to cause something to happen",
+    "to leave an important job or position",
+    "to choose not to take part in something",
+    "to provide evidence that shows something is true"
+   ],
+   "answer": 0,
+   "meaningVi": "gây ra, mang lại (sự thay đổi)",
+   "explanation": "“bring about” = to cause something to happen.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "brush up on",
+   "context": "I need to brush up on my French before the trip to Paris.",
+   "question": "What does “brush up on” mean in this sentence?",
+   "options": [
+    "to improve your knowledge of something you have partly forgotten",
+    "to explain something clearly and in detail",
+    "to happen or be done as planned",
+    "to make someone understand an idea"
+   ],
+   "answer": 0,
+   "meaningVi": "ôn lại, trau dồi",
+   "explanation": "“brush up on” = to improve your knowledge of something you have partly forgotten.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "call off",
+   "context": "The outdoor concert was called off because of the storm.",
+   "question": "What does “call off” mean in this sentence?",
+   "options": [
+    "to cancel an event that was planned",
+    "to explain something clearly and in detail",
+    "to change your opinion and accept an idea you disagreed with",
+    "to direct all your attention towards something"
+   ],
+   "answer": 0,
+   "meaningVi": "hủy bỏ",
+   "explanation": "“call off” = to cancel an event that was planned.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come up against",
+   "context": "The project came up against strong opposition from local residents.",
+   "question": "What does “come up against” mean in this sentence?",
+   "options": [
+    "to accept a job or responsibility",
+    "to be the main reason or most important point",
+    "to make something seem less important or serious than it is",
+    "to have to deal with a difficulty or problem"
+   ],
+   "answer": 3,
+   "meaningVi": "đối mặt với, vấp phải (khó khăn)",
+   "explanation": "“come up against” = to have to deal with a difficulty or problem.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "do away with",
+   "context": "The school has decided to do away with uniforms.",
+   "question": "What does “do away with” mean in this sentence?",
+   "options": [
+    "to keep time or money for a particular purpose",
+    "to get rid of something or stop using it",
+    "to prevent someone or something from making progress",
+    "to continue for longer than necessary or wanted"
+   ],
+   "answer": 1,
+   "meaningVi": "bãi bỏ, loại bỏ",
+   "explanation": "“do away with” = to get rid of something or stop using it.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "draw up",
+   "context": "The lawyer has drawn up a new contract.",
+   "question": "What does “draw up” mean in this sentence?",
+   "options": [
+    "to accept a job or responsibility",
+    "to provide evidence that shows something is true",
+    "to prepare and write a document, plan or list",
+    "to start dealing with bad behaviour more strictly"
+   ],
+   "answer": 2,
+   "meaningVi": "soạn thảo, lập (kế hoạch, hợp đồng)",
+   "explanation": "“draw up” = to prepare and write a document, plan or list.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fall through",
+   "context": "Our plans to buy the house fell through when the bank refused the loan.",
+   "question": "What does “fall through” mean in this sentence?",
+   "options": [
+    "to fail to happen as planned",
+    "to recognise the truth about someone who is trying to deceive you",
+    "to start dealing with bad behaviour more strictly",
+    "to change your opinion and accept an idea you disagreed with"
+   ],
+   "answer": 0,
+   "meaningVi": "đổ bể, không thành",
+   "explanation": "“fall through” = to fail to happen as planned.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get across",
+   "context": "Good teachers get ideas across clearly, even to tired students.",
+   "question": "What does “get across” mean in this sentence?",
+   "options": [
+    "to make someone understand an idea",
+    "to use something when other things have failed",
+    "to cancel an event that was planned",
+    "to explain something clearly and in detail"
+   ],
+   "answer": 0,
+   "meaningVi": "truyền đạt, làm cho hiểu",
+   "explanation": "“get across” = to make someone understand an idea.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "get round to",
+   "context": "I finally got round to fixing the broken shelf.",
+   "question": "What does “get round to” mean in this sentence?",
+   "options": [
+    "to start dealing with bad behaviour more strictly",
+    "to explain something clearly and in detail",
+    "to succeed in doing something difficult",
+    "to finally do something you have intended to do for a long time"
+   ],
+   "answer": 3,
+   "meaningVi": "cuối cùng cũng làm (việc định làm từ lâu)",
+   "explanation": "“get round to” = to finally do something you have intended to do for a long time.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "go ahead",
+   "context": "Despite the rain, the wedding went ahead as planned.",
+   "question": "What does “go ahead” mean in this sentence?",
+   "options": [
+    "to be connected with or match something",
+    "to explain something clearly and in detail",
+    "to do something good to reduce the effect of something bad",
+    "to happen or be done as planned"
+   ],
+   "answer": 3,
+   "meaningVi": "diễn ra, được tiến hành",
+   "explanation": "“go ahead” = to happen or be done as planned.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hold back",
+   "context": "Poor transport links are holding back the region's economy.",
+   "question": "What does “hold back” mean in this sentence?",
+   "options": [
+    "to explain something clearly and in detail",
+    "to prevent someone or something from making progress",
+    "to choose not to take part in something",
+    "to go to someone for help or advice"
+   ],
+   "answer": 1,
+   "meaningVi": "kìm hãm, cản trở",
+   "explanation": "“hold back” = to prevent someone or something from making progress.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "iron out",
+   "context": "We still need to iron out a few details before signing the contract.",
+   "question": "What does “iron out” mean in this sentence?",
+   "options": [
+    "to solve small problems or difficulties",
+    "to cause something to happen",
+    "to disapprove of something",
+    "to prevent someone or something from making progress"
+   ],
+   "answer": 0,
+   "meaningVi": "giải quyết, tháo gỡ (vấn đề nhỏ)",
+   "explanation": "“iron out” = to solve small problems or difficulties.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "lay off",
+   "context": "The factory laid off two hundred workers last year.",
+   "question": "What does “lay off” mean in this sentence?",
+   "options": [
+    "to recover quickly after a difficulty",
+    "to make money or gain an advantage from a situation",
+    "to stop employing workers, usually because there is not enough work",
+    "to direct all your attention towards something"
+   ],
+   "answer": 2,
+   "meaningVi": "sa thải, cho nghỉ việc",
+   "explanation": "“lay off” = to stop employing workers, usually because there is not enough work.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "live up to",
+   "context": "The film didn't live up to all the hype.",
+   "question": "What does “live up to” mean in this sentence?",
+   "options": [
+    "to be as good as people expected",
+    "to provide evidence that shows something is true",
+    "to be caused by something",
+    "to delay someone or something"
+   ],
+   "answer": 0,
+   "meaningVi": "đáp ứng, xứng với (kỳ vọng)",
+   "explanation": "“live up to” = to be as good as people expected.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "look back on",
+   "context": "I look back on my school days with great affection.",
+   "question": "What does “look back on” mean in this sentence?",
+   "options": [
+    "to believe that something is caused by a particular thing",
+    "to decide that something is not possible or suitable",
+    "to change your opinion and accept an idea you disagreed with",
+    "to think about something that happened in the past"
+   ],
+   "answer": 3,
+   "meaningVi": "nhìn lại, hồi tưởng",
+   "explanation": "“look back on” = to think about something that happened in the past.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "make up for",
+   "context": "He bought her flowers to make up for forgetting her birthday.",
+   "question": "What does “make up for” mean in this sentence?",
+   "options": [
+    "to do something good to reduce the effect of something bad",
+    "to form a particular amount or part of something",
+    "to choose not to take part in something",
+    "to solve small problems or difficulties"
+   ],
+   "answer": 0,
+   "meaningVi": "bù đắp",
+   "explanation": "“make up for” = to do something good to reduce the effect of something bad.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "phase out",
+   "context": "The government plans to phase out petrol cars by 2035.",
+   "question": "What does “phase out” mean in this sentence?",
+   "options": [
+    "to gradually stop using or providing something",
+    "to recognise the truth about someone who is trying to deceive you",
+    "to change your opinion and accept an idea you disagreed with",
+    "to make someone understand an idea"
+   ],
+   "answer": 0,
+   "meaningVi": "loại bỏ dần",
+   "explanation": "“phase out” = to gradually stop using or providing something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "pull off",
+   "context": "Nobody thought they could win, but they pulled it off.",
+   "question": "What does “pull off” mean in this sentence?",
+   "options": [
+    "to have to deal with a difficulty or problem",
+    "to succeed in doing something difficult",
+    "to get rid of something or stop using it",
+    "to make something seem less important or serious than it is"
+   ],
+   "answer": 1,
+   "meaningVi": "làm được (việc khó), thành công",
+   "explanation": "“pull off” = to succeed in doing something difficult.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put forward",
+   "context": "Several solutions were put forward at the meeting.",
+   "question": "What does “put forward” mean in this sentence?",
+   "options": [
+    "to use something when other things have failed",
+    "to suggest an idea or plan for people to consider",
+    "to prevent someone or something from making progress",
+    "to succeed in doing something difficult"
+   ],
+   "answer": 1,
+   "meaningVi": "đề xuất, đưa ra (ý kiến)",
+   "explanation": "“put forward” = to suggest an idea or plan for people to consider.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "rule out",
+   "context": "The police have not ruled out the possibility of arson.",
+   "question": "What does “rule out” mean in this sentence?",
+   "options": [
+    "to decide that something is not possible or suitable",
+    "to fail to happen as planned",
+    "to make something seem less important or serious than it is",
+    "to happen or be done as planned"
+   ],
+   "answer": 0,
+   "meaningVi": "loại trừ, gạt bỏ (khả năng)",
+   "explanation": "“rule out” = to decide that something is not possible or suitable.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "set aside",
+   "context": "I try to set aside some money every month for emergencies.",
+   "question": "What does “set aside” mean in this sentence?",
+   "options": [
+    "to be as good as people expected",
+    "to explain something clearly and in detail",
+    "to keep time or money for a particular purpose",
+    "to believe that something is caused by a particular thing"
+   ],
+   "answer": 2,
+   "meaningVi": "để dành, dành riêng",
+   "explanation": "“set aside” = to keep time or money for a particular purpose.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "sink in",
+   "context": "It took a while for the news to sink in.",
+   "question": "What does “sink in” mean in this sentence?",
+   "options": [
+    "to prepare and write a document, plan or list",
+    "to use something when other things have failed",
+    "to be connected with or match something",
+    "to be fully understood or realised"
+   ],
+   "answer": 3,
+   "meaningVi": "thấm, nhận thức được hoàn toàn",
+   "explanation": "“sink in” = to be fully understood or realised.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stand for",
+   "context": "UN stands for United Nations.",
+   "question": "What does “stand for” mean in this sentence?",
+   "options": [
+    "to be a short form of a word or name",
+    "to recover quickly after a difficulty",
+    "to leave an important job or position",
+    "to explain something clearly and in detail"
+   ],
+   "answer": 0,
+   "meaningVi": "là viết tắt của",
+   "explanation": "“stand for” = to be a short form of a word or name.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "step down",
+   "context": "The company's founder stepped down after thirty years.",
+   "question": "What does “step down” mean in this sentence?",
+   "options": [
+    "to leave an important job or position",
+    "to believe that something is caused by a particular thing",
+    "to make someone understand an idea",
+    "to do something good to reduce the effect of something bad"
+   ],
+   "answer": 0,
+   "meaningVi": "từ chức, rút lui",
+   "explanation": "“step down” = to leave an important job or position.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "take on",
+   "context": "I can't take on any more work this month.",
+   "question": "What does “take on” mean in this sentence?",
+   "options": [
+    "to start doing something new, different from what you usually do",
+    "to be caused by something",
+    "to accept a job or responsibility",
+    "to happen or be done as planned"
+   ],
+   "answer": 2,
+   "meaningVi": "đảm nhận, nhận (trách nhiệm)",
+   "explanation": "“take on” = to accept a job or responsibility.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "boil down to",
+   "context": "In the end, the decision boils down to money.",
+   "question": "What does “boil down to” mean in this sentence?",
+   "options": [
+    "to be the main reason or most important point",
+    "to keep time or money for a particular purpose",
+    "to delay someone or something",
+    "to suggest an idea or plan for people to consider"
+   ],
+   "answer": 0,
+   "meaningVi": "suy cho cùng là, quy về",
+   "explanation": "“boil down to” = to be the main reason or most important point.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "tie in with",
+   "context": "The book's release will tie in with the new TV series.",
+   "question": "What does “tie in with” mean in this sentence?",
+   "options": [
+    "to choose one person or thing from a group for special attention",
+    "to be connected with or match something",
+    "to cancel an event that was planned",
+    "to be as good as people expected"
+   ],
+   "answer": 1,
+   "meaningVi": "khớp với, gắn liền với",
+   "explanation": "“tie in with” = to be connected with or match something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "turn to",
+   "context": "When I have a problem, I always turn to my older sister.",
+   "question": "What does “turn to” mean in this sentence?",
+   "options": [
+    "to be fully understood or realised",
+    "to form a particular amount or part of something",
+    "to use something when other things have failed",
+    "to go to someone for help or advice"
+   ],
+   "answer": 3,
+   "meaningVi": "tìm đến (ai) để nhờ giúp đỡ",
+   "explanation": "“turn to” = to go to someone for help or advice.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "wind down",
+   "context": "I usually read for half an hour to wind down before bed.",
+   "question": "What does “wind down” mean in this sentence?",
+   "options": [
+    "to relax after a period of work or activity",
+    "to happen or be done as planned",
+    "to make money or gain an advantage from a situation",
+    "to prepare and write a document, plan or list"
+   ],
+   "answer": 0,
+   "meaningVi": "thư giãn, nghỉ ngơi",
+   "explanation": "“wind down” = to relax after a period of work or activity.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "write off",
+   "context": "Critics wrote off the team before the season even started.",
+   "question": "What does “write off” mean in this sentence?",
+   "options": [
+    "to gradually stop using or providing something",
+    "to decide that someone or something is a failure",
+    "to prevent someone or something from making progress",
+    "to be caused by something"
+   ],
+   "answer": 1,
+   "meaningVi": "coi là thất bại, gạt bỏ",
+   "explanation": "“write off” = to decide that someone or something is a failure.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "zero in on",
+   "context": "The investigation zeroed in on the company's finances.",
+   "question": "What does “zero in on” mean in this sentence?",
+   "options": [
+    "to be caused by something",
+    "to provide evidence that shows something is true",
+    "to direct all your attention towards something",
+    "to keep time or money for a particular purpose"
+   ],
+   "answer": 2,
+   "meaningVi": "tập trung hoàn toàn vào",
+   "explanation": "“zero in on” = to direct all your attention towards something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "bounce back",
+   "context": "The economy bounced back faster than expected after the crisis.",
+   "question": "What does “bounce back” mean in this sentence?",
+   "options": [
+    "to have to deal with a difficulty or problem",
+    "to recover quickly after a difficulty",
+    "to do something good to reduce the effect of something bad",
+    "to explain something clearly and in detail"
+   ],
+   "answer": 1,
+   "meaningVi": "hồi phục nhanh, vực dậy",
+   "explanation": "“bounce back” = to recover quickly after a difficulty.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "crack down on",
+   "context": "Police are cracking down on drivers who use phones at the wheel.",
+   "question": "What does “crack down on” mean in this sentence?",
+   "options": [
+    "to explain something clearly and in detail",
+    "to start dealing with bad behaviour more strictly",
+    "to be caused by something",
+    "to use something when other things have failed"
+   ],
+   "answer": 1,
+   "meaningVi": "trấn áp, siết chặt",
+   "explanation": "“crack down on” = to start dealing with bad behaviour more strictly.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "drag on",
+   "context": "The meeting dragged on for three hours.",
+   "question": "What does “drag on” mean in this sentence?",
+   "options": [
+    "to start doing something new, different from what you usually do",
+    "to relax after a period of work or activity",
+    "to continue for longer than necessary or wanted",
+    "to finally do something you have intended to do for a long time"
+   ],
+   "answer": 2,
+   "meaningVi": "kéo dài lê thê",
+   "explanation": "“drag on” = to continue for longer than necessary or wanted.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "opt out",
+   "context": "Employees can opt out of the pension scheme.",
+   "question": "What does “opt out” mean in this sentence?",
+   "options": [
+    "to be fully understood or realised",
+    "to choose not to take part in something",
+    "to decide that something is not possible or suitable",
+    "to gradually stop using or providing something"
+   ],
+   "answer": 1,
+   "meaningVi": "chọn không tham gia",
+   "explanation": "“opt out” = to choose not to take part in something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "play down",
+   "context": "The government played down the risks of the new policy.",
+   "question": "What does “play down” mean in this sentence?",
+   "options": [
+    "to start, especially an event or activity",
+    "to do something good to reduce the effect of something bad",
+    "to make something seem less important or serious than it is",
+    "to disapprove of something"
+   ],
+   "answer": 2,
+   "meaningVi": "giảm nhẹ, làm như không quan trọng",
+   "explanation": "“play down” = to make something seem less important or serious than it is.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "frown on",
+   "context": "In many cultures, being late for a meeting is frowned on.",
+   "question": "What does “frown on” mean in this sentence?",
+   "options": [
+    "to disapprove of something",
+    "to cause something to happen",
+    "to direct all your attention towards something",
+    "to have to deal with a difficulty or problem"
+   ],
+   "answer": 0,
+   "meaningVi": "không tán thành, phản đối",
+   "explanation": "“frown on” = to disapprove of something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "kick off",
+   "context": "The festival kicks off with a parade on Friday evening.",
+   "question": "What does “kick off” mean in this sentence?",
+   "options": [
+    "to start, especially an event or activity",
+    "to happen or be done as planned",
+    "to cancel an event that was planned",
+    "to start dealing with bad behaviour more strictly"
+   ],
+   "answer": 0,
+   "meaningVi": "bắt đầu, khởi động",
+   "explanation": "“kick off” = to start, especially an event or activity.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "single out",
+   "context": "The manager singled out Lan for praise at the meeting.",
+   "question": "What does “single out” mean in this sentence?",
+   "options": [
+    "to leave an important job or position",
+    "to be fully understood or realised",
+    "to disapprove of something",
+    "to choose one person or thing from a group for special attention"
+   ],
+   "answer": 3,
+   "meaningVi": "chọn ra, nêu đích danh",
+   "explanation": "“single out” = to choose one person or thing from a group for special attention.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "stem from",
+   "context": "Many of his problems stem from a lack of sleep.",
+   "question": "What does “stem from” mean in this sentence?",
+   "options": [
+    "to form a particular amount or part of something",
+    "to be a short form of a word or name",
+    "to leave an important job or position",
+    "to be caused by something"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt nguồn từ",
+   "explanation": "“stem from” = to be caused by something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "spell out",
+   "context": "The contract spells out exactly what each side must do.",
+   "question": "What does “spell out” mean in this sentence?",
+   "options": [
+    "to explain something clearly and in detail",
+    "to choose not to take part in something",
+    "to cancel an event that was planned",
+    "to succeed in doing something difficult"
+   ],
+   "answer": 0,
+   "meaningVi": "giải thích rõ ràng, nói rõ",
+   "explanation": "“spell out” = to explain something clearly and in detail.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "put down to",
+   "context": "The drop in sales was put down to the bad weather.",
+   "question": "What does “put down to” mean in this sentence?",
+   "options": [
+    "to make money or gain an advantage from a situation",
+    "to change your opinion and accept an idea you disagreed with",
+    "to gradually stop using or providing something",
+    "to believe that something is caused by a particular thing"
+   ],
+   "answer": 3,
+   "meaningVi": "cho là do",
+   "explanation": "“put down to” = to believe that something is caused by a particular thing.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "cash in on",
+   "context": "Souvenir shops cashed in on the film's popularity.",
+   "question": "What does “cash in on” mean in this sentence?",
+   "options": [
+    "to make money or gain an advantage from a situation",
+    "to solve small problems or difficulties",
+    "to fail to happen as planned",
+    "to stop employing workers, usually because there is not enough work"
+   ],
+   "answer": 0,
+   "meaningVi": "kiếm lợi từ, tận dụng để trục lợi",
+   "explanation": "“cash in on” = to make money or gain an advantage from a situation.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "fall back on",
+   "context": "If the business fails, at least I have my teaching qualification to fall back on.",
+   "question": "What does “fall back on” mean in this sentence?",
+   "options": [
+    "to believe that something is caused by a particular thing",
+    "to delay someone or something",
+    "to stop employing workers, usually because there is not enough work",
+    "to use something when other things have failed"
+   ],
+   "answer": 3,
+   "meaningVi": "dựa vào, trông cậy vào (khi cần)",
+   "explanation": "“fall back on” = to use something when other things have failed.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "see through",
+   "context": "She saw through his excuses immediately.",
+   "question": "What does “see through” mean in this sentence?",
+   "options": [
+    "to delay someone or something",
+    "to start dealing with bad behaviour more strictly",
+    "to recognise the truth about someone who is trying to deceive you",
+    "to disapprove of something"
+   ],
+   "answer": 2,
+   "meaningVi": "nhìn thấu, không bị lừa",
+   "explanation": "“see through” = to recognise the truth about someone who is trying to deceive you.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "branch out",
+   "context": "The bookshop has branched out into selling coffee and cakes.",
+   "question": "What does “branch out” mean in this sentence?",
+   "options": [
+    "to leave an important job or position",
+    "to start doing something new, different from what you usually do",
+    "to cause something to happen",
+    "to improve your knowledge of something you have partly forgotten"
+   ],
+   "answer": 1,
+   "meaningVi": "mở rộng sang lĩnh vực mới",
+   "explanation": "“branch out” = to start doing something new, different from what you usually do.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "hold up",
+   "context": "An accident on the motorway held us up for an hour.",
+   "question": "What does “hold up” mean in this sentence?",
+   "options": [
+    "to form a particular amount or part of something",
+    "to delay someone or something",
+    "to fail to happen as planned",
+    "to be fully understood or realised"
+   ],
+   "answer": 1,
+   "meaningVi": "làm chậm trễ, cản trở",
+   "explanation": "“hold up” = to delay someone or something.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "phrasal verbs",
+   "focus": "come round to",
+   "context": "At first Dad hated the idea, but he's come round to it.",
+   "question": "What does “come round to” mean in this sentence?",
+   "options": [
+    "to be caused by something",
+    "to change your opinion and accept an idea you disagreed with",
+    "to prevent someone or something from making progress",
+    "to choose one person or thing from a group for special attention"
+   ],
+   "answer": 1,
+   "meaningVi": "dần chấp nhận, đổi ý ủng hộ",
+   "explanation": "“come round to” = to change your opinion and accept an idea you disagreed with.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put down to",
+   "question": "Choose the correct phrasal verb:\nHer success can largely be ___ hard work and determination.",
+   "options": [
+    "brought about",
+    "put down to",
+    "accounted for",
+    "stemmed from"
+   ],
+   "answer": 1,
+   "meaningVi": "cho là do",
+   "explanation": "“put down to” = to believe that something is caused by a particular thing. Full sentence: Her success can largely be put down to hard work and determination.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get round to",
+   "question": "Choose the correct phrasal verb:\nI keep meaning to clear out the garage, but I never ___ it.",
+   "options": [
+    "get across",
+    "brush up on",
+    "come up against",
+    "get round to"
+   ],
+   "answer": 3,
+   "meaningVi": "cuối cùng cũng làm (việc định làm từ lâu)",
+   "explanation": "“get round to” = to finally do something you have intended to do for a long time. Full sentence: I keep meaning to clear out the garage, but I never get round to it.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "tie in with",
+   "question": "Choose the correct phrasal verb:\nThe museum's exhibition is planned to ___ the city's anniversary celebrations.",
+   "options": [
+    "fall back on",
+    "do away with",
+    "make up for",
+    "tie in with"
+   ],
+   "answer": 3,
+   "meaningVi": "khớp với, gắn liền với",
+   "explanation": "“tie in with” = to be connected with or match something. Full sentence: The museum's exhibition is planned to tie in with the city's anniversary celebrations.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "do away with",
+   "question": "Choose the correct phrasal verb:\nMany airlines want to ___ paper tickets completely.",
+   "options": [
+    "tie in with",
+    "make up for",
+    "fall back on",
+    "do away with"
+   ],
+   "answer": 3,
+   "meaningVi": "bãi bỏ, loại bỏ",
+   "explanation": "“do away with” = to get rid of something or stop using it. Full sentence: Many airlines want to do away with paper tickets completely.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "look back on",
+   "question": "Choose the correct phrasal verb:\nWhen you ___ this experience in ten years, you'll be glad you did it.",
+   "options": [
+    "look forward to",
+    "live up to",
+    "cash in on",
+    "look back on"
+   ],
+   "answer": 3,
+   "meaningVi": "nhìn lại, hồi tưởng",
+   "explanation": "“look back on” = to think about something that happened in the past. Full sentence: When you look back on this experience in ten years, you'll be glad you did it.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "opt out",
+   "question": "Choose the correct phrasal verb:\nIf you don't want to receive marketing emails, you can ___ at any time.",
+   "options": [
+    "opt out",
+    "step down",
+    "lay off",
+    "sink in"
+   ],
+   "answer": 0,
+   "meaningVi": "chọn không tham gia",
+   "explanation": "“opt out” = to choose not to take part in something. Full sentence: If you don't want to receive marketing emails, you can opt out at any time.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "take on",
+   "question": "Choose the correct phrasal verb:\nShe has agreed to ___ the role of team leader while Mr Lam is away.",
+   "options": [
+    "take on",
+    "lay off",
+    "set aside",
+    "rule out"
+   ],
+   "answer": 0,
+   "meaningVi": "đảm nhận, nhận (trách nhiệm)",
+   "explanation": "“take on” = to accept a job or responsibility. Full sentence: She has agreed to take on the role of team leader while Mr Lam is away.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "boil down to",
+   "question": "Choose the correct phrasal verb:\nMost arguments between flatmates ___ the same thing: housework.",
+   "options": [
+    "get across",
+    "account for",
+    "come round to",
+    "boil down to"
+   ],
+   "answer": 3,
+   "meaningVi": "suy cho cùng là, quy về",
+   "explanation": "“boil down to” = to be the main reason or most important point. Full sentence: Most arguments between flatmates boil down to the same thing: housework.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "account for",
+   "question": "Choose the correct phrasal verb:\nYoung people ___ more than half of the app's users.",
+   "options": [
+    "account for",
+    "stem from",
+    "bring about",
+    "put down to"
+   ],
+   "answer": 0,
+   "meaningVi": "chiếm (tỉ lệ)",
+   "explanation": "“account for” = to form a particular amount or part of something. Full sentence: Young people account for more than half of the app's users.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "drag on",
+   "question": "Choose the correct phrasal verb:\nNobody wants the negotiations to ___ for another month.",
+   "options": [
+    "bounce back",
+    "kick off",
+    "drag on",
+    "go ahead"
+   ],
+   "answer": 2,
+   "meaningVi": "kéo dài lê thê",
+   "explanation": "“drag on” = to continue for longer than necessary or wanted. Full sentence: Nobody wants the negotiations to drag on for another month.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "spell out",
+   "question": "Choose the correct phrasal verb:\nThe rules are confusing. Could you ___ what we're allowed to do?",
+   "options": [
+    "single out",
+    "iron out",
+    "rule out",
+    "spell out"
+   ],
+   "answer": 3,
+   "meaningVi": "giải thích rõ ràng, nói rõ",
+   "explanation": "“spell out” = to explain something clearly and in detail. Full sentence: The rules are confusing. Could you spell out what we're allowed to do?",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hold up",
+   "question": "Choose the correct phrasal verb:\nRoadworks on the bridge are likely to ___ traffic for several weeks.",
+   "options": [
+    "call off",
+    "hold up",
+    "see through",
+    "set aside"
+   ],
+   "answer": 1,
+   "meaningVi": "làm chậm trễ, cản trở",
+   "explanation": "“hold up” = to delay someone or something. Full sentence: Roadworks on the bridge are likely to hold up traffic for several weeks.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "see through",
+   "question": "Choose the correct phrasal verb:\nCustomers will soon ___ an advert that makes false promises.",
+   "options": [
+    "turn to",
+    "see through",
+    "get across",
+    "see off"
+   ],
+   "answer": 1,
+   "meaningVi": "nhìn thấu, không bị lừa",
+   "explanation": "“see through” = to recognise the truth about someone who is trying to deceive you. Full sentence: Customers will soon see through an advert that makes false promises.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "kick off",
+   "question": "Choose the correct phrasal verb:\nWe'll ___ the conference with a short speech from the director.",
+   "options": [
+    "drag on",
+    "call off",
+    "phase out",
+    "kick off"
+   ],
+   "answer": 3,
+   "meaningVi": "bắt đầu, khởi động",
+   "explanation": "“kick off” = to start, especially an event or activity. Full sentence: We'll kick off the conference with a short speech from the director.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "hold back",
+   "question": "Choose the correct phrasal verb:\nLack of confidence can ___ talented students from applying to top universities.",
+   "options": [
+    "back up",
+    "bring about",
+    "hold up",
+    "hold back"
+   ],
+   "answer": 3,
+   "meaningVi": "kìm hãm, cản trở",
+   "explanation": "“hold back” = to prevent someone or something from making progress. Full sentence: Lack of confidence can hold back talented students from applying to top universities.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "zero in on",
+   "question": "Choose the correct phrasal verb:\nInstead of trying to fix everything, let's ___ the most serious problem.",
+   "options": [
+    "zero in on",
+    "look back on",
+    "cash in on",
+    "come up against"
+   ],
+   "answer": 0,
+   "meaningVi": "tập trung hoàn toàn vào",
+   "explanation": "“zero in on” = to direct all your attention towards something. Full sentence: Instead of trying to fix everything, let's zero in on the most serious problem.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "set aside",
+   "question": "Choose the correct phrasal verb:\nYou should ___ at least an hour a day for revision.",
+   "options": [
+    "set aside",
+    "phase out",
+    "lay off",
+    "call off"
+   ],
+   "answer": 0,
+   "meaningVi": "để dành, dành riêng",
+   "explanation": "“set aside” = to keep time or money for a particular purpose. Full sentence: You should set aside at least an hour a day for revision.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "single out",
+   "question": "Choose the correct phrasal verb:\nIt isn't fair to ___ one student for criticism when the whole class was noisy.",
+   "options": [
+    "rule out",
+    "play down",
+    "single out",
+    "spell out"
+   ],
+   "answer": 2,
+   "meaningVi": "chọn ra, nêu đích danh",
+   "explanation": "“single out” = to choose one person or thing from a group for special attention. Full sentence: It isn't fair to single out one student for criticism when the whole class was noisy.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "call off",
+   "question": "Choose the correct phrasal verb:\nIf the weather doesn't improve, they'll have to ___ the match.",
+   "options": [
+    "set aside",
+    "wind down",
+    "call off",
+    "drag on"
+   ],
+   "answer": 2,
+   "meaningVi": "hủy bỏ",
+   "explanation": "“call off” = to cancel an event that was planned. Full sentence: If the weather doesn't improve, they'll have to call off the match.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "brush up on",
+   "question": "Choose the correct phrasal verb:\nBefore the interview, you should ___ your knowledge of the company's products.",
+   "options": [
+    "cash in on",
+    "get round to",
+    "look back on",
+    "brush up on"
+   ],
+   "answer": 3,
+   "meaningVi": "ôn lại, trau dồi",
+   "explanation": "“brush up on” = to improve your knowledge of something you have partly forgotten. Full sentence: Before the interview, you should brush up on your knowledge of the company's products.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "write off",
+   "question": "Choose the correct phrasal verb:\nDon't ___ the project just because the first trial failed.",
+   "options": [
+    "write off",
+    "iron out",
+    "back up",
+    "draw up"
+   ],
+   "answer": 0,
+   "meaningVi": "coi là thất bại, gạt bỏ",
+   "explanation": "“write off” = to decide that someone or something is a failure. Full sentence: Don't write off the project just because the first trial failed.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "get across",
+   "question": "Choose the correct phrasal verb:\nA good teacher can ___ complex ideas in a simple way.",
+   "options": [
+    "get round to",
+    "get across",
+    "put down to",
+    "boil down to"
+   ],
+   "answer": 1,
+   "meaningVi": "truyền đạt, làm cho hiểu",
+   "explanation": "“get across” = to make someone understand an idea. Full sentence: A good teacher can get across complex ideas in a simple way.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "turn to",
+   "question": "Choose the correct phrasal verb:\nMany young people ___ social media for advice instead of their parents.",
+   "options": [
+    "turn down",
+    "stand for",
+    "turn to",
+    "turn out"
+   ],
+   "answer": 2,
+   "meaningVi": "tìm đến (ai) để nhờ giúp đỡ",
+   "explanation": "“turn to” = to go to someone for help or advice. Full sentence: Many young people turn to social media for advice instead of their parents.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "crack down on",
+   "question": "Choose the correct phrasal verb:\nThe government has promised to ___ companies that pollute rivers.",
+   "options": [
+    "zero in on",
+    "crack down on",
+    "do away with",
+    "cash in on"
+   ],
+   "answer": 1,
+   "meaningVi": "trấn áp, siết chặt",
+   "explanation": "“crack down on” = to start dealing with bad behaviour more strictly. Full sentence: The government has promised to crack down on companies that pollute rivers.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "go ahead",
+   "question": "Choose the correct phrasal verb:\nThe council has agreed that the new library can ___.",
+   "options": [
+    "drag on",
+    "fall through",
+    "hold back",
+    "go ahead"
+   ],
+   "answer": 3,
+   "meaningVi": "diễn ra, được tiến hành",
+   "explanation": "“go ahead” = to happen or be done as planned. Full sentence: The council has agreed that the new library can go ahead.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "pull off",
+   "question": "Choose the correct phrasal verb:\nOrganising a wedding in just three weeks was difficult, but she managed to ___ the whole event perfectly.",
+   "options": [
+    "pull up",
+    "pull off",
+    "play down",
+    "write off"
+   ],
+   "answer": 1,
+   "meaningVi": "làm được (việc khó), thành công",
+   "explanation": "“pull off” = to succeed in doing something difficult. Full sentence: Organising a wedding in just three weeks was difficult, but she managed to pull off the whole event perfectly.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "sink in",
+   "question": "Choose the correct phrasal verb:\nI've just won the lottery! It will take a few days for the news to ___.",
+   "options": [
+    "fall through",
+    "hold up",
+    "sink in",
+    "wind down"
+   ],
+   "answer": 2,
+   "meaningVi": "thấm, nhận thức được hoàn toàn",
+   "explanation": "“sink in” = to be fully understood or realised. Full sentence: I've just won the lottery! It will take a few days for the news to sink in.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "make up for",
+   "question": "Choose the correct phrasal verb:\nThe beautiful views more than ___ the uncomfortable journey.",
+   "options": [
+    "make up for",
+    "fall back on",
+    "put down to",
+    "account for"
+   ],
+   "answer": 0,
+   "meaningVi": "bù đắp",
+   "explanation": "“make up for” = to do something good to reduce the effect of something bad. Full sentence: The beautiful views more than make up for the uncomfortable journey.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fall back on",
+   "question": "Choose the correct phrasal verb:\nIt's wise to have some savings to ___ in an emergency.",
+   "options": [
+    "tie in with",
+    "fall through",
+    "make up for",
+    "fall back on"
+   ],
+   "answer": 3,
+   "meaningVi": "dựa vào, trông cậy vào (khi cần)",
+   "explanation": "“fall back on” = to use something when other things have failed. Full sentence: It's wise to have some savings to fall back on in an emergency.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come up against",
+   "question": "Choose the correct phrasal verb:\nFemale engineers still ___ prejudice in some companies.",
+   "options": [
+    "come round to",
+    "zero in on",
+    "come up against",
+    "live up to"
+   ],
+   "answer": 2,
+   "meaningVi": "đối mặt với, vấp phải (khó khăn)",
+   "explanation": "“come up against” = to have to deal with a difficulty or problem. Full sentence: Female engineers still come up against prejudice in some companies.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "draw up",
+   "question": "Choose the correct phrasal verb:\nBefore we start, let's ___ a list of everything we need to buy.",
+   "options": [
+    "draw back",
+    "sink in",
+    "draw up",
+    "wind down"
+   ],
+   "answer": 2,
+   "meaningVi": "soạn thảo, lập (kế hoạch, hợp đồng)",
+   "explanation": "“draw up” = to prepare and write a document, plan or list. Full sentence: Before we start, let's draw up a list of everything we need to buy.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "lay off",
+   "question": "Choose the correct phrasal verb:\nIf sales don't improve, the company may have to ___ staff.",
+   "options": [
+    "take on",
+    "opt out",
+    "lay off",
+    "step down"
+   ],
+   "answer": 2,
+   "meaningVi": "sa thải, cho nghỉ việc",
+   "explanation": "“lay off” = to stop employing workers, usually because there is not enough work. Full sentence: If sales don't improve, the company may have to lay off staff.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "bring about",
+   "question": "Choose the correct phrasal verb:\nThe new manager hopes to ___ real improvements in staff morale.",
+   "options": [
+    "account for",
+    "fall back on",
+    "bring about",
+    "stem from"
+   ],
+   "answer": 2,
+   "meaningVi": "gây ra, mang lại (sự thay đổi)",
+   "explanation": "“bring about” = to cause something to happen. Full sentence: The new manager hopes to bring about real improvements in staff morale.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "branch out",
+   "question": "Choose the correct phrasal verb:\nAfter years of making shoes, the company decided to ___ into bags and accessories.",
+   "options": [
+    "opt out",
+    "branch out",
+    "wind down",
+    "bounce back"
+   ],
+   "answer": 1,
+   "meaningVi": "mở rộng sang lĩnh vực mới",
+   "explanation": "“branch out” = to start doing something new, different from what you usually do. Full sentence: After years of making shoes, the company decided to branch out into bags and accessories.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stem from",
+   "question": "Choose the correct phrasal verb:\nHer fear of water may ___ a bad experience she had as a child.",
+   "options": [
+    "frown on",
+    "stem from",
+    "stand for",
+    "turn to"
+   ],
+   "answer": 1,
+   "meaningVi": "bắt nguồn từ",
+   "explanation": "“stem from” = to be caused by something. Full sentence: Her fear of water may stem from a bad experience she had as a child.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "iron out",
+   "question": "Choose the correct phrasal verb:\nThe software has some bugs, but the developers will ___ them before the launch.",
+   "options": [
+    "phase out",
+    "iron out",
+    "single out",
+    "play down"
+   ],
+   "answer": 1,
+   "meaningVi": "giải quyết, tháo gỡ (vấn đề nhỏ)",
+   "explanation": "“iron out” = to solve small problems or difficulties. Full sentence: The software has some bugs, but the developers will iron out them before the launch.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "step down",
+   "question": "Choose the correct phrasal verb:\nAfter the scandal, the minister was forced to ___.",
+   "options": [
+    "sink in",
+    "lay off",
+    "wind down",
+    "step down"
+   ],
+   "answer": 3,
+   "meaningVi": "từ chức, rút lui",
+   "explanation": "“step down” = to leave an important job or position. Full sentence: After the scandal, the minister was forced to step down.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "bounce back",
+   "question": "Choose the correct phrasal verb:\nShe's had a difficult year, but I'm sure she'll ___.",
+   "options": [
+    "bounce back",
+    "sink in",
+    "fall through",
+    "drag on"
+   ],
+   "answer": 0,
+   "meaningVi": "hồi phục nhanh, vực dậy",
+   "explanation": "“bounce back” = to recover quickly after a difficulty. Full sentence: She's had a difficult year, but I'm sure she'll bounce back.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "stand for",
+   "question": "Choose the correct phrasal verb:\nWhat does the abbreviation 'CEO' ___?",
+   "options": [
+    "stand out",
+    "stem from",
+    "step down",
+    "stand for"
+   ],
+   "answer": 3,
+   "meaningVi": "là viết tắt của",
+   "explanation": "“stand for” = to be a short form of a word or name. Full sentence: What does the abbreviation 'CEO' stand for?",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "put forward",
+   "question": "Choose the correct phrasal verb:\nThe committee invited residents to ___ ideas for the new park.",
+   "options": [
+    "put forward",
+    "see through",
+    "hold back",
+    "put down to"
+   ],
+   "answer": 0,
+   "meaningVi": "đề xuất, đưa ra (ý kiến)",
+   "explanation": "“put forward” = to suggest an idea or plan for people to consider. Full sentence: The committee invited residents to put forward ideas for the new park.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "rule out",
+   "question": "Choose the correct phrasal verb:\nDoctors did several tests to ___ a serious infection.",
+   "options": [
+    "spell out",
+    "back up",
+    "rule out",
+    "single out"
+   ],
+   "answer": 2,
+   "meaningVi": "loại trừ, gạt bỏ (khả năng)",
+   "explanation": "“rule out” = to decide that something is not possible or suitable. Full sentence: Doctors did several tests to rule out a serious infection.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "phase out",
+   "question": "Choose the correct phrasal verb:\nThe bank will ___ paper statements over the next two years.",
+   "options": [
+    "back up",
+    "iron out",
+    "phase out",
+    "kick off"
+   ],
+   "answer": 2,
+   "meaningVi": "loại bỏ dần",
+   "explanation": "“phase out” = to gradually stop using or providing something. Full sentence: The bank will phase out paper statements over the next two years.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "wind down",
+   "question": "Choose the correct phrasal verb:\nAfter a stressful day, I need time to ___ before I can sleep.",
+   "options": [
+    "hold up",
+    "wind down",
+    "step down",
+    "sink in"
+   ],
+   "answer": 1,
+   "meaningVi": "thư giãn, nghỉ ngơi",
+   "explanation": "“wind down” = to relax after a period of work or activity. Full sentence: After a stressful day, I need time to wind down before I can sleep.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "frown on",
+   "question": "Choose the correct phrasal verb:\nSome traditional companies still ___ employees wearing jeans to work.",
+   "options": [
+    "frown on",
+    "stand for",
+    "stem from",
+    "turn to"
+   ],
+   "answer": 0,
+   "meaningVi": "không tán thành, phản đối",
+   "explanation": "“frown on” = to disapprove of something. Full sentence: Some traditional companies still frown on employees wearing jeans to work.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "come round to",
+   "question": "Choose the correct phrasal verb:\nMy parents didn't want me to study art, but they've slowly ___ the idea.",
+   "options": [
+    "come down with",
+    "boil down to",
+    "come round to",
+    "come up against"
+   ],
+   "answer": 2,
+   "meaningVi": "dần chấp nhận, đổi ý ủng hộ",
+   "explanation": "“come round to” = to change your opinion and accept an idea you disagreed with. Full sentence: My parents didn't want me to study art, but they've slowly come round to the idea.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "back up",
+   "question": "Choose the correct phrasal verb:\nYour argument would be stronger if you could ___ it with some statistics.",
+   "options": [
+    "play down",
+    "back up",
+    "phase out",
+    "rule out"
+   ],
+   "answer": 1,
+   "meaningVi": "chứng minh, củng cố (bằng chứng cứ)",
+   "explanation": "“back up” = to provide evidence that shows something is true. Full sentence: Your argument would be stronger if you could back up it with some statistics.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "live up to",
+   "question": "Choose the correct phrasal verb:\nThe new phone failed to ___ customers' high expectations.",
+   "options": [
+    "live up to",
+    "look back on",
+    "boil down to",
+    "come up against"
+   ],
+   "answer": 0,
+   "meaningVi": "đáp ứng, xứng với (kỳ vọng)",
+   "explanation": "“live up to” = to be as good as people expected. Full sentence: The new phone failed to live up to customers' high expectations.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "play down",
+   "question": "Choose the correct phrasal verb:\nThe company tried to ___ the seriousness of the data leak.",
+   "options": [
+    "pull off",
+    "play down",
+    "single out",
+    "back up"
+   ],
+   "answer": 1,
+   "meaningVi": "giảm nhẹ, làm như không quan trọng",
+   "explanation": "“play down” = to make something seem less important or serious than it is. Full sentence: The company tried to play down the seriousness of the data leak.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "cash in on",
+   "question": "Choose the correct phrasal verb:\nHotels always try to ___ big sporting events by raising their prices.",
+   "options": [
+    "crack down on",
+    "brush up on",
+    "cash in on",
+    "zero in on"
+   ],
+   "answer": 2,
+   "meaningVi": "kiếm lợi từ, tận dụng để trục lợi",
+   "explanation": "“cash in on” = to make money or gain an advantage from a situation. Full sentence: Hotels always try to cash in on big sporting events by raising their prices.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  },
+  {
+   "id": "b2-phrasalVerb-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "phrasal verbs",
+   "focus": "fall through",
+   "question": "Choose the correct phrasal verb:\nI hope the deal doesn't ___ at the last minute.",
+   "options": [
+    "step down",
+    "fall through",
+    "fall back on",
+    "come round to"
+   ],
+   "answer": 1,
+   "meaningVi": "đổ bể, không thành",
+   "explanation": "“fall through” = to fail to happen as planned. Full sentence: I hope the deal doesn't fall through at the last minute.",
+   "skill": "phrasalVerb",
+   "level": "b2"
+  }
+ ]
+}

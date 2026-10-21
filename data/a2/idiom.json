@@ -1,0 +1,1964 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "idiom",
+ "title": {
+  "en": "Idioms",
+  "vi": "Thành ngữ"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-idiom-001",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a piece of cake",
+   "context": "The test was a piece of cake – I finished in ten minutes.",
+   "question": "What does “a piece of cake” mean in this sentence?",
+   "options": [
+    "from memory",
+    "something very easy",
+    "a person who gets up early",
+    "to relax and not work too hard"
+   ],
+   "answer": 1,
+   "meaningVi": "dễ như ăn bánh, rất dễ",
+   "explanation": "“a piece of cake” means something very easy. Example: Don't worry about the quiz. It's a piece of cake!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-002",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "break the ice",
+   "context": "At the party, Tom told a funny story to break the ice.",
+   "question": "What does “break the ice” mean in this sentence?",
+   "options": [
+    "full of energy",
+    "to make people feel relaxed when they first meet",
+    "to help",
+    "very quickly"
+   ],
+   "answer": 1,
+   "meaningVi": "phá vỡ sự ngại ngùng ban đầu",
+   "explanation": "“break the ice” means to make people feel relaxed when they first meet. Example: On the first day of class, the teacher played a game to break the ice.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-003",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "under the weather",
+   "context": "I'm staying at home today because I feel under the weather.",
+   "question": "What does “under the weather” mean in this sentence?",
+   "options": [
+    "said when the person you are talking about arrives",
+    "feeling a little ill",
+    "to leave; to start a journey",
+    "in trouble"
+   ],
+   "answer": 1,
+   "meaningVi": "hơi mệt, không khỏe",
+   "explanation": "“under the weather” means feeling a little ill. Example: Lan didn't come to school. She's a bit under the weather today.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-004",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "once in a blue moon",
+   "context": "My uncle lives in Australia, so I see him once in a blue moon.",
+   "question": "What does “once in a blue moon” mean in this sentence?",
+   "options": [
+    "very rarely",
+    "to relax and not work too hard",
+    "very happy",
+    "not something I like"
+   ],
+   "answer": 0,
+   "meaningVi": "hiếm khi, năm thì mười họa",
+   "explanation": "“once in a blue moon” means very rarely. Example: I love pizza, but I only eat it once in a blue moon because it's expensive here.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-005",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hit the books",
+   "context": "My exams start next week, so I need to hit the books.",
+   "question": "What does “hit the books” mean in this sentence?",
+   "options": [
+    "raining very heavily",
+    "very busy and active",
+    "to study hard",
+    "a person who gets up early"
+   ],
+   "answer": 2,
+   "meaningVi": "học hành chăm chỉ",
+   "explanation": "“hit the books” means to study hard. Example: I can't go out tonight. I have to hit the books for my maths test.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-006",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "cost an arm and a leg",
+   "context": "That new phone costs an arm and a leg!",
+   "question": "What does “cost an arm and a leg” mean in this sentence?",
+   "options": [
+    "very busy and active",
+    "from memory",
+    "to agree with someone",
+    "to be very expensive"
+   ],
+   "answer": 3,
+   "meaningVi": "đắt cắt cổ",
+   "explanation": "“cost an arm and a leg” means to be very expensive. Example: I'd love a holiday in Paris, but it will cost an arm and a leg.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-007",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "call it a day",
+   "context": "We've worked for eight hours. Let's call it a day.",
+   "question": "What does “call it a day” mean in this sentence?",
+   "options": [
+    "to stop working for the day",
+    "in a few words",
+    "a person someone loves very much",
+    "to study hard"
+   ],
+   "answer": 0,
+   "meaningVi": "nghỉ tay, kết thúc công việc hôm nay",
+   "explanation": "“call it a day” means to stop working for the day. Example: It's 7 p.m. and I'm tired. I think I'll call it a day and go home.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-008",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "by heart",
+   "context": "She knows all the words of the song by heart.",
+   "question": "What does “by heart” mean in this sentence?",
+   "options": [
+    "wait; be patient",
+    "to stop working for the day",
+    "to stay in contact with someone",
+    "from memory"
+   ],
+   "answer": 3,
+   "meaningVi": "thuộc lòng",
+   "explanation": "“by heart” means from memory. Example: Our teacher asked us to learn the poem by heart.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-009",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in hot water",
+   "context": "Minh was in hot water because he broke the window.",
+   "question": "What does “in hot water” mean in this sentence?",
+   "options": [
+    "very bored and annoyed with something",
+    "in trouble",
+    "wait; be patient",
+    "a person someone loves very much"
+   ],
+   "answer": 1,
+   "meaningVi": "gặp rắc rối",
+   "explanation": "“in hot water” means in trouble. Example: If you don't do your homework, you'll be in hot water with the teacher.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-010",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep an eye on",
+   "context": "Can you keep an eye on my bag while I go to the toilet?",
+   "question": "What does “keep an eye on” mean in this sentence?",
+   "options": [
+    "to be in a bad mood all day",
+    "to watch or look after someone or something",
+    "from memory",
+    "to sound familiar"
+   ],
+   "answer": 1,
+   "meaningVi": "để mắt tới, trông chừng",
+   "explanation": "“keep an eye on” means to watch or look after someone or something. Example: Please keep an eye on your little brother while I cook dinner.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-011",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "feel blue",
+   "context": "I always feel blue on rainy Mondays.",
+   "question": "What does “feel blue” mean in this sentence?",
+   "options": [
+    "to agree with someone",
+    "very calm, not nervous",
+    "to feel sad",
+    "practical, friendly and not proud"
+   ],
+   "answer": 2,
+   "meaningVi": "cảm thấy buồn",
+   "explanation": "“feel blue” means to feel sad. Example: When my best friend moved away, I started to feel blue.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-012",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on cloud nine",
+   "context": "She was on cloud nine when she passed her driving test.",
+   "question": "What does “on cloud nine” mean in this sentence?",
+   "options": [
+    "a person who likes staying up late",
+    "a person who gets up early",
+    "it's better to do something late than not do it",
+    "extremely happy"
+   ],
+   "answer": 3,
+   "meaningVi": "vui sướng tột độ, như ở trên mây",
+   "explanation": "“on cloud nine” means extremely happy. Example: Nam got a puppy for his birthday and he was on cloud nine.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-013",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "raining cats and dogs",
+   "context": "Take an umbrella – it's raining cats and dogs!",
+   "question": "What does “raining cats and dogs” mean in this sentence?",
+   "options": [
+    "practical, friendly and not proud",
+    "raining very heavily",
+    "it's better to do something late than not do it",
+    "listening carefully and with interest"
+   ],
+   "answer": 1,
+   "meaningVi": "mưa như trút nước",
+   "explanation": "“raining cats and dogs” means raining very heavily. Example: We can't play football now. It's raining cats and dogs outside.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-014",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hit the road",
+   "context": "It's getting late. We should hit the road.",
+   "question": "What does “hit the road” mean in this sentence?",
+   "options": [
+    "in the same difficult situation",
+    "to relax and not work too hard",
+    "very bored and annoyed with something",
+    "to leave; to start a journey"
+   ],
+   "answer": 3,
+   "meaningVi": "lên đường",
+   "explanation": "“hit the road” means to leave; to start a journey. Example: Our bus leaves at six, so we need to hit the road at five thirty.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-015",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get cold feet",
+   "context": "He wanted to sing at the concert, but he got cold feet.",
+   "question": "What does “get cold feet” mean in this sentence?",
+   "options": [
+    "in the same difficult situation",
+    "to decide",
+    "to become nervous and want to stop doing something",
+    "to be in a bad mood all day"
+   ],
+   "answer": 2,
+   "meaningVi": "chùn bước, mất can đảm",
+   "explanation": "“get cold feet” means to become nervous and want to stop doing something. Example: I signed up for the speech contest, but I'm starting to get cold feet.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-016",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "let the cat out of the bag",
+   "context": "We planned a surprise party, but Jack let the cat out of the bag.",
+   "question": "What does “let the cat out of the bag” mean in this sentence?",
+   "options": [
+    "to tell a secret by mistake",
+    "to be very expensive",
+    "to agree with someone",
+    "raining very heavily"
+   ],
+   "answer": 0,
+   "meaningVi": "lỡ miệng để lộ bí mật",
+   "explanation": "“let the cat out of the bag” means to tell a secret by mistake. Example: Don't tell Mum about her present! Please don't let the cat out of the bag.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-017",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "the apple of someone's eye",
+   "context": "Little Mai is the apple of her grandfather's eye.",
+   "question": "What does “the apple of someone's eye” mean in this sentence?",
+   "options": [
+    "a person someone loves very much",
+    "to study hard",
+    "to love eating sweet food",
+    "practical, friendly and not proud"
+   ],
+   "answer": 0,
+   "meaningVi": "người được yêu thương nhất, cục cưng",
+   "explanation": "“the apple of someone's eye” means a person someone loves very much. Example: Grandpa loves my baby sister so much. She is the apple of his eye.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-018",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a couch potato",
+   "context": "My brother is a couch potato – he watches TV all weekend.",
+   "question": "What does “a couch potato” mean in this sentence?",
+   "options": [
+    "to stop working for the day",
+    "a person who sits and watches TV a lot",
+    "in the same difficult situation",
+    "it's better to do something late than not do it"
+   ],
+   "answer": 1,
+   "meaningVi": "người lười vận động, suốt ngày xem TV",
+   "explanation": "“a couch potato” means a person who sits and watches TV a lot. Example: Get up and do some exercise! Don't be a couch potato.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-019",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "at the drop of a hat",
+   "context": "She's always happy to help at the drop of a hat.",
+   "question": "What does “at the drop of a hat” mean in this sentence?",
+   "options": [
+    "immediately, without waiting",
+    "to wait until tomorrow to make a decision",
+    "to stay in contact with someone",
+    "very busy and active"
+   ],
+   "answer": 0,
+   "meaningVi": "ngay lập tức",
+   "explanation": "“at the drop of a hat” means immediately, without waiting. Example: My grandma loves cooking – she will make you food at the drop of a hat.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-020",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "better late than never",
+   "context": "You finished your homework at midnight? Well, better late than never!",
+   "question": "What does “better late than never” mean in this sentence?",
+   "options": [
+    "to joke with someone by saying something untrue",
+    "it's better to do something late than not do it",
+    "very quickly",
+    "to be very expensive"
+   ],
+   "answer": 1,
+   "meaningVi": "muộn còn hơn không",
+   "explanation": "“better late than never” means it's better to do something late than not do it. Example: 'Sorry I'm late for your party!' – 'That's OK. Better late than never!'",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-021",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "break a leg",
+   "context": "You're in the school play tonight? Break a leg!",
+   "question": "What does “break a leg” mean in this sentence?",
+   "options": [
+    "very calm, not nervous",
+    "good luck (said before a performance)",
+    "to make people feel relaxed when they first meet",
+    "to do more than people expect"
+   ],
+   "answer": 1,
+   "meaningVi": "chúc may mắn (trước khi biểu diễn)",
+   "explanation": "“break a leg” means good luck (said before a performance). Example: It's your first show tonight. Break a leg!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-022",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "sleep on it",
+   "context": "I'm not sure about the job. I'll sleep on it.",
+   "question": "What does “sleep on it” mean in this sentence?",
+   "options": [
+    "to wait until tomorrow to make a decision",
+    "to tell a secret by mistake",
+    "to stop working for the day",
+    "to leave; to start a journey"
+   ],
+   "answer": 0,
+   "meaningVi": "để đến mai suy nghĩ thêm",
+   "explanation": "“sleep on it” means to wait until tomorrow to make a decision. Example: You don't have to decide now. Go home and sleep on it.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-023",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in the same boat",
+   "context": "Don't worry, we're all in the same boat – nobody understands this lesson.",
+   "question": "What does “in the same boat” mean in this sentence?",
+   "options": [
+    "from memory",
+    "in the same difficult situation",
+    "to do more than people expect",
+    "to tell a secret by mistake"
+   ],
+   "answer": 1,
+   "meaningVi": "cùng chung cảnh ngộ",
+   "explanation": "“in the same boat” means in the same difficult situation. Example: You have no money until Friday? Me too – we're in the same boat.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-024",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "go the extra mile",
+   "context": "The hotel staff always go the extra mile for their guests.",
+   "question": "What does “go the extra mile” mean in this sentence?",
+   "options": [
+    "to do more than people expect",
+    "in the same difficult situation",
+    "it's better to do something late than not do it",
+    "a person who gets up early"
+   ],
+   "answer": 0,
+   "meaningVi": "nỗ lực hơn mức mong đợi",
+   "explanation": "“go the extra mile” means to do more than people expect. Example: Good teachers go the extra mile to help their students.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-025",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in no time",
+   "context": "Don't worry, the bus will be here in no time.",
+   "question": "What does “in no time” mean in this sentence?",
+   "options": [
+    "very busy and active",
+    "to love eating sweet food",
+    "very quickly",
+    "a person who likes staying up late"
+   ],
+   "answer": 2,
+   "meaningVi": "rất nhanh, chẳng mấy chốc",
+   "explanation": "“in no time” means very quickly. Example: If we all help, we'll clean the classroom in no time.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-026",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "lend a hand",
+   "context": "Can you lend a hand with these boxes?",
+   "question": "What does “lend a hand” mean in this sentence?",
+   "options": [
+    "extremely happy",
+    "from memory",
+    "to help",
+    "to agree with someone"
+   ],
+   "answer": 2,
+   "meaningVi": "giúp một tay",
+   "explanation": "“lend a hand” means to help. Example: My dad is fixing the car. I'm going to go and lend a hand.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-027",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "speak of the devil",
+   "context": "'Where's Sam?' 'Speak of the devil – here he comes now!'",
+   "question": "What does “speak of the devil” mean in this sentence?",
+   "options": [
+    "time passes very quickly",
+    "said when the person you are talking about arrives",
+    "to be very expensive",
+    "very rarely"
+   ],
+   "answer": 1,
+   "meaningVi": "vừa nhắc Tào Tháo, Tào Tháo đến",
+   "explanation": "“speak of the devil” means said when the person you are talking about arrives. Example: We were just talking about Linh and she walked in. Speak of the devil!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-028",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "time flies",
+   "context": "Is it June already? Time flies!",
+   "question": "What does “time flies” mean in this sentence?",
+   "options": [
+    "very quickly",
+    "time passes very quickly",
+    "to joke with someone by saying something untrue",
+    "in the same difficult situation"
+   ],
+   "answer": 1,
+   "meaningVi": "thời gian trôi nhanh quá",
+   "explanation": "“time flies” means time passes very quickly. Example: We started this course a year ago. Time flies when you're having fun!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-029",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "hold your horses",
+   "context": "Hold your horses! We need to read the instructions first.",
+   "question": "What does “hold your horses” mean in this sentence?",
+   "options": [
+    "said when the person you are talking about arrives",
+    "to stay in contact with someone",
+    "raining very heavily",
+    "wait; be patient"
+   ],
+   "answer": 3,
+   "meaningVi": "từ từ đã, bình tĩnh nào",
+   "explanation": "“hold your horses” means wait; be patient. Example: Hold your horses! Don't start eating – Grandma isn't here yet.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-030",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "get up on the wrong side of the bed",
+   "context": "Why is Dad so angry today? Did he get up on the wrong side of the bed?",
+   "question": "What does “get up on the wrong side of the bed” mean in this sentence?",
+   "options": [
+    "good luck (said before a performance)",
+    "to be in a bad mood all day",
+    "to study hard",
+    "said when the person you are talking about arrives"
+   ],
+   "answer": 1,
+   "meaningVi": "cáu kỉnh cả ngày (dậy nhầm giường)",
+   "explanation": "“get up on the wrong side of the bed” means to be in a bad mood all day. Example: You're angry with everyone this morning. Did you get up on the wrong side of the bed?",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-031",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "sick and tired of",
+   "context": "I'm sick and tired of eating noodles every day.",
+   "question": "What does “sick and tired of” mean in this sentence?",
+   "options": [
+    "if you practise a lot, you become very good",
+    "said when the person you are talking about arrives",
+    "very bored and annoyed with something",
+    "practical, friendly and not proud"
+   ],
+   "answer": 2,
+   "meaningVi": "chán ngấy",
+   "explanation": "“sick and tired of” means very bored and annoyed with something. Example: She's sick and tired of waiting for the bus every morning – she wants a bike.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-032",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "all ears",
+   "context": "Tell me about your trip – I'm all ears!",
+   "question": "What does “all ears” mean in this sentence?",
+   "options": [
+    "listening carefully and with interest",
+    "to joke with someone by saying something untrue",
+    "to leave; to start a journey",
+    "to feel sad"
+   ],
+   "answer": 0,
+   "meaningVi": "lắng nghe chăm chú",
+   "explanation": "“all ears” means listening carefully and with interest. Example: You have some news? Go on, I'm all ears.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-033",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "have a sweet tooth",
+   "context": "My little sister has a sweet tooth – she eats chocolate every day.",
+   "question": "What does “have a sweet tooth” mean in this sentence?",
+   "options": [
+    "feeling a little ill",
+    "full of energy",
+    "to love eating sweet food",
+    "immediately, without waiting"
+   ],
+   "answer": 2,
+   "meaningVi": "hảo ngọt, mê đồ ngọt",
+   "explanation": "“have a sweet tooth” means to love eating sweet food. Example: I have a sweet tooth, so I can't stop eating cakes.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-034",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "a night owl",
+   "context": "I'm a night owl – I often read until 1 a.m.",
+   "question": "What does “a night owl” mean in this sentence?",
+   "options": [
+    "very busy",
+    "a person who likes staying up late",
+    "not something I like",
+    "to relax and not work too hard"
+   ],
+   "answer": 1,
+   "meaningVi": "cú đêm, người hay thức khuya",
+   "explanation": "“a night owl” means a person who likes staying up late. Example: My brother never goes to bed before midnight. He's a night owl.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-035",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "an early bird",
+   "context": "My mum is an early bird; she gets up at five every day.",
+   "question": "What does “an early bird” mean in this sentence?",
+   "options": [
+    "a person who gets up early",
+    "full of energy",
+    "if you practise a lot, you become very good",
+    "practical, friendly and not proud"
+   ],
+   "answer": 0,
+   "meaningVi": "người dậy sớm",
+   "explanation": "“an early bird” means a person who gets up early. Example: Huong always arrives at school first. She's an early bird.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-036",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "full of beans",
+   "context": "The children were full of beans after the party.",
+   "question": "What does “full of beans” mean in this sentence?",
+   "options": [
+    "it's better to do something late than not do it",
+    "to joke with someone by saying something untrue",
+    "full of energy",
+    "to decide"
+   ],
+   "answer": 2,
+   "meaningVi": "tràn đầy năng lượng",
+   "explanation": "“full of beans” means full of energy. Example: After a good night's sleep, I'm full of beans this morning!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-037",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "down to earth",
+   "context": "She's famous, but she's very down to earth.",
+   "question": "What does “down to earth” mean in this sentence?",
+   "options": [
+    "to become nervous and want to stop doing something",
+    "practical, friendly and not proud",
+    "to watch or look after someone or something",
+    "from memory"
+   ],
+   "answer": 1,
+   "meaningVi": "giản dị, thực tế, gần gũi",
+   "explanation": "“down to earth” means practical, friendly and not proud. Example: Our new manager is rich and famous, but he isn't proud at all. He's very down to earth.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-038",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "see eye to eye",
+   "context": "My sister and I don't always see eye to eye about music.",
+   "question": "What does “see eye to eye” mean in this sentence?",
+   "options": [
+    "to agree with someone",
+    "a person someone loves very much",
+    "to make people feel relaxed when they first meet",
+    "to help"
+   ],
+   "answer": 0,
+   "meaningVi": "đồng quan điểm",
+   "explanation": "“see eye to eye” means to agree with someone. Example: My parents and I don't see eye to eye about how much time I spend online.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-039",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "over the moon",
+   "context": "Dad was over the moon when his team won the cup.",
+   "question": "What does “over the moon” mean in this sentence?",
+   "options": [
+    "in trouble",
+    "very happy",
+    "very calm, not nervous",
+    "to decide"
+   ],
+   "answer": 1,
+   "meaningVi": "vui mừng khôn xiết",
+   "explanation": "“over the moon” means very happy. Example: When Linh got a place at university, she was over the moon.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-040",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "pull someone's leg",
+   "context": "Don't believe him – he's pulling your leg!",
+   "question": "What does “pull someone's leg” mean in this sentence?",
+   "options": [
+    "good luck (said before a performance)",
+    "to stay in contact with someone",
+    "to be in a bad mood all day",
+    "to joke with someone by saying something untrue"
+   ],
+   "answer": 3,
+   "meaningVi": "trêu chọc, nói đùa",
+   "explanation": "“pull someone's leg” means to joke with someone by saying something untrue. Example: Did Tom really meet a famous singer, or is he trying to pull your leg?",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-041",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "not my cup of tea",
+   "context": "Horror films are not my cup of tea.",
+   "question": "What does “not my cup of tea” mean in this sentence?",
+   "options": [
+    "to help",
+    "not something I like",
+    "to make people feel relaxed when they first meet",
+    "said when the person you are talking about arrives"
+   ],
+   "answer": 1,
+   "meaningVi": "không phải gu của tôi",
+   "explanation": "“not my cup of tea” means not something I like. Example: Lots of people love jazz, but it's not my cup of tea.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-042",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "on the go",
+   "context": "Nurses are on the go all day.",
+   "question": "What does “on the go” mean in this sentence?",
+   "options": [
+    "very quickly",
+    "something very easy",
+    "to become nervous and want to stop doing something",
+    "very busy and active"
+   ],
+   "answer": 3,
+   "meaningVi": "bận rộn liên tục",
+   "explanation": "“on the go” means very busy and active. Example: My mum works and studies, so she's always on the go.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-043",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "make up your mind",
+   "context": "Pizza or pasta? Please make up your mind!",
+   "question": "What does “make up your mind” mean in this sentence?",
+   "options": [
+    "to decide",
+    "very calm, not nervous",
+    "immediately, without waiting",
+    "a person who sits and watches TV a lot"
+   ],
+   "answer": 0,
+   "meaningVi": "quyết định",
+   "explanation": "“make up your mind” means to decide. Example: Hurry up and make up your mind! The shop closes in five minutes.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-044",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "take it easy",
+   "context": "You've been ill, so take it easy this weekend.",
+   "question": "What does “take it easy” mean in this sentence?",
+   "options": [
+    "to relax and not work too hard",
+    "immediately, without waiting",
+    "feeling a little ill",
+    "to do more than people expect"
+   ],
+   "answer": 0,
+   "meaningVi": "thư giãn, nghỉ ngơi",
+   "explanation": "“take it easy” means to relax and not work too hard. Example: You look tired. Sit down and take it easy.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-045",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "keep in touch",
+   "context": "We moved to different cities, but we keep in touch online.",
+   "question": "What does “keep in touch” mean in this sentence?",
+   "options": [
+    "to stay in contact with someone",
+    "raining very heavily",
+    "very busy and active",
+    "very bored and annoyed with something"
+   ],
+   "answer": 0,
+   "meaningVi": "giữ liên lạc",
+   "explanation": "“keep in touch” means to stay in contact with someone. Example: Here's my email address. Let's keep in touch after the course!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-046",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "practice makes perfect",
+   "context": "Don't stop playing the piano – practice makes perfect!",
+   "question": "What does “practice makes perfect” mean in this sentence?",
+   "options": [
+    "to study hard",
+    "something very easy",
+    "if you practise a lot, you become very good",
+    "very calm, not nervous"
+   ],
+   "answer": 2,
+   "meaningVi": "có công mài sắt có ngày nên kim",
+   "explanation": "“practice makes perfect” means if you practise a lot, you become very good. Example: Your English is getting better every week. Remember, practice makes perfect!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-047",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "as busy as a bee",
+   "context": "Before the holiday, Mum is as busy as a bee.",
+   "question": "What does “as busy as a bee” mean in this sentence?",
+   "options": [
+    "extremely happy",
+    "very busy",
+    "something very easy",
+    "to make people feel relaxed when they first meet"
+   ],
+   "answer": 1,
+   "meaningVi": "bận tối mắt",
+   "explanation": "“as busy as a bee” means very busy. Example: With three jobs, my uncle is as busy as a bee.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-048",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "as cool as a cucumber",
+   "context": "Before the exam, Hoa was as cool as a cucumber.",
+   "question": "What does “as cool as a cucumber” mean in this sentence?",
+   "options": [
+    "very rarely",
+    "to joke with someone by saying something untrue",
+    "very calm, not nervous",
+    "to tell a secret by mistake"
+   ],
+   "answer": 2,
+   "meaningVi": "bình tĩnh như không",
+   "explanation": "“as cool as a cucumber” means very calm, not nervous. Example: Everyone was nervous, but the pilot stayed as cool as a cucumber.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-049",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "in a nutshell",
+   "context": "In a nutshell, the trip was great but too short.",
+   "question": "What does “in a nutshell” mean in this sentence?",
+   "options": [
+    "raining very heavily",
+    "to wait until tomorrow to make a decision",
+    "a person someone loves very much",
+    "in a few words"
+   ],
+   "answer": 3,
+   "meaningVi": "nói ngắn gọn, tóm lại",
+   "explanation": "“in a nutshell” means in a few words. Example: The film is long, but in a nutshell, it's about a boy who finds a dragon.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-050",
+   "type": "mcq",
+   "subtype": "meaning",
+   "topic": "idioms",
+   "focus": "ring a bell",
+   "context": "His name rings a bell, but I can't remember his face.",
+   "question": "What does “ring a bell” mean in this sentence?",
+   "options": [
+    "to do more than people expect",
+    "to sound familiar",
+    "to relax and not work too hard",
+    "to feel sad"
+   ],
+   "answer": 1,
+   "meaningVi": "nghe quen quen",
+   "explanation": "“ring a bell” means to sound familiar. Example: Mr Tanaka? Hmm, that name doesn't ring a bell.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "have a sweet tooth",
+   "question": "Choose the idiom that best completes the sentence:\nI ___, so I can't stop eating cakes.",
+   "options": [
+    "sleep on it",
+    "make up your mind",
+    "have a sweet tooth",
+    "cost an arm and a leg"
+   ],
+   "answer": 2,
+   "meaningVi": "hảo ngọt, mê đồ ngọt",
+   "explanation": "“have a sweet tooth” = to love eating sweet food. Full sentence: I have a sweet tooth, so I can't stop eating cakes.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "take it easy",
+   "question": "Choose the idiom that best completes the sentence:\nYou look tired. Sit down and ___.",
+   "options": [
+    "make up your mind",
+    "take it easy",
+    "let the cat out of the bag",
+    "have a sweet tooth"
+   ],
+   "answer": 1,
+   "meaningVi": "thư giãn, nghỉ ngơi",
+   "explanation": "“take it easy” = to relax and not work too hard. Full sentence: You look tired. Sit down and take it easy.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in a nutshell",
+   "question": "Choose the idiom that best completes the sentence:\nThe film is long, but ___, it's about a boy who finds a dragon.",
+   "options": [
+    "in a nutshell",
+    "once in a blue moon",
+    "in no time",
+    "by heart"
+   ],
+   "answer": 0,
+   "meaningVi": "nói ngắn gọn, tóm lại",
+   "explanation": "“in a nutshell” = in a few words. Full sentence: The film is long, but in a nutshell, it's about a boy who finds a dragon.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "see eye to eye",
+   "question": "Choose the idiom that best completes the sentence:\nMy parents and I don't ___ about how much time I spend online.",
+   "options": [
+    "see eye to eye",
+    "sleep on it",
+    "ring a bell",
+    "feel blue"
+   ],
+   "answer": 0,
+   "meaningVi": "đồng quan điểm",
+   "explanation": "“see eye to eye” = to agree with someone. Full sentence: My parents and I don't see eye to eye about how much time I spend online.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "down to earth",
+   "question": "Choose the idiom that best completes the sentence:\nOur new manager is rich and famous, but he isn't proud at all. He's very ___.",
+   "options": [
+    "down to earth",
+    "full of beans",
+    "as busy as a bee",
+    "under the weather"
+   ],
+   "answer": 0,
+   "meaningVi": "giản dị, thực tế, gần gũi",
+   "explanation": "“down to earth” = practical, friendly and not proud. Full sentence: Our new manager is rich and famous, but he isn't proud at all. He's very down to earth.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "under the weather",
+   "question": "Choose the idiom that best completes the sentence:\nLan didn't come to school. She's a bit ___ today.",
+   "options": [
+    "under the weather",
+    "sick and tired of",
+    "down to earth",
+    "in the same boat"
+   ],
+   "answer": 0,
+   "meaningVi": "hơi mệt, không khỏe",
+   "explanation": "“under the weather” = feeling a little ill. Full sentence: Lan didn't come to school. She's a bit under the weather today.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "an early bird",
+   "question": "Choose the idiom that best completes the sentence:\nHuong always arrives at school first. She's ___.",
+   "options": [
+    "an early bird",
+    "a couch potato",
+    "a piece of cake",
+    "the apple of your eye"
+   ],
+   "answer": 0,
+   "meaningVi": "người dậy sớm",
+   "explanation": "“an early bird” = a person who gets up early. Full sentence: Huong always arrives at school first. She's an early bird.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "not my cup of tea",
+   "question": "Choose the idiom that best completes the sentence:\nLots of people love jazz, but it's ___.",
+   "options": [
+    "speak of the devil",
+    "break a leg",
+    "not my cup of tea",
+    "hold your horses"
+   ],
+   "answer": 2,
+   "meaningVi": "không phải gu của tôi",
+   "explanation": "“not my cup of tea” = not something I like. Full sentence: Lots of people love jazz, but it's not my cup of tea.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "pull someone's leg",
+   "question": "Choose the idiom that best completes the sentence:\nDid Tom really meet a famous singer, or is he trying to ___?",
+   "options": [
+    "keep in touch",
+    "let the cat out of the bag",
+    "hit the road",
+    "pull your leg"
+   ],
+   "answer": 3,
+   "meaningVi": "trêu chọc, nói đùa",
+   "explanation": "“pull someone's leg” = to joke with someone by saying something untrue. Full sentence: Did Tom really meet a famous singer, or is he trying to pull your leg?",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "go the extra mile",
+   "question": "Choose the idiom that best completes the sentence:\nGood teachers ___ to help their students.",
+   "options": [
+    "pull your leg",
+    "go the extra mile",
+    "cost an arm and a leg",
+    "sleep on it"
+   ],
+   "answer": 1,
+   "meaningVi": "nỗ lực hơn mức mong đợi",
+   "explanation": "“go the extra mile” = to do more than people expect. Full sentence: Good teachers go the extra mile to help their students.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "at the drop of a hat",
+   "question": "Choose the idiom that best completes the sentence:\nMy grandma loves cooking – she will make you food ___.",
+   "options": [
+    "at the drop of a hat",
+    "once in a blue moon",
+    "by heart",
+    "in a nutshell"
+   ],
+   "answer": 0,
+   "meaningVi": "ngay lập tức",
+   "explanation": "“at the drop of a hat” = immediately, without waiting. Full sentence: My grandma loves cooking – she will make you food at the drop of a hat.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "break a leg",
+   "question": "Choose the idiom that best completes the sentence:\nIt's your first show tonight. ___!",
+   "options": [
+    "Not my cup of tea",
+    "Practice makes perfect",
+    "Break a leg",
+    "Time flies"
+   ],
+   "answer": 2,
+   "meaningVi": "chúc may mắn (trước khi biểu diễn)",
+   "explanation": "“break a leg” = good luck (said before a performance). Full sentence: It's your first show tonight. Break a leg!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a night owl",
+   "question": "Choose the idiom that best completes the sentence:\nMy brother never goes to bed before midnight. He's ___.",
+   "options": [
+    "a couch potato",
+    "a night owl",
+    "a piece of cake",
+    "an early bird"
+   ],
+   "answer": 1,
+   "meaningVi": "cú đêm, người hay thức khuya",
+   "explanation": "“a night owl” = a person who likes staying up late. Full sentence: My brother never goes to bed before midnight. He's a night owl.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in the same boat",
+   "question": "Choose the idiom that best completes the sentence:\nYou have no money until Friday? Me too – we're ___.",
+   "options": [
+    "on cloud nine",
+    "down to earth",
+    "in the same boat",
+    "on the go"
+   ],
+   "answer": 2,
+   "meaningVi": "cùng chung cảnh ngộ",
+   "explanation": "“in the same boat” = in the same difficult situation. Full sentence: You have no money until Friday? Me too – we're in the same boat.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "let the cat out of the bag",
+   "question": "Choose the idiom that best completes the sentence:\nDon't tell Mum about her present! Please don't ___.",
+   "options": [
+    "break the ice",
+    "let the cat out of the bag",
+    "pull your leg",
+    "get cold feet"
+   ],
+   "answer": 1,
+   "meaningVi": "lỡ miệng để lộ bí mật",
+   "explanation": "“let the cat out of the bag” = to tell a secret by mistake. Full sentence: Don't tell Mum about her present! Please don't let the cat out of the bag.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "sick and tired of",
+   "question": "Choose the idiom that best completes the sentence:\nShe's ___ waiting for the bus every morning – she wants a bike.",
+   "options": [
+    "on cloud nine",
+    "down to earth",
+    "on the go",
+    "sick and tired of"
+   ],
+   "answer": 3,
+   "meaningVi": "chán ngấy",
+   "explanation": "“sick and tired of” = very bored and annoyed with something. Full sentence: She's sick and tired of waiting for the bus every morning – she wants a bike.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in no time",
+   "question": "Choose the idiom that best completes the sentence:\nIf we all help, we'll clean the classroom ___.",
+   "options": [
+    "by heart",
+    "in no time",
+    "once in a blue moon",
+    "in a nutshell"
+   ],
+   "answer": 1,
+   "meaningVi": "rất nhanh, chẳng mấy chốc",
+   "explanation": "“in no time” = very quickly. Full sentence: If we all help, we'll clean the classroom in no time.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "sleep on it",
+   "question": "Choose the idiom that best completes the sentence:\nYou don't have to decide now. Go home and ___.",
+   "options": [
+    "ring a bell",
+    "keep in touch",
+    "let the cat out of the bag",
+    "sleep on it"
+   ],
+   "answer": 3,
+   "meaningVi": "để đến mai suy nghĩ thêm",
+   "explanation": "“sleep on it” = to wait until tomorrow to make a decision. Full sentence: You don't have to decide now. Go home and sleep on it.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a piece of cake",
+   "question": "Choose the idiom that best completes the sentence:\nDon't worry about the quiz. It's ___!",
+   "options": [
+    "the apple of your eye",
+    "an early bird",
+    "a piece of cake",
+    "a couch potato"
+   ],
+   "answer": 2,
+   "meaningVi": "dễ như ăn bánh, rất dễ",
+   "explanation": "“a piece of cake” = something very easy. Full sentence: Don't worry about the quiz. It's a piece of cake!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "cost an arm and a leg",
+   "question": "Choose the idiom that best completes the sentence:\nI'd love a holiday in Paris, but it will ___.",
+   "options": [
+    "have a sweet tooth",
+    "hit the road",
+    "pull your leg",
+    "cost an arm and a leg"
+   ],
+   "answer": 3,
+   "meaningVi": "đắt cắt cổ",
+   "explanation": "“cost an arm and a leg” = to be very expensive. Full sentence: I'd love a holiday in Paris, but it will cost an arm and a leg.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "better late than never",
+   "question": "Choose the idiom that best completes the sentence:\n'Sorry I'm late for your party!' – 'That's OK. ___!'",
+   "options": [
+    "Raining cats and dogs",
+    "Practice makes perfect",
+    "Better late than never",
+    "Speak of the devil"
+   ],
+   "answer": 2,
+   "meaningVi": "muộn còn hơn không",
+   "explanation": "“better late than never” = it's better to do something late than not do it. Full sentence: 'Sorry I'm late for your party!' – 'That's OK. Better late than never!'",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep an eye on",
+   "question": "Choose the idiom that best completes the sentence:\nPlease ___ your little brother while I cook dinner.",
+   "options": [
+    "break the ice",
+    "call it a day",
+    "keep an eye on",
+    "go the extra mile"
+   ],
+   "answer": 2,
+   "meaningVi": "để mắt tới, trông chừng",
+   "explanation": "“keep an eye on” = to watch or look after someone or something. Full sentence: Please keep an eye on your little brother while I cook dinner.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "raining cats and dogs",
+   "question": "Choose the idiom that best completes the sentence:\nWe can't play football now. It's ___ outside.",
+   "options": [
+    "break a leg",
+    "speak of the devil",
+    "hold your horses",
+    "raining cats and dogs"
+   ],
+   "answer": 3,
+   "meaningVi": "mưa như trút nước",
+   "explanation": "“raining cats and dogs” = raining very heavily. Full sentence: We can't play football now. It's raining cats and dogs outside.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "by heart",
+   "question": "Choose the idiom that best completes the sentence:\nOur teacher asked us to learn the poem ___.",
+   "options": [
+    "in a nutshell",
+    "once in a blue moon",
+    "by heart",
+    "in no time"
+   ],
+   "answer": 2,
+   "meaningVi": "thuộc lòng",
+   "explanation": "“by heart” = from memory. Full sentence: Our teacher asked us to learn the poem by heart.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hit the books",
+   "question": "Choose the idiom that best completes the sentence:\nI can't go out tonight. I have to ___ for my maths test.",
+   "options": [
+    "get up on the wrong side of the bed",
+    "have a sweet tooth",
+    "hit the books",
+    "sleep on it"
+   ],
+   "answer": 2,
+   "meaningVi": "học hành chăm chỉ",
+   "explanation": "“hit the books” = to study hard. Full sentence: I can't go out tonight. I have to hit the books for my maths test.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "speak of the devil",
+   "question": "Choose the idiom that best completes the sentence:\nWe were just talking about Linh and she walked in. ___!",
+   "options": [
+    "Speak of the devil",
+    "Hold your horses",
+    "Raining cats and dogs",
+    "Not my cup of tea"
+   ],
+   "answer": 0,
+   "meaningVi": "vừa nhắc Tào Tháo, Tào Tháo đến",
+   "explanation": "“speak of the devil” = said when the person you are talking about arrives. Full sentence: We were just talking about Linh and she walked in. Speak of the devil!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on the go",
+   "question": "Choose the idiom that best completes the sentence:\nMy mum works and studies, so she's always ___.",
+   "options": [
+    "on the go",
+    "all ears",
+    "in hot water",
+    "over the moon"
+   ],
+   "answer": 0,
+   "meaningVi": "bận rộn liên tục",
+   "explanation": "“on the go” = very busy and active. Full sentence: My mum works and studies, so she's always on the go.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "practice makes perfect",
+   "question": "Choose the idiom that best completes the sentence:\nYour English is getting better every week. Remember, ___!",
+   "options": [
+    "practice makes perfect",
+    "raining cats and dogs",
+    "time flies",
+    "better late than never"
+   ],
+   "answer": 0,
+   "meaningVi": "có công mài sắt có ngày nên kim",
+   "explanation": "“practice makes perfect” = if you practise a lot, you become very good. Full sentence: Your English is getting better every week. Remember, practice makes perfect!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "full of beans",
+   "question": "Choose the idiom that best completes the sentence:\nAfter a good night's sleep, I'm ___ this morning!",
+   "options": [
+    "over the moon",
+    "full of beans",
+    "as busy as a bee",
+    "under the weather"
+   ],
+   "answer": 1,
+   "meaningVi": "tràn đầy năng lượng",
+   "explanation": "“full of beans” = full of energy. Full sentence: After a good night's sleep, I'm full of beans this morning!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get up on the wrong side of the bed",
+   "question": "Choose the idiom that best completes the sentence:\nYou're angry with everyone this morning. Did you ___?",
+   "options": [
+    "hit the road",
+    "ring a bell",
+    "get up on the wrong side of the bed",
+    "pull your leg"
+   ],
+   "answer": 2,
+   "meaningVi": "cáu kỉnh cả ngày (dậy nhầm giường)",
+   "explanation": "“get up on the wrong side of the bed” = to be in a bad mood all day. Full sentence: You're angry with everyone this morning. Did you get up on the wrong side of the bed?",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "get cold feet",
+   "question": "Choose the idiom that best completes the sentence:\nI signed up for the speech contest, but I'm starting to ___.",
+   "options": [
+    "get cold feet",
+    "cost an arm and a leg",
+    "have a sweet tooth",
+    "sleep on it"
+   ],
+   "answer": 0,
+   "meaningVi": "chùn bước, mất can đảm",
+   "explanation": "“get cold feet” = to become nervous and want to stop doing something. Full sentence: I signed up for the speech contest, but I'm starting to get cold feet.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "as busy as a bee",
+   "question": "Choose the idiom that best completes the sentence:\nWith three jobs, my uncle is ___.",
+   "options": [
+    "in hot water",
+    "as busy as a bee",
+    "sick and tired of",
+    "down to earth"
+   ],
+   "answer": 1,
+   "meaningVi": "bận tối mắt",
+   "explanation": "“as busy as a bee” = very busy. Full sentence: With three jobs, my uncle is as busy as a bee.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "ring a bell",
+   "question": "Choose the idiom that best completes the sentence:\nMr Tanaka? Hmm, that name doesn't ___.",
+   "options": [
+    "hit the books",
+    "ring a bell",
+    "get up on the wrong side of the bed",
+    "break the ice"
+   ],
+   "answer": 1,
+   "meaningVi": "nghe quen quen",
+   "explanation": "“ring a bell” = to sound familiar. Full sentence: Mr Tanaka? Hmm, that name doesn't ring a bell.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hit the road",
+   "question": "Choose the idiom that best completes the sentence:\nOur bus leaves at six, so we need to ___ at five thirty.",
+   "options": [
+    "hit the road",
+    "get up on the wrong side of the bed",
+    "see eye to eye",
+    "keep an eye on"
+   ],
+   "answer": 0,
+   "meaningVi": "lên đường",
+   "explanation": "“hit the road” = to leave; to start a journey. Full sentence: Our bus leaves at six, so we need to hit the road at five thirty.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "as cool as a cucumber",
+   "question": "Choose the idiom that best completes the sentence:\nEveryone was nervous, but the pilot stayed ___.",
+   "options": [
+    "over the moon",
+    "in hot water",
+    "sick and tired of",
+    "as cool as a cucumber"
+   ],
+   "answer": 3,
+   "meaningVi": "bình tĩnh như không",
+   "explanation": "“as cool as a cucumber” = very calm, not nervous. Full sentence: Everyone was nervous, but the pilot stayed as cool as a cucumber.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "in hot water",
+   "question": "Choose the idiom that best completes the sentence:\nIf you don't do your homework, you'll be ___ with the teacher.",
+   "options": [
+    "in hot water",
+    "as busy as a bee",
+    "as cool as a cucumber",
+    "down to earth"
+   ],
+   "answer": 0,
+   "meaningVi": "gặp rắc rối",
+   "explanation": "“in hot water” = in trouble. Full sentence: If you don't do your homework, you'll be in hot water with the teacher.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "break the ice",
+   "question": "Choose the idiom that best completes the sentence:\nOn the first day of class, the teacher played a game to ___.",
+   "options": [
+    "hit the road",
+    "break the ice",
+    "feel blue",
+    "ring a bell"
+   ],
+   "answer": 1,
+   "meaningVi": "phá vỡ sự ngại ngùng ban đầu",
+   "explanation": "“break the ice” = to make people feel relaxed when they first meet. Full sentence: On the first day of class, the teacher played a game to break the ice.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "over the moon",
+   "question": "Choose the idiom that best completes the sentence:\nWhen Linh got a place at university, she was ___.",
+   "options": [
+    "as busy as a bee",
+    "under the weather",
+    "over the moon",
+    "sick and tired of"
+   ],
+   "answer": 2,
+   "meaningVi": "vui mừng khôn xiết",
+   "explanation": "“over the moon” = very happy. Full sentence: When Linh got a place at university, she was over the moon.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "on cloud nine",
+   "question": "Choose the idiom that best completes the sentence:\nNam got a puppy for his birthday and he was ___.",
+   "options": [
+    "as cool as a cucumber",
+    "on cloud nine",
+    "under the weather",
+    "in hot water"
+   ],
+   "answer": 1,
+   "meaningVi": "vui sướng tột độ, như ở trên mây",
+   "explanation": "“on cloud nine” = extremely happy. Full sentence: Nam got a puppy for his birthday and he was on cloud nine.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "call it a day",
+   "question": "Choose the idiom that best completes the sentence:\nIt's 7 p.m. and I'm tired. I think I'll ___ and go home.",
+   "options": [
+    "call it a day",
+    "ring a bell",
+    "cost an arm and a leg",
+    "break the ice"
+   ],
+   "answer": 0,
+   "meaningVi": "nghỉ tay, kết thúc công việc hôm nay",
+   "explanation": "“call it a day” = to stop working for the day. Full sentence: It's 7 p.m. and I'm tired. I think I'll call it a day and go home.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "once in a blue moon",
+   "question": "Choose the idiom that best completes the sentence:\nI love pizza, but I only eat it ___ because it's expensive here.",
+   "options": [
+    "by heart",
+    "in a nutshell",
+    "once in a blue moon",
+    "at the drop of a hat"
+   ],
+   "answer": 2,
+   "meaningVi": "hiếm khi, năm thì mười họa",
+   "explanation": "“once in a blue moon” = very rarely. Full sentence: I love pizza, but I only eat it once in a blue moon because it's expensive here.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "keep in touch",
+   "question": "Choose the idiom that best completes the sentence:\nHere's my email address. Let's ___ after the course!",
+   "options": [
+    "keep in touch",
+    "keep an eye on",
+    "break the ice",
+    "call it a day"
+   ],
+   "answer": 0,
+   "meaningVi": "giữ liên lạc",
+   "explanation": "“keep in touch” = to stay in contact with someone. Full sentence: Here's my email address. Let's keep in touch after the course!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "lend a hand",
+   "question": "Choose the idiom that best completes the sentence:\nMy dad is fixing the car. I'm going to go and ___.",
+   "options": [
+    "lend a hand",
+    "keep an eye on",
+    "have a sweet tooth",
+    "break the ice"
+   ],
+   "answer": 0,
+   "meaningVi": "giúp một tay",
+   "explanation": "“lend a hand” = to help. Full sentence: My dad is fixing the car. I'm going to go and lend a hand.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "the apple of someone's eye",
+   "question": "Choose the idiom that best completes the sentence:\nGrandpa loves my baby sister so much. She is ___.",
+   "options": [
+    "a couch potato",
+    "a night owl",
+    "an early bird",
+    "the apple of his eye"
+   ],
+   "answer": 3,
+   "meaningVi": "người được yêu thương nhất, cục cưng",
+   "explanation": "“the apple of someone's eye” = a person someone loves very much. Full sentence: Grandpa loves my baby sister so much. She is the apple of his eye.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "all ears",
+   "question": "Choose the idiom that best completes the sentence:\nYou have some news? Go on, I'm ___.",
+   "options": [
+    "as cool as a cucumber",
+    "all ears",
+    "sick and tired of",
+    "full of beans"
+   ],
+   "answer": 1,
+   "meaningVi": "lắng nghe chăm chú",
+   "explanation": "“all ears” = listening carefully and with interest. Full sentence: You have some news? Go on, I'm all ears.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "feel blue",
+   "question": "Choose the idiom that best completes the sentence:\nWhen my best friend moved away, I started to ___.",
+   "options": [
+    "feel blue",
+    "pull your leg",
+    "cost an arm and a leg",
+    "ring a bell"
+   ],
+   "answer": 0,
+   "meaningVi": "cảm thấy buồn",
+   "explanation": "“feel blue” = to feel sad. Full sentence: When my best friend moved away, I started to feel blue.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "time flies",
+   "question": "Choose the idiom that best completes the sentence:\nWe started this course a year ago. ___ when you're having fun!",
+   "options": [
+    "Better late than never",
+    "Speak of the devil",
+    "Hold your horses",
+    "Time flies"
+   ],
+   "answer": 3,
+   "meaningVi": "thời gian trôi nhanh quá",
+   "explanation": "“time flies” = time passes very quickly. Full sentence: We started this course a year ago. Time flies when you're having fun!",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "hold your horses",
+   "question": "Choose the idiom that best completes the sentence:\n___! Don't start eating – Grandma isn't here yet.",
+   "options": [
+    "Not my cup of tea",
+    "Better late than never",
+    "Hold your horses",
+    "Time flies"
+   ],
+   "answer": 2,
+   "meaningVi": "từ từ đã, bình tĩnh nào",
+   "explanation": "“hold your horses” = wait; be patient. Full sentence: Hold your horses! Don't start eating – Grandma isn't here yet.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "a couch potato",
+   "question": "Choose the idiom that best completes the sentence:\nGet up and do some exercise! Don't be ___.",
+   "options": [
+    "the apple of your eye",
+    "a piece of cake",
+    "a couch potato",
+    "an early bird"
+   ],
+   "answer": 2,
+   "meaningVi": "người lười vận động, suốt ngày xem TV",
+   "explanation": "“a couch potato” = a person who sits and watches TV a lot. Full sentence: Get up and do some exercise! Don't be a couch potato.",
+   "skill": "idiom",
+   "level": "a2"
+  },
+  {
+   "id": "a2-idiom-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "idioms",
+   "focus": "make up your mind",
+   "question": "Choose the idiom that best completes the sentence:\nHurry up and ___! The shop closes in five minutes.",
+   "options": [
+    "break the ice",
+    "see eye to eye",
+    "lend a hand",
+    "make up your mind"
+   ],
+   "answer": 3,
+   "meaningVi": "quyết định",
+   "explanation": "“make up your mind” = to decide. Full sentence: Hurry up and make up your mind! The shop closes in five minutes.",
+   "skill": "idiom",
+   "level": "a2"
+  }
+ ]
+}

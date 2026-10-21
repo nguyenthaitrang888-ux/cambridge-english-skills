@@ -1,0 +1,1914 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "collocation",
+ "title": {
+  "en": "Collocations",
+  "vi": "Cụm từ cố định"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-collocation-001",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "strike a balance",
+   "question": "Complete the collocation:\nWorking parents often struggle to ___ a balance between their careers and family life.",
+   "options": [
+    "knock",
+    "strike",
+    "beat",
+    "hit"
+   ],
+   "answer": 1,
+   "meaningVi": "cân bằng, dung hòa",
+   "explanation": "We say “strike a balance”. Full sentence: Working parents often struggle to strike a balance between their careers and family life.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-002",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "raise questions",
+   "question": "Complete the collocation:\nThe scandal has ___ serious questions about the minister's honesty.",
+   "options": [
+    "grown",
+    "rose",
+    "raised",
+    "lifted"
+   ],
+   "answer": 2,
+   "meaningVi": "đặt ra câu hỏi, gây nghi vấn",
+   "explanation": "We say “raise questions”. Full sentence: The scandal has raised serious questions about the minister's honesty.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-003",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "draw criticism",
+   "question": "Complete the collocation:\nThe new exam system has ___ fierce criticism from teachers.",
+   "options": [
+    "drawn",
+    "pulled",
+    "dragged",
+    "taken"
+   ],
+   "answer": 0,
+   "meaningVi": "hứng chịu chỉ trích",
+   "explanation": "We say “draw criticism”. Full sentence: The new exam system has drawn fierce criticism from teachers.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-004",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take a closer look",
+   "question": "Complete the collocation:\nBefore we decide, we need to ___ a closer look at the figures.",
+   "options": [
+    "make",
+    "give",
+    "do",
+    "take"
+   ],
+   "answer": 3,
+   "meaningVi": "xem xét kỹ hơn",
+   "explanation": "We say “take a closer look”. Full sentence: Before we decide, we need to take a closer look at the figures.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-005",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "set a target",
+   "question": "Complete the collocation:\nThe government has ___ a target of planting one million trees by 2030.",
+   "options": [
+    "set",
+    "put",
+    "placed",
+    "made"
+   ],
+   "answer": 0,
+   "meaningVi": "đặt mục tiêu",
+   "explanation": "We say “set a target”. Full sentence: The government has set a target of planting one million trees by 2030.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-006",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "bring something under control",
+   "question": "Complete the collocation:\nIt took firefighters six hours to bring the blaze under ___.",
+   "options": [
+    "order",
+    "command",
+    "control",
+    "power"
+   ],
+   "answer": 2,
+   "meaningVi": "khống chế, kiểm soát",
+   "explanation": "We say “bring something under control”. Full sentence: It took firefighters six hours to bring the blaze under control.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-007",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "put the blame on",
+   "question": "Complete the collocation:\nDon't ___ the blame on me – it wasn't my fault!",
+   "options": [
+    "make",
+    "throw",
+    "give",
+    "put"
+   ],
+   "answer": 3,
+   "meaningVi": "đổ lỗi cho",
+   "explanation": "We say “put the blame on”. Full sentence: Don't put the blame on me – it wasn't my fault!",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-008",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take a risk",
+   "question": "Complete the collocation:\nLeaving a secure job at fifty-five was risky, but he decided to ___ the risk.",
+   "options": [
+    "take",
+    "give",
+    "make",
+    "do"
+   ],
+   "answer": 0,
+   "meaningVi": "chấp nhận rủi ro",
+   "explanation": "We say “take a risk”. Full sentence: Leaving a secure job at fifty-five was risky, but he decided to take the risk.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-009",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "set a record",
+   "question": "Complete the collocation:\nThe film ___ a record for the biggest opening weekend in the country's history.",
+   "options": [
+    "made",
+    "put",
+    "set",
+    "did"
+   ],
+   "answer": 2,
+   "meaningVi": "lập kỷ lục",
+   "explanation": "We say “set a record”. Full sentence: The film set a record for the biggest opening weekend in the country's history.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-010",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "make an impression (on)",
+   "question": "Complete the collocation:\nThe young speaker ___ a lasting impression on everyone at the conference.",
+   "options": [
+    "did",
+    "gave",
+    "made",
+    "took"
+   ],
+   "answer": 2,
+   "meaningVi": "gây ấn tượng",
+   "explanation": "We say “make an impression (on)”. Full sentence: The young speaker made a lasting impression on everyone at the conference.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-011",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "narrow the gap",
+   "question": "Complete the collocation:\nThe new tax policy is designed to ___ the gap between rich and poor.",
+   "options": [
+    "thin",
+    "tighten",
+    "slim",
+    "narrow"
+   ],
+   "answer": 3,
+   "meaningVi": "thu hẹp khoảng cách",
+   "explanation": "We say “narrow the gap”. Full sentence: The new tax policy is designed to narrow the gap between rich and poor.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-012",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take offence",
+   "question": "Complete the collocation:\nPlease don't ___ offence – I wasn't criticising you personally.",
+   "options": [
+    "take",
+    "make",
+    "get",
+    "have"
+   ],
+   "answer": 0,
+   "meaningVi": "phật lòng, mếch lòng",
+   "explanation": "We say “take offence”. Full sentence: Please don't take offence – I wasn't criticising you personally.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-013",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "strike a chord (with)",
+   "question": "Complete the collocation:\nHis speech about youth unemployment ___ a chord with many young voters.",
+   "options": [
+    "beat",
+    "played",
+    "hit",
+    "struck"
+   ],
+   "answer": 3,
+   "meaningVi": "chạm đến cảm xúc, gây đồng cảm",
+   "explanation": "We say “strike a chord (with)”. Full sentence: His speech about youth unemployment struck a chord with many young voters.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-014",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take steps",
+   "question": "Complete the collocation:\nThe school must ___ steps to prevent bullying from happening again.",
+   "options": [
+    "make",
+    "put",
+    "take",
+    "do"
+   ],
+   "answer": 2,
+   "meaningVi": "thực hiện biện pháp",
+   "explanation": "We say “take steps”. Full sentence: The school must take steps to prevent bullying from happening again.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-015",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "fulfil an obligation",
+   "question": "Complete the collocation:\nThe supplier was fined after it failed to ___ its contractual obligations.",
+   "options": [
+    "do",
+    "fulfil",
+    "reach",
+    "make"
+   ],
+   "answer": 1,
+   "meaningVi": "hoàn thành nghĩa vụ",
+   "explanation": "We say “fulfil an obligation”. Full sentence: The supplier was fined after it failed to fulfil its contractual obligations.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-016",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "impose a ban (on)",
+   "question": "Complete the collocation:\nLast year the city ___ a ban on cars in the historic centre.",
+   "options": [
+    "imposed",
+    "laid",
+    "gave",
+    "made"
+   ],
+   "answer": 0,
+   "meaningVi": "áp đặt lệnh cấm",
+   "explanation": "We say “impose a ban (on)”. Full sentence: Last year the city imposed a ban on cars in the historic centre.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-017",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "cast doubt on",
+   "question": "Complete the collocation:\nNew evidence has ___ doubt on the study's main conclusions.",
+   "options": [
+    "cast",
+    "made",
+    "put",
+    "given"
+   ],
+   "answer": 0,
+   "meaningVi": "gây nghi ngờ về",
+   "explanation": "We say “cast doubt on”. Full sentence: New evidence has cast doubt on the study's main conclusions.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-018",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "set an example",
+   "question": "Complete the collocation:\nAs the oldest child, you should ___ a good example for your younger brothers.",
+   "options": [
+    "do",
+    "make",
+    "set",
+    "put"
+   ],
+   "answer": 2,
+   "meaningVi": "làm gương",
+   "explanation": "We say “set an example”. Full sentence: As the oldest child, you should set a good example for your younger brothers.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-019",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "join forces",
+   "question": "Complete the collocation:\nTwo rival car makers have decided to ___ forces to develop electric batteries.",
+   "options": [
+    "join",
+    "connect",
+    "link",
+    "match"
+   ],
+   "answer": 0,
+   "meaningVi": "hợp lực, liên kết",
+   "explanation": "We say “join forces”. Full sentence: Two rival car makers have decided to join forces to develop electric batteries.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-020",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "fulfil an ambition",
+   "question": "Complete the collocation:\nAt sixty, she finally ___ her ambition of running a marathon.",
+   "options": [
+    "made",
+    "fulfilled",
+    "did",
+    "reached"
+   ],
+   "answer": 1,
+   "meaningVi": "thực hiện hoài bão",
+   "explanation": "We say “fulfil an ambition”. Full sentence: At sixty, she finally fulfilled her ambition of running a marathon.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-021",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "make a backup",
+   "question": "Complete the collocation:\nMake sure you ___ a backup of your files every week.",
+   "options": [
+    "make",
+    "give",
+    "put",
+    "have"
+   ],
+   "answer": 0,
+   "meaningVi": "sao lưu",
+   "explanation": "We say “make a backup”. Full sentence: Make sure you make a backup of your files every week.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-022",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "suffer a loss",
+   "question": "Complete the collocation:\nThe airline ___ a loss of two million dollars last year.",
+   "options": [
+    "suffered",
+    "won",
+    "got",
+    "did"
+   ],
+   "answer": 0,
+   "meaningVi": "chịu thua lỗ",
+   "explanation": "We say “suffer a loss”. Full sentence: The airline suffered a loss of two million dollars last year.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-023",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "lose your temper",
+   "question": "Complete the collocation:\nThe player ___ his temper and started shouting at the referee.",
+   "options": [
+    "dropped",
+    "broke",
+    "lost",
+    "missed"
+   ],
+   "answer": 2,
+   "meaningVi": "nổi nóng, mất bình tĩnh",
+   "explanation": "We say “lose your temper”. Full sentence: The player lost his temper and started shouting at the referee.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-024",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "raise your voice (against)",
+   "question": "Complete the collocation:\nThousands of farmers ___ their voices against the new water tax.",
+   "options": [
+    "raised",
+    "heightened",
+    "rose",
+    "increased"
+   ],
+   "answer": 0,
+   "meaningVi": "lên tiếng phản đối",
+   "explanation": "We say “raise your voice (against)”. Full sentence: Thousands of farmers raised their voices against the new water tax.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-025",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "express thanks",
+   "question": "Complete the collocation:\nI'd like to ___ my sincere thanks to everyone who helped organise the event.",
+   "options": [
+    "express",
+    "tell",
+    "speak",
+    "say"
+   ],
+   "answer": 0,
+   "meaningVi": "bày tỏ lòng biết ơn",
+   "explanation": "We say “express thanks”. Full sentence: I'd like to express my sincere thanks to everyone who helped organise the event.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-026",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "make a breakthrough",
+   "question": "Complete the collocation:\nScientists believe they have ___ a breakthrough in the treatment of malaria.",
+   "options": [
+    "gave",
+    "made",
+    "did",
+    "took"
+   ],
+   "answer": 1,
+   "meaningVi": "có bước đột phá",
+   "explanation": "We say “make a breakthrough”. Full sentence: Scientists believe they have made a breakthrough in the treatment of malaria.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-027",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "make an assumption",
+   "question": "Complete the collocation:\nI don't want to ___ any assumptions about why she resigned.",
+   "options": [
+    "do",
+    "have",
+    "take",
+    "make"
+   ],
+   "answer": 3,
+   "meaningVi": "đưa ra giả định",
+   "explanation": "We say “make an assumption”. Full sentence: I don't want to make any assumptions about why she resigned.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-028",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "face the consequences",
+   "question": "Complete the collocation:\nSooner or later, the company will have to ___ the consequences of its decisions.",
+   "options": [
+    "see",
+    "face",
+    "meet",
+    "look"
+   ],
+   "answer": 1,
+   "meaningVi": "đối mặt với hậu quả",
+   "explanation": "We say “face the consequences”. Full sentence: Sooner or later, the company will have to face the consequences of its decisions.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-029",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "show an interest (in)",
+   "question": "Complete the collocation:\nShe ___ an interest in politics from a very young age.",
+   "options": [
+    "did",
+    "made",
+    "showed",
+    "gave"
+   ],
+   "answer": 2,
+   "meaningVi": "thể hiện sự quan tâm",
+   "explanation": "We say “show an interest (in)”. Full sentence: She showed an interest in politics from a very young age.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-030",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "shed light on",
+   "question": "Complete the collocation:\nThe new research ___ light on how dolphins communicate with each other.",
+   "options": [
+    "sheds",
+    "puts",
+    "pours",
+    "gives"
+   ],
+   "answer": 0,
+   "meaningVi": "làm sáng tỏ",
+   "explanation": "We say “shed light on”. Full sentence: The new research sheds light on how dolphins communicate with each other.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-031",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "lose confidence (in)",
+   "question": "Complete the collocation:\nAfter months of bad news, investors are ___ confidence in the economy.",
+   "options": [
+    "missing",
+    "losing",
+    "failing",
+    "dropping"
+   ],
+   "answer": 1,
+   "meaningVi": "mất niềm tin",
+   "explanation": "We say “lose confidence (in)”. Full sentence: After months of bad news, investors are losing confidence in the economy.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-032",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take the opportunity",
+   "question": "Complete the collocation:\nThe manager ___ the opportunity to thank the team for their hard work.",
+   "options": [
+    "took",
+    "did",
+    "made",
+    "caught"
+   ],
+   "answer": 0,
+   "meaningVi": "nhân cơ hội",
+   "explanation": "We say “take the opportunity”. Full sentence: The manager took the opportunity to thank the team for their hard work.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-033",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "voice concerns",
+   "question": "Complete the collocation:\nSeveral staff members ___ concerns about safety at the factory.",
+   "options": [
+    "talked",
+    "voiced",
+    "said",
+    "spoke"
+   ],
+   "answer": 1,
+   "meaningVi": "nêu lên mối lo ngại",
+   "explanation": "We say “voice concerns”. Full sentence: Several staff members voiced concerns about safety at the factory.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-034",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "reach a peak",
+   "question": "Complete the collocation:\nHouse prices ___ a peak in 2022 and have fallen slightly since then.",
+   "options": [
+    "reached",
+    "arrived",
+    "got",
+    "came"
+   ],
+   "answer": 0,
+   "meaningVi": "đạt đỉnh",
+   "explanation": "We say “reach a peak”. Full sentence: House prices reached a peak in 2022 and have fallen slightly since then.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-035",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "ease congestion",
+   "question": "Complete the collocation:\nThe new ring road should ___ congestion in the town centre.",
+   "options": [
+    "ease",
+    "calm",
+    "lighten",
+    "soften"
+   ],
+   "answer": 0,
+   "meaningVi": "giảm ùn tắc",
+   "explanation": "We say “ease congestion”. Full sentence: The new ring road should ease congestion in the town centre.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-036",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "launch an inquiry",
+   "question": "Complete the collocation:\nThe government has ___ an inquiry into the causes of the train crash.",
+   "options": [
+    "launched",
+    "fired",
+    "threw",
+    "shot"
+   ],
+   "answer": 0,
+   "meaningVi": "mở cuộc điều tra",
+   "explanation": "We say “launch an inquiry”. Full sentence: The government has launched an inquiry into the causes of the train crash.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-037",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "resist the temptation",
+   "question": "Complete the collocation:\nI tried hard to ___ the temptation to check my phone during the film.",
+   "options": [
+    "refuse",
+    "reject",
+    "resist",
+    "deny"
+   ],
+   "answer": 2,
+   "meaningVi": "cưỡng lại cám dỗ",
+   "explanation": "We say “resist the temptation”. Full sentence: I tried hard to resist the temptation to check my phone during the film.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-038",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "hold a grudge",
+   "question": "Complete the collocation:\nShe never ___ grudges – she forgives people very quickly.",
+   "options": [
+    "makes",
+    "takes",
+    "gives",
+    "holds"
+   ],
+   "answer": 3,
+   "meaningVi": "để bụng, thù dai",
+   "explanation": "We say “hold a grudge”. Full sentence: She never holds grudges – she forgives people very quickly.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-039",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take a toll (on)",
+   "question": "Complete the collocation:\nYears of working night shifts ___ a heavy toll on his health.",
+   "options": [
+    "took",
+    "did",
+    "gave",
+    "made"
+   ],
+   "answer": 0,
+   "meaningVi": "gây tổn hại",
+   "explanation": "We say “take a toll (on)”. Full sentence: Years of working night shifts took a heavy toll on his health.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-040",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "miss a deadline",
+   "question": "Complete the collocation:\nBecause of the strike, the builders ___ the deadline by two weeks.",
+   "options": [
+    "dropped",
+    "missed",
+    "failed",
+    "lost"
+   ],
+   "answer": 1,
+   "meaningVi": "trễ hạn",
+   "explanation": "We say “miss a deadline”. Full sentence: Because of the strike, the builders missed the deadline by two weeks.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-041",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + noun",
+   "focus": "take part (in)",
+   "question": "Complete the collocation:\nMore than ten thousand people ___ part in the climate march.",
+   "options": [
+    "made",
+    "had",
+    "took",
+    "did"
+   ],
+   "answer": 2,
+   "meaningVi": "tham gia",
+   "explanation": "We say “take part (in)”. Full sentence: More than ten thousand people took part in the climate march.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-042",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a broad consensus",
+   "question": "Complete the collocation:\nScientists have reached a broad ___ that climate change is caused by human activity.",
+   "options": [
+    "accord",
+    "harmony",
+    "approval",
+    "consensus"
+   ],
+   "answer": 3,
+   "meaningVi": "sự đồng thuận rộng rãi",
+   "explanation": "We say “a broad consensus”. Full sentence: Scientists have reached a broad consensus that climate change is caused by human activity.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-043",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a strong correlation",
+   "question": "Complete the collocation:\nResearch shows a ___ correlation between education and income.",
+   "options": [
+    "big",
+    "strong",
+    "hard",
+    "heavy"
+   ],
+   "answer": 1,
+   "meaningVi": "mối tương quan chặt chẽ",
+   "explanation": "We say “a strong correlation”. Full sentence: Research shows a strong correlation between education and income.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-044",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a sharp decline",
+   "question": "Complete the collocation:\nThe company has reported a ___ decline in sales this quarter.",
+   "options": [
+    "narrow",
+    "sharp",
+    "pointed",
+    "thin"
+   ],
+   "answer": 1,
+   "meaningVi": "sự sụt giảm mạnh",
+   "explanation": "We say “a sharp decline”. Full sentence: The company has reported a sharp decline in sales this quarter.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-045",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a concerted effort",
+   "question": "Complete the collocation:\nThe whole team made a ___ effort to finish the project on time.",
+   "options": [
+    "united",
+    "concerted",
+    "together",
+    "joined"
+   ],
+   "answer": 1,
+   "meaningVi": "nỗ lực đồng lòng",
+   "explanation": "We say “a concerted effort”. Full sentence: The whole team made a concerted effort to finish the project on time.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-046",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a severe shortage",
+   "question": "Complete the collocation:\nThere is a ___ shortage of nurses in rural areas.",
+   "options": [
+    "hard",
+    "strong",
+    "severe",
+    "heavy"
+   ],
+   "answer": 2,
+   "meaningVi": "sự thiếu hụt trầm trọng",
+   "explanation": "We say “a severe shortage”. Full sentence: There is a severe shortage of nurses in rural areas.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-047",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "overwhelming support",
+   "question": "Complete the collocation:\nThe proposal received ___ support from staff, with 92% voting in favour.",
+   "options": [
+    "overwhelming",
+    "overpowering",
+    "overloaded",
+    "overflowing"
+   ],
+   "answer": 0,
+   "meaningVi": "sự ủng hộ áp đảo",
+   "explanation": "We say “overwhelming support”. Full sentence: The proposal received overwhelming support from staff, with 92% voting in favour.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-048",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "further questions",
+   "question": "Complete the collocation:\nPlease contact our office if you have any ___ questions.",
+   "options": [
+    "farther",
+    "furthest",
+    "further",
+    "more far"
+   ],
+   "answer": 2,
+   "meaningVi": "câu hỏi thêm",
+   "explanation": "We say “further questions”. Full sentence: Please contact our office if you have any further questions.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-049",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a long-term solution",
+   "question": "Complete the collocation:\nWe need a ___ solution to the housing crisis, not just a temporary fix.",
+   "options": [
+    "long-life",
+    "long-term",
+    "long-way",
+    "long-time"
+   ],
+   "answer": 1,
+   "meaningVi": "giải pháp lâu dài",
+   "explanation": "We say “a long-term solution”. Full sentence: We need a long-term solution to the housing crisis, not just a temporary fix.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-050",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "the leading cause (of)",
+   "question": "Complete the collocation:\nHeart disease is the ___ cause of death in many developed countries.",
+   "options": [
+    "winning",
+    "heading",
+    "leader",
+    "leading"
+   ],
+   "answer": 3,
+   "meaningVi": "nguyên nhân hàng đầu",
+   "explanation": "We say “the leading cause (of)”. Full sentence: Heart disease is the leading cause of death in many developed countries.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-051",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "fierce criticism",
+   "question": "Complete the collocation:\nThe government faced ___ criticism over its handling of the floods.",
+   "options": [
+    "fierce",
+    "stormy",
+    "fiery",
+    "wild"
+   ],
+   "answer": 0,
+   "meaningVi": "chỉ trích gay gắt",
+   "explanation": "We say “fierce criticism”. Full sentence: The government faced fierce criticism over its handling of the floods.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-052",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a dry sense of humour",
+   "question": "Complete the collocation:\nHe has a very ___ sense of humour – you can never tell if he's joking.",
+   "options": [
+    "arid",
+    "thirsty",
+    "wet",
+    "dry"
+   ],
+   "answer": 3,
+   "meaningVi": "khiếu hài hước kiểu tỉnh bơ",
+   "explanation": "We say “a dry sense of humour”. Full sentence: He has a very dry sense of humour – you can never tell if he's joking.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-053",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "rapid growth",
+   "question": "Complete the collocation:\nAfter a decade of ___ growth, the economy is beginning to slow down.",
+   "options": [
+    "rapid",
+    "fast-forward",
+    "hurried",
+    "quickened"
+   ],
+   "answer": 0,
+   "meaningVi": "tăng trưởng nhanh",
+   "explanation": "We say “rapid growth”. Full sentence: After a decade of rapid growth, the economy is beginning to slow down.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-054",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "compelling evidence",
+   "question": "Complete the collocation:\nThere is now ___ evidence that the new drug reduces the risk of stroke.",
+   "options": [
+    "competing",
+    "complaining",
+    "compelling",
+    "compulsory"
+   ],
+   "answer": 2,
+   "meaningVi": "bằng chứng thuyết phục",
+   "explanation": "We say “compelling evidence”. Full sentence: There is now compelling evidence that the new drug reduces the risk of stroke.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-055",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a fatal flaw",
+   "question": "Complete the collocation:\nThe plan has one ___ flaw: nobody has worked out how to pay for it.",
+   "options": [
+    "mortal",
+    "fatal",
+    "lethal",
+    "deadly"
+   ],
+   "answer": 1,
+   "meaningVi": "khiếm khuyết chết người",
+   "explanation": "We say “a fatal flaw”. Full sentence: The plan has one fatal flaw: nobody has worked out how to pay for it.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-056",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "stiff competition",
+   "question": "Complete the collocation:\nLocal farmers face ___ competition from cheap imports.",
+   "options": [
+    "hard",
+    "stiff",
+    "firm",
+    "rigid"
+   ],
+   "answer": 1,
+   "meaningVi": "sự cạnh tranh gay gắt",
+   "explanation": "We say “stiff competition”. Full sentence: Local farmers face stiff competition from cheap imports.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-057",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "equal opportunities",
+   "question": "Complete the collocation:\nEvery child should have ___ opportunities, regardless of their background.",
+   "options": [
+    "level",
+    "same",
+    "even",
+    "equal"
+   ],
+   "answer": 3,
+   "meaningVi": "cơ hội bình đẳng",
+   "explanation": "We say “equal opportunities”. Full sentence: Every child should have equal opportunities, regardless of their background.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-058",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "close attention",
+   "question": "Complete the collocation:\nProofreading requires ___ attention to detail.",
+   "options": [
+    "tight",
+    "near",
+    "narrow",
+    "close"
+   ],
+   "answer": 3,
+   "meaningVi": "sự chú ý kỹ lưỡng",
+   "explanation": "We say “close attention”. Full sentence: Proofreading requires close attention to detail.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-059",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + noun",
+   "focus": "a narrow escape",
+   "question": "Complete the collocation:\nWe had a ___ escape when a tree fell just behind our car.",
+   "options": [
+    "narrow",
+    "thin",
+    "slim",
+    "close"
+   ],
+   "answer": 0,
+   "meaningVi": "thoát chết trong gang tấc",
+   "explanation": "We say “a narrow escape”. Full sentence: We had a narrow escape when a tree fell just behind our car.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-060",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "fundamentally flawed",
+   "question": "Complete the collocation:\nThe plan is ___ flawed and needs to be completely rewritten.",
+   "options": [
+    "fundamental",
+    "basely",
+    "founding",
+    "fundamentally"
+   ],
+   "answer": 3,
+   "meaningVi": "sai lầm từ gốc rễ",
+   "explanation": "We say “fundamentally flawed”. Full sentence: The plan is fundamentally flawed and needs to be completely rewritten.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-061",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "closely linked",
+   "question": "Complete the collocation:\nPoverty and poor health are ___ linked.",
+   "options": [
+    "closely",
+    "nearly",
+    "narrowly",
+    "shortly"
+   ],
+   "answer": 0,
+   "meaningVi": "liên quan chặt chẽ",
+   "explanation": "We say “closely linked”. Full sentence: Poverty and poor health are closely linked.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-062",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + verb",
+   "focus": "firmly believe",
+   "question": "Complete the collocation:\nI ___ believe that everyone deserves a second chance.",
+   "options": [
+    "heavily",
+    "stiffly",
+    "firmly",
+    "solidly"
+   ],
+   "answer": 2,
+   "meaningVi": "tin chắc",
+   "explanation": "We say “firmly believe”. Full sentence: I firmly believe that everyone deserves a second chance.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-063",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "heavily dependent (on)",
+   "question": "Complete the collocation:\nThe island's economy is ___ dependent on tourism.",
+   "options": [
+    "strongly",
+    "deeply",
+    "heavily",
+    "weightily"
+   ],
+   "answer": 2,
+   "meaningVi": "phụ thuộc nặng nề",
+   "explanation": "We say “heavily dependent (on)”. Full sentence: The island's economy is heavily dependent on tourism.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-064",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "highly respected",
+   "question": "Complete the collocation:\nThe new head teacher is ___ respected by students and parents alike.",
+   "options": [
+    "loftily",
+    "highly",
+    "tall",
+    "heavily"
+   ],
+   "answer": 1,
+   "meaningVi": "rất được kính trọng",
+   "explanation": "We say “highly respected”. Full sentence: The new head teacher is highly respected by students and parents alike.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-065",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "widely acknowledged",
+   "question": "Complete the collocation:\nIt is ___ acknowledged that the tax system needs reform.",
+   "options": [
+    "far",
+    "wildly",
+    "widely",
+    "vastly"
+   ],
+   "answer": 2,
+   "meaningVi": "được thừa nhận rộng rãi",
+   "explanation": "We say “widely acknowledged”. Full sentence: It is widely acknowledged that the tax system needs reform.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-066",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "blissfully unaware",
+   "question": "Complete the collocation:\nThe tourists were ___ unaware of the danger as they swam near the rocks.",
+   "options": [
+    "blissfully",
+    "gladly",
+    "cheerfully",
+    "joyfully"
+   ],
+   "answer": 0,
+   "meaningVi": "hoàn toàn không hay biết",
+   "explanation": "We say “blissfully unaware”. Full sentence: The tourists were blissfully unaware of the danger as they swam near the rocks.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-067",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + adjective",
+   "focus": "strictly enforced",
+   "question": "Complete the collocation:\nSpeed limits are ___ enforced on this motorway, with cameras every few kilometres.",
+   "options": [
+    "strictly",
+    "severely",
+    "sternly",
+    "stiffly"
+   ],
+   "answer": 0,
+   "meaningVi": "được thực thi nghiêm ngặt",
+   "explanation": "We say “strictly enforced”. Full sentence: Speed limits are strictly enforced on this motorway, with cameras every few kilometres.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-068",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adverb + verb",
+   "focus": "strongly recommend",
+   "question": "Complete the collocation:\nI would ___ recommend booking your tickets in advance.",
+   "options": [
+    "heavily",
+    "deeply",
+    "strongly",
+    "greatly"
+   ],
+   "answer": 2,
+   "meaningVi": "đặc biệt khuyên",
+   "explanation": "We say “strongly recommend”. Full sentence: I would strongly recommend booking your tickets in advance.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-069",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "in accordance with",
+   "question": "Complete the collocation:\nAll waste must be disposed of ___ accordance with local regulations.",
+   "options": [
+    "with",
+    "on",
+    "by",
+    "in"
+   ],
+   "answer": 3,
+   "meaningVi": "theo đúng, phù hợp với",
+   "explanation": "We say “in accordance with”. Full sentence: All waste must be disposed of in accordance with local regulations.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-070",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "on behalf of",
+   "question": "Complete the collocation:\nI'm writing ___ behalf of my colleague, who is unable to attend.",
+   "options": [
+    "in",
+    "for",
+    "on",
+    "at"
+   ],
+   "answer": 2,
+   "meaningVi": "thay mặt cho",
+   "explanation": "We say “on behalf of”. Full sentence: I'm writing on behalf of my colleague, who is unable to attend.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-071",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "with regard to",
+   "question": "Complete the collocation:\n___ regard to your request, we are happy to offer you a full refund.",
+   "options": [
+    "By",
+    "With",
+    "On",
+    "At"
+   ],
+   "answer": 1,
+   "meaningVi": "liên quan đến",
+   "explanation": "We say “with regard to”. Full sentence: With regard to your request, we are happy to offer you a full refund.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-072",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "at the expense of",
+   "question": "Complete the collocation:\nHe finished the project on time, but ___ the expense of his health.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "answer": 2,
+   "meaningVi": "với cái giá là, đánh đổi bằng",
+   "explanation": "We say “at the expense of”. Full sentence: He finished the project on time, but at the expense of his health.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-073",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "in terms of",
+   "question": "Complete the collocation:\n___ terms of salary, the second job offer is much better.",
+   "options": [
+    "On",
+    "By",
+    "At",
+    "In"
+   ],
+   "answer": 3,
+   "meaningVi": "về mặt",
+   "explanation": "We say “in terms of”. Full sentence: In terms of salary, the second job offer is much better.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-074",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "on the verge of",
+   "question": "Complete the collocation:\nBy 2009, the car manufacturer was ___ the verge of bankruptcy.",
+   "options": [
+    "at",
+    "by",
+    "on",
+    "in"
+   ],
+   "answer": 2,
+   "meaningVi": "trên bờ vực",
+   "explanation": "We say “on the verge of”. Full sentence: By 2009, the car manufacturer was on the verge of bankruptcy.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-075",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "in the wake of",
+   "question": "Complete the collocation:\n___ the wake of the scandal, the director resigned.",
+   "options": [
+    "By",
+    "On",
+    "At",
+    "In"
+   ],
+   "answer": 3,
+   "meaningVi": "ngay sau, do hậu quả của",
+   "explanation": "We say “in the wake of”. Full sentence: In the wake of the scandal, the director resigned.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-076",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "on the grounds that",
+   "question": "Complete the collocation:\nThe planning application was rejected ___ the grounds that it would increase traffic.",
+   "options": [
+    "for",
+    "at",
+    "in",
+    "on"
+   ],
+   "answer": 3,
+   "meaningVi": "với lý do là",
+   "explanation": "We say “on the grounds that”. Full sentence: The planning application was rejected on the grounds that it would increase traffic.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-077",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "regardless of",
+   "question": "Complete the collocation:\nEveryone is welcome to join the choir, ___ of age or experience.",
+   "options": [
+    "regardless",
+    "despite",
+    "regarding",
+    "although"
+   ],
+   "answer": 0,
+   "meaningVi": "bất kể",
+   "explanation": "We say “regardless of”. Full sentence: Everyone is welcome to join the choir, regardless of age or experience.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-078",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "prior to",
+   "question": "Complete the collocation:\nPassengers should arrive at least two hours ___ to departure.",
+   "options": [
+    "prior",
+    "before",
+    "earlier",
+    "ahead"
+   ],
+   "answer": 0,
+   "meaningVi": "trước khi",
+   "explanation": "We say “prior to”. Full sentence: Passengers should arrive at least two hours prior to departure.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-079",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "in light of",
+   "question": "Complete the collocation:\n___ light of recent events, the concert has been postponed.",
+   "options": [
+    "On",
+    "By",
+    "At",
+    "In"
+   ],
+   "answer": 3,
+   "meaningVi": "xét đến, trong bối cảnh",
+   "explanation": "We say “in light of”. Full sentence: In light of recent events, the concert has been postponed.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-080",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "on request",
+   "question": "Complete the collocation:\nVegetarian meals are available ___ request.",
+   "options": [
+    "at",
+    "in",
+    "by",
+    "on"
+   ],
+   "answer": 3,
+   "meaningVi": "theo yêu cầu",
+   "explanation": "We say “on request”. Full sentence: Vegetarian meals are available on request.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-081",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "according to",
+   "question": "Complete the collocation:\nHotel prices vary ___ to the season.",
+   "options": [
+    "according",
+    "regarding",
+    "accorded",
+    "depending"
+   ],
+   "answer": 0,
+   "meaningVi": "tùy theo",
+   "explanation": "We say “according to”. Full sentence: Hotel prices vary according to the season.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-082",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "under construction",
+   "question": "Complete the collocation:\nThe new stadium is still ___ construction and will open next year.",
+   "options": [
+    "on",
+    "below",
+    "in",
+    "under"
+   ],
+   "answer": 3,
+   "meaningVi": "đang được xây dựng",
+   "explanation": "We say “under construction”. Full sentence: The new stadium is still under construction and will open next year.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-083",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "on suspicion of",
+   "question": "Complete the collocation:\nThe bank manager was arrested ___ suspicion of fraud.",
+   "options": [
+    "at",
+    "on",
+    "by",
+    "in"
+   ],
+   "answer": 1,
+   "meaningVi": "vì bị tình nghi",
+   "explanation": "We say “on suspicion of”. Full sentence: The bank manager was arrested on suspicion of fraud.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-084",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "preposition",
+   "focus": "come under pressure",
+   "question": "Complete the collocation:\nThe government has come ___ pressure to lower fuel prices.",
+   "options": [
+    "under",
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 0,
+   "meaningVi": "chịu áp lực",
+   "explanation": "We say “come under pressure”. Full sentence: The government has come under pressure to lower fuel prices.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-085",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "comply with",
+   "question": "Complete the collocation:\nAll employees must comply ___ the new safety regulations.",
+   "options": [
+    "by",
+    "for",
+    "with",
+    "to"
+   ],
+   "answer": 2,
+   "meaningVi": "tuân thủ",
+   "explanation": "We say “comply with”. Full sentence: All employees must comply with the new safety regulations.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-086",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "contribute to",
+   "question": "Complete the collocation:\nAir pollution contributes ___ a wide range of health problems.",
+   "options": [
+    "at",
+    "for",
+    "to",
+    "with"
+   ],
+   "answer": 2,
+   "meaningVi": "góp phần vào",
+   "explanation": "We say “contribute to”. Full sentence: Air pollution contributes to a wide range of health problems.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-087",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "object to",
+   "question": "Complete the collocation:\nMany residents strongly object ___ plans for a new airport.",
+   "options": [
+    "to",
+    "on",
+    "against",
+    "for"
+   ],
+   "answer": 0,
+   "meaningVi": "phản đối",
+   "explanation": "We say “object to”. Full sentence: Many residents strongly object to plans for a new airport.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-088",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "insist on",
+   "question": "Complete the collocation:\nShe insisted ___ paying for everyone's dinner.",
+   "options": [
+    "in",
+    "for",
+    "on",
+    "to"
+   ],
+   "answer": 2,
+   "meaningVi": "khăng khăng, nhất quyết",
+   "explanation": "We say “insist on”. Full sentence: She insisted on paying for everyone's dinner.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-089",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "result in",
+   "question": "Complete the collocation:\nThe heavy rain resulted ___ widespread flooding across the region.",
+   "options": [
+    "on",
+    "with",
+    "in",
+    "to"
+   ],
+   "answer": 2,
+   "meaningVi": "dẫn đến",
+   "explanation": "We say “result in”. Full sentence: The heavy rain resulted in widespread flooding across the region.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-090",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "consist of",
+   "question": "Complete the collocation:\nThe judging panel consists ___ five international experts.",
+   "options": [
+    "with",
+    "in",
+    "of",
+    "from"
+   ],
+   "answer": 2,
+   "meaningVi": "bao gồm",
+   "explanation": "We say “consist of”. Full sentence: The judging panel consists of five international experts.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-091",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "refrain from",
+   "question": "Complete the collocation:\nGuests are asked to refrain ___ smoking anywhere in the hotel.",
+   "options": [
+    "on",
+    "of",
+    "from",
+    "to"
+   ],
+   "answer": 2,
+   "meaningVi": "kiềm chế, không được",
+   "explanation": "We say “refrain from”. Full sentence: Guests are asked to refrain from smoking anywhere in the hotel.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-092",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "specialise in",
+   "question": "Complete the collocation:\nOur law firm specialises ___ environmental cases.",
+   "options": [
+    "on",
+    "in",
+    "for",
+    "at"
+   ],
+   "answer": 1,
+   "meaningVi": "chuyên về",
+   "explanation": "We say “specialise in”. Full sentence: Our law firm specialises in environmental cases.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-093",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "prone to",
+   "question": "Complete the collocation:\nOlder people are more prone ___ falls, especially in winter.",
+   "options": [
+    "of",
+    "for",
+    "at",
+    "to"
+   ],
+   "answer": 3,
+   "meaningVi": "dễ bị",
+   "explanation": "We say “prone to”. Full sentence: Older people are more prone to falls, especially in winter.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-094",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "eligible for",
+   "question": "Complete the collocation:\nAre you eligible ___ the student discount?",
+   "options": [
+    "to",
+    "for",
+    "on",
+    "of"
+   ],
+   "answer": 1,
+   "meaningVi": "đủ điều kiện",
+   "explanation": "We say “eligible for”. Full sentence: Are you eligible for the student discount?",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-095",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "susceptible to",
+   "question": "Complete the collocation:\nYoung children are particularly susceptible ___ ear infections.",
+   "options": [
+    "with",
+    "of",
+    "for",
+    "to"
+   ],
+   "answer": 3,
+   "meaningVi": "dễ mắc, dễ bị ảnh hưởng",
+   "explanation": "We say “susceptible to”. Full sentence: Young children are particularly susceptible to ear infections.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-096",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "consistent with",
+   "question": "Complete the collocation:\nThese findings are consistent ___ the results of earlier studies.",
+   "options": [
+    "with",
+    "for",
+    "of",
+    "to"
+   ],
+   "answer": 0,
+   "meaningVi": "nhất quán với",
+   "explanation": "We say “consistent with”. Full sentence: These findings are consistent with the results of earlier studies.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-097",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "committed to + -ing",
+   "question": "Complete the collocation:\nThe government says it is fully committed ___ reducing carbon emissions.",
+   "options": [
+    "on",
+    "for",
+    "with",
+    "to"
+   ],
+   "answer": 3,
+   "meaningVi": "cam kết",
+   "explanation": "We say “committed to + -ing”. Full sentence: The government says it is fully committed to reducing carbon emissions.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-098",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "adjective + preposition",
+   "focus": "oblivious to",
+   "question": "Complete the collocation:\nHe seemed completely oblivious ___ the noise around him.",
+   "options": [
+    "at",
+    "with",
+    "to",
+    "for"
+   ],
+   "answer": 2,
+   "meaningVi": "không để ý đến",
+   "explanation": "We say “oblivious to”. Full sentence: He seemed completely oblivious to the noise around him.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-099",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "benefit from",
+   "question": "Complete the collocation:\nPeople of all ages can benefit ___ regular exercise.",
+   "options": [
+    "of",
+    "for",
+    "with",
+    "from"
+   ],
+   "answer": 3,
+   "meaningVi": "được hưởng lợi từ",
+   "explanation": "We say “benefit from”. Full sentence: People of all ages can benefit from regular exercise.",
+   "skill": "collocation",
+   "level": "b2"
+  },
+  {
+   "id": "b2-collocation-100",
+   "type": "mcq",
+   "subtype": "gap",
+   "topic": "verb + preposition",
+   "focus": "cope with",
+   "question": "Complete the collocation:\nShe has learned to cope ___ stress by meditating every morning.",
+   "options": [
+    "with",
+    "about",
+    "to",
+    "for"
+   ],
+   "answer": 0,
+   "meaningVi": "đối phó với",
+   "explanation": "We say “cope with”. Full sentence: She has learned to cope with stress by meditating every morning.",
+   "skill": "collocation",
+   "level": "b2"
+  }
+ ]
+}

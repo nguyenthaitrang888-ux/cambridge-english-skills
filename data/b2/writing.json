@@ -1,0 +1,2573 @@
+{
+ "schemaVersion": 1,
+ "level": "b2",
+ "skill": "writing",
+ "title": {
+  "en": "Writing",
+  "vi": "Viết"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "b2-writing-001",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not only did she win the race, but she also broke the record.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Inversion after 'Not only': Not only + auxiliary + subject + verb, but … also …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-002",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Had I knew about the problem, I would have helped.",
+   "answers": [
+    "Had I known about the problem, I would have helped.",
+    "Had I known about the problem, I'd have helped."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Inverted third conditional: Had + subject + past participle (known).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-003",
+   "type": "guided",
+   "kind": "email",
+   "topic": "complaint",
+   "prompt": "You recently bought a laptop online, but it arrived damaged and the company has ignored your first message. Write a formal email of complaint to the customer service manager.",
+   "promptVi": "Bạn mua laptop trực tuyến nhưng hàng bị hỏng và công ty phớt lờ tin nhắn đầu tiên. Hãy viết email khiếu nại trang trọng gửi quản lý chăm sóc khách hàng.",
+   "points": [
+    "explain what happened and when",
+    "describe how the company has handled the problem so far",
+    "say clearly what action you expect and by when"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Dear Sir or Madam,\n\nI am writing to complain about a laptop (order no. 48213) which I purchased from your website on 2 March. When the parcel arrived a week later, the screen was badly cracked and the device would not switch on.\n\nI contacted your customer service team immediately, attaching photographs of the damage. Not only have I received no reply, but my two follow-up calls were also cut off before I could speak to anyone. Frankly, I find this level of service unacceptable from a company with your reputation.\n\nI would therefore ask you to arrange collection of the faulty laptop and either replace it or issue a full refund. Given that I have already waited three weeks, I expect a response within five working days. Should I not hear from you by then, I will have no choice but to take the matter further.\n\nI look forward to your prompt reply.\n\nYours faithfully,\nLinh Tran",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-004",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Had I known about the traffic, I would have left earlier.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Inverted third conditional: Had + subject + past participle (= If I had known).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-005",
+   "type": "guided",
+   "kind": "email",
+   "topic": "advice",
+   "prompt": "Your English-speaking friend Sam has been offered a well-paid job in another city but is worried about leaving friends and family behind. Write an email giving advice.",
+   "promptVi": "Bạn Sam được mời làm công việc lương cao ở thành phố khác nhưng lo phải xa bạn bè, gia đình. Hãy viết email khuyên Sam.",
+   "points": [
+    "show that you understand Sam's feelings",
+    "discuss the advantages and disadvantages of moving",
+    "say what you would do in Sam's position"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Hi Sam,\n\nCongratulations on the job offer! I can totally understand why you're torn, though. Leaving the people you love is never easy, especially when you've lived in the same place your whole life.\n\nThat said, opportunities like this don't come along every day. Apart from the higher salary, you'd gain experience that could open doors later in your career. On the other hand, moving somewhere new can be lonely at first, and it might take a while before you feel settled.\n\nIf I were in your shoes, I'd probably accept it. The city is only two hours away by train, so you could come back most weekends, and video calls make it much easier to stay in touch than it used to be. What's more, if it really doesn't work out, you can always move back – but you might regret it for years if you never try.\n\nLet me know what you decide, and good luck!\n\nAll the best,\nMai",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-006",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Not only she speaks French, but she also speaks Russian.",
+   "answers": [
+    "Not only does she speak French, but she also speaks Russian.",
+    "Not only does she speak French, but she speaks Russian too."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "After 'Not only' at the start, use question word order: does she speak.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-007",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "job application",
+   "prompt": "You have seen an advertisement for a summer job as an assistant at an international music festival. Write a letter of application to the festival director.",
+   "promptVi": "Bạn thấy quảng cáo tuyển trợ lý mùa hè cho một lễ hội âm nhạc quốc tế. Hãy viết thư xin việc gửi giám đốc lễ hội.",
+   "points": [
+    "say which job you are applying for and where you saw it",
+    "describe relevant experience and skills",
+    "explain why you would be suitable and when you are available"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Dear Ms Harper,\n\nI am writing to apply for the position of festival assistant, which I saw advertised on your website last week. I am a second-year business student and a passionate music fan, and I believe I would be well suited to the role.\n\nLast summer I worked as a volunteer at a local food festival, where I was responsible for directing visitors and dealing with enquiries. This taught me how to stay calm under pressure and solve problems quickly, particularly when things did not go according to plan. In addition, I speak fluent English and Vietnamese and have a good working knowledge of French, which would be useful when assisting international performers and guests.\n\nWhat appeals to me most about this position is the chance to see how a large event is organised behind the scenes. I am hard-working, reliable and happy to work long or irregular hours.\n\nI am available from 15 June until the end of August and would be pleased to attend an interview at your convenience.\n\nYours sincerely,\nDuc Nguyen",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-008",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "What I need most right now is a long holiday.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Cleft sentence with 'What': What + clause + is + focus.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-009",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "If I would have known, I would have come.",
+   "answers": [
+    "If I had known, I would have come.",
+    "If I'd known, I would have come.",
+    "If I had known, I'd have come.",
+    "Had I known, I would have come."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Don't use 'would' in the if-clause; third conditional = if + past perfect.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-010",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "technology",
+   "prompt": "'Social media does more harm than good to young people.' Write an essay giving your opinion.",
+   "promptVi": "'Mạng xã hội gây hại nhiều hơn lợi cho giới trẻ.' Hãy viết bài luận nêu ý kiến của bạn.",
+   "points": [
+    "mental health",
+    "friendships and communication",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Social media has become an inseparable part of teenage life, and its effects are hotly debated. While it undoubtedly brings some benefits, I would argue that, for many young people, the disadvantages outweigh them.\n\nThe most serious concern is mental health. Research suggests that heavy users are more likely to experience anxiety and low self-esteem, largely because they constantly compare themselves with carefully edited images of other people's lives. Moreover, endless scrolling can disrupt sleep, which in turn affects concentration at school.\n\nAdmittedly, social media allows young people to stay in touch with friends and find communities of people who share their interests. For teenagers who feel isolated, this can be genuinely valuable. However, online contact is no substitute for face-to-face friendship, and cyberbullying means that many young people never feel completely safe.\n\nFinally, it is worth considering how much time is lost. Hours spent online could be used for sport, hobbies or rest.\n\nIn conclusion, although social media is not harmful in itself, the way it is designed encourages overuse. Unless young people learn to use it in moderation, it is likely to do more harm than good.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-011",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It was my brother who told me the news.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "It-cleft: It was + focus + who/that + clause.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-012",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "It's high time we leave.",
+   "answers": [
+    "It's high time we left.",
+    "It is high time we left.",
+    "It's high time we were leaving.",
+    "It's high time for us to leave."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "It's high time + subject + past simple (left).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-013",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "environment",
+   "prompt": "Some people believe that individuals can do little to protect the environment and that only governments can make a real difference. Write an essay giving your opinion.",
+   "promptVi": "Có người cho rằng cá nhân chẳng làm được gì nhiều để bảo vệ môi trường, chỉ chính phủ mới tạo ra thay đổi thật sự. Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "the power of laws and regulations",
+    "everyday choices made by individuals",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "It is often claimed that environmental problems are so vast that only governments have the power to solve them. While I accept that political action is essential, I do not believe individuals are powerless.\n\nThere is no doubt that governments have tools that ordinary people lack. By introducing laws on pollution, investing in public transport and taxing activities that damage the planet, they can change the behaviour of millions of people at once. Without such measures, individual efforts alone would never be enough.\n\nNevertheless, governments rarely act unless they feel pressure from the public. Every time consumers choose products with less packaging, cycle instead of driving, or cut down on meat, they send a clear message to businesses and politicians. Small actions, multiplied across a population, can have a considerable impact.\n\nAnother point worth making is that individuals influence each other. Someone who starts recycling or repairing rather than replacing things often inspires friends and family to do the same.\n\nTo sum up, real progress depends on both. Governments must lead, but it is ordinary citizens who create the demand for change in the first place.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-014",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "If I had taken that job, I would be living in London now.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Mixed conditional: past condition (had taken) → present result (would be living now).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-015",
+   "type": "guided",
+   "kind": "email",
+   "topic": "enquiry",
+   "prompt": "You are interested in a two-week English and outdoor-activities course in Scotland. Write a formal email to the course organiser asking for more information.",
+   "promptVi": "Bạn quan tâm đến khóa học tiếng Anh kết hợp hoạt động ngoài trời 2 tuần ở Scotland. Hãy viết email trang trọng hỏi thêm thông tin.",
+   "points": [
+    "ask about the level and size of the classes",
+    "ask about accommodation options",
+    "ask what is included in the price"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Dear Sir or Madam,\n\nI am writing to enquire about the two-week English and Outdoor Adventure course advertised on your website, which I am considering taking in July.\n\nFirst of all, I would be grateful if you could tell me how students are placed in classes. My English is at an upper-intermediate level, and I would like to know whether there is a placement test and how many students there are in each group.\n\nI would also appreciate some information about accommodation. Your website mentions both host families and a student residence, but it does not explain the difference in cost or whether meals are provided.\n\nFinally, could you clarify exactly what the course fee includes? In particular, I would like to know whether equipment for activities such as kayaking and hill walking is provided, and whether there are any additional charges for excursions.\n\nThank you in advance for your help. I look forward to hearing from you.\n\nYours faithfully,\nHoa Pham",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-016",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'm used to get up early.",
+   "answers": [
+    "I'm used to getting up early.",
+    "I am used to getting up early.",
+    "I used to get up early."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "be used to + -ing = be accustomed to. (Or 'used to + verb' for a past habit.)",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-017",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "education",
+   "prompt": "'University education should be free for everyone.' Do you agree? Write an essay giving your opinion.",
+   "promptVi": "'Giáo dục đại học nên miễn phí cho tất cả mọi người.' Bạn có đồng ý không? Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "equality of opportunity",
+    "the cost to taxpayers",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "In many countries, students graduate with enormous debts, and this has led to calls for university education to be made free. Although the idea is attractive, I believe it would be fairer to make it affordable rather than completely free.\n\nThe strongest argument in favour of free tuition is equality. Talented young people from poorer families are often discouraged from applying because they fear the debt. Removing fees would ensure that ability, not wealth, determines who gets a degree.\n\nOn the other hand, universities are extremely expensive to run, and if students paid nothing, the entire cost would fall on taxpayers. This includes people who never went to university themselves and may earn far less than graduates do.\n\nFurthermore, not every student needs the same support. A system of grants for low-income students, combined with loans that are only repaid once graduates earn a reasonable salary, would protect those most in need without placing an unfair burden on everyone else.\n\nIn conclusion, access to higher education must not depend on family income. However, a targeted approach seems both more realistic and more just than making university free for all.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-018",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Never have I seen such a beautiful sunset.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Negative adverb inversion: Never + have + subject + past participle.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-019",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She suggested to go to the cinema.",
+   "answers": [
+    "She suggested going to the cinema.",
+    "She suggested that we go to the cinema.",
+    "She suggested that we should go to the cinema.",
+    "She suggested we go to the cinema."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "suggest + -ing or suggest that + clause, not suggest + to-infinitive.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-020",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "complaint",
+   "prompt": "You stayed at a hotel that looked very different from the description on its website. Write a letter to the hotel manager.",
+   "promptVi": "Bạn ở một khách sạn khác hẳn với mô tả trên website. Hãy viết thư gửi quản lý khách sạn.",
+   "points": [
+    "explain how the hotel differed from the description",
+    "describe how staff responded to your concerns",
+    "suggest what the hotel should do now"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Dear Mr Collins,\n\nI am writing to express my disappointment with my recent stay at the Seaview Hotel from 10 to 14 August.\n\nYour website describes the hotel as 'a peaceful retreat just steps from the beach', with 'newly renovated rooms and sea views'. In reality, the hotel is located beside a busy main road, and it took us fifteen minutes to walk to the beach. Our room, far from being renovated, had a broken air-conditioning unit and stained carpets, and the only view was of the car park.\n\nWhat upset us even more was the attitude of the staff. When we asked to change rooms, the receptionist simply told us that the hotel was full and that nothing could be done. No apology was offered at any point.\n\nI strongly believe that your website should be updated so that future guests are not similarly misled. I would also expect some form of compensation, such as a partial refund, in recognition of the inconvenience we experienced.\n\nI look forward to your reply.\n\nYours sincerely,\nThu Le",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-021",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The report is believed to have been written by the director.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Passive reporting structure: is believed + perfect passive infinitive.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-022",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Never I have been so embarrassed.",
+   "answers": [
+    "Never have I been so embarrassed."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Negative adverb at the start → inversion: Never have I been…",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-023",
+   "type": "guided",
+   "kind": "email",
+   "topic": "invitation",
+   "prompt": "You are organising a surprise party for a friend's 30th birthday. Write an email to a mutual friend, Jordan, inviting them and asking for help.",
+   "promptVi": "Bạn tổ chức tiệc bất ngờ mừng sinh nhật 30 tuổi của một người bạn. Hãy viết email mời Jordan và nhờ giúp đỡ.",
+   "points": [
+    "give details of the party",
+    "explain why it must stay secret",
+    "ask Jordan to help with something specific"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Hi Jordan,\n\nI hope you're well! I'm writing because Anna turns thirty next month, and a few of us are planning a surprise party for her. It's going to be on Saturday the 18th at the Riverside Café, starting at 7 p.m. – and I'd love you to come.\n\nThe tricky part is keeping it a secret. Anna has been saying for weeks that she doesn't want any fuss, so if she finds out, she'll probably try to talk us out of it! Whatever you do, please don't mention it on social media or in the group chat she's in.\n\nI was also wondering whether you could help me with something. You're so good at taking photos, so would you mind putting together a slideshow of pictures from our university days? We could show it during dinner. If you need any old photos, I've got loads I can send you.\n\nLet me know if you can make it.\n\nLove,\nKim",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-024",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She would rather we didn't tell anyone about the plan.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "would rather + subject + past simple for present/future preference about others.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-025",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "work",
+   "prompt": "Some people think that working from home is better for both employees and employers. Others disagree. Write an essay giving your opinion.",
+   "promptVi": "Có người cho rằng làm việc tại nhà tốt hơn cho cả nhân viên lẫn chủ doanh nghiệp. Người khác không đồng ý. Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "productivity",
+    "work–life balance",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Since the pandemic, working from home has gone from being a rare privilege to a normal arrangement for millions of people. In my view, it offers clear advantages, but only when it is combined with some time in the office.\n\nAs far as productivity is concerned, many employees report that they get more done at home, where there are fewer interruptions and no time is wasted commuting. Employers also benefit, since they can reduce the cost of office space and recruit staff who live further away.\n\nWorking from home can also improve work–life balance. Parents, for example, find it easier to fit work around their children's schedules. Having said that, the boundary between work and personal life can easily become blurred, and some people end up working longer hours than before.\n\nThe main drawback, however, is the loss of human contact. New employees in particular learn a great deal simply by being around experienced colleagues, and spontaneous conversations often lead to the best ideas.\n\nOverall, I believe a hybrid model, in which staff spend part of the week at home and part in the office, offers the best of both worlds.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-026",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He must have forget his keys.",
+   "answers": [
+    "He must have forgotten his keys."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "must have + past participle (forgotten).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-027",
+   "type": "guided",
+   "kind": "email",
+   "topic": "apology",
+   "prompt": "You missed an important meeting with your study group yesterday without telling them. Write an email to the group leader, Chris.",
+   "promptVi": "Hôm qua bạn vắng buổi họp nhóm học quan trọng mà không báo. Hãy viết email cho trưởng nhóm Chris.",
+   "points": [
+    "apologise and explain what happened",
+    "say how you will catch up",
+    "suggest how you can make up for it"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Hi Chris,\n\nI'm really sorry about missing yesterday's meeting, especially without letting anyone know. I realise it was the session where we were dividing up the presentation, so I must have caused a lot of inconvenience.\n\nTo be honest, there's no great excuse. I'd been up most of the night finishing an assignment, and I fell asleep in the afternoon and didn't wake up until it was all over. By the time I saw your messages, it seemed too late to reply properly, which I know only made things worse.\n\nI've already read the notes Lisa shared, so I know I've been given the section on market research. I'll have a first draft ready by Friday so that everyone can comment on it before the weekend.\n\nTo make up for it, I'm happy to put the final slides together and book a room for our rehearsal next week. Again, I apologise, and it won't happen again.\n\nBest,\nTuan",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-028",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I'd rather you had told me the truth from the start.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "would rather + subject + past perfect for regret about the past.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-029",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The number of tourists have increased.",
+   "answers": [
+    "The number of tourists has increased."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'The number of' takes a singular verb ('A number of' takes plural).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-030",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "health",
+   "prompt": "'Governments should tax unhealthy food to improve public health.' Write an essay giving your opinion.",
+   "promptVi": "'Chính phủ nên đánh thuế thực phẩm không lành mạnh để cải thiện sức khỏe cộng đồng.' Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "the effect on people's eating habits",
+    "fairness for people on low incomes",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Rising levels of obesity and diabetes have prompted several governments to introduce taxes on sugary drinks and junk food. Although such taxes are controversial, I believe they can play a useful role if they are introduced carefully.\n\nThe main argument in their favour is that price affects behaviour. When the cost of fizzy drinks went up in some countries, sales fell noticeably, and manufacturers even reduced the sugar content of their products to avoid the tax. In this sense, the policy changed not only what people bought but also what companies produced.\n\nCritics, however, point out that these taxes hit poorer families hardest, since they spend a larger share of their income on food. This is a fair concern, but it can be addressed by using the money raised to make fruit and vegetables cheaper or to fund sports facilities in low-income areas.\n\nIt should also be remembered that taxes alone will not solve the problem. Education about nutrition and clearer food labelling are equally important.\n\nIn conclusion, a tax on unhealthy food is not a complete solution, but as part of a wider strategy it could make a real difference to public health.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-031",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "By the end of next year, we will have finished the new building.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Future perfect: will have + past participle (completed before a future time).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-032",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I'd rather you don't smoke here.",
+   "answers": [
+    "I'd rather you didn't smoke here.",
+    "I would rather you didn't smoke here."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "would rather + another subject + past simple (didn't smoke).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-033",
+   "type": "guided",
+   "kind": "article",
+   "topic": "technology",
+   "prompt": "An international student magazine is asking readers: 'Could you live without your smartphone for a month?' Write an article answering the question.",
+   "promptVi": "Một tạp chí sinh viên quốc tế hỏi: 'Bạn có thể sống thiếu điện thoại thông minh trong một tháng không?' Hãy viết bài báo trả lời.",
+   "points": [
+    "what you use your phone for most",
+    "what would be difficult and what might improve",
+    "whether you would try it"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "A Month Without My Phone? Challenge Accepted… Maybe\n\nBe honest: how many times have you checked your phone today? If you're anything like me, you've probably lost count. My phone is my alarm clock, my map, my bank and my main way of keeping in touch with friends, so the idea of giving it up for a month sounds terrifying.\n\nThe practical side would undoubtedly be the hardest part. How would I pay for things, find my way around an unfamiliar part of the city or hear about last-minute changes to my classes? I suspect I'd end up borrowing my flatmate's phone more often than I'd like to admit.\n\nAnd yet, part of me is curious. Without constant notifications, I might actually finish the books I keep starting, sleep better and pay proper attention to the people I'm with. What I miss most from my childhood is that feeling of being bored – and boredom, after all, is often where creativity begins.\n\nSo, could I do it? Probably not for a whole month. But a phone-free weekend? That's a challenge I'm ready to take on.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-034",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Hardly had we sat down when the fire alarm went off.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Hardly + had + subject + past participle … when …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-035",
+   "type": "guided",
+   "kind": "article",
+   "topic": "travel",
+   "prompt": "A travel website wants articles with the title 'The place that surprised me most'. Write an article for the website.",
+   "promptVi": "Một website du lịch muốn nhận bài viết với tiêu đề 'Nơi khiến tôi bất ngờ nhất'. Hãy viết bài cho website.",
+   "points": [
+    "where the place is and why you went there",
+    "what you expected and what you actually found",
+    "whether you would recommend it"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "The Place That Surprised Me Most\n\nWhen my friends suggested a weekend in Quy Nhon, I wasn't exactly thrilled. I had barely heard of the place, and I assumed it would be just another quiet coastal town with little to do. How wrong I was!\n\nThe first surprise was the beaches. Unlike the crowded resorts I'd visited before, the bays around Quy Nhon were almost empty, with water so clear that you could see fish swimming around your feet. The second was the food. The seafood was not only incredibly fresh but also remarkably cheap, and the locals we met were only too happy to recommend their favourite street stalls.\n\nWhat impressed me most, though, was the sense of history. Just outside the town stand ancient Cham towers, nearly a thousand years old, which we explored at sunset with hardly another tourist in sight.\n\nWould I recommend it? Absolutely – but go soon. Now that new hotels are springing up along the coast, it may not stay a hidden gem for much longer.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-036",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Despite he was tired, he kept working.",
+   "answers": [
+    "Despite being tired, he kept working.",
+    "Although he was tired, he kept working.",
+    "Despite the fact that he was tired, he kept working.",
+    "In spite of being tired, he kept working."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "despite + noun/-ing (or 'despite the fact that' + clause).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-037",
+   "type": "guided",
+   "kind": "article",
+   "topic": "lifestyle",
+   "prompt": "A magazine for young adults is running a series called 'Lessons I learned the hard way'. Write an article describing a mistake you made and what you learned.",
+   "promptVi": "Một tạp chí dành cho người trẻ có chuyên mục 'Những bài học xương máu'. Hãy viết bài kể một sai lầm và điều bạn rút ra.",
+   "points": [
+    "describe the mistake and why you made it",
+    "explain the consequences",
+    "say what you learned and what advice you would give"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "The Day I Learned to Say 'No'\n\nIn my first year at university, I said yes to everything. Join the drama club? Of course. Help organise the charity concert? Why not? Take on extra shifts at the café? Sure. I genuinely believed that the busier I was, the more successful I would become.\n\nIt was only when exam season arrived that I realised how much I had taken on. I was sleeping five hours a night, rushing from one commitment to the next, and doing everything badly. Eventually, I fell ill the week before my most important exam, which I ended up having to retake in the summer.\n\nLooking back, the problem wasn't that I was lazy or disorganised; it was that I couldn't bear to disappoint anyone. What I eventually understood is that saying no to some things is the only way to say yes properly to others.\n\nSo here's my advice: before you agree to anything, ask yourself whether you really have the time and energy. If the answer is no, be honest. People are far more understanding than you think.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-038",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It's high time we started taking climate change seriously.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "It's (high) time + subject + past simple.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-039",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The informations you gave me were very useful.",
+   "answers": [
+    "The information you gave me was very useful."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Information' is uncountable: no -s, singular verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-040",
+   "type": "guided",
+   "kind": "article",
+   "topic": "community",
+   "prompt": "Your town's English-language newsletter is asking readers to write about 'A local hero'. Write an article about someone in your community who deserves recognition.",
+   "promptVi": "Bản tin tiếng Anh của thị trấn mời độc giả viết về 'Một người hùng địa phương'. Hãy viết bài về một người đáng được ghi nhận.",
+   "points": [
+    "who the person is and what they do",
+    "how their work has affected others",
+    "why you think they deserve recognition"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "The Man Who Fixes Everything\n\nIf you walk past the corner of Tran Phu Street on a Sunday morning, you'll probably see a queue of people holding broken radios, bicycles and electric fans. At the front of it, you'll find Mr Hai, a retired engineer who has spent the last six years repairing things for free.\n\nIt all started when his neighbour's old fan stopped working and she couldn't afford a new one. Mr Hai fixed it in ten minutes, and word quickly spread. Today he repairs dozens of items every week, and he has recently started teaching teenagers how to do the repairs themselves.\n\nThe impact has been remarkable. Not only has he saved local families a great deal of money, but he has also kept huge amounts of electronic waste out of landfill. Perhaps more importantly, his Sunday workshop has become a place where neighbours who would never otherwise have met sit and chat while they wait.\n\nMr Hai insists he is 'just keeping busy'. Yet it is people like him who turn a neighbourhood into a genuine community, and he deserves far more recognition than he gets.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-041",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Little did they know that their lives were about to change.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Inversion after 'Little': Little + did + subject + verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-042",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "By the time you arrive, I will finish.",
+   "answers": [
+    "By the time you arrive, I will have finished.",
+    "By the time you arrive, I'll have finished."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "By the time + future point → future perfect (will have finished).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-043",
+   "type": "guided",
+   "kind": "article",
+   "topic": "education",
+   "prompt": "A website for students is publishing articles on the topic 'Is homework a waste of time?' Write an article giving your views.",
+   "promptVi": "Một website cho học sinh đăng bài về chủ đề 'Bài tập về nhà có lãng phí thời gian không?' Hãy viết bài nêu quan điểm.",
+   "points": [
+    "the purpose of homework",
+    "problems with too much homework",
+    "how homework could be improved"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Homework: Helpful Habit or Pointless Chore?\n\nAsk any group of students what they think of homework and you'll hear a chorus of complaints. But is homework really a waste of time, or do we simply dislike anything that eats into our free time?\n\nIn theory, homework serves a clear purpose. It gives students the chance to practise what they have learned, develop independent study skills and identify what they haven't understood before the next lesson. Without some practice outside the classroom, much of what we learn would quickly be forgotten.\n\nThe problem is that homework is not always set with this purpose in mind. Too often, students are given large amounts of repetitive exercises that take hours to complete but teach very little. When tasks pile up from several teachers at once, the result is exhaustion rather than learning.\n\nSo what's the answer? Rather than abolishing homework altogether, schools should focus on quality over quantity. Short, meaningful tasks – reading, research or creative projects – would be far more effective. If homework were planned this way, I suspect far fewer students would see it as a waste of time.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-044",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "No sooner had I arrived than it started to rain.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "No sooner + had + subject + past participle … than …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-045",
+   "type": "guided",
+   "kind": "article",
+   "topic": "sport",
+   "prompt": "A sports magazine wants articles about 'Why everyone should try a team sport'. Write an article for the magazine.",
+   "promptVi": "Một tạp chí thể thao muốn nhận bài viết 'Vì sao ai cũng nên thử một môn thể thao đồng đội'. Hãy viết bài cho tạp chí.",
+   "points": [
+    "physical benefits",
+    "social and personal benefits",
+    "advice for beginners"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Why Everyone Should Try a Team Sport\n\nWhen I joined my company's volleyball team two years ago, I could barely serve the ball over the net. Today, training sessions are the highlight of my week – and not just because I've finally learned to serve.\n\nThe physical benefits are obvious. Team sports combine running, jumping and quick changes of direction, which improve fitness far more than an hour on a treadmill. Better still, you're having so much fun that you hardly notice how hard you're working.\n\nThe real value, however, lies elsewhere. Playing in a team teaches you to communicate under pressure, to trust others and to handle both victory and defeat gracefully. I've also made some of my closest friends on the court, people I would never have met otherwise.\n\nIf you're thinking of giving it a go, my advice is simple: don't worry about being bad at first. Most amateur clubs welcome beginners, and nobody expects you to be an expert. Look for a team that trains at a convenient time, turn up with an open mind, and you may well find that, like me, you never want to stop.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-046",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Hardly had we arrived than it started to rain.",
+   "answers": [
+    "Hardly had we arrived when it started to rain.",
+    "Hardly had we arrived before it started to rain."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Hardly … when (No sooner … than).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-047",
+   "type": "guided",
+   "kind": "review",
+   "topic": "film",
+   "prompt": "An English-language website is asking for reviews of a film that made you think. Write a review.",
+   "promptVi": "Một website tiếng Anh mời viết bài đánh giá một bộ phim khiến bạn suy ngẫm. Hãy viết bài đánh giá.",
+   "points": [
+    "briefly describe the story without giving away the ending",
+    "explain what made you think",
+    "say who you would recommend it to"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "A Quiet Film That Stays With You: 'The Last Lighthouse'\n\nAt first glance, 'The Last Lighthouse' seems an unlikely film to become a word-of-mouth success. Set almost entirely on a remote island, it follows an elderly lighthouse keeper whose lonely routine is disrupted when a young engineer arrives to install an automated system that will make his job unnecessary.\n\nWhat begins as a tense relationship gradually develops into an unexpected friendship, and the director handles this shift beautifully. There are no dramatic plot twists; instead, the film relies on small gestures and long silences, supported by breathtaking photography of the stormy coastline.\n\nWhat really made me think was the way the film explores technology and work. It raises difficult questions about what happens to people when machines replace them, yet it never feels like a lecture. I left the cinema thinking about my grandparents and how much the world has changed during their lifetimes.\n\nAdmittedly, the slow pace will not suit everyone. However, if you enjoy thoughtful, character-driven stories, I would highly recommend it. Just make sure you see it on a big screen.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-048",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Despite having studied for weeks, he still failed the exam.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "despite + perfect -ing form (having studied).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-049",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He avoided to answer the question.",
+   "answers": [
+    "He avoided answering the question."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "avoid + -ing.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-050",
+   "type": "guided",
+   "kind": "review",
+   "topic": "restaurant",
+   "prompt": "A local guide for international visitors is collecting restaurant reviews. Write a review of a restaurant you know.",
+   "promptVi": "Một cuốn cẩm nang địa phương dành cho khách quốc tế đang thu thập bài đánh giá nhà hàng. Hãy viết bài đánh giá một nhà hàng bạn biết.",
+   "points": [
+    "describe the location and atmosphere",
+    "comment on the food, service and prices",
+    "say whether you would recommend it and to whom"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Bếp Nhà: Home Cooking at Its Finest\n\nTucked away down a narrow alley in the Old Quarter, Bếp Nhà is easy to miss – and that is part of its charm. The restaurant occupies the ground floor of a century-old house, decorated with family photographs and antique furniture, which creates the feeling of eating in someone's living room.\n\nThe menu is short but carefully chosen, focusing on traditional dishes rarely found in tourist restaurants. The caramelised fish in a clay pot was rich and full of flavour, while the banana flower salad provided a refreshing contrast. Portions were generous, and the prices were surprisingly reasonable given the quality.\n\nService was warm and attentive, if a little slow at busy times. Our waiter took the time to explain the origins of each dish, which made the meal feel even more special.\n\nMy only real criticism is the noise level, as the small space fills up quickly. Nevertheless, for visitors who want an authentic taste of local cooking away from the crowds, Bếp Nhà is hard to beat. Be sure to book ahead, especially at weekends.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-051",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She must have forgotten about the meeting.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Deduction about the past: must have + past participle.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-052",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Each of the students have a laptop.",
+   "answers": [
+    "Each of the students has a laptop."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Each of' + plural noun takes a singular verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-053",
+   "type": "guided",
+   "kind": "review",
+   "topic": "book",
+   "prompt": "A reading club website is asking members to review a book they would recommend to other young adults. Write a review.",
+   "promptVi": "Website câu lạc bộ đọc sách mời thành viên viết đánh giá một cuốn sách đáng giới thiệu cho người trẻ. Hãy viết bài đánh giá.",
+   "points": [
+    "what the book is about",
+    "what you liked most and anything you didn't like",
+    "why it would appeal to young adults"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Review: 'Small Steps' – A Novel About Starting Again\n\nI picked up 'Small Steps' expecting a light holiday read. Instead, I found one of the most honest novels about growing up that I have ever come across.\n\nThe story follows Mia, a nineteen-year-old who drops out of university after her first term and returns, embarrassed, to her small hometown. Over the course of a year, she works in her aunt's bakery, reconnects with old friends and slowly works out what she really wants from life.\n\nWhat I liked most was how realistic it felt. Mia is neither a heroine nor a victim; she makes poor decisions, gets things wrong and occasionally behaves selfishly, yet you can't help caring about her. The dialogue is sharp and often very funny, too.\n\nIf I had one criticism, it would be that the middle section drags slightly, with a romantic subplot that adds little to the story.\n\nThat said, I would strongly recommend it to anyone who feels pressure to have their whole life planned out. It is a reassuring reminder that taking a different path is not the same as failing.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-054",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "You needn't have bought so much food for the party.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "needn't have + past participle = it was done but wasn't necessary.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-055",
+   "type": "guided",
+   "kind": "review",
+   "topic": "app",
+   "prompt": "A technology blog is asking readers to review an app that has made their life easier. Write a review.",
+   "promptVi": "Một blog công nghệ mời độc giả đánh giá một ứng dụng giúp cuộc sống dễ dàng hơn. Hãy viết bài đánh giá.",
+   "points": [
+    "what the app does and how you use it",
+    "its strengths and weaknesses",
+    "whether it is worth paying for"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Focus Garden: The App That Finally Got Me Studying\n\nLike many students, I have always struggled with procrastination. I would sit down to revise, pick up my phone 'just for a second', and look up an hour later having achieved nothing. That was before a friend introduced me to Focus Garden.\n\nThe idea is simple but clever. Whenever you want to concentrate, you plant a virtual tree and set a timer. If you leave the app to check messages, your tree dies. Over time, your focused sessions grow into a colourful forest, which is surprisingly motivating.\n\nThe app's greatest strength is how easy it is to use, and the statistics showing how much time you've spent focusing are genuinely useful. It also lets you study together with friends, which adds a bit of friendly competition. On the downside, the free version contains rather a lot of adverts, and some of the extra features feel unnecessary.\n\nIs it worth paying for? In my opinion, yes. The premium version costs less than a cup of coffee, and the difference it has made to my concentration is well worth the price.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-056",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "She is one of the most talented person I know.",
+   "answers": [
+    "She is one of the most talented people I know.",
+    "She's one of the most talented people I know."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "one of the + superlative + plural noun.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-057",
+   "type": "guided",
+   "kind": "review",
+   "topic": "event",
+   "prompt": "An English-language arts website wants reviews of a concert, exhibition or festival you attended recently. Write a review.",
+   "promptVi": "Một website nghệ thuật tiếng Anh mời viết đánh giá buổi hòa nhạc, triển lãm hoặc lễ hội bạn vừa tham dự. Hãy viết bài đánh giá.",
+   "points": [
+    "describe the event",
+    "say what was most and least successful",
+    "say whether you would recommend it"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Lights on the River Festival: A Dazzling Night, With a Few Shadows\n\nEvery autumn, thousands of people gather along the riverbank for the Lights on the River Festival, and this year I finally joined them. Spread over two kilometres, the festival features giant illuminated sculptures, live music and dozens of food stalls.\n\nThe highlight was undoubtedly the light installations. Created by local and international artists, they ranged from a glowing whale that appeared to swim across the water to a tunnel of lanterns that changed colour as you walked through it. Seldom have I seen such imagination on display in a public space.\n\nUnfortunately, the organisation did not quite match the artistic quality. The festival was so crowded that it took over an hour to see the main installations, and there were far too few toilets and rubbish bins. Some of the food stalls also charged extremely high prices.\n\nDespite these problems, I would recommend the festival to anyone who appreciates creative art. My advice would be to go on a weekday evening, arrive early and bring your own snacks.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I gave my text a title and kept a consistent style for the reader.",
+     "vi": "Mình đặt tiêu đề và giữ văn phong nhất quán với người đọc."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-058",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Were it not for your help, I would never have finished.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Formal inversion: Were it not for … = If it weren't for …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-059",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The film was so an exciting that I watched it twice.",
+   "answers": [
+    "The film was so exciting that I watched it twice.",
+    "It was such an exciting film that I watched it twice."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "so + adjective (no article); such + a/an + adjective + noun.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-060",
+   "type": "guided",
+   "kind": "report",
+   "topic": "college facilities",
+   "prompt": "The principal of your college wants to improve the student library. Write a report describing the current situation and recommending improvements.",
+   "promptVi": "Hiệu trưởng muốn cải thiện thư viện trường. Hãy viết báo cáo mô tả hiện trạng và đề xuất cải tiến.",
+   "points": [
+    "what students like about the library",
+    "the main problems",
+    "your recommendations"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Report on the College Library\n\nIntroduction\nThe aim of this report is to assess the current state of the college library and to recommend ways in which it could be improved. It is based on a survey of 120 students and interviews with library staff.\n\nStrengths\nMost students value the library as a quiet place to study, and the staff were frequently described as friendly and helpful. The online catalogue was also praised for being easy to use.\n\nProblems\nThe most common complaint concerned a lack of space. During exam periods, it is almost impossible to find a free desk after 10 a.m. Many students also pointed out that the Wi-Fi is unreliable and that there are too few power sockets for laptops. In addition, a significant number felt that the opening hours, which end at 6 p.m., are too short.\n\nRecommendations\nIt is recommended that the unused storage room on the first floor be converted into an additional study area. Upgrading the Wi-Fi and installing more sockets should be a priority. Finally, extending opening hours until 9 p.m. during exam periods would be greatly appreciated by students.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-061",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Only when I moved abroad did I appreciate my family.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Only when + clause, then inversion: did + subject + verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-062",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "It is the first time I visit Paris.",
+   "answers": [
+    "It is the first time I have visited Paris.",
+    "It's the first time I've visited Paris.",
+    "It is the first time I've visited Paris."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "It's the first time + present perfect.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-063",
+   "type": "guided",
+   "kind": "report",
+   "topic": "workplace",
+   "prompt": "Your manager has asked you to write a report on how staff currently travel to work and how the company could encourage more sustainable travel.",
+   "promptVi": "Quản lý yêu cầu bạn viết báo cáo về cách nhân viên đi làm và cách công ty khuyến khích đi lại bền vững hơn.",
+   "points": [
+    "how staff travel at present",
+    "the reasons for their choices",
+    "recommendations for change"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Staff Travel Report\n\nPurpose\nThis report outlines how employees currently travel to the office and suggests measures that could encourage more environmentally friendly options. The findings are based on an online questionnaire completed by 85 members of staff.\n\nCurrent situation\nAt present, around 60% of employees drive to work, usually alone. Approximately 25% use public transport, while only a small minority cycle or walk.\n\nReasons\nThe most frequently mentioned reason for driving was convenience, particularly among staff with young children. Many respondents also complained that the nearest bus stop is a fifteen-minute walk away and that services are infrequent. Several potential cyclists said they were put off by the absence of secure bike storage and showers.\n\nRecommendations\nIn light of these findings, I would recommend the following. Firstly, the company should install covered bicycle racks and a changing room with showers. Secondly, a car-sharing scheme could be introduced, with reserved parking spaces for those taking part. Finally, it would be worth discussing with the local council whether a bus stop could be added closer to the office. If these steps were taken, a noticeable reduction in car use could be expected within a year.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-064",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I'm not used to being spoken to in that way.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "be used to + passive -ing (being spoken to).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-065",
+   "type": "guided",
+   "kind": "report",
+   "topic": "tourism",
+   "prompt": "A tourism website has asked you to write a report on your town for young international visitors, focusing on things to do on a limited budget.",
+   "promptVi": "Một website du lịch đề nghị bạn viết báo cáo về thị trấn của bạn cho du khách trẻ quốc tế, tập trung vào hoạt động tiết kiệm.",
+   "points": [
+    "cheap places to stay and eat",
+    "free or low-cost activities",
+    "practical advice"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Exploring Da Lat on a Budget: A Report for Young Visitors\n\nIntroduction\nThis report is intended to help young travellers make the most of Da Lat without spending a fortune. It covers accommodation, food, activities and some practical tips.\n\nAccommodation and food\nThe town has a wide range of hostels, many of which offer dormitory beds for under ten dollars a night, including breakfast. As for food, the night market is by far the best option. Visitors can try local specialities such as grilled rice paper and warm soy milk for very little money.\n\nActivities\nMany of the best experiences are free or almost free. Walking around Xuan Huong Lake at sunrise is highly recommended, as is a visit to the old railway station. For those who enjoy the outdoors, the pine forests surrounding the town offer excellent hiking trails, although it is advisable to go with a local guide.\n\nPractical advice\nIt is worth remembering that Da Lat is considerably cooler than the rest of Vietnam, so visitors should bring a warm jacket. Renting a motorbike is cheap, but only those with an international licence and riding experience should consider it. Overall, Da Lat is an ideal destination for budget travellers.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-066",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The man who's car was stolen called the police.",
+   "answers": [
+    "The man whose car was stolen called the police."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Possessive relative pronoun = whose (who's = who is).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-067",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "college event",
+   "prompt": "Your college has some money to spend on an event that would benefit both students and the local community. Write a proposal for the college director.",
+   "promptVi": "Trường có một khoản tiền để tổ chức sự kiện có lợi cho cả sinh viên và cộng đồng. Hãy viết đề xuất gửi giám đốc trường.",
+   "points": [
+    "describe the event you suggest",
+    "explain how it would benefit students and the community",
+    "say how it could be organised"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Proposal for a Community Skills Fair\n\nIntroduction\nThe purpose of this proposal is to suggest how the funds available could be used to organise an event that brings students and local residents together. I propose holding a one-day Community Skills Fair on the college campus.\n\nThe event\nThe fair would consist of free workshops run by students and local volunteers. These could include basic computer skills for older residents, cooking classes, bicycle repair and English conversation sessions for children.\n\nBenefits\nFor students, the fair would offer valuable experience in teaching, organisation and public speaking, all of which would strengthen their CVs. Equally importantly, it would give local people, many of whom rarely visit the campus, the chance to learn something useful at no cost. Not only would this improve the college's reputation, but it would also help break down the barrier between students and the community.\n\nOrganisation\nI suggest that a committee of student volunteers be set up to plan the event, with support from one member of staff. The money could be spent on materials, advertising and refreshments. If the fair proves successful, it could become an annual event.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-068",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Should you need any further information, please contact us.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Formal inversion of a first conditional: Should you … = If you should …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-069",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "You needn't to worry about it.",
+   "answers": [
+    "You needn't worry about it.",
+    "You don't need to worry about it."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "needn't + base verb (no 'to'); don't need + to-infinitive.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-070",
+   "type": "guided",
+   "kind": "proposal",
+   "topic": "workplace wellbeing",
+   "prompt": "Your company wants ideas for improving staff wellbeing. Write a proposal for the human resources director.",
+   "promptVi": "Công ty muốn có ý tưởng cải thiện sức khỏe tinh thần của nhân viên. Hãy viết đề xuất gửi giám đốc nhân sự.",
+   "points": [
+    "describe the current problems",
+    "suggest two or three improvements",
+    "explain the expected benefits"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Proposal: Improving Staff Wellbeing\n\nBackground\nA recent staff survey revealed that over half of employees feel stressed at work, with many mentioning long hours, a lack of breaks and limited opportunities to switch off. This proposal recommends three practical measures to address these issues.\n\nFlexible working hours\nAllowing staff to start between 7.30 and 10 a.m. would help those with long commutes or childcare responsibilities. Several companies in our sector have introduced similar schemes with positive results.\n\nA quiet room\nThe small meeting room on the third floor is rarely used and could easily be converted into a quiet space where employees can rest, meditate or simply take a break away from their desks.\n\nNo-email evenings\nI would also suggest a policy discouraging internal emails after 7 p.m., except in emergencies. This would send a clear message that time off is respected.\n\nExpected benefits\nIt is widely accepted that employees who feel rested and valued are more productive and less likely to take sick leave or leave the company. As a result, the modest cost of these measures should be more than recovered within a short period. I would therefore recommend introducing them on a trial basis for six months.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "I used a title and clear section headings, and ended with recommendations.",
+     "vi": "Mình dùng tiêu đề, các đề mục rõ ràng và kết thúc bằng đề xuất."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-071",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "All I want is a little peace and quiet.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Cleft with 'All': All + subject + want + is …",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-072",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Only after the meeting I realised my mistake.",
+   "answers": [
+    "Only after the meeting did I realise my mistake."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Only after … at the start → inversion: did I realise.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-073",
+   "type": "guided",
+   "kind": "story",
+   "topic": "mystery",
+   "prompt": "Your teacher has asked you to write a story for a college magazine. The story must begin with this sentence: 'The moment I opened the envelope, I knew my life was about to change.'",
+   "promptVi": "Giáo viên yêu cầu bạn viết truyện cho tạp chí trường, bắt đầu bằng câu: 'The moment I opened the envelope, I knew my life was about to change.'",
+   "points": [
+    "begin with the sentence given",
+    "include a surprising discovery",
+    "show how the main character's feelings change"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "The moment I opened the envelope, I knew my life was about to change. Inside was a single faded photograph of a young woman standing outside a bakery in Paris – and she looked exactly like me.\n\nThe envelope had arrived that morning with no letter and no return address, only my name written in elegant, old-fashioned handwriting. At first, I assumed it was a joke. But when I showed the photo to my grandmother, the colour drained from her face.\n\n'Where did you get this?' she whispered. For a long time she said nothing. Then, slowly, she began to tell me a story she had kept secret for fifty years: she had had a twin sister, who had stayed in France when the rest of the family moved to Vietnam. They had lost contact after an argument and never spoken again.\n\nMy confusion gradually turned into excitement. Somewhere, there was a whole branch of my family I had never known existed. Three months later, I was standing outside that same bakery, holding the photograph, when an elderly woman stepped out of the door and smiled at me.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-074",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "The reason why he left was never made clear.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Noun clause as subject + passive (was made clear).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-075",
+   "type": "guided",
+   "kind": "story",
+   "topic": "adventure",
+   "prompt": "A website is running a short story competition. Your story must end with the words: '…and that was the last time I ever ignored a weather warning.'",
+   "promptVi": "Một website tổ chức cuộc thi truyện ngắn. Truyện của bạn phải kết thúc bằng: '…and that was the last time I ever ignored a weather warning.'",
+   "points": [
+    "describe where you were and why",
+    "build tension as the situation becomes dangerous",
+    "end with the words given"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "It was supposed to be a gentle day's hiking. Minh and I had planned the trip for months, so when the park ranger mentioned that a storm might arrive in the afternoon, we simply laughed it off. The sky was perfectly blue, after all.\n\nBy midday, we had reached the top of the ridge and were enjoying the spectacular view. That was when we noticed the dark clouds racing towards us. Within minutes, the temperature dropped sharply, and the first drops of rain turned into a violent downpour. The path, which had been dry and easy that morning, became a river of mud.\n\nWe tried to hurry down, but Minh slipped and twisted his ankle badly. Soaked and shivering, we sheltered under a rocky overhang while lightning lit up the valley below. My phone had no signal, and I began to wonder whether anyone would find us before dark.\n\nHours later, we saw torches moving up the hill. The ranger, realising we hadn't returned, had sent out a search team. He didn't say 'I told you so', but he didn't need to – and that was the last time I ever ignored a weather warning.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-076",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I wish I didn't say that to her yesterday.",
+   "answers": [
+    "I wish I hadn't said that to her yesterday.",
+    "I wish I had not said that to her yesterday."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Regret about the past: wish + past perfect.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-077",
+   "type": "guided",
+   "kind": "story",
+   "topic": "kindness",
+   "prompt": "Write a story for an English-language magazine with the title 'A Small Act of Kindness'.",
+   "promptVi": "Hãy viết truyện cho một tạp chí tiếng Anh với tiêu đề 'A Small Act of Kindness'.",
+   "points": [
+    "introduce the characters and setting",
+    "describe the act of kindness",
+    "show its unexpected consequences"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "A Small Act of Kindness\n\nIt was pouring with rain when Lan noticed the elderly man at the bus stop. He was staring helplessly at a timetable, clutching a crumpled piece of paper with an address on it. Everyone else was hurrying past, heads down, eyes on their phones.\n\nLan was already late for work, but something made her stop. The man, it turned out, had just arrived from the countryside to visit his son in hospital and had no idea which bus to take. Instead of simply pointing the way, Lan decided to go with him. She shared her umbrella, paid his fare and walked him right to the hospital entrance.\n\nShe arrived at the office forty minutes late, soaking wet, and thought no more about it.\n\nSix months later, Lan was invited to a job interview at a company she had always dreamed of working for. As she walked into the room, the interviewer looked up, paused, and broke into a broad smile. 'I believe you met my father once,' he said. 'He's never stopped talking about the young woman who got him to the hospital.'",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-078",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "He denied having taken the money from the drawer.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "deny + perfect gerund (having taken).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-079",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "He is said to steal the painting last year.",
+   "answers": [
+    "He is said to have stolen the painting last year."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "For a past action: is said + to have + past participle.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-080",
+   "type": "guided",
+   "kind": "email",
+   "topic": "feedback",
+   "prompt": "You recently completed an online course. The course organiser has emailed asking for your feedback. Write a reply.",
+   "promptVi": "Bạn vừa hoàn thành một khóa học trực tuyến. Người tổ chức gửi email xin ý kiến phản hồi. Hãy viết thư trả lời.",
+   "points": [
+    "say what you found most useful",
+    "mention any problems you had",
+    "suggest improvements for future courses"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Dear Ms Wong,\n\nThank you for your email. I am happy to give some feedback on the Digital Marketing course, which I completed last week.\n\nOverall, I found the course extremely worthwhile. The most useful part was undoubtedly the module on data analysis, as it gave me practical skills that I have already started using in my job. The weekly live sessions with the tutor were also very helpful, since they gave us the chance to ask questions and learn from other participants.\n\nThere were, however, one or two problems. Some of the video lectures had poor sound quality, and on several occasions the quizzes did not save my answers, which was rather frustrating.\n\nFor future courses, I would suggest providing written summaries of each lecture so that participants can review the key points more easily. It might also be worth including more real-life case studies.\n\nThank you again for a valuable experience.\n\nKind regards,\nBao Vo",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-081",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "I'd have called you if I had known you were in town.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Third conditional with the result clause first.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-082",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Should you will need help, call me.",
+   "answers": [
+    "Should you need help, call me.",
+    "Should you need any help, call me.",
+    "If you need help, call me."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Should + subject + base verb (no 'will').",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-083",
+   "type": "guided",
+   "kind": "email",
+   "topic": "request",
+   "prompt": "You are a student representative. Write a formal email to your head of department requesting an extension to a project deadline for your class.",
+   "promptVi": "Bạn là đại diện sinh viên. Hãy viết email trang trọng gửi trưởng khoa xin gia hạn nộp dự án cho cả lớp.",
+   "points": [
+    "explain the reason for the request",
+    "suggest a new deadline",
+    "explain how this would benefit the quality of the work"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Dear Dr Edwards,\n\nI am writing on behalf of the second-year marketing students to request a short extension to the deadline for our group research project, which is currently due on 20 November.\n\nAs you may be aware, the university library's online database was unavailable for almost two weeks last month due to technical problems. Since our projects depend heavily on academic sources, most groups lost a significant amount of research time. In addition, the deadline now coincides with two other major assignments.\n\nWe would therefore be extremely grateful if the deadline could be moved to 4 December. This would allow us to complete our research properly rather than relying on incomplete data.\n\nWe believe that this extra time would result in projects of a considerably higher standard, which would benefit both the students and the department.\n\nThank you for considering this request. I would be happy to discuss it further if that would be helpful.\n\nYours sincerely,\nQuynh Dang\nStudent Representative",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-084",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "She is thought to be one of the best surgeons in the country.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Passive reporting: is thought + to-infinitive.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-085",
+   "type": "guided",
+   "kind": "email",
+   "topic": "news",
+   "prompt": "Your English pen friend Leo hasn't heard from you for several months. Write an email telling Leo about an important change in your life.",
+   "promptVi": "Bạn qua thư người Anh tên Leo đã lâu không nhận tin từ bạn. Hãy viết email kể cho Leo về một thay đổi quan trọng trong cuộc sống.",
+   "points": [
+    "apologise for not writing",
+    "describe the change and how it happened",
+    "say how you feel about it now"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Hi Leo,\n\nI can't believe it's been almost six months since I last wrote – I'm so sorry! Things have been absolutely hectic, but I promise I haven't forgotten about you.\n\nThe big news is that I've changed careers. You might remember that I was working as an accountant and wasn't particularly happy. Well, in the spring, my company announced it was cutting jobs, and I decided to take voluntary redundancy. Rather than looking for another accounting job, I used the money to do a six-month course in graphic design, something I'd always wanted to try.\n\nTo be honest, it was terrifying at first. I kept wondering whether I'd made a huge mistake, especially when my savings started running low. But last month I got my first full-time job at a small design studio, and I've never enjoyed work so much.\n\nAnyway, enough about me. How are things with you? Write back soon!\n\nCheers,\nHuy",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-086",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "The police is investigating the robbery.",
+   "answers": [
+    "The police are investigating the robbery."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Police' is always plural.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-087",
+   "type": "guided",
+   "kind": "email",
+   "topic": "recommendation",
+   "prompt": "An English-speaking colleague, Rachel, is visiting your city for a business conference and has asked you to recommend how to spend a free evening. Write an email.",
+   "promptVi": "Đồng nghiệp người Anh tên Rachel đến thành phố bạn dự hội nghị và nhờ bạn gợi ý cách dùng một buổi tối rảnh. Hãy viết email.",
+   "points": [
+    "recommend a place to eat",
+    "suggest something to do afterwards",
+    "give practical advice about getting around"
+   ],
+   "minWords": 120,
+   "sampleAnswer": "Hi Rachel,\n\nIt's great to hear you'll be in Ho Chi Minh City next week! With only one free evening, you'll want to make the most of it, so here are a few suggestions.\n\nFor dinner, I'd strongly recommend a restaurant called Cục Gạch, which serves home-style Vietnamese food in a beautifully restored French colonial house. It's very popular, though, so it's worth booking a table in advance.\n\nAfterwards, if you're not too tired from the conference, why not head to one of the rooftop bars in District 1? The views of the city at night are spectacular, and it's a lovely way to relax. Alternatively, you could take a short evening boat trip along the Saigon River.\n\nAs for getting around, I'd suggest using a ride-hailing app rather than flagging down taxis in the street, as you'll know the price beforehand. The traffic can be heavy in the early evening, so allow plenty of time.\n\nEnjoy your trip!\n\nBest wishes,\nNam",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-088",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Under no circumstances should you open this door.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Under no circumstances + auxiliary + subject + verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-089",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "I object to be treated like a child.",
+   "answers": [
+    "I object to being treated like a child."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "object to + -ing ('to' is a preposition).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-090",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "volunteering",
+   "prompt": "A wildlife charity is looking for volunteers for a three-month conservation project abroad. Write a letter of application to the project coordinator.",
+   "promptVi": "Một tổ chức từ thiện bảo vệ động vật hoang dã tìm tình nguyện viên cho dự án 3 tháng ở nước ngoài. Hãy viết thư ứng tuyển gửi điều phối viên.",
+   "points": [
+    "explain why you are interested in the project",
+    "describe relevant experience and qualities",
+    "say what you hope to gain from it"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Dear Mr Okafor,\n\nI am writing to apply for a place on your three-month turtle conservation project in Costa Rica, which was advertised in the latest issue of Nature Today.\n\nI have been passionate about marine life for as long as I can remember, and I am currently studying environmental science at university. Having learned about the threats facing sea turtles in my lectures, I am keen to contribute to protecting them in a practical way.\n\nLast year I spent two months volunteering with a coral reef monitoring group in Nha Trang, where I collected data, cleaned beaches and helped run educational sessions for local schoolchildren. This experience taught me to work effectively in a team and to cope with physically demanding conditions. I am also a qualified diver and a confident swimmer.\n\nThrough this project, I hope to gain hands-on experience of conservation work that will help me decide on my future career. Furthermore, I would welcome the opportunity to improve my Spanish and learn about a different culture.\n\nI would be delighted to provide references if required.\n\nYours sincerely,\nChau Ly",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-091",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Not until the end of the film did we understand the title.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Not until + time phrase + did + subject + verb.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-092",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Was I you, I would accept the offer.",
+   "answers": [
+    "Were I you, I would accept the offer.",
+    "If I were you, I would accept the offer.",
+    "If I were you, I'd accept the offer.",
+    "Were I you, I'd accept the offer."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Inverted second conditional uses 'were': Were I you…",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-093",
+   "type": "guided",
+   "kind": "letter",
+   "topic": "local issue",
+   "prompt": "Your town council plans to replace a local park with a car park. Write a letter to the editor of a local newspaper giving your views.",
+   "promptVi": "Hội đồng thị trấn định thay công viên bằng bãi đỗ xe. Hãy viết thư gửi tổng biên tập báo địa phương nêu ý kiến của bạn.",
+   "points": [
+    "explain why the park is important",
+    "respond to the council's reasons",
+    "suggest an alternative solution"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Dear Editor,\n\nI am writing in response to your article of 3 May about the council's plan to replace Green Hill Park with a multi-storey car park. As a resident of the area for over twenty years, I am deeply concerned about this proposal.\n\nThe park is far more than an empty space waiting to be developed. It is where children play after school, elderly residents meet for exercise each morning and families gather at weekends. In a neighbourhood where most people live in flats, it is the only green space within walking distance.\n\nThe council argues that a car park is needed to support local shops. While I recognise that parking is a problem, building more spaces will simply encourage more traffic and pollution. Moreover, once the park is gone, it will be gone forever.\n\nA far better solution would be to improve bus services into the town centre and create a park-and-ride scheme on the empty land near the motorway. This would reduce congestion without sacrificing one of our most valuable community assets.\n\nI urge readers to attend next month's public meeting and make their voices heard.\n\nYours faithfully,\nPhuong Hoang",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    },
+    {
+     "en": "My opening, closing and sign-off match the reader (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), and I stated my purpose early.",
+     "vi": "Lời mở đầu, kết thư và ký tên phù hợp với người đọc (Dear Ms…/Yours sincerely, Dear Sir or Madam/Yours faithfully, Hi…/All the best), và mình nêu mục đích ngay từ đầu."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-094",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "Whatever happens, I will always support your decision.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "'Whatever' = no matter what.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-095",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "cities",
+   "prompt": "'Cars should be banned from city centres.' Do you agree? Write an essay giving your opinion.",
+   "promptVi": "'Nên cấm ô tô vào trung tâm thành phố.' Bạn có đồng ý không? Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "pollution and health",
+    "the impact on businesses",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "As cities become increasingly congested, some urban planners have proposed banning cars from city centres altogether. While this idea has clear benefits, I believe a total ban would be impractical in most cities.\n\nThe most obvious advantage would be a reduction in air pollution, which is responsible for thousands of premature deaths every year. City centres without cars would also be quieter and safer for pedestrians and cyclists, encouraging people to walk more and improving public health.\n\nOn the other hand, many businesses depend on customers who arrive by car, as well as on deliveries. Shop owners in some cities that have restricted traffic have reported a fall in sales, at least initially. A complete ban could therefore damage the very areas it was intended to improve.\n\nIt is also important to consider people with disabilities and the elderly, for whom using public transport or walking long distances may be extremely difficult.\n\nIn my view, a more balanced approach would be to restrict private cars during peak hours, introduce congestion charges and invest heavily in public transport. Only when reliable alternatives exist will people be willing to leave their cars at home.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-096",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Little they knew what was about to happen.",
+   "answers": [
+    "Little did they know what was about to happen."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "Little at the start (= not at all) → inversion: did they know.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-097",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "celebrity",
+   "prompt": "'Celebrities have a responsibility to be good role models for young people.' Write an essay giving your opinion.",
+   "promptVi": "'Người nổi tiếng có trách nhiệm làm gương tốt cho giới trẻ.' Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "the influence celebrities have",
+    "whether it is fair to expect them to be perfect",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Young people today follow the lives of famous people more closely than ever before, thanks largely to social media. This raises the question of whether celebrities should be expected to set a good example. In my opinion, they do have some responsibility, but expectations should be realistic.\n\nThere is no denying that celebrities have enormous influence. When a famous singer promotes a product or expresses a view, millions of teenagers may copy them. Given this power, it seems reasonable to expect them to avoid encouraging dangerous or irresponsible behaviour, such as extreme dieting.\n\nHowever, it is unfair to demand that celebrities be perfect. They are human beings who make mistakes like everyone else, and many of them became famous for their talent, not because they wanted to be role models. Constant public criticism of their private lives can also be extremely damaging to their mental health.\n\nMoreover, I believe parents and teachers play a far more important role in shaping young people's values than celebrities do.\n\nIn conclusion, while celebrities should use their influence responsibly, it is ultimately up to families and schools to teach young people how to think critically about the people they admire.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-098",
+   "type": "order",
+   "topic": "sentence building",
+   "sentence": "It is essential that every student attend the safety briefing.",
+   "prompt": "Put the words in the correct order.",
+   "explanation": "Formal subjunctive: It is essential that + subject + base verb (attend, not attends).",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-099",
+   "type": "fix",
+   "topic": "error correction",
+   "wrong": "Unless you don't hurry, you'll miss the train.",
+   "answers": [
+    "Unless you hurry, you'll miss the train.",
+    "Unless you hurry, you will miss the train.",
+    "If you don't hurry, you'll miss the train.",
+    "If you don't hurry, you will miss the train."
+   ],
+   "prompt": "Find and correct the mistake. Write the whole sentence.",
+   "explanation": "'Unless' already means 'if not', so don't add another negative.",
+   "skill": "writing",
+   "level": "b2"
+  },
+  {
+   "id": "b2-writing-100",
+   "type": "guided",
+   "kind": "essay",
+   "topic": "tourism",
+   "prompt": "'Tourism does more harm than good to local communities.' Write an essay giving your opinion.",
+   "promptVi": "'Du lịch gây hại nhiều hơn lợi cho cộng đồng địa phương.' Hãy viết bài luận nêu ý kiến.",
+   "points": [
+    "the economic effects",
+    "the effect on culture and the environment",
+    "your own idea"
+   ],
+   "minWords": 140,
+   "sampleAnswer": "Tourism is one of the world's largest industries, yet its impact on local communities is increasingly being questioned. Although mass tourism can undoubtedly cause problems, I do not believe it does more harm than good, provided it is properly managed.\n\nFrom an economic point of view, tourism brings considerable benefits. It creates jobs in hotels, restaurants and transport, and it allows small businesses such as craft shops and family-run guesthouses to flourish. In many rural areas, it is one of the few sources of income available.\n\nNevertheless, the negative effects cannot be ignored. Popular destinations often suffer from overcrowding, rising property prices and pollution. In some places, traditional festivals and crafts have been turned into performances for visitors, losing much of their original meaning.\n\nWhat matters most, in my view, is how tourism is controlled. Limiting visitor numbers at fragile sites, ensuring that profits stay within the local community and involving residents in decision-making can greatly reduce the harm.\n\nIn conclusion, tourism is neither entirely positive nor entirely negative. When it is planned with local people in mind, its benefits can clearly outweigh its costs.",
+   "checklist": [
+    {
+     "en": "I developed all three points with reasons, examples or details.",
+     "vi": "Mình triển khai đủ 3 ý với lý do, ví dụ hoặc chi tiết."
+    },
+    {
+     "en": "I wrote at least the minimum number of words (B2 target: about 140–190).",
+     "vi": "Mình viết đủ số từ tối thiểu (mục tiêu B2: khoảng 140–190 từ)."
+    },
+    {
+     "en": "Each paragraph has a clear purpose, and I linked ideas smoothly (Moreover, Nevertheless, Given that, In light of…).",
+     "vi": "Mỗi đoạn có mục đích rõ ràng và mình liên kết ý mạch lạc (Moreover, Nevertheless, Given that, In light of…)."
+    },
+    {
+     "en": "I used a range of B2 grammar (mixed conditionals, inversion, cleft sentences, passive reporting, participle clauses).",
+     "vi": "Mình dùng đa dạng ngữ pháp B2 (điều kiện hỗn hợp, đảo ngữ, câu chẻ, bị động tường thuật, mệnh đề phân từ)."
+    },
+    {
+     "en": "I used precise vocabulary and collocations and avoided repeating the same words.",
+     "vi": "Mình dùng từ vựng và cụm từ chính xác, tránh lặp từ."
+    },
+    {
+     "en": "My register (formal / neutral / informal) suits the reader throughout.",
+     "vi": "Văn phong (trang trọng / trung tính / thân mật) phù hợp với người đọc từ đầu đến cuối."
+    }
+   ],
+   "skill": "writing",
+   "level": "b2"
+  }
+ ]
+}

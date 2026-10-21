@@ -1,0 +1,2014 @@
+{
+ "schemaVersion": 1,
+ "level": "a2",
+ "skill": "speaking",
+ "title": {
+  "en": "Speaking",
+  "vi": "Nói"
+ },
+ "status": "complete",
+ "targetCount": 100,
+ "count": 100,
+ "items": [
+  {
+   "id": "a2-speaking-001",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "What time do you usually get up on weekdays?",
+   "promptVi": "Ngày thường bạn hay dậy lúc mấy giờ?",
+   "modelAnswer": "I usually get up at six thirty on weekdays. Then I have a shower and eat breakfast before school.",
+   "keywords": [
+    "usually",
+    "get up",
+    "weekdays"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-002",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "What do you usually have for breakfast?",
+   "promptVi": "Bạn thường ăn sáng món gì?",
+   "modelAnswer": "I usually have a bowl of noodle soup or some bread with eggs. I also drink a glass of milk.",
+   "keywords": [
+    "usually",
+    "bowl",
+    "drink"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-003",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "family",
+   "prompt": "Tell me about your family.",
+   "promptVi": "Hãy kể về gia đình bạn.",
+   "modelAnswer": "There are four people in my family: my parents, my younger brother and me. My dad is an engineer and my mum is a teacher.",
+   "keywords": [
+    "family",
+    "people",
+    "parents"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-004",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "home",
+   "prompt": "Describe your bedroom.",
+   "promptVi": "Hãy miêu tả phòng ngủ của bạn.",
+   "modelAnswer": "My bedroom is small but comfortable. There's a bed, a desk and a big window. I have lots of posters on the wall.",
+   "keywords": [
+    "bedroom",
+    "bed",
+    "desk"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-005",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "What is your favourite subject at school? Why?",
+   "promptVi": "Môn học yêu thích của bạn là gì? Vì sao?",
+   "modelAnswer": "My favourite subject is English because the lessons are fun and I like watching films in English. I'm not very good at maths, though.",
+   "keywords": [
+    "favourite",
+    "subject",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-006",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What do you like doing in your free time?",
+   "promptVi": "Bạn thích làm gì vào thời gian rảnh?",
+   "modelAnswer": "I like playing badminton with my friends and reading comics. At weekends, I sometimes go to the cinema.",
+   "keywords": [
+    "like",
+    "friends",
+    "weekends"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-007",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "What is your favourite food?",
+   "promptVi": "Món ăn yêu thích của bạn là gì?",
+   "modelAnswer": "My favourite food is spring rolls. My mum makes them at home, and they are delicious with fish sauce.",
+   "keywords": [
+    "favourite",
+    "food",
+    "delicious"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-008",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What did you do last weekend?",
+   "promptVi": "Cuối tuần trước bạn đã làm gì?",
+   "modelAnswer": "Last weekend I visited my grandparents. We had lunch together, and in the afternoon I helped my grandfather in the garden.",
+   "keywords": [
+    "last weekend",
+    "visited",
+    "had"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-009",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "town",
+   "prompt": "Where do you live? Do you like it?",
+   "promptVi": "Bạn sống ở đâu? Bạn có thích nơi đó không?",
+   "modelAnswer": "I live in Da Nang. I like it a lot because it's near the sea and the people are friendly. But it's very hot in summer.",
+   "keywords": [
+    "live",
+    "like",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-010",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "friends",
+   "prompt": "Tell me about your best friend.",
+   "promptVi": "Hãy kể về người bạn thân nhất của bạn.",
+   "modelAnswer": "My best friend is called Lan. We've known each other since primary school. She's funny and kind, and we often study together.",
+   "keywords": [
+    "best friend",
+    "kind",
+    "together"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-011",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "weather",
+   "prompt": "What's the weather like in your city today?",
+   "promptVi": "Hôm nay thời tiết ở thành phố bạn thế nào?",
+   "modelAnswer": "Today it's sunny and quite hot, about thirty degrees. It might rain in the evening.",
+   "keywords": [
+    "sunny",
+    "hot",
+    "degrees"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-012",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "transport",
+   "prompt": "How do you get to school or work?",
+   "promptVi": "Bạn đến trường hoặc nơi làm việc bằng cách nào?",
+   "modelAnswer": "I usually go to school by bike. It takes about fifteen minutes. When it rains, my dad takes me on his motorbike.",
+   "keywords": [
+    "by",
+    "takes",
+    "minutes"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-013",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "travel",
+   "prompt": "Where did you go on your last holiday?",
+   "promptVi": "Kỳ nghỉ gần nhất bạn đã đi đâu?",
+   "modelAnswer": "Last summer I went to Nha Trang with my family. We swam in the sea, ate seafood and visited an island by boat.",
+   "keywords": [
+    "went",
+    "last summer",
+    "family"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-014",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "shopping",
+   "prompt": "Do you like shopping? Why or why not?",
+   "promptVi": "Bạn có thích mua sắm không? Vì sao?",
+   "modelAnswer": "Not really. I don't like crowded shops. I prefer shopping online because it's quick and easy.",
+   "keywords": [
+    "shopping",
+    "prefer",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-015",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "sport",
+   "prompt": "What sports do you like?",
+   "promptVi": "Bạn thích môn thể thao nào?",
+   "modelAnswer": "I like football and swimming. I play football with my classmates every Friday afternoon.",
+   "keywords": [
+    "football",
+    "play",
+    "like"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-016",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What kind of music do you like?",
+   "promptVi": "Bạn thích thể loại nhạc nào?",
+   "modelAnswer": "I like pop music, especially K-pop. I listen to music on my phone when I walk to school.",
+   "keywords": [
+    "music",
+    "listen",
+    "like"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-017",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What do you like watching on TV or online?",
+   "promptVi": "Bạn thích xem gì trên TV hoặc trên mạng?",
+   "modelAnswer": "I like watching cooking shows and travel videos. I usually watch them on my laptop in the evening.",
+   "keywords": [
+    "watch",
+    "like",
+    "evening"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-018",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "What do you want to do in the future?",
+   "promptVi": "Trong tương lai bạn muốn làm gì?",
+   "modelAnswer": "I want to be a doctor because I want to help people. I need to study hard, especially science.",
+   "keywords": [
+    "want to be",
+    "because",
+    "study"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-019",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrations",
+   "prompt": "How do you usually celebrate your birthday?",
+   "promptVi": "Bạn thường tổ chức sinh nhật thế nào?",
+   "modelAnswer": "I usually have a small party at home with my family and a few friends. We eat cake and play games.",
+   "keywords": [
+    "usually",
+    "party",
+    "cake"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-020",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "What do you do every morning before school or work?",
+   "promptVi": "Mỗi sáng trước khi đi học/đi làm bạn làm gì?",
+   "modelAnswer": "First I get up and brush my teeth. Then I get dressed, have breakfast and pack my bag. I leave home at seven.",
+   "keywords": [
+    "first",
+    "then",
+    "leave"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-021",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "Why are you learning English?",
+   "promptVi": "Tại sao bạn học tiếng Anh?",
+   "modelAnswer": "I'm learning English because I want to travel and talk to people from other countries. It's also important for my future job.",
+   "keywords": [
+    "learning",
+    "because",
+    "want"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-022",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "animals",
+   "prompt": "Do you have a pet? Would you like one?",
+   "promptVi": "Bạn có nuôi thú cưng không? Bạn có muốn nuôi không?",
+   "modelAnswer": "I don't have a pet now, but I'd like a cat. Cats are quiet and clean, and they're easy to look after.",
+   "keywords": [
+    "pet",
+    "I'd like",
+    "easy"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-023",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "weather",
+   "prompt": "What's your favourite season? Why?",
+   "promptVi": "Mùa yêu thích của bạn là gì? Vì sao?",
+   "modelAnswer": "My favourite season is autumn because it isn't too hot or too cold. I love walking around the lake in the evening.",
+   "keywords": [
+    "favourite",
+    "season",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-024",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "Can you cook? What can you make?",
+   "promptVi": "Bạn có biết nấu ăn không? Bạn nấu được món gì?",
+   "modelAnswer": "Yes, I can cook a little. I can make fried rice and omelettes. I sometimes cook dinner for my family on Sundays.",
+   "keywords": [
+    "cook",
+    "make",
+    "can"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-025",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrations",
+   "prompt": "What do you do during Tet (Lunar New Year)?",
+   "promptVi": "Bạn làm gì trong dịp Tết?",
+   "modelAnswer": "During Tet, I visit my relatives and get lucky money. We eat traditional food like banh chung, and we clean and decorate the house.",
+   "keywords": [
+    "visit",
+    "relatives",
+    "eat"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-026",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "technology",
+   "prompt": "How often do you use your phone? What for?",
+   "promptVi": "Bạn dùng điện thoại thường xuyên không? Để làm gì?",
+   "modelAnswer": "I use my phone every day, maybe for three hours. I use it to chat with friends, watch videos and look up new English words.",
+   "keywords": [
+    "every day",
+    "use",
+    "chat"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-027",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "town",
+   "prompt": "What is there in your neighbourhood?",
+   "promptVi": "Khu bạn sống có những gì?",
+   "modelAnswer": "There's a small market, a park and a coffee shop near my house. There's also a primary school at the end of my street.",
+   "keywords": [
+    "there's",
+    "near",
+    "park"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-028",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "Do you like reading? What do you read?",
+   "promptVi": "Bạn có thích đọc sách không? Bạn đọc gì?",
+   "modelAnswer": "Yes, I do. I like reading comics and short stories. I usually read before I go to bed.",
+   "keywords": [
+    "reading",
+    "like",
+    "before"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-029",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "clothes",
+   "prompt": "What clothes do you like wearing?",
+   "promptVi": "Bạn thích mặc quần áo kiểu gì?",
+   "modelAnswer": "I like wearing comfortable clothes, like jeans and T-shirts. For special events, I wear a dress or a shirt.",
+   "keywords": [
+    "wear",
+    "comfortable",
+    "like"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-030",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "What did you do yesterday evening?",
+   "promptVi": "Tối qua bạn đã làm gì?",
+   "modelAnswer": "Yesterday evening I did my homework, had dinner with my family and then watched a film. I went to bed at eleven.",
+   "keywords": [
+    "yesterday",
+    "did",
+    "watched"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-031",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "What are you going to do tomorrow?",
+   "promptVi": "Ngày mai bạn định làm gì?",
+   "modelAnswer": "Tomorrow I'm going to go to school in the morning. In the afternoon, I'm going to play badminton with my cousin.",
+   "keywords": [
+    "going to",
+    "tomorrow",
+    "afternoon"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-032",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "food",
+   "prompt": "Do you often eat out? Where do you go?",
+   "promptVi": "Bạn có hay đi ăn ngoài không? Bạn đi đâu?",
+   "modelAnswer": "Not very often – maybe once a month. We usually go to a pizza restaurant near my house. It's cheap and tasty.",
+   "keywords": [
+    "often",
+    "once a month",
+    "restaurant"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-033",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "home",
+   "prompt": "What jobs do you do at home?",
+   "promptVi": "Bạn làm những việc gì ở nhà?",
+   "modelAnswer": "I wash the dishes after dinner and I tidy my room on Saturdays. Sometimes I also water the plants.",
+   "keywords": [
+    "wash",
+    "tidy",
+    "sometimes"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-034",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "health",
+   "prompt": "What do you do to stay healthy?",
+   "promptVi": "Bạn làm gì để giữ sức khỏe?",
+   "modelAnswer": "I try to eat lots of fruit and vegetables. I also go jogging three times a week and sleep about eight hours a night.",
+   "keywords": [
+    "fruit",
+    "vegetables",
+    "jogging"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-035",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "Tell me about a teacher you like.",
+   "promptVi": "Hãy kể về một thầy/cô giáo bạn quý.",
+   "modelAnswer": "I like my English teacher, Ms Hanh. She's patient and friendly, and her lessons are never boring because we play lots of games.",
+   "keywords": [
+    "teacher",
+    "like",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-036",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "travel",
+   "prompt": "Which country would you like to visit? Why?",
+   "promptVi": "Bạn muốn đến thăm nước nào? Vì sao?",
+   "modelAnswer": "I'd like to visit Japan because I love Japanese food and I want to see the cherry blossoms in spring.",
+   "keywords": [
+    "I'd like",
+    "visit",
+    "because"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-037",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What did you like doing when you were a child?",
+   "promptVi": "Hồi nhỏ bạn thích làm gì?",
+   "modelAnswer": "When I was a child, I liked flying kites with my brother. We also played hide-and-seek with the neighbours' children.",
+   "keywords": [
+    "when I was",
+    "liked",
+    "played"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-038",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What's the last film you watched?",
+   "promptVi": "Bộ phim gần nhất bạn xem là gì?",
+   "modelAnswer": "The last film I watched was an animated film about a little robot. It was funny and a bit sad. I watched it at the cinema with my friends.",
+   "keywords": [
+    "film",
+    "watched",
+    "it was"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-039",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "Where and when do you usually study?",
+   "promptVi": "Bạn thường học ở đâu và khi nào?",
+   "modelAnswer": "I usually study at my desk in my bedroom after dinner. Sometimes I study at the library with my friends at the weekend.",
+   "keywords": [
+    "study",
+    "usually",
+    "after"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-040",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "technology",
+   "prompt": "Do you play video games? Which ones?",
+   "promptVi": "Bạn có chơi trò chơi điện tử không? Trò nào?",
+   "modelAnswer": "Yes, sometimes. I play football games on my phone with my friends. But I only play for about an hour at weekends.",
+   "keywords": [
+    "play",
+    "games",
+    "weekends"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-041",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "town",
+   "prompt": "Do you prefer the city or the countryside? Why?",
+   "promptVi": "Bạn thích thành phố hay nông thôn hơn? Vì sao?",
+   "modelAnswer": "I prefer the countryside because it's quiet and the air is fresh. But the city is better for shopping and jobs.",
+   "keywords": [
+    "prefer",
+    "because",
+    "quiet"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-042",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "work",
+   "prompt": "What jobs do your parents do?",
+   "promptVi": "Bố mẹ bạn làm nghề gì?",
+   "modelAnswer": "My father is a mechanic – he repairs cars. My mother works in a bank. They both work from Monday to Saturday.",
+   "keywords": [
+    "father",
+    "mother",
+    "works"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-043",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "What are your plans for next weekend?",
+   "promptVi": "Cuối tuần tới bạn có kế hoạch gì?",
+   "modelAnswer": "Next weekend I'm going to visit the museum with my class. On Sunday, I'm going to relax at home and read.",
+   "keywords": [
+    "going to",
+    "next weekend",
+    "visit"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-044",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "animals",
+   "prompt": "What is your favourite animal? Why?",
+   "promptVi": "Con vật yêu thích của bạn là gì? Vì sao?",
+   "modelAnswer": "My favourite animal is the elephant. Elephants are big but gentle, and they are very clever.",
+   "keywords": [
+    "favourite",
+    "animal",
+    "clever"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-045",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrations",
+   "prompt": "What is your favourite festival?",
+   "promptVi": "Lễ hội yêu thích của bạn là gì?",
+   "modelAnswer": "My favourite festival is the Mid-Autumn Festival. Children carry lanterns, and we eat mooncakes and watch lion dances.",
+   "keywords": [
+    "festival",
+    "favourite",
+    "eat"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-046",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "daily life",
+   "prompt": "Are you a morning person or an evening person?",
+   "promptVi": "Bạn là người thích buổi sáng hay buổi tối?",
+   "modelAnswer": "I'm an evening person. I feel tired in the morning, but in the evening I have lots of energy for studying.",
+   "keywords": [
+    "morning",
+    "evening",
+    "person"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-047",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "celebrations",
+   "prompt": "What's the best present you've ever received?",
+   "promptVi": "Món quà tuyệt nhất bạn từng nhận là gì?",
+   "modelAnswer": "The best present I've ever received is a bike from my parents. I got it for my tenth birthday and I still ride it.",
+   "keywords": [
+    "present",
+    "got",
+    "birthday"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-048",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "school",
+   "prompt": "Where do you have lunch on weekdays?",
+   "promptVi": "Ngày thường bạn ăn trưa ở đâu?",
+   "modelAnswer": "On weekdays I have lunch at the school canteen. The food is OK – usually rice, meat and vegetables.",
+   "keywords": [
+    "lunch",
+    "canteen",
+    "usually"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-049",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "weather",
+   "prompt": "What do you like doing on rainy days?",
+   "promptVi": "Bạn thích làm gì vào những ngày mưa?",
+   "modelAnswer": "On rainy days I like staying at home, drinking hot chocolate and watching films with my sister.",
+   "keywords": [
+    "rainy",
+    "like",
+    "home"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-050",
+   "type": "speaking",
+   "task": "interview",
+   "topic": "free time",
+   "prompt": "Is there a new hobby you would like to try?",
+   "promptVi": "Có sở thích mới nào bạn muốn thử không?",
+   "modelAnswer": "I'd like to try rock climbing. It looks exciting, and it's good exercise. There's a climbing centre near my school.",
+   "keywords": [
+    "I'd like",
+    "try",
+    "exciting"
+   ],
+   "tip": {
+    "en": "Answer in 2–3 full sentences. Add a reason (because…) or an example.",
+    "vi": "Trả lời 2–3 câu hoàn chỉnh. Thêm lý do (because…) hoặc ví dụ."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-051",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "free time",
+   "prompt": "Imagine a photo: a family is having a picnic in a park. Describe what the people are doing.",
+   "promptVi": "Hãy tưởng tượng bức ảnh: một gia đình đang dã ngoại trong công viên. Tả những gì mọi người đang làm.",
+   "modelAnswer": "In the photo, a family is having a picnic in a park. The father is cutting some fruit, the mother is pouring drinks and the two children are playing with a ball. It's a sunny day.",
+   "keywords": [
+    "picnic",
+    "park",
+    "playing"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-052",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "shopping",
+   "prompt": "Imagine a photo of a busy market. Describe it.",
+   "promptVi": "Hãy tưởng tượng bức ảnh một khu chợ đông đúc. Hãy tả nó.",
+   "modelAnswer": "This is a busy market. There are lots of stalls with fruit and vegetables. A woman is buying mangoes and a man is carrying a big bag of rice. It looks very noisy.",
+   "keywords": [
+    "market",
+    "buying",
+    "there are"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-053",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "school",
+   "prompt": "Describe a classroom where students are having an English lesson.",
+   "promptVi": "Tả một lớp học đang có tiết tiếng Anh.",
+   "modelAnswer": "The students are sitting at their desks. The teacher is writing on the board. Some students are taking notes and one girl is putting up her hand to ask a question.",
+   "keywords": [
+    "teacher",
+    "students",
+    "writing"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-054",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "travel",
+   "prompt": "Describe a beach on a hot day.",
+   "promptVi": "Tả một bãi biển vào một ngày nóng.",
+   "modelAnswer": "It's a hot, sunny day at the beach. Some people are swimming in the sea and some children are building a sandcastle. An old man is sleeping under an umbrella.",
+   "keywords": [
+    "beach",
+    "swimming",
+    "sunny"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-055",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "home",
+   "prompt": "Describe a kitchen where someone is cooking dinner.",
+   "promptVi": "Tả một căn bếp nơi ai đó đang nấu bữa tối.",
+   "modelAnswer": "A man is cooking dinner in a small kitchen. He's frying some vegetables in a pan. There are tomatoes, onions and garlic on the table. A cat is watching him.",
+   "keywords": [
+    "cooking",
+    "kitchen",
+    "table"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-056",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "transport",
+   "prompt": "Describe a bus stop in the rain.",
+   "promptVi": "Tả một trạm xe buýt dưới trời mưa.",
+   "modelAnswer": "It's raining at the bus stop. Three people are waiting for the bus. A woman has a red umbrella, but a young man doesn't have one, so he's very wet.",
+   "keywords": [
+    "raining",
+    "waiting",
+    "umbrella"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-057",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "celebrations",
+   "prompt": "Describe a child's birthday party.",
+   "promptVi": "Tả một bữa tiệc sinh nhật của một bạn nhỏ.",
+   "modelAnswer": "It's a girl's birthday party. There's a big chocolate cake with ten candles. Her friends are singing 'Happy Birthday', and there are balloons everywhere.",
+   "keywords": [
+    "birthday",
+    "cake",
+    "singing"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-058",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "town",
+   "prompt": "Describe a park in the early morning.",
+   "promptVi": "Tả một công viên vào sáng sớm.",
+   "modelAnswer": "In the early morning, the park is quiet. Some old people are doing exercise, a woman is jogging with her dog and a man is reading a newspaper on a bench.",
+   "keywords": [
+    "park",
+    "morning",
+    "exercise"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-059",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "school",
+   "prompt": "Describe a library.",
+   "promptVi": "Tả một thư viện.",
+   "modelAnswer": "The library is big and quiet. There are lots of shelves with books. Some students are reading at long tables, and a librarian is helping a boy find a book.",
+   "keywords": [
+    "library",
+    "quiet",
+    "reading"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-060",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "transport",
+   "prompt": "Describe a train station at rush hour.",
+   "promptVi": "Tả một nhà ga vào giờ cao điểm.",
+   "modelAnswer": "The station is very crowded. People are hurrying to their trains. A man is buying a ticket from a machine, and a family with big suitcases is looking at the timetable.",
+   "keywords": [
+    "station",
+    "crowded",
+    "ticket"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-061",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "home",
+   "prompt": "Describe your ideal bedroom.",
+   "promptVi": "Tả phòng ngủ mơ ước của bạn.",
+   "modelAnswer": "My ideal bedroom is big and bright, with a large window and a view of the sea. There's a comfortable bed, a desk for studying and a shelf full of books.",
+   "keywords": [
+    "ideal",
+    "bedroom",
+    "there's"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-062",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "food",
+   "prompt": "Describe a café you like.",
+   "promptVi": "Tả một quán cà phê bạn thích.",
+   "modelAnswer": "There's a small café near my house. It has wooden tables and lots of plants. They play quiet music, and the coffee and cakes are really good.",
+   "keywords": [
+    "café",
+    "quiet",
+    "good"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-063",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "sport",
+   "prompt": "Describe a photo of a football match.",
+   "promptVi": "Tả một bức ảnh về trận bóng đá.",
+   "modelAnswer": "Two teams are playing football in a stadium. One player is kicking the ball towards the goal, and the goalkeeper is jumping to catch it. The fans are shouting.",
+   "keywords": [
+    "playing",
+    "ball",
+    "goal"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-064",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "shopping",
+   "prompt": "Describe a supermarket checkout.",
+   "promptVi": "Tả quầy thanh toán ở siêu thị.",
+   "modelAnswer": "A woman is paying at the checkout. The cashier is putting her shopping into bags. Behind her, there's a long queue, and a boy is holding a bottle of juice.",
+   "keywords": [
+    "paying",
+    "checkout",
+    "queue"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-065",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "animals",
+   "prompt": "Describe a farm.",
+   "promptVi": "Tả một trang trại.",
+   "modelAnswer": "The farm is in the countryside. There are cows and chickens, and a farmer is driving a tractor. Behind the farm, there are green hills.",
+   "keywords": [
+    "farm",
+    "farmer",
+    "there are"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-066",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "family",
+   "prompt": "Describe what a person in your family looks like.",
+   "promptVi": "Tả ngoại hình một người trong gia đình bạn.",
+   "modelAnswer": "My older sister is tall and slim. She has long black hair and brown eyes. She usually wears glasses, and she always smiles.",
+   "keywords": [
+    "tall",
+    "hair",
+    "eyes"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-067",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "town",
+   "prompt": "Describe the street where you live.",
+   "promptVi": "Tả con phố nơi bạn sống.",
+   "modelAnswer": "My street is quite narrow and busy. There are small shops and houses on both sides, and lots of motorbikes. In the evening, people sit outside and chat.",
+   "keywords": [
+    "street",
+    "busy",
+    "there are"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-068",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "health",
+   "prompt": "Describe a hospital waiting room.",
+   "promptVi": "Tả phòng chờ ở bệnh viện.",
+   "modelAnswer": "Some patients are sitting in the waiting room. A mother is holding a baby and an old man is reading a magazine. A nurse is calling the next name.",
+   "keywords": [
+    "waiting",
+    "patients",
+    "nurse"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-069",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "travel",
+   "prompt": "Describe people at an airport.",
+   "promptVi": "Tả mọi người ở sân bay.",
+   "modelAnswer": "At the airport, people are checking in their bags. A pilot is walking past with a small suitcase, and two children are looking at the planes through the window.",
+   "keywords": [
+    "airport",
+    "checking in",
+    "planes"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-070",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "school",
+   "prompt": "Describe a school sports day.",
+   "promptVi": "Tả ngày hội thể thao ở trường.",
+   "modelAnswer": "It's sports day. Students are running a race on the field, and their classmates are cheering. A teacher is holding a stopwatch, and there are prizes on a table.",
+   "keywords": [
+    "running",
+    "race",
+    "cheering"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-071",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "celebrations",
+   "prompt": "Describe a street during a festival at night.",
+   "promptVi": "Tả một con phố vào đêm lễ hội.",
+   "modelAnswer": "The street is full of lights and lanterns. People are walking slowly and buying snacks from street sellers. There's music, and children are carrying colourful lanterns.",
+   "keywords": [
+    "lanterns",
+    "lights",
+    "people"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-072",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "home",
+   "prompt": "Describe a messy room.",
+   "promptVi": "Tả một căn phòng bừa bộn.",
+   "modelAnswer": "The room is very messy. There are clothes on the floor, empty cups on the desk and books everywhere. The bed isn't made, and the curtains are closed.",
+   "keywords": [
+    "messy",
+    "floor",
+    "there are"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-073",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "weather",
+   "prompt": "Describe a family picnic when it suddenly starts to rain.",
+   "promptVi": "Tả buổi dã ngoại của một gia đình khi trời bỗng đổ mưa.",
+   "modelAnswer": "The family planned a picnic, but now it's raining. They are running to their car with the food. The father is holding a blanket over the children's heads.",
+   "keywords": [
+    "raining",
+    "running",
+    "picnic"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-074",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "food",
+   "prompt": "Describe a bakery.",
+   "promptVi": "Tả một tiệm bánh.",
+   "modelAnswer": "The bakery smells wonderful. There are fresh loaves of bread and cakes in the window. A baker is taking some croissants out of the oven.",
+   "keywords": [
+    "bakery",
+    "bread",
+    "cakes"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-075",
+   "type": "speaking",
+   "task": "describe",
+   "topic": "town",
+   "prompt": "Describe your favourite place in your town.",
+   "promptVi": "Tả nơi bạn yêu thích nhất ở thị trấn/thành phố của bạn.",
+   "modelAnswer": "My favourite place is the lake in the city centre. It's peaceful, especially in the evening. I like walking around it and watching the sunset.",
+   "keywords": [
+    "favourite",
+    "place",
+    "like"
+   ],
+   "tip": {
+    "en": "Use 'There is / There are' and the present continuous (is/are + -ing).",
+    "vi": "Dùng 'There is / There are' và thì hiện tại tiếp diễn (is/are + V-ing)."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-076",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "food",
+   "prompt": "You are in a café. Order a drink and something to eat.",
+   "promptVi": "Bạn đang ở quán cà phê. Hãy gọi đồ uống và món ăn.",
+   "modelAnswer": "Hello. Can I have an iced coffee with milk and a slice of chocolate cake, please? How much is that?",
+   "keywords": [
+    "can I have",
+    "please",
+    "how much"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-077",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "town",
+   "prompt": "Ask a stranger for directions to the post office.",
+   "promptVi": "Hỏi đường một người lạ đến bưu điện.",
+   "modelAnswer": "Excuse me, could you tell me the way to the post office, please? Is it far from here?",
+   "keywords": [
+    "excuse me",
+    "way",
+    "far"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-078",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friends",
+   "prompt": "Call a friend and invite them to the cinema on Saturday.",
+   "promptVi": "Gọi cho một người bạn và rủ họ đi xem phim thứ Bảy.",
+   "modelAnswer": "Hi Minh, it's An. Are you free on Saturday evening? Would you like to go to the cinema with me? The film starts at seven.",
+   "keywords": [
+    "would you like",
+    "Saturday",
+    "free"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-079",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "shopping",
+   "prompt": "You are in a clothes shop. Ask to try on a jacket in a different size.",
+   "promptVi": "Bạn ở cửa hàng quần áo. Hỏi để mặc thử áo khoác cỡ khác.",
+   "modelAnswer": "Excuse me, do you have this jacket in a medium? Can I try it on? Where are the changing rooms?",
+   "keywords": [
+    "try",
+    "medium",
+    "excuse me"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-080",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "travel",
+   "prompt": "Check in at a hotel.",
+   "promptVi": "Làm thủ tục nhận phòng khách sạn.",
+   "modelAnswer": "Good evening. I have a reservation for two nights. My name is Nguyen Van An. What time is breakfast?",
+   "keywords": [
+    "reservation",
+    "name",
+    "breakfast"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-081",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "school",
+   "prompt": "Tell your teacher you are sick and can't come to class.",
+   "promptVi": "Báo với giáo viên rằng bạn bị ốm và không thể đến lớp.",
+   "modelAnswer": "Good morning, Ms Lan. I'm sorry, but I'm sick today. I have a fever, so I can't come to class. Could you send me the homework, please?",
+   "keywords": [
+    "sorry",
+    "sick",
+    "homework"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-082",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "transport",
+   "prompt": "Buy a train ticket.",
+   "promptVi": "Mua vé tàu.",
+   "modelAnswer": "Hello, I'd like a return ticket to Hai Phong for tomorrow morning, please. What time does the first train leave?",
+   "keywords": [
+    "ticket",
+    "return",
+    "what time"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-083",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friends",
+   "prompt": "Apologise to a friend for being late.",
+   "promptVi": "Xin lỗi bạn vì đến muộn.",
+   "modelAnswer": "I'm so sorry I'm late! The traffic was terrible. Have you been waiting long? Let me buy you a drink.",
+   "keywords": [
+    "sorry",
+    "late",
+    "traffic"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-084",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "shopping",
+   "prompt": "Ask a shop assistant for help finding something.",
+   "promptVi": "Nhờ nhân viên cửa hàng giúp tìm một món đồ.",
+   "modelAnswer": "Excuse me, I'm looking for a birthday card. Where can I find them? Thank you very much.",
+   "keywords": [
+    "looking for",
+    "where",
+    "thank you"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-085",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "health",
+   "prompt": "Make a doctor's appointment by phone.",
+   "promptVi": "Gọi điện đặt lịch khám bác sĩ.",
+   "modelAnswer": "Hello, I'd like to make an appointment with Dr Hoa, please. Is Thursday afternoon possible? My name is Mai Tran.",
+   "keywords": [
+    "appointment",
+    "possible",
+    "name"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-086",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "school",
+   "prompt": "Introduce yourself to a new classmate.",
+   "promptVi": "Giới thiệu bản thân với một bạn học mới.",
+   "modelAnswer": "Hi, I'm Bao. Nice to meet you! I'm fifteen and I live near the school. I like football and music. What about you?",
+   "keywords": [
+    "nice to meet you",
+    "live",
+    "like"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-087",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "food",
+   "prompt": "Complain politely that your soup is cold.",
+   "promptVi": "Phàn nàn lịch sự rằng món súp của bạn bị nguội.",
+   "modelAnswer": "Excuse me, I'm sorry, but my soup is cold. Could you heat it up, please? Thank you.",
+   "keywords": [
+    "excuse me",
+    "cold",
+    "could you"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-088",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friends",
+   "prompt": "Ask a friend to lend you a book.",
+   "promptVi": "Hỏi mượn sách của một người bạn.",
+   "modelAnswer": "Hey Nga, can I borrow your English book until Friday? I left mine at home. I'll give it back on Friday, I promise.",
+   "keywords": [
+    "borrow",
+    "give it back",
+    "Friday"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-089",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "travel",
+   "prompt": "Plan a weekend trip with a friend.",
+   "promptVi": "Lên kế hoạch chuyến đi cuối tuần với bạn.",
+   "modelAnswer": "Why don't we go to Ha Long Bay this weekend? We can take the bus on Saturday morning and come back on Sunday. What do you think?",
+   "keywords": [
+    "why don't we",
+    "can",
+    "what do you think"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-090",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "town",
+   "prompt": "Ask about the ticket price and opening hours of a museum.",
+   "promptVi": "Hỏi giá vé và giờ mở cửa của bảo tàng.",
+   "modelAnswer": "Hello, how much is a ticket for students? And what time does the museum close today?",
+   "keywords": [
+    "how much",
+    "ticket",
+    "what time"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-091",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "food",
+   "prompt": "Order food by phone for delivery.",
+   "promptVi": "Gọi điện đặt đồ ăn giao tận nơi.",
+   "modelAnswer": "Hi, I'd like to order two chicken burgers and a large portion of fries, please. My address is 25 Le Loi Street. How long will it take?",
+   "keywords": [
+    "order",
+    "address",
+    "how long"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-092",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "home",
+   "prompt": "Ask your neighbour to water your plants while you're on holiday.",
+   "promptVi": "Nhờ hàng xóm tưới cây giúp khi bạn đi nghỉ.",
+   "modelAnswer": "Hi, Mrs Hoa. We're going on holiday next week. Could you water our plants, please? I can give you the key.",
+   "keywords": [
+    "could you",
+    "holiday",
+    "water"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-093",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "shopping",
+   "prompt": "Return a broken phone charger to a shop.",
+   "promptVi": "Mang trả một bộ sạc điện thoại bị hỏng cho cửa hàng.",
+   "modelAnswer": "Hello, I bought this charger here last week, but it doesn't work. Can I change it or get my money back? Here's the receipt.",
+   "keywords": [
+    "doesn't work",
+    "money back",
+    "receipt"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-094",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friends",
+   "prompt": "Thank a friend for a birthday present.",
+   "promptVi": "Cảm ơn bạn vì món quà sinh nhật.",
+   "modelAnswer": "Thank you so much for the scarf! It's beautiful, and blue is my favourite colour. You're so kind.",
+   "keywords": [
+    "thank you",
+    "beautiful",
+    "favourite"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-095",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "transport",
+   "prompt": "Ask someone for help at a ticket machine.",
+   "promptVi": "Nhờ người khác giúp sử dụng máy bán vé.",
+   "modelAnswer": "Excuse me, can you help me? I don't know how to use this machine. I want a ticket to the city centre.",
+   "keywords": [
+    "help",
+    "how to",
+    "ticket"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-096",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "family",
+   "prompt": "Suggest what your family can eat for dinner tonight.",
+   "promptVi": "Gợi ý món ăn tối nay cho gia đình.",
+   "modelAnswer": "How about pizza tonight? Or we could make noodles at home – it's cheaper. What would you like, Mum?",
+   "keywords": [
+    "how about",
+    "could",
+    "would you like"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-097",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "travel",
+   "prompt": "You lost your bag. Report it at the information desk.",
+   "promptVi": "Bạn bị mất túi. Hãy báo tại quầy thông tin.",
+   "modelAnswer": "Excuse me, I've lost my bag. It's a small black backpack with my wallet and phone in it. I think I left it near the café.",
+   "keywords": [
+    "lost",
+    "bag",
+    "left"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-098",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "school",
+   "prompt": "Invite a classmate to join your study group.",
+   "promptVi": "Mời một bạn cùng lớp tham gia nhóm học.",
+   "modelAnswer": "We have a study group on Wednesday after school in the library. Would you like to join us? We practise English together.",
+   "keywords": [
+    "would you like",
+    "join",
+    "Wednesday"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-099",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "school",
+   "prompt": "Ask your teacher to explain something again.",
+   "promptVi": "Nhờ giáo viên giải thích lại.",
+   "modelAnswer": "Sorry, Mr Long, I didn't understand the last exercise. Could you explain it again, please?",
+   "keywords": [
+    "sorry",
+    "understand",
+    "could you"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  },
+  {
+   "id": "a2-speaking-100",
+   "type": "speaking",
+   "task": "roleplay",
+   "topic": "friends",
+   "prompt": "Say goodbye to a friend who is moving to another city.",
+   "promptVi": "Chào tạm biệt người bạn chuyển đến thành phố khác.",
+   "modelAnswer": "I'm going to miss you so much! Let's keep in touch. Call me when you arrive, and come back to visit soon.",
+   "keywords": [
+    "miss",
+    "keep in touch",
+    "visit"
+   ],
+   "tip": {
+    "en": "Be polite: Excuse me…, Could you…?, Can I…?, please, thank you.",
+    "vi": "Lịch sự: Excuse me…, Could you…?, Can I…?, please, thank you."
+   },
+   "skill": "speaking",
+   "level": "a2"
+  }
+ ]
+}
